@@ -4355,7 +4355,7 @@ foodFormat	Text	"{0} = food adjective,
 {1} = food noun,
 {2} = food type
 Turns into for example ""Hearty Mushroom Soup"" when cooking Heart berries with mushrooms in the cooking pot. "	{0} {1} {2}	{0} {1} {2}
-fullness	Text	"For example ""Fullness 159/500"", shown on items like water can"	Fullness: {0}/{1}	Niveau d'eau : {0}/{1}
+fullness	Text	"For example ""Fullness 159/500"", shown on items like water can"	Fullness: {0}/{1}	Remplissage: {0}/{1}
 gainedItem	Text	Shown in chat when for example gaining a polished version of a ring when crafting where {0} is the name of the item	Gained {0}!	Vous avez gagné {0} !
 gainedSoul	Text		Gained soul of {0}!	A gagné l'âme de {0} !
 gameMenu	Text	Shown as title when opening the pause menu in game	Game Menu	Menu du jeu
