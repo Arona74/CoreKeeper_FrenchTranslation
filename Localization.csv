@@ -1,29 +1,29 @@
 Key	Type	Desc	English	Francais [c0]
 15bit	Text		15-bit	15-bit
-15bitDither	Text		15-bit (Dither)	15-bit (Diffusion d’erreur)
+15bitDither	Text		15-bit (Dither)	15-bit (Tramage)
 24bit	Text		24-bit	24-bit
 Achievements/CatchStarlightNautilus	Text		Legendary Fossil	Fossile légendaire
 Achievements/CherryBlossomTrees	Text		5 Centimeters Per Second	5 centimètres par seconde
 Achievements/DefeatAtlanteanWorm	Text		Thalassophobia	Thalassophobie
 Achievements/DefeatAzeos	Text		From the Skies!	Venu du Ciel!
-Achievements/DefeatGhorm	Text		Bugging Out	Mise sur écoute
-Achievements/DefeatGlurch	Text		A Slimey Encounter	Une rencontre gluante
-Achievements/DefeatHivemother	Text		Watch Your Step	ATTENTION A LA MARCHE
+Achievements/DefeatGhorm	Text		Bugging Out	Môche comme un pou!
+Achievements/DefeatGlurch	Text		A Slimey Encounter	Un peu trop collant à mon goût!
+Achievements/DefeatHivemother	Text		Watch Your Step	Surveillez vos pas!
 Achievements/DefeatIgneous	Text		Burning Through	Je m’enflame
 Achievements/DefeatIvy	Text		Toxic Personality	Personnalité toxique
 Achievements/DefeatKingSlime	Text		Slippery Shinobi	Shinobi glissant
-Achievements/DefeatMalugaz	Text		You're a Wizard	Vous êtes un sorcier
-Achievements/DefeatMorpha	Text		Slippery When Wet	Sol glissant
-Achievements/DefeatOmoroth	Text		From the Depths!	Des Profondeurs !
-Achievements/DefeatRaAkar	Text		Just Deserts	Juste Déserts
+Achievements/DefeatMalugaz	Text		You're a Wizard	Tu es un Sorcier!
+Achievements/DefeatMorpha	Text		Slippery When Wet	Attention sol glissant!
+Achievements/DefeatOmoroth	Text		From the Depths!	Venu des Profondeurs!
+Achievements/DefeatRaAkar	Text		Just Deserts	Pas piqué des hannetons!
 Achievements/Discover100CookBookRecipes	Text		Certified Chef	Cuisinier certifié
 Achievements/EquipRingOfRockAndStone	Text		Rock and Stone!	Rock and Stone!
 Achievements/FeedCattle	Text		A Good Life	Une belle vie
 Achievements/FirstPet	Text		Your Very First	Votre tout premier
-Achievements/GainOver200MovementSpeed	Text		In a Rush	Présser
+Achievements/GainOver200MovementSpeed	Text		In a Rush	Un homme pressé
 Achievements/HarvestGoldenIngredient	Text		Farmer Midas	Midas, le fermier
 Achievements/KeyArtCharacter	Text		Impersonator Syndrome	Syndrome de l'imitateur
-Achievements/MaxedOutCooking	Text		Cheese it!	Fromagez-le !
+Achievements/MaxedOutCooking	Text		Cheese it!	C'est bon!
 Achievements/MaxedOutCrafting	Text		Crafty Explorer	Explorateur astucieux
 Achievements/MaxedOutFishing	Text		Completely Hooked	Complètement Accro
 Achievements/MaxedOutGardening	Text		Nature Nurturer	Nourricier de la nature
@@ -34,22 +34,22 @@ Achievements/MaxedOutRunning	Text		Float like a butterfly...	Flotte comme un pap
 Achievements/MaxedOutVitality	Text		Health Conscious	Soucieux de leur santé
 Achievements/ObtainPhantomSpark	Text		The Phantom Spark	L'étincelle fantôme
 Achievements/ObtainRuneSong	Text		The Rune Song	La chanson runique
-Achievements/ObtainSoulSeeker	Text		The Soul Seeker	Le chercheur d'âme
+Achievements/ObtainSoulSeeker	Text		The Soul Seeker	La Chercheuse d'âme
 Achievements/ObtainTheOracleDeck	Text		The Heart of the Cards	L’âme des cartes
-Achievements/PetColors	Text		Gotta catch 'em all!	Il faut tous les attraper!
+Achievements/PetColors	Text		Gotta catch 'em all!	Attrapez-les tous!
 Achievements/PetMaxLevel	Text		Pet Prodigy	Prodige animalier
 Achievements/SitOnCavelingToiletWithACrown	Text		A Throne Fit for a King	Un trône digne d'un roi
 Achievements/StormSong	Text		A Strange Song	Une chanson étrange
-Achievements/TalkToBigLarva	Text		Gossip Group	Groupe de potins
-AchievementsLockedDescription/CatchStarlightNautilus	Text		Catch a Starlight Nautilus	Assistez à un coquillage stellaire
-AchievementsLockedDescription/DefeatAtlanteanWorm	Text		Defeat an Atlantean Worm	Vaincre un ver Atlantean
-AchievementsLockedDescription/DefeatAzeos	Text		Defeat Azeos the Sky Titan	Vaincre Azeos le titan du ciel
+Achievements/TalkToBigLarva	Text		Gossip Group	De vraies commères
+AchievementsLockedDescription/CatchStarlightNautilus	Text		Catch a Starlight Nautilus	Attraper un Coquillage stellaire
+AchievementsLockedDescription/DefeatAtlanteanWorm	Text		Defeat an Atlantean Worm	Vaincre le Ver Atlantéen
+AchievementsLockedDescription/DefeatAzeos	Text		Defeat Azeos the Sky Titan	Vaincre Azeos le Titan du ciel
 AchievementsLockedDescription/DefeatGhorm	Text		Defeat Ghorm the Devourer	Vaincre Ghorm le Dévoreur
 AchievementsLockedDescription/DefeatGlurch	Text		Defeat Glurch the Abominous Mass	Vaincre Glurch la masse abominable
 AchievementsLockedDescription/DefeatHivemother	Text		Defeat The Hive Mother	Vaincre la Ruche-Mère
 AchievementsLockedDescription/DefeatIgneous	Text		Defeat Igneous the Molten Mass	Vaincre Igneous la masse en fusion
 AchievementsLockedDescription/DefeatIvy	Text		Defeat Ivy the Poisonous Mass	Vaincre Ivy la masse empoisonnée
-AchievementsLockedDescription/DefeatKingSlime	Text		Defeat King Slime	Vaincre le roi Slime
+AchievementsLockedDescription/DefeatKingSlime	Text		Defeat King Slime	Vaincre le Roi Slime
 AchievementsLockedDescription/DefeatMalugaz	Text		Defeat Malugaz the Corrupted	Vaincre Malugaz le Corrompu
 AchievementsLockedDescription/DefeatMorpha	Text		Defeat Morpha the Aquatic Mass	Vaincre Morpha la masse aquatique
 AchievementsLockedDescription/DefeatOmoroth	Text		Defeat Omoroth the Sea Titan	Vaincre Omoroth le Titan des mers
@@ -80,25 +80,25 @@ AchievementsLockedDescription/PlantCherryTree	Text		Plant 10 Cherry Trees	Plante
 AchievementsLockedDescription/SitOnCavelingToiletWithACrown	Text		Sit on a Caveling Toilet while wearing a crown	Asseyez-vous sur une toilette Cavelin tout en portant une couronne
 AchievementsLockedDescription/StormSong	Text		Play the Tune of Tempest	Jouer l'air de la Tempête
 AchievementsLockedDescription/TalkToBigLarva	Text		Talk to a Big Larva	Parlez à une grosse larve
-AchievementsUnlockedDescription/CatchStarlightNautilus	Text		Caught a Starlight Nautilus	Attrapé un Nautilidae stellaire
-AchievementsUnlockedDescription/DefeatAtlanteanWorm	Text		Defeated an Atlantean Worm	Vaincre un ver Atlantean 
+AchievementsUnlockedDescription/CatchStarlightNautilus	Text		Caught a Starlight Nautilus	Attraper un Coquillage stellaire
+AchievementsUnlockedDescription/DefeatAtlanteanWorm	Text		Defeated an Atlantean Worm	Vaincre le Ver Atlantéen
 AchievementsUnlockedDescription/DefeatAzeos	Text		Defeated Azeos the Sky Titan	A vaincu Azeos le Titan du Ciel
 AchievementsUnlockedDescription/DefeatGhorm	Text		Defeated Ghorm the Devourer	Vous avez vaincu Ghorm le Dévoreur
 AchievementsUnlockedDescription/DefeatGlurch	Text		Defeated Glurch the Abominous Mass	Vous avez vaincu Glurch la masse abominable
 AchievementsUnlockedDescription/DefeatHivemother	Text		Defeated The Hive Mother	Vous avez vaincu la Ruche-Mère
 AchievementsUnlockedDescription/DefeatIgneous	Text		Defeated Igneous the Molten Mass	Vous avez vaincu Igneous la Masse en fusion
 AchievementsUnlockedDescription/DefeatIvy	Text		Defeated Ivy the Poisonous Mass	Vous avez vaincu Ivy la masse empoisonnée
-AchievementsUnlockedDescription/DefeatKingSlime	Text		Defeated King Slime	Roi Slime vaincu
+AchievementsUnlockedDescription/DefeatKingSlime	Text		Defeated King Slime	Vous avez vaincu le Roi Slime
 AchievementsUnlockedDescription/DefeatMalugaz	Text		Defeated Malugaz the Corrupted	Vous avez vaincu Malugaz le Corrompu
 AchievementsUnlockedDescription/DefeatMorpha	Text		Defeated Morpha the Aquatic Mass	Vous avez vaincu Morpha la masse aquatique
 AchievementsUnlockedDescription/DefeatOmoroth	Text		Defeated Omoroth the Sea Titan	Vous avez vaincu Omoroth le Titan des mers
 AchievementsUnlockedDescription/DefeatRaAkar	Text		Defeated Ra-Akar the Sand Titan	Vous avez vaincu Ra-Akar le Titan des sables
 AchievementsUnlockedDescription/Discover100CookBookRecipes	Text		Discovered 100 recipes in the cook book	Découverte de 100 recettes dans le livre de cuisine
-AchievementsUnlockedDescription/EquipRingOfRockAndStone	Text		Equipped the Ring of Rock and Ring of Stone	Équipé de l'anneau de roche et de l'anneau de pierre
+AchievementsUnlockedDescription/EquipRingOfRockAndStone	Text		Equipped the Ring of Rock and Ring of Stone	Vous équiper de l'anneau de roche et de l'anneau de pierre
 AchievementsUnlockedDescription/FeedCattle	Text		Fed cattle	Bétail nourri
 AchievementsUnlockedDescription/FirstPet	Text		Hatched your first pet from an egg	Éclosion de votre premier animal de compagnie à partir d'un œuf
-AchievementsUnlockedDescription/GainOver200MovementSpeed	Text		Gained over 200% movement speed	A gagné plus de 200 % de vitesse de déplacement
-AchievementsUnlockedDescription/HarvestGoldenIngredient	Text		Harvested a golden plant	Récolté une plante dorée
+AchievementsUnlockedDescription/GainOver200MovementSpeed	Text		Gained over 200% movement speed	Avoir plus de 200 % de vitesse de déplacement
+AchievementsUnlockedDescription/HarvestGoldenIngredient	Text		Harvested a golden plant	Récolter une plante dorée
 AchievementsUnlockedDescription/KeyArtCharacter	Text		Dressed like a character from the official illustrations	Habillé comme un personnage des illustrations officielles
 AchievementsUnlockedDescription/MaxedOutCooking	Text		Gained 100 skill points in cooking	A gagné 100 points de compétence en cuisine
 AchievementsUnlockedDescription/MaxedOutCrafting	Text		Gained 100 skill points in crafting	A gagné 100 points de compétence en artisanat
@@ -900,9 +900,9 @@ FoodAdjectives/SolidSpikebackMale	Text		Solid	Solide
 FoodAdjectives/SpiritVeil	Text		Spiritual	Spirituel
 FoodAdjectives/SpiritVeilFemale	Text		Spiritual	Spirituel
 FoodAdjectives/SpiritVeilMale	Text		Spiritual	Spirituel
-FoodAdjectives/StarlightNautilus	Text		Sparkling	Pétillant
-FoodAdjectives/StarlightNautilusFemale	Text		Sparkling	Pétillant
-FoodAdjectives/StarlightNautilusMale	Text		Sparkling	Pétillant
+FoodAdjectives/StarlightNautilus	Text		Sparkling	Étincellant
+FoodAdjectives/StarlightNautilusFemale	Text		Sparkling	Étincellant
+FoodAdjectives/StarlightNautilusMale	Text		Sparkling	Étincellant
 FoodAdjectives/Sunrice	Text		Radiant	Radieux
 FoodAdjectives/SunriceFemale	Text		Radiant	Radieux
 FoodAdjectives/SunriceMale	Text		Radiant	Radieux
@@ -986,7 +986,7 @@ FoodNouns/SandySpikeback	Text		Spike	Pic
 FoodNouns/SilverTorrentDart	Text		Dart	Dard
 FoodNouns/SolidSpikeback	Text		Spike	Pic
 FoodNouns/SpiritVeil	Text		Veil	Voile
-FoodNouns/StarlightNautilus	Text		Starlight	Étoiles
+FoodNouns/StarlightNautilus	Text		Starlight	Stellaire
 FoodNouns/Sunrice	Text		Sun	Soleil
 FoodNouns/SunriceRare	Text		Goldsun	Soleil d'or
 FoodNouns/TealPalaceFish	Text		Palace	Palais
@@ -3472,10 +3472,10 @@ Items/Sprinkler	Text		Sprinkler	Arroseur
 Items/SprinklerDesc	Text		A useful gadget that waters tilled ground in a small radius.	Un gadget utile qui arrose le sol labouré dans un petit rayon.
 Items/Stalagmite	Text		Stalagmite	Stalagmite
 Items/StalagmiteDesc	Text		A stone pillar grown over thousands of years through dripping water.	Un pilier de pierre qui a poussé pendant des milliers d'années grâce à l'eau qui s'égoutte.
-Items/StarlightNautilus	Text		Starlight Nautilus	Nautilus stellaire
-Items/StarlightNautilusDesc	Text		A mysterious living fossil that seems to have fused with precious metals and gemstones to ascend to a higher state of being.	Un mystérieux fossile vivant qui semble avoir fusionné avec des métaux précieux et des pierres précieuses pour s'élever vers un état d'être supérieur.
-Items/StarlightShards	Text		Starlight Shards	Éclats de lumière stellaire
-Items/StarlightShardsDesc	Text		A collection of sparkling colorful crystals. If they grew natural or not remains a mystery.	Une collection de cristaux colorés étincelants. S'ils sont devenus naturels ou non, cela reste un mystère.
+Items/StarlightNautilus	Text		Starlight Nautilus	Coquillage stellaire
+Items/StarlightNautilusDesc	Text		A mysterious living fossil that seems to have fused with precious metals and gemstones to ascend to a higher state of being.	Un mystérieux fossile vivant qui semble avoir fusionné avec des pierres et métaux précieux pour s'élever vers un état supérieur d'existence.
+Items/StarlightShards	Text		Starlight Shards	Éclats stellaires
+Items/StarlightShardsDesc	Text		A collection of sparkling colorful crystals. If they grew natural or not remains a mystery.	Une collection de cristaux colorés étincelants. Sont-ils naturels? Cela reste un mystère.
 Items/StoneBridge	Text		Stone Bridge	Pont de pierre
 Items/StoneBridgeDesc	Text		Used to cross chasms and water but also makes for a nice floor.	Utilisé pour traverser les gouffres et l'eau mais fait aussi un beau sol.
 Items/StoneCap	Text		Stone Cap	Champignons de pierre
