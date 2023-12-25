@@ -230,7 +230,7 @@ Conditions/ApplySlipperyMovementWhenHit	Text		Melee attackers become slippery wh
 Conditions/ApplySlowedBySlime	Text		Slows down targets movement speed by {0}% for 4 sec	Ralentit la vitesse de déplacement des cibles de {0}% pendant 4 s
 Conditions/ApplySnare	Text		Ensnare	Enserrer
 Conditions/ArmorIncrease	Text	"Text shown on gear stat or buff, for example ""+45 armor"" where {0} is replaced with the number"	{0} armor	{0} armure
-Conditions/ArmorIncreaseFromMovementSpeed	Text		{0}% armor of current movement speed increase	Augmentation de {0}% de l'armure de par raport a la vitesse de déplacement actuelle
+Conditions/ArmorIncreaseFromMovementSpeed	Text		{0}% armor of current movement speed increase	Augmentation de {0}% de l'armure par rapport a la vitesse de déplacement actuelle
 Conditions/ArmorPercentageIncrease	Text		{0}% armor	{0}% d'armure
 Conditions/AttackSpeed	Text		{0}% melee and range attack speed	{0}% de vitesse d'attaque en mêlée et à distance
 Conditions/AuraApplyBurning	Text		All nearby enemies burn for {0} damage every other sec	Tous les ennemis proches brûlent et infligent {0} points de dégâts toutes les 2 secondes
@@ -287,7 +287,7 @@ Conditions/DealAoeFireDamageOnBlock	Text		Deals {0} damage to all nearby enemies
 Conditions/DiggingIncrease	Text		{0} digging damage	{0} dégâts de creusement
 Conditions/DodgeChance	Text		{0}% dodge chance	{0}% de chances d'esquiver
 Conditions/DodgeIncreaseFromStandingStill	Text		{0} % dodge chance from standing still	{0}% de chances d'esquiver en restant immobile
-Conditions/DrainLessHunger	Text		{0}% less food drained when running	{0}% de nourriture ne descend pas lorsque vous courez
+Conditions/DrainLessHunger	Text		{0}% less food drained when running	{0}% de nourriture consommée en moins lorsque vous courez
 Conditions/EquipmentDurabilityLastsLonger	Text		{0}% chance to not lose durability on equipment when taking damage	{0}% de chances de ne pas perdre la durabilité de l'équipement lorsqu'il subit des dégâts
 Conditions/ExtraHarvestChance	Text		{0}% extra harvest chance	{0}% de chances de récolte supplémentaires
 Conditions/FishBitesFaster	Text		Fish bites {0}% faster	Le poisson mord {0}% plus rapidement
@@ -298,13 +298,13 @@ Conditions/GainAttackSpeedFromMissingHealth	Text		Attack speed is increased by 0
 Conditions/GainCriticalHitChanceFromStandingStill	Text		{0}% critical hit chance after standing still for a short duration	{0}% de chances de coup critique après être resté immobile pendant une courte durée
 Conditions/GainDamageIncreaseAfterMining	Text		{0}% damage for a short duration after mining a wall	{0}% de dégâts pendant une courte durée après avoir miné un mur
 Conditions/GainDamageIncreaseAtLowHealth	Text		{0}% damage while at low health	{0}% de dégâts en cas de santé faible
-Conditions/GainDamageIncreaseAtMaxHealth	Text		{0}% damage while at max health	{0}% de dégâts avec la santé maximale
+Conditions/GainDamageIncreaseAtMaxHealth	Text		{0}% damage while at max health	{0}% de dégâts quand la santé est au maximum
 Conditions/GainDamageIncreaseFromRunning	Text		{0}% damage after consistently running for a short duration	{0}% de dégâts après une course constante pendant une courte durée
 Conditions/GainDodgeIncreaseWhileStandingStill	Text		{0}% dodge chance after standing still for a short duration	{0}% de chances d'esquiver après être resté immobile pendant une courte durée
 Conditions/GainExtraIndustryItems	Text		{0} extra items gained when crafting rails, wires or conveyor belts.	{0} objets supplémentaires gagnés lors de la fabrication de rails, de câbles ou de tapis roulants.
 Conditions/GainHealthRegenWhileBelowHalfHealth	Text		Gain {0} health every sec while below half max health	Gagnez {0} points de vie toutes les secondes tant que vous avez moins de la moitié de vos points de vie maximum
 Conditions/GainIncreasedBossDamageFromEatingFish	Text		{0}% damage against bosses after eating fish or cooked food made out of fish	{0}% de dégâts contre les boss après avoir mangé du poisson ou des plats cuisinés à base de poisson
-Conditions/GainIncreasedMaxHealthFromAllSkillPoints	Text		{0}% of all skill points added to max health	{0}% de tous les points de compétence ajoutés à la santé maximale
+Conditions/GainIncreasedMaxHealthFromAllSkillPoints	Text		{0}% of all skill points added to max health	{0}% de tous vos points de compétence sont ajoutés à la santé maximale
 Conditions/GainIncreasedMaxHealthFromPet	Text		{0}% health when a pet is equipped	{0}% de santé lorsqu'un familier est équipé
 Conditions/GainMeleeAttackSpeedFromCookedFood	Text		{0}% melee attack speed when eating cooked food	{0}% de vitesse d'attaque en mêlée lorsque vous mangez des aliments cuits
 Conditions/GainMeleeDamageFromHitting	Text		Gain 2% melee damage every time an enemy is hit, stacks up to {0} times	Gagnez 2 % de dégâts de mêlée à chaque fois qu'un ennemi est touché, cumulable jusqu'à {0} fois
@@ -317,7 +317,7 @@ Conditions/GainRangeDamageIncreaseFromStandingStill	Text		{0}% range damage afte
 Conditions/GodMode	Text		You are in god mode	Vous êtes en mode dieu
 Conditions/HealOverTime	Text	"For example ""+5 health every second"""	{0} health every sec	{0} points de vie toutes les secondes
 Conditions/HealOverTimePercentage	Text	"For example ""+5% health every second"""	{0}% health every sec	{0}% de santé toutes les secondes
-Conditions/HealingPotionAddHealOverTime	Text		Healing potions also heal for {0}% of health gained from the potion over time	Les potions de soin soignent également {0}% des points de vie gagnés grâce à la potion au fil du temps
+Conditions/HealingPotionAddHealOverTime	Text		Healing potions also heal for {0}% of health gained from the potion over time	Les potions de soin soignent également {0}% des points de vie gagnés au fil du temps
 Conditions/HealthAddition	Text	{0} will be replaced by +10 for example so it says +10 health which can appear on an item description	{0} health	{0} santé
 Conditions/HealthAdditionPercentage	Text		{0}% health	{0}% de santé
 Conditions/HealthReduction	Text		{0} health	{0} santé
@@ -345,7 +345,7 @@ Conditions/IncreasedDamageTakenPercentage	Text		{0}% damage taken	{0}% des domma
 Conditions/IncreasedDashDuration	Text		{0}% longer dash duration	{0}% de durée d'esquive
 Conditions/IncreasedExplosivesDamage	Text		{0}% explosives damage	{0}% de dégâts d'explosifs
 Conditions/IncreasedFishing	Text		{0} fishing	{0} pêche
-Conditions/IncreasedHealthRegenEffectiveness	Text		{0}% more healing from health over time regeneration	{0}% de soins en plus grâce à la régénération de la santé au fil du temps
+Conditions/IncreasedHealthRegenEffectiveness	Text		{0}% more healing from health over time regeneration	{0}% de soins supplémentaires par la régénération
 Conditions/IncreasedMaxHealth	Text		{0} max health	{0} santé maximale
 Conditions/IncreasedMaxHealthPermanent	Text		{0} max health	{0} santé maximale
 Conditions/IncreasedPickUpRadius	Text		{0}% pickup radius	{0}% de rayon de récupération
@@ -401,7 +401,7 @@ Conditions/Suffocating	Text		Suffocating	Suffocant
 Conditions/ThornsDamage	Text		{0} thorns damage	{0} dégâts d'épines
 Conditions/ThornsDamageAddedToMeleeAndRange	Text		Your thorns damage is added to your melee and range damage	Vos dégâts d'épines sont ajoutés à vos dégâts de mêlée et à distance
 Conditions/ToolDurabilityLastsLonger	Text		{0}% chance to not lose durability when using tools and weapons	{0}% de chances de ne pas perdre de durabilité lors de l'utilisation d'outils et d'armes
-Conditions/VisibleOreDistanceIncrease	Text		{0} tiles visible ore distance	{0} tuiles de distance des minerais visible
+Conditions/VisibleOreDistanceIncrease	Text		{0} tiles visible ore distance	Augmentation de la distance de visibilité des minerais de {0} cases
 Conditions/WellFedBuffsThresholdReduction	Text		Well fed buffs are gained at {0}% lower food	Les buffs bien nourris sont gagnés avec {0}% de nourriture en moins
 Conditions/WellFedDamageIncrease	Text		{0}% increased damage from being well fed	{0}% d'Augmentation des dégâts due au fait d'être bien nourri
 Conditions/WellFedHealthIncrease	Text		{0}% increased max health from being well fed	{0}% d'augmentation de la santé maximale due au fait d'être bien nourri
@@ -4116,14 +4116,14 @@ SkillTalents/ArmorIncreaseFromMovementSpeed	Text		Breaking barriers	Faire tomber
 SkillTalents/ChanceForExtraOre	Text		Meticulous miner	Mineur méticuleux
 SkillTalents/ChanceForRandomLootFromWall	Text		Archeologist	Archéologue
 SkillTalents/ChanceOnMeleeHitToIncreaseRangeDamage	Text		Taking a step back	Prendre du recul
-SkillTalents/ChanceOnRangeHitToIncreaseMeleeDamage	Text		Charging in	Chargement en
+SkillTalents/ChanceOnRangeHitToIncreaseMeleeDamage	Text		Charging in	Chargez!
 SkillTalents/ChanceToApplyPoison	Text		Poison coated weapons	Armes empoisonnées
 SkillTalents/ChanceToApplySlimeOnRangeHit	Text		Slimy bullets	Balles visqueuses
 SkillTalents/ChanceToGainHigherRarityCookedFood	Text		Master chef	Chef cuisinier
 SkillTalents/ChanceToGainHigherRarityPlants	Text		Expert gardener	Jardinier expert
 SkillTalents/ChanceToNotDieOnLethalHit	Text		Cheat death	Tromper la mort
 SkillTalents/ChanceToRestoreHealthOnMeleeHit	Text		Seething blade	Lame bouillonnante
-SkillTalents/ChanceToStunOnRangeHit	Text		Stun shot	coup paralysant
+SkillTalents/ChanceToStunOnRangeHit	Text		Stun shot	Coup étourdissant
 SkillTalents/CostReductionAtAnvil	Text		Blacksmith	Forgeron
 SkillTalents/CriticalDamageMultiplier	Text		Amplified precision	Précision amplifiée
 SkillTalents/CriticalHitMultiplier	Text		Thorny weapons	Armes épineuses
@@ -4154,18 +4154,18 @@ SkillTalents/ImprovedWaterCan	Text		Bottomless water can	Bidon d'eau sans fond
 SkillTalents/IncreaseAttackSpeedFromCookedFood	Text		Fast food	Fast food
 SkillTalents/IncreaseAttackSpeedOnNextThreeAttacksChance	Text		Fast and furious	Rapide et furieux
 SkillTalents/IncreaseDamageForAllNearbyAllies	Text		The smell of food	L'odeur de la nourriture
-SkillTalents/IncreaseDamageWhenEatingFish	Text		Power of Omega-3!	Pouvoir des Oméga-3 !
+SkillTalents/IncreaseDamageWhenEatingFish	Text		Power of Omega-3!	Pouvoir des Oméga-3!
 SkillTalents/IncreasedArmorAtLowHealth	Text		Unbreakable	Incassable
 SkillTalents/KnockbackChance	Text		Heavy swings	Balançoires lourdes
-SkillTalents/MaxHealthIncreaseFromAllSkillPoints	Text		Maxed out!	Au maximum !
+SkillTalents/MaxHealthIncreaseFromAllSkillPoints	Text		Maxed out!	Au maximum!
 SkillTalents/MeleeAttackSpeed	Text		Quick strikes	Frappes rapides
 SkillTalents/MeleeDamageIncreaseOnHittingSameTarget	Text		Stubborn fighter	Combattant têtu
 SkillTalents/MiningDamageAsMeleeDamage	Text		Miner's strength	La force du mineur
 SkillTalents/MiningDamagePercentage	Text		Efficient excavation	Excavation efficace
 SkillTalents/MiningSpeedIncrease	Text		Mine, mine, mine!	Mine, mine, mine!
-SkillTalents/MovementIncreaseAfterConsistentRunning	Text		Gotta go fast!	Dois aller vite!
+SkillTalents/MovementIncreaseAfterConsistentRunning	Text		Gotta go fast!	Pas le temps!
 SkillTalents/MovementIncreaseAfterDodge	Text		On your toes	Sur tes orteils
-SkillTalents/MovementIncreaseAfterMining	Text		Pick and run!	Ramassez et courez!
+SkillTalents/MovementIncreaseAfterMining	Text		Pick and run!	Ramasses et coures!
 SkillTalents/NearbyAlliesGainHealingFromCookedFood	Text		Sharing is caring	Partager c'est aimer
 SkillTalents/NearbyEnemiesSlowedDown	Text		Encumbering presence	Présence encombrante
 SkillTalents/PolishedItemChanceAtJewelryTable	Text		Jewelry crafter	Artisan de bijoux
@@ -4178,7 +4178,7 @@ SkillTalents/SnareTimeReduction	Text		Escape artist	Artiste de l'évasion
 SkillTalents/StackingDamageWhileRunning	Text		Keeping tempo	Garder le rythme
 SkillTalents/StackingMeleeDamage	Text		Building anger	Construire la colère
 SkillTalents/StackingRangeDamage	Text		Keeping momentum	Garder l'élan
-SkillTalents/StandingStillIncreaseRangeDamage	Text		Focused accuracy	Précision ciblée
+SkillTalents/StandingStillIncreaseRangeDamage	Text		Focused accuracy	Concentration extrême
 SkillTalents/StrongerWellFedBuffs	Text		Healthy diet	Régime équilibré
 SkillTalents/ThornsDamageIncrease	Text		Thorny skin	Peau épineuse
 SkillTalents/ToolDurabilityLastsLonger	Text		The right tools in the right hands	Les bons outils entre de bonnes mains
@@ -4453,16 +4453,16 @@ pantsSlot	Text		Pants slot	Emplacement de jambières
 parry	Text		parry	parer
 pauseWorldOptionDesc	Text		Pausing the world will stop creatures and objects from moving or doing any actions. Water spreading is also paused. This can only be toggled by admins.	La mise en pause du monde empêche les créatures et les objets de se déplacer ou d'effectuer des actions. L'épandage d'eau est également mis en pause. Cette fonction ne peut être activée que par les administrateurs.
 paused	Text		Game Paused	Jeu en pause
-permanentWhenEaten	Text	Shown above list of buffs gained from eating food	Permanent when eaten:	Permanente lorsqu'elle est consommée :
+permanentWhenEaten	Text	Shown above list of buffs gained from eating food	Permanent when eaten:	Permanente lorsqu'elle est consommée:
 petCandy	Text		Use: Feed this to your pet to boost its experience by {0}.	Utiliser : Nourrissez votre familier pour augmenter son expérience de {0}.
 petEgg	Text		Hatchable	À faire éclore
 petInfo	Text		Pet info	Informations sur familier
 petLeveledUp	Text		Pet reached level {0}!	Le familier a atteint le niveau {0} !
 petSlot	Text		Pet slot	Emplacement pour familier
 pickUpHalf	Text		"Pick up half:
-{0}"	Ramassez la moitié: {0}
+{0}"	Prendre la moitié: {0}
 pickUpOne	Text		"Pick up one:
-{0}"	Choisissez-en un: {0}
+{0}"	En prendre un: {0}
 piercingProjectiles	Text	Shown as description on weapons that shoots piercing projectiles	Projectiles pierces through enemies	Les projectiles transpercent les ennemis
 points	Text		Points: {0}	Points : {0}
 press	Text		Press	Appuyez
