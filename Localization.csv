@@ -1050,7 +1050,7 @@ ItemCategory/Equipment_MeleeWeapon	Text		Melee weapon	Armes de mêlée
 ItemCategory/Equipment_Necklace	Text		Necklace	Collier
 ItemCategory/Equipment_Offhand	Text		Offhand	Main secondaire
 ItemCategory/Equipment_PaintBrush	Text		Paint brush	Pinceau
-ItemCategory/Equipment_PantsArmor	Text		Pants armor	Armure du pantalon
+ItemCategory/Equipment_PantsArmor	Text		Pants armor	Jambières
 ItemCategory/Equipment_RangeWeapon	Text		Range weapon	Armes à distance
 ItemCategory/Equipment_Ring	Text		Ring	Anneaux
 ItemCategory/Equipment_Tool	Text		Tool	Outils
@@ -1134,8 +1134,8 @@ Items/AlienTechDestructible	Text		Alien Tech Crate	Caisse technologie Alien
 Items/AlienTechDestructibleDesc	Text		A breakable box that is not from this world. It contains extraterrestrial goods.	Une boîte cassable qui n'est pas de ce monde. Elle contient des produits extraterrestres.
 Items/AlienTechHelm	Text		Cosmos Visor Helm	Casque à visière cosmique
 Items/AlienTechHelmDesc	Text		A futuristic helm sealed under a big glass dome, leaving the view open to marvel at the miracles of space.	Une barre futuriste scellée sous un grand dôme de verre, laissant la vue ouverte pour s'émerveiller des miracles de l'espace.
-Items/AlienTechPantsArmor	Text		Cosmos Legwear	Pantalon Cosmique
-Items/AlienTechPantsArmorDesc	Text		Heavy pants that are less suited for quick movements and more for safely treating on foreign planets.	Des pantalons lourds qui sont moins adaptés aux mouvements rapides qu'au traitement en toute sécurité sur des planètes étrangères.
+Items/AlienTechPantsArmor	Text		Cosmos Legwear	Jambières cosmiques
+Items/AlienTechPantsArmorDesc	Text		Heavy pants that are less suited for quick movements and more for safely treating on foreign planets.	Des Jambières lourdes plus adaptées à parcourir des planètes étrangères qu'aux mouvements rapides.
 Items/AlienTechSpire	Text		Dysfunctional Coil	Bobine dysfonctionnelle
 Items/AlienTechSpireDesc	Text		A piece of alien technology that seems to have burned out.	Un morceau de technologie alien qui semble avoir brûlé.
 Items/AmberChunk	Text		Amber Chunk	Morceau d'ambre
@@ -1171,8 +1171,8 @@ Items/AncientGemstone	Text		Ancient Gemstone	Pierre précieuse ancienne
 Items/AncientGemstoneBreastArmor	Text		Gemstone Garment	Vêtement en pierre précieuse
 Items/AncientGemstoneBreastArmorDesc	Text		This noble robe covers the body in a cascading, silk-like fabric. The woven in ancient gemstone enhance spiritual capabilities.	Cette noble robe couvre le corps d'un tissu en cascade, semblable à de la soie. Les pierres précieuses anciennes qui y sont tissées renforcent les capacités spirituelles.
 Items/AncientGemstoneDesc	Text		Strange, blue gemstone emitting waves of energy.	Étrange pierre précieuse bleue émettant des vagues d'énergie.
-Items/AncientGemstonePantsArmor	Text		Gemstone Harem Pants	Pantalon Harem en pierres précieuses
-Items/AncientGemstonePantsArmorDesc	Text		A set of pants that feels very comfortable to wear. Rooting you in the here and now, you can feel your mental focus increasing.	Un pantalon très agréable à porter. En vous enracinant dans l'ici et le maintenant, vous pouvez sentir que votre concentration mentale augmente.
+Items/AncientGemstonePantsArmor	Text		Gemstone Harem Pants	Sarouel en pierres précieuses
+Items/AncientGemstonePantsArmorDesc	Text		A set of pants that feels very comfortable to wear. Rooting you in the here and now, you can feel your mental focus increasing.	Un pantalon très agréable à porter. Vous ancre dans la réalité, vous sentez votre concentration mentale augmentée.
 Items/AncientGoldenCoin	Text		Ancient Golden Coin	Ancienne pièce d'or
 Items/AncientGoldenCoinDesc	Text		This coin cast in gold seems to be a much older currency than the common ancient coins. It's also worth a whole lot more.	Cette pièce coulée en or semble être une monnaie beaucoup plus ancienne que les pièces de monnaie anciennes courantes. Cela vaut aussi beaucoup plus.
 Items/AncientGolem	Text		Core Sentry	Sentinelle centrale
@@ -1205,8 +1205,8 @@ Items/AntiqueBoardGame	Text		Antique Board Game	Jeu de société antique
 Items/AntiqueBoardGameDesc	Text		An ancient game for two players, there is no rulebook but apparently it was about shifting blocks around.	Un ancien jeu pour deux joueurs, il n'y a pas de livre de règles mais apparemment il s'agissait de déplacer des blocs.
 Items/ArcheologyHelm	Text		Explorer's Hat	Chapeau d'explorateur
 Items/ArcheologyHelmDesc	Text		A hat that's made to go adventuring. Never falls off, even when a giant boulder is chasing behind.	Un chapeau fait pour partir à l'aventure. Ne tombe jamais, même lorsqu'un rocher géant poursuit derrière.
-Items/ArcheologyPants	Text		Explorer's Pants	Pantalon d'explorateur
-Items/ArcheologyPantsDesc	Text		A good pair of pants that is made for traveling long distances and sneaking past ancient traps.	Un bon pantalon conçu pour parcourir de longues distances et se faufiler devant d'anciens pièges.
+Items/ArcheologyPants	Text		Explorer's Pants	Jambières d'explorateur
+Items/ArcheologyPantsDesc	Text		A good pair of pants that is made for traveling long distances and sneaking past ancient traps.	Une bonne paire de jambières conçue pour parcourir de longues distances et se faufiler au devant d'anciens pièges.
 Items/ArcheologyShirt	Text		Explorer's Jacket	Veste d'explorateur
 Items/ArcheologyShirtDesc	Text		A leather jacket that's almost too warm to wear on adventures, but it looks cool!	Une veste en cuir presque trop chaude pour être portée à l'aventure, mais elle a l'air cool !
 Items/AssassinBreastArmor	Text		Assassin Cloak	Cape d'assassin
@@ -1215,21 +1215,21 @@ Items/AssassinHelm	Text		Assassin Hood	Capuche d'assassin
 Items/AssassinHelmDesc	Text		A mysterious hood for true desert dwellers that keeps the face in shade.	Une capuche mystérieuse pour les vrais habitants du désert qui garde le visage à l'ombre.
 Items/AstralJelly	Text		Astral Jelly	Gelée astrale
 Items/AstralJellyDesc	Text		Extremely rare type of jellyfish. It almost feels like out of this world.	Type de méduse extrêmement rare. On a l'impression d'être hors du monde.
-Items/AtlantianWormChest	Text		Atlantean Worm Chest	Coffre de ver Atlantean
+Items/AtlantianWormChest	Text		Atlantean Worm Chest	Coffre de Ver Atlantéen
 Items/AtlantianWormChestDesc	Text		A large chest resembling the slithering giant in the Sunken Sea. Once having been part of this monstrosity allows it to float on the surface of water.	Un grand coffre ressemblant au géant rampant de la Mer engloutie. Le fait d'avoir fait partie de cette monstruosité lui permet de flotter à la surface de l'eau.
-Items/AtlantianWormHeart	Text		Atlantean Worm Heart	Cœur de ver Atlantean 
-Items/AtlantianWormHeartDesc	Text		This is but one of the many hundred hearts of the Atlantean Worm that give it the strength to hurl its gigantic body through the water. Therefore it brims with vitality that you can now call your own.	Ce n'est qu'un des centaines de cœurs du ver Atlantean qui lui donnent la force de projeter son corps gigantesque dans l'eau. Il déborde donc d'une vitalité que vous pouvez désormais vous approprier.
-Items/AtlantianWormHelm	Text		Atlantean Worm Helmet	Casque du ver Atlantean 
-Items/AtlantianWormHelmDesc	Text		A fierce looking helm that resembles the head of the Atlantean Worm. How it came to be is a mystery.	Un casque d'apparence féroce qui ressemble à la tête du ver Atlantean. L'origine de ce casque est un mystère.
-Items/AtlantianWormNecklace	Text		Atlantean Worm Necklace	Collier du ver Atlantean 
-Items/AtlantianWormNecklaceDesc	Text		This organic necklace looks like a miniature version of the Atlantean Worm. Maybe it is a juvenile that would grow to become as large as its origin.	Ce collier organique ressemble à une version miniature du ver Atlantean. Il s'agit peut-être d'un juvénile qui grandirait pour devenir aussi grand que son origine.
-Items/AtlantianWormRing	Text		Atlantean Worm Ring	Anneau du ver Atlantean 
-Items/AtlantianWormRingDesc	Text		An organic ring that looks like one of the segments of the Atlantean Worm. It must have grown inside its body as an anomaly.	Un anneau organique qui ressemble à l'un des segments du ver Atlantean. Il a dû se développer à l'intérieur de son corps comme une anomalie.
-Items/AtlantianWormSword	Text		Atlantean Worm Sword	Épée du ver Atlantean
-Items/AtlantianWormSwordDesc	Text		A dislodged, razorsharp mandible of the Atlantean Worm. The maker of the deep sea.	Une mandibule délogée et tranchante du ver Atlantean. Le créateur des profondeurs marines.
-Items/AtlantianWormTrophy	Text		Atlantean Worm Figurine	Figurine du ver Atlantean 
-Items/AtlantianWormTrophyDesc	Text		A lifelike representation of the Atlantean Worm.	Une représentation réaliste du ver Atlantean.
-Items/AutomationTable	Text		Automation Table	Tableau d'automatisation
+Items/AtlantianWormHeart	Text		Atlantean Worm Heart	Cœur de Ver Atlantéen 
+Items/AtlantianWormHeartDesc	Text		This is but one of the many hundred hearts of the Atlantean Worm that give it the strength to hurl its gigantic body through the water. Therefore it brims with vitality that you can now call your own.	Ce n'est qu'un des centaines de cœurs du Ver Atlantéen qui lui donnent la force de projeter son corps gigantesque dans l'eau. Il déborde donc d'une vitalité que vous pouvez désormais vous approprier.
+Items/AtlantianWormHelm	Text		Atlantean Worm Helmet	Casque du Ver Atlantéen 
+Items/AtlantianWormHelmDesc	Text		A fierce looking helm that resembles the head of the Atlantean Worm. How it came to be is a mystery.	Un casque d'apparence féroce qui ressemble à la tête du Ver Atlantéen. L'origine de ce casque est un mystère.
+Items/AtlantianWormNecklace	Text		Atlantean Worm Necklace	Collier du Ver Atlantéen 
+Items/AtlantianWormNecklaceDesc	Text		This organic necklace looks like a miniature version of the Atlantean Worm. Maybe it is a juvenile that would grow to become as large as its origin.	Ce collier organique ressemble à une version miniature du Ver Atlantéen. Il s'agit peut-être d'un juvénile qui grandirait pour devenir aussi grand que son origine.
+Items/AtlantianWormRing	Text		Atlantean Worm Ring	Anneau du Ver Atlantéen 
+Items/AtlantianWormRingDesc	Text		An organic ring that looks like one of the segments of the Atlantean Worm. It must have grown inside its body as an anomaly.	Un anneau organique qui ressemble à l'un des segments du Ver Atlantéen. Il a dû se développer à l'intérieur de son corps comme une anomalie.
+Items/AtlantianWormSword	Text		Atlantean Worm Sword	Épée du Ver Atlantéen
+Items/AtlantianWormSwordDesc	Text		A dislodged, razorsharp mandible of the Atlantean Worm. The maker of the deep sea.	Une mandibule délogée et tranchante du Ver Atlantéen. Le créateur des profondeurs marines.
+Items/AtlantianWormTrophy	Text		Atlantean Worm Figurine	Figurine du Ver Atlantéen 
+Items/AtlantianWormTrophyDesc	Text		A lifelike representation of the Atlantean Worm.	Une représentation réaliste du Ver Atlantéen.
+Items/AutomationTable	Text		Automation Table	Table d'automatisation
 Items/AutomationTableDesc	Text		Workbench for creating complex machines.	Etabli pour créer des machines complexes.
 Items/AzeosBeakNecklace	Text		Azeos Beak Necklace	Collier de becs d'Azeos
 Items/AzeosBeakNecklaceDesc	Text		Forged from a piece of the sky titan's beak.	Forgé à partir d'un morceau du bec du titan du ciel.
@@ -1379,8 +1379,8 @@ Items/BronzeBreastArmor	Text		Bronze Breastplate	Cuirasse en bronze
 Items/BronzeBreastArmorDesc	Text		A good armor to survive battles more easily.	Une bonne armure pour survivre plus facilement aux batailles.
 Items/BronzeHelm	Text		Bronze Helm	Heaume en bronze
 Items/BronzeHelmDesc	Text		This helm repels slight blows to the head.	Ce heaume repousse les coups légers à la tête.
-Items/BronzePantsArmor	Text		Bronze Pants	Pantalon en bronze
-Items/BronzePantsArmorDesc	Text		Some bronze for the shin.	Du bronze pour le tibia.
+Items/BronzePantsArmor	Text		Bronze Pants	Jambières en bronze
+Items/BronzePantsArmorDesc	Text		Some bronze for the shin.	Du bronze pour les tibias.
 Items/BrownDuneTail	Text		Brown Dune Tail	Queue des dunes brunes
 Items/BrownDuneTailDesc	Text		This brown, agile fish is able to move between water holes in the desert to change feeding grounds.	Ce poisson brun et agile est capable de se déplacer entre les points d'eau du désert pour changer de zone d'alimentation.
 Items/BubbleGun	Text		Bubble Gun	Pistolet a Bulles
@@ -1485,8 +1485,8 @@ Items/CavelingMedalDesc	Text		Minted medallion with a face relief. Has it been a
 Items/CavelingMerchant	Text		Cloaked Merchant	Marchand masqué
 Items/CavelingMothersRing	Text		Caveling Mother's Ring	Anneau de la mère cavelin
 Items/CavelingMothersRingDesc	Text		An old crystal ring, holding it fills you with a sad feeling you can't describe.	Une vieille bague en cristal, la tenant vous remplit d'un sentiment triste que vous ne pouvez pas décrire.
-Items/CavelingPantsArmor	Text		Caveling Pants	Pantalon de cavelin
-Items/CavelingPantsArmorDesc	Text		These pants don't cover much but make your movement more elusive.	Ce pantalon ne couvre pas grand-chose mais rend vos mouvements plus insaisissables.
+Items/CavelingPantsArmor	Text		Caveling Pants	Jambières de cavelin
+Items/CavelingPantsArmorDesc	Text		These pants don't cover much but make your movement more elusive.	Ces jambières ne couvrent pas grand-chose mais rend vos mouvements plus évasifs.
 Items/CavelingPerfume	Text		Caveling Perfume	Parfum des caverne
 Items/CavelingPerfumeDesc	Text		A blue fragrance bottle. It is tightly sealed but emits a heavenly scent.	Un flacon de parfum bleu. Il est hermétiquement scellé mais dégage un parfum paradisiaque.
 Items/CavelingPot	Text		Caveling Pot	Pot des Caverne
@@ -1643,7 +1643,7 @@ Items/CopperMiningPickDesc	Text		A sturdy tool, well-suited for breaking down wa
 Items/CopperOre	Text		Copper Ore	Minerai de cuivre
 Items/CopperOreBoulder	Text		Copper Ore Boulder	Rocher de minerai de cuivre
 Items/CopperOreDesc	Text		Commonly found in dirt walls.	Communément trouvé dans les murs en terre battue.
-Items/CopperPantsArmor	Text		Copper Pants	Pantalon en cuivre
+Items/CopperPantsArmor	Text		Copper Pants	Jambières en cuivre
 Items/CopperPantsArmorDesc	Text		Protects the shins with ease.	Protège facilement les tibias.
 Items/CopperShovel	Text		Copper Shovel	Pelle en cuivre
 Items/CopperShovelDesc	Text		A sturdy shovel, good for digging up ground.	Une pelle robuste, idéale pour creuser le sol.
@@ -1800,7 +1800,7 @@ Items/DesertGemstone	Text		Desert Ruby	Rubis du désert
 Items/DesertGemstoneDesc	Text		A crimson gemstone rarely found in dry regions. Its special properties allow it to be used for higher quality crafting.	Une pierre précieuse cramoisie que l'on trouve rarement dans les régions sèches. Ses propriétés particulières lui permettent d'être utilisée pour des travaux d'artisanat de qualité supérieure.
 Items/DesertHelm	Text		Paladin Mask	Masque de paladin
 Items/DesertHelmDesc	Text		A mysterious piece of equipment with a golden mask. It seems to have been granted to warriors of high rank.	Une pièce d'équipement mystérieuse avec un masque doré. Il semble avoir été accordé aux guerriers de haut rang.
-Items/DesertPantsArmor	Text		Paladin Pants	Pantalon de paladin
+Items/DesertPantsArmor	Text		Paladin Pants	Sarouel de paladin
 Items/DesertPantsArmorDesc	Text		Wide harem pants made for fighting, coupled with a set of pointy golden shoes.	Sarouel large conçu pour le combat, couplé à un ensemble de chaussures dorées pointues.
 Items/DesertRock1	Text		Desert Rock	Rocher du désert
 Items/DesertRock1Desc	Text		A medium-sized sandstone boulder.	Un bloc de grès de taille moyenne.
@@ -1881,7 +1881,7 @@ Items/EasterEggStoneDesc	Text		A rocky collectible egg that can be combined with
 Items/EasterEggcellentHat	Text		Eggcellent Hat	Chapeau Eggcellent
 Items/EasterEggcellentHatDesc	Text		Everyone wearing this oversized egg shell hat has only one mission: to become egg.	Tous ceux qui portent ce chapeau en coquille d'œuf surdimensionné n'ont qu'une seule mission : devenir des œufs.
 Items/EasterEggcellentPants	Text		Eggcellent Pants	Pantalon Eggcellent
-Items/EasterEggcellentPantsDesc	Text		These cheaply made pants are as yellow as egg yolk and itchy beyond comprehension.	Ces pantalons bon marché sont aussi jaunes que du jaune d'œuf et provoquent des démangeaisons incompréhensibles.
+Items/EasterEggcellentPantsDesc	Text		These cheaply made pants are as yellow as egg yolk and itchy beyond comprehension.	Ce pantalon bon marché est aussi jaune que du jaune d'œuf et provoque des démangeaisons incompréhensibles.
 Items/EasterEggcellentSuit	Text		Eggcellent Breast Piece	Haut Eggcellent
 Items/EasterEggcellentSuitDesc	Text		A spacious, oval shape that is made from hopes, dreams and lime. In other words: Egg.	Une forme ovale et spacieuse, faite d'espoirs, de rêves et de chaux. En d'autres termes : L'œuf.
 Items/EasterGarland	Text		Easter Garland	Guirlande de Pâques
@@ -2033,8 +2033,8 @@ Items/GalaxiteMiningPickDesc	Text		An otherwordly tool for breaking down excepti
 Items/GalaxiteOre	Text		Galaxite Ore	Minerai de Galaxite
 Items/GalaxiteOreBoulder	Text		Galaxite Ore Boulder	Rocher de minerai de Galaxite
 Items/GalaxiteOreDesc	Text		Otherwordly ore commonly found in sandstone walls.	Minerai d'autres monde que l'on trouve couramment dans les murs de grès.
-Items/GalaxitePantsArmor	Text		Galaxite Pants	Pantalon en Galaxite
-Items/GalaxitePantsArmorDesc	Text		A futuristic armor for the lower body. It makes you feel like every small step you take is a giant leap for mankind.	Une armure futuriste pour le bas du corps. Cela vous donne l'impression que chaque petit pas que vous faites est un pas de géant pour l'humanité.
+Items/GalaxitePantsArmor	Text		Galaxite Pants	Jambières en Galaxite
+Items/GalaxitePantsArmorDesc	Text		A futuristic armor for the lower body. It makes you feel like every small step you take is a giant leap for mankind.	Une pièce d'armure futuriste pour le bas du corps. Cela vous donne l'impression que chaque petit pas que vous faites est un pas de géant pour l'humanité.
 Items/GalaxiteShovel	Text		Galaxite Shovel	Pelle en Galaxite
 Items/GalaxiteShovelDesc	Text		An otherwordly shovel, outstanding at digging up ground.	Une pelle d'un autre genre, exceptionnelle pour creuser le sol.
 Items/GalaxiteSledge	Text		Galaxite Sledge Hammer	Marteau de forgeron en galaxite
@@ -2081,8 +2081,8 @@ Items/GingerbreadHoodHelm	Text		Gingerbread Hood	Capuche en pain d'épice
 Items/GingerbreadHoodHelmDesc	Text		This gingerbread headpice has not been baked, so it remains flexible to be drawn over the head.	Ce couvre-chef en pain d'épice n'a pas été cuit, il reste donc souple pour être passé sur la tête.
 Items/GingerbreadManHelm	Text		Gingerbreadman Head	Tête en pain d'épice
 Items/GingerbreadManHelmDesc	Text		A funny headpiece made from gingerbread. Just ignore the creepy smile and soulless eyes.	Un couvre-chef amusant en pain d'épice. Ignorez simplement le sourire effrayant et les yeux sans âme.
-Items/GingerbreadPantsArmor	Text		Gingerbread Pants	Pantalon en pain d'épice
-Items/GingerbreadPantsArmorDesc	Text		Fairly stiff legs are the main feature of this baked armor, as wells as crumbs bewteen the toes. 	Les jambes assez raides sont la principale caractéristique de cette armure cuite, ainsi que des miettes entre les orteils.
+Items/GingerbreadPantsArmor	Text		Gingerbread Pants	Jambières en pain d'épice
+Items/GingerbreadPantsArmorDesc	Text		Fairly stiff legs are the main feature of this baked armor, as wells as crumbs bewteen the toes. 	Les jambes raides sont la principale caractéristique de cette pièce d'armure cuite, ainsi que des miettes entre les orteils.
 Items/Glass	Text		Glass Piece	Morceau de verre
 Items/GlassBridge	Text		Glass Bridge	Pont de verre
 Items/GlassBridgeDesc	Text		A transparent bridge that has no supports and that can be built across water or chasms.	Un pont transparent qui n'a pas de support et qui peut être construit au-dessus de l'eau ou d'un gouffre.
@@ -2134,11 +2134,11 @@ Items/GoatBaby	Text		Bambuck Kid	L'enfant Bambuck
 Items/GoatBabyDesc	Text		Not (yet) as stubborn as its parents, this kid is mostly concerned with charging at butterflies while its oversized ears flop around in the breeze. Truly a heartwarming sight to behold.	Pas (encore) aussi têtu que ses parents, cet enfant se préoccupe surtout de foncer sur les papillons tandis que ses oreilles surdimensionnées flottent au gré de la brise. Un spectacle qui fait chaud au cœur.
 Items/GoatDesc	Text		The fuzzy Bambuck has more wool than patience, which is why it’s quite bold by nature. It doesn’t even see that much, so if it runs into you by accident be easy on it.	Le bambou flou a plus de laine que de patience, c'est pourquoi il est de nature assez audacieuse. Il ne voit même pas beaucoup, alors s'il vous croise par accident, soyez indulgent avec lui.
 Items/GodsentBreastArmor	Text		Godsent King Breast Armor	Armure de poitrine du roi divin
-Items/GodsentBreastArmorDesc	Text		A unique, royal piece of armor resembling the heart of the state. Golden wings were added to inherit the grace of Azeos. Before it could be used, the kingdom crumbled to dust from the inside.	Une pièce d'armure royale unique ressemblant au cœur de l'État. Des ailes dorées ont été ajoutées pour hériter de la grâce d'Azeos. Avant qu'il ne puisse être utilisé, le royaume s'est effondré de l'intérieur.
+Items/GodsentBreastArmorDesc	Text		A unique, royal piece of armor resembling the heart of the state. Golden wings were added to inherit the grace of Azeos. Before it could be used, the kingdom crumbled to dust from the inside.	Une pièce d'armure royale unique représentant le cœur de l'État. Des ailes dorées ont été ajoutées pour hériter de la grâce d'Azeos. Avant qu'il ne puisse être utilisé, le royaume s'est effondré de l'intérieur.
 Items/GodsentHelm	Text		Godsent King Mask	Masque du Roi divin
-Items/GodsentHelmDesc	Text		A unique, royal piece of armor resembling the head of the state, crowning it as a descendant of the gods. It was intended for a future that never came. 	Une pièce d'armure royale unique ressemblant au chef de l'État, le couronnant en tant que descendant des dieux. Il était destiné à un avenir qui n'est jamais venu.
-Items/GodsentPantsArmor	Text		Godsent King Pants Armor	Pantalon du Roi divin
-Items/GodsentPantsArmorDesc	Text		A unique, royal piece of armor resembling the heir of the state, which was supposed to carry the glory of the kingdom when inheriting the throne. A dark prophecy and act of assassination ended the royal line.	Une pièce d'armure royale unique ressemblant à l'héritier de l'État, qui était censé porter la gloire du royaume en héritant du trône. Une sombre prophétie et un acte d'assassinat ont mis fin à la lignée royale.
+Items/GodsentHelmDesc	Text		A unique, royal piece of armor resembling the head of the state, crowning it as a descendant of the gods. It was intended for a future that never came. 	Une pièce d'armure royale unique représentant la tête de l'État, le couronnant en tant que descendant des dieux. Il était destiné à un avenir qui n'est jamais venu.
+Items/GodsentPantsArmor	Text		Godsent King Pants Armor	Jambières du Roi divin
+Items/GodsentPantsArmorDesc	Text		A unique, royal piece of armor resembling the heir of the state, which was supposed to carry the glory of the kingdom when inheriting the throne. A dark prophecy and act of assassination ended the royal line.	Une pièce d'armure royale unique représentant l'héritier de l'État, était censé apporter la gloire du royaume en héritant du trône. Une sombre prophétie et un assassinat ont mis fin à la lignée royale.
 Items/GoldBar	Text		Gold Bar	Lingot d'or
 Items/GoldBarDesc	Text		A soft metal ingot for blacksmithing and jewelry.	Un lingot de métal doux pour la forge et la joaillerie.
 Items/GoldCrystalNecklace	Text		Gold Crystal Necklace	Collier en cristal d'or
@@ -3414,8 +3414,8 @@ Items/SmithingBellow	Text		Old Smithing Bellow	Vieux soufflet de forge
 Items/SmithingBellowDesc	Text		An old device used to circulate air into a forge to create extreme temperatures. The lever for its mechanism is rusted in place.	Un vieil appareil utilisé pour faire circuler l'air dans une forge pour créer des températures extrêmes. Le levier de son mécanisme est rouillé en place.
 Items/SmithingGlove	Text		Smithing Glove	Gant de forge
 Items/SmithingGloveDesc	Text		Reinforced with several rare materials, this glove can withstand great heat and is a must have for every experienced blacksmith.	Renforcé avec plusieurs matériaux rares, ce gant peut résister à une grande chaleur et est un must pour tout forgeron expérimenté.
-Items/SnakeBossScanner	Text		Atlantean Worm Scanner	Scanneur de vers Atlantean 
-Items/SnakeBossScannerDesc	Text		Scans the world for the Atlantean Worm. Consumed on successful scan.	Scanne le monde à la recherche du ver Atlantean. Consommé en cas de scan réussi.
+Items/SnakeBossScanner	Text		Atlantean Worm Scanner	Scanneur du Ver Atlantéen 
+Items/SnakeBossScannerDesc	Text		Scans the world for the Atlantean Worm. Consumed on successful scan.	Scanne le monde à la recherche du Ver Atlantéen. Consommé en cas de scan réussi.
 Items/SnarePlant	Text		Snare Plant	Plante à collet
 Items/SnarePlantTrophy	Text		Snare Plant Figurine	Figurine de plante piège
 Items/SnarePlantTrophyDesc	Text		A lifelike representation of a Snare Plant.	Une représentation réaliste d'une plante piège.
@@ -3825,7 +3825,7 @@ Items/WoodHoeDesc	Text		A crude tool to prepare ground for farming.	Un outil rud
 Items/WoodMiningPick	Text		Wood Pickaxe	Pioche en bois
 Items/WoodMiningPickDesc	Text		A crude tool, useful for breaking down walls.	Un outil grossier, utile pour briser les murs.
 Items/WoodPantsArmor	Text		Wood Pants	Pantalon en bois
-Items/WoodPantsArmorDesc	Text		The next best thing when it comes to lower body armor.	La meilleure solution en matière d'armure pour le bas du corps.
+Items/WoodPantsArmorDesc	Text		The next best thing when it comes to lower body armor.	Le meilleur second choix en matière d'armure pour le bas du corps.
 Items/WoodPillar	Text		Wooden Pillar	Pilier en bois
 Items/WoodPillarDesc	Text		This decorative, wooden pillar is just the basic design for a whole lot more colorful variants.	Ce pilier décoratif en bois n'est que la base d'une multitude de variantes colorées.
 Items/WoodShield	Text		Wooden Shield	Bouclier en bois
@@ -3976,7 +3976,7 @@ Names/ScarabBoss	Text		Ra-Akar the Sand Titan	Ra-Akar le titan des sables
 Names/ShamanBoss	Text		Malugaz the Corrupted	Malugaz le Corrompu
 Names/SlimeBoss	Text		Glurch the Abominous Mass	Glurch la masse abominable
 Names/SlipperySlimeBoss	Text		Morpha the Aquatic Mass	Morpha la masse aquatique
-Names/SnakeBoss	Text		Atlantean Worm	Ver Atlantean
+Names/SnakeBoss	Text		Atlantean Worm	Ver Atlantéen
 Names/SoulOfAzeos	Text		Azeos	Azeos
 Names/SoulOfOmoroth	Text		Omoroth	Omoroth
 Names/SoulOfScarab	Text		Ra-Akar	Ra-Akar
