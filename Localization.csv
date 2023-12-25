@@ -3,14 +3,14 @@ Key	Type	Desc	English	Français
 15bitDither	Text		15-bit (Dither)	15-bit (Tramage)
 24bit	Text		24-bit	24-bit
 Achievements/CatchStarlightNautilus	Text		Legendary Fossil	Fossile légendaire
-Achievements/CherryBlossomTrees		Text		5 Centimeters Per Second	5 centimètres par seconde
+Achievements/CherryBlossomTrees	Text		5 Centimeters Per Second	5 centimètres par seconde
 Achievements/DefeatAtlanteanWorm	Text		Thalassophobia	Thalassophobie
 Achievements/DefeatAzeos	Text		From the Skies!	Venu du Ciel!
 Achievements/DefeatGhorm	Text		Bugging Out	Môche comme un pou!
 Achievements/DefeatGlurch	Text		A Slimey Encounter	Un peu trop collant à mon goût!
 Achievements/DefeatHivemother	Text		Watch Your Step	Surveillez vos pas!
 Achievements/DefeatIgneous	Text		Burning Through	Je m’enflame
-Achievements/DefeatIvy		Text		Toxic Personality	Personnalité toxique
+Achievements/DefeatIvy	Text		Toxic Personality	Personnalité toxique
 Achievements/DefeatKingSlime	Text		Slippery Shinobi	Shinobi glissant
 Achievements/DefeatMalugaz	Text		You're a Wizard	Tu es un Sorcier!
 Achievements/DefeatMorpha	Text		Slippery When Wet	Attention sol glissant!
@@ -18,8 +18,8 @@ Achievements/DefeatOmoroth	Text		From the Depths!	Venu des Profondeurs!
 Achievements/DefeatRaAkar	Text		Just Deserts	Pas piqué des hannetons!
 Achievements/Discover100CookBookRecipes	Text		Certified Chef	Cuisinier certifié
 Achievements/EquipRingOfRockAndStone	Text		Rock and Stone!	Rock and Stone!
-Achievements/FeedCattle		Text		A Good Life	Une belle vie
-Achievements/FirstPet		Text		Your Very First	Votre tout premier
+Achievements/FeedCattle	Text		A Good Life	Une belle vie
+Achievements/FirstPet	Text		Your Very First	Votre tout premier
 Achievements/GainOver200MovementSpeed	Text		In a Rush	Un homme pressé
 Achievements/HarvestGoldenIngredient	Text		Farmer Midas	Midas, le fermier
 Achievements/KeyArtCharacter	Text		Impersonator Syndrome	Syndrome de l'imitateur
