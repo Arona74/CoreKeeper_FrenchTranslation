@@ -1994,8 +1994,8 @@ Items/FungalBone	Text		Fungal Bone	Os fongique
 Items/FungalBoneDesc	Text		Rotten with mold down to the marrow, its owner must have suffered greatly.	Pourri de moisissure jusqu'à la moelle, son propriétaire a dû beaucoup souffrir.
 Items/FungalGrowth	Text		Fungal Soil	Sol fongique
 Items/FungalGrowthDesc	Text		Groundcover interspersed with mycelium. Over time mushrooms and shroomen will grow on it.	Couvre-sol entrecoupé de mycélium. Au fil du temps, des champignons et des champignons poussent dessus.
-Items/Furnace	Text		Furnace	fourneau
-Items/FurnaceDesc	Text		This standard furnace melts basic metal ores.	Ce four standard fait fondre des minerais métalliques de base.
+Items/Furnace	Text		Furnace	Fourneau
+Items/FurnaceDesc	Text		This standard furnace melts basic metal ores.	Ce fourneau permet de fondre les minerais métalliques de base.
 Items/FuryForge	Text		Fury Forge	Forge furieuse
 Items/FuryForgeDesc	Text		An unstable forge producing incredible heat able to smelt the hardest of metals.	Une forge instable produisant une chaleur incroyable capable de fondre les métaux les plus durs.
 Items/FusionAlloy	Text		Fusion Alloy	Alliage fusionné
@@ -4355,7 +4355,7 @@ foodFormat	Text	"{0} = food adjective,
 {1} = food noun,
 {2} = food type
 Turns into for example ""Hearty Mushroom Soup"" when cooking Heart berries with mushrooms in the cooking pot. "	{0} {1} {2}	{0} {1} {2}
-fullness	Text	"For example ""Fullness 159/500"", shown on items like water can"	Fullness: {0}/{1}	Plénitude : {0}/{1}
+fullness	Text	"For example ""Fullness 159/500"", shown on items like water can"	Fullness: {0}/{1}	Niveau d'eau : {0}/{1}
 gainedItem	Text	Shown in chat when for example gaining a polished version of a ring when crafting where {0} is the name of the item	Gained {0}!	Vous avez gagné {0} !
 gainedSoul	Text		Gained soul of {0}!	A gagné l'âme de {0} !
 gameMenu	Text	Shown as title when opening the pause menu in game	Game Menu	Menu du jeu
