@@ -34,7 +34,7 @@ Achievements/MaxedOutRunning	Text		Float like a butterfly...	Flotte comme un pap
 Achievements/MaxedOutVitality	Text		Health Conscious	Soucieux de leur santé
 Achievements/ObtainPhantomSpark	Text		The Phantom Spark	L'étincelle fantôme
 Achievements/ObtainRuneSong	Text		The Rune Song	La chanson runique
-Achievements/ObtainSoulSeeker	Text		The Soul Seeker	La Chercheuse d'âme
+Achievements/ObtainSoulSeeker	Text		The Soul Seeker	La Chercheuse d'Âme
 Achievements/ObtainTheOracleDeck	Text		The Heart of the Cards	L’âme des cartes
 Achievements/PetColors	Text		Gotta catch 'em all!	Attrapez-les tous!
 Achievements/PetMaxLevel	Text		Pet Prodigy	Prodige animalier
@@ -72,7 +72,7 @@ AchievementsLockedDescription/MaxedOutRunning	Text		Gain 100 skill points in run
 AchievementsLockedDescription/MaxedOutVitality	Text		Gain 100 skill points in vitality	Gagnez 100 points de compétence en vitalité
 AchievementsLockedDescription/ObtainPhantomSpark	Text		Obtain Phantom Spark	Obtenir l'Étincelle fantôme
 AchievementsLockedDescription/ObtainRuneSong	Text		Obtain Rune Song	Obtenir le Chant Runique
-AchievementsLockedDescription/ObtainSoulSeeker	Text		Obtain Soul Seeker	Obtenir le Chercheur d'Âme
+AchievementsLockedDescription/ObtainSoulSeeker	Text		Obtain Soul Seeker	Obtenir la Chercheuse d'Âme
 AchievementsLockedDescription/ObtainTheOracleDeck	Text		Obtain the Oracle Card deck	Obtenir le jeu de cartes de l'Oracle
 AchievementsLockedDescription/PetColors	Text		Store all color variations of one pet type in a chest	Stocker toutes les variations de couleur d'un type de familier dans un coffre
 AchievementsLockedDescription/PetMaxLevel	Text		Reach max level on a pet	Atteindre le niveau maximum d'un animal de compagnie
@@ -111,7 +111,7 @@ AchievementsUnlockedDescription/MaxedOutRunning	Text		Gained 100 skill points in
 AchievementsUnlockedDescription/MaxedOutVitality	Text		Gained 100 skill points in vitality	A gagné 100 points de compétence en vitalité
 AchievementsUnlockedDescription/ObtainPhantomSpark	Text		Obtained Phantom Spark	Étincelle Fantôme obtenue
 AchievementsUnlockedDescription/ObtainRuneSong	Text		Obtained Rune Song	Chanson Runique obtenue
-AchievementsUnlockedDescription/ObtainSoulSeeker	Text		Obtained Soul Seeker	Chercheur d'Âme obtenu
+AchievementsUnlockedDescription/ObtainSoulSeeker	Text		Obtained Soul Seeker	Chercheuse d'Âme obtenue
 AchievementsUnlockedDescription/ObtainTheOracleDeck	Text		Obtained the Oracle Card deck	Obtention du jeu de cartes de l'Oracle
 AchievementsUnlockedDescription/PetColors	Text		Stored all color variations of one pet type in a chest	Stockage de toutes les variations de couleur d'un type de familier dans un coffre
 AchievementsUnlockedDescription/PetMaxLevel	Text		Reached max level on a pet	Atteint le niveau maximum d'un familier
@@ -2315,7 +2315,7 @@ Items/HiveHalloweenBossTrophyDesc	Text		A lifelike representation of the Haunted
 Items/HiveLarva	Text		Hive Larva	larve de la ruche
 Items/HiveLarvaTrophy	Text		Hive Larva Figurine	Figurine de larve de la ruche
 Items/HiveLarvaTrophyDesc	Text		A lifelike representation of a Hive Larva.	Une représentation réaliste d'une larve de ruche.
-Items/HiveMotherScanner	Text		Hive Mother scanner	Scanner de laRuche-Mère
+Items/HiveMotherScanner	Text		Hive Mother scanner	Scanneur de la Ruche-Mère
 Items/HiveMotherScannerDesc	Text		Scans the world for the Hive Mother. Consumed on successful scan.	Scanne le monde à la recherche de la Ruche-Mère. Consommé en cas d'analyse réussie.
 Items/HiveSpikeTrap	Text		Hive Spike Trap	Piège à pointes de la ruche
 Items/HiveSpikeTrapDesc	Text		A larva hive trap made out of sharp bones, damaging any creature who steps on it.	Un piège de la ruches à larves fait d'os pointus, endommageant toute créature qui marche dessus.
@@ -2482,7 +2482,7 @@ Items/LarvaBBQ	Text		Roast Firepit	Foyer à rôtir
 Items/LarvaBBQDesc	Text		Part fireplace, part barbecue it is a great place to huddle together and enjoy some burned pieces of larva meat.	En partie cheminée, en partie barbecue, c'est un endroit idéal pour se blottir et déguster des morceaux de viande de larve brûlés.
 Items/LarvaBossCrystal	Text		Ghorm's Horn	Corne de Ghorm
 Items/LarvaBossCrystalDesc	Text		A pointy gemstone that let a larva grow way beyond its maximum size.	Une pierre précieuse pointue qui permet à une larve de se développer bien au-delà de sa taille maximale.
-Items/LarvaBossScanner	Text		Ghorm the Devourer Scanner	Scanner de Ghorm le Dévoreur
+Items/LarvaBossScanner	Text		Ghorm the Devourer Scanner	Scanneur de Ghorm le Dévoreur
 Items/LarvaBossScannerDesc	Text		Scans the world for Ghorm the Devourer. Consumed on successful scan.	Scanne le monde à la recherche de Ghorm le Dévoreur. Consommé en cas d'analyse réussie.
 Items/LarvaBossSummoningItem	Text		Ghorm Summoning Idol	Idole d'invocation de Ghorm
 Items/LarvaBossSummoningItemDesc	Text		Crystal idol to reawaken Ghorm the Devourer. Consumed upon placing it on Ghorm's summoning rune.	Idole de cristal pour réveiller Ghorm le Dévoreur. Consomme en le plaçant sur la rune d'invocation de Ghorm.
@@ -2531,7 +2531,7 @@ Items/LavaSlime	Text		Magma Slime	Slime de magma
 Items/LavaSlimeBlob	Text		Lava Slime	Slime lave
 Items/LavaSlimeBossChest	Text		Igneous' Chest	Coffre d'Igneous
 Items/LavaSlimeBossChestDesc	Text		A magma-covered chest reminiscent of the Molten Mass.	Un coffre recouvert de magma rappelant la Masse en fusion.
-Items/LavaSlimeBossScanner	Text		Igneous the Molten Mass Scanner	Scanner d'Igneous, la masse en fusion
+Items/LavaSlimeBossScanner	Text		Igneous the Molten Mass Scanner	Scanneur d'Igneous, la masse en fusion
 Items/LavaSlimeBossScannerDesc	Text		Scans the world for Igneous the Molten Mass. Consumed on successful scan.	Scanne le monde à la recherche d'Igneous, la masse en fusion. Consommé en cas de scan réussi.
 Items/LavaSlimeDesc	Text		A dark blob of flaming slime. Can be further processed.	Une goutte sombre de vase enflammée. Peut être traité ultérieurement.
 Items/LavaSlimeTrophy	Text		Lava Slime Figurine	Figurine d'un Slime de lave
@@ -2558,7 +2558,7 @@ Items/LegendaryBowPart2	Text		Fractured Limbs	Membres fracturés
 Items/LegendaryBowPart2Desc	Text		Golden pieces that once seemed to be fused together to endure great pressure. Something inherently powerful must have broken them apart.	Des pièces dorées qui semblaient autrefois fusionnées pour supporter une grande pression. Quelque chose d'intrinsèquement puissant a dû les séparer.
 Items/LegendaryBowPart3	Text		Energy String	Chaîne d'énergie
 Items/LegendaryBowPart3Desc	Text		A fine filament that has microscopic pieces of ancient gemstones woven into it. Its existence is proof of the absolute mastery over materials by whoever created it.	Un fin filament dans lequel sont tissés des morceaux microscopiques de pierres précieuses anciennes. Son existence est la preuve de la maîtrise absolue des matériaux par celui qui l'a créé.
-Items/LegendaryMiningPick	Text		Soul Seeker	Chercheuse d'âmes
+Items/LegendaryMiningPick	Text		Soul Seeker	Chercheuse d'Âmes
 Items/LegendaryMiningPickDesc	Text		A successor prototype to the Ancient Mining Pick that had been left unfinished before. In the fires of the Ancient Forge it was now finally completed.	Un prototype amélioré de la Pioche antique qui avait été laissé inachevé. Dans les feux de l'ancienne forge, il a enfin été terminé.
 Items/LegendaryMiningPickParchment	Text		Cipher Parchment	Parchemin chiffré
 Items/LegendaryMiningPickParchmentDesc	Text		An unusually well preserved scroll made from golden paper. Among the blue edged runes are drawings of an ancient forge resembling the face of a caveling.	Un parchemin exceptionnellement bien conservé en papier doré. Parmi les runes aux bords bleus se trouvent des dessins d'une ancienne forge ressemblant au visage d'un cavelin.
@@ -2797,7 +2797,7 @@ Items/OctarineWorkbench	Text		Octarine Workbench	Établi en Octarine
 Items/OctarineWorkbenchDesc	Text		Mystical workbench for creating extraordinary gear.	Établi mystique pour créer des équipements extraordinaires.
 Items/OctopusBossChest	Text		Floating Titan's Chest	Coffre du Titan flottant
 Items/OctopusBossChestDesc	Text		A large, ancient chest crested with gemstones. Through air-filled growths at its bottom it can float on water.	Un grand coffre ancien orné de pierres précieuses. Grâce à des excroissances remplies d'air à sa base, il peut flotter sur l'eau.
-Items/OctopusBossScanner	Text		Omoroth the Sea Titan Scanner	scanner d'Omoroth le titans des mers
+Items/OctopusBossScanner	Text		Omoroth the Sea Titan Scanner	Scanneur d'Omoroth le titans des mers
 Items/OctopusBossScannerDesc	Text		Scans the world for Omoroth the Sea Titan. Consumed on successful scan.	Scanne le monde à la recherche d'Omoroth le Titan des mers. Consommé en cas d'analyse réussie.
 Items/OctopusBreastArmor	Text		Omoroth's Chestplate	Plastron d'Omoroth
 Items/OctopusBreastArmorDesc	Text		A upper body armor reminiscent of the Sea Titan. There is a sleek cape attached to it.	Une armure du haut du corps rappelant le Sea Titan. Une cape élégante y est attachée.
@@ -3016,8 +3016,8 @@ Items/PoisonAidPotion	Text		Poison Aid Potion	Potion anti-poison
 Items/PoisonAidPotionDesc	Text		A purple, mucky liquid that tastes horrible but cures any poison.	Un liquide violet et boueux qui a un goût horrible mais qui guérit tout poison.
 Items/PoisonSlime	Text		Poison Slime	Slime empoisonnée
 Items/PoisonSlimeBlob	Text		Purple Slime	Slime pourpre
-Items/PoisonSlimeBossScanner	Text		Ivy the Poisonous Mass Scanner	Scanner d'Ivy la de masse toxique
-Items/PoisonSlimeBossScannerDesc	Text		Scans the world for Ivy the Poisonous Mass. Consumed on successful scan.	Scanne le monde à la recherche la de masse toxique. Consomme en cas de scan réussi.
+Items/PoisonSlimeBossScanner	Text		Ivy the Poisonous Mass Scanner	Scanneur d'Ivy la de masse toxique
+Items/PoisonSlimeBossScannerDesc	Text		Scans the world for Ivy the Poisonous Mass. Consumed on successful scan.	Scanne le monde à la recherche la de masse toxique. Consommé en cas de scan réussi.
 Items/PoisonSlimeDesc	Text		A purple blob of toxic slime. Can be further processed.	Une goutte violette de boue toxique. Peut être traité ultérieurement.
 Items/PoisonSlimeDestructLarge	Text		Large Poison Slime Vessel	Grand récipient de Slime empoisonné
 Items/PoisonSlimeDestructMedium	Text		Medium Poison Slime Vessel	Récipient de Slime empoisonné moyen
@@ -3250,7 +3250,7 @@ Items/SantaHelm	Text		Festive Hat	Chapeau de fête
 Items/SantaHelmDesc	Text		A warm, soft hat to keep ones ears warm in the cold season. You can't get around wearing one of those in winter.	Un bonnet chaud et doux pour garder les oreilles au chaud pendant la saison froide. Vous ne pouvez pas vous déplacer en portant un de ceux-là en hiver.
 Items/SantasLittleHelper	Text		Little Helperling	Petit assistant
 Items/SantasLittleHelperDesc	Text		A fellow caveling that fits in your backpack but wants to be placed down soon because it's eager to work. It will craft presents in exchange for cooked food, give it rare cooked food for higher quality! 	Un camarade cavelin qui tient dans votre sac à dos mais qui veut être déposé bientôt parce qu'il a hâte de travailler. Il fabriquera des cadeaux en échange de plats cuisinés, donnez-lui des plats cuisinés rares pour une meilleure qualité !
-Items/ScarabBossScanner	Text		Ra-Akar the Sand Titan Scanner	Scanner de Ra-Akar le titans de sable
+Items/ScarabBossScanner	Text		Ra-Akar the Sand Titan Scanner	Scanneur de Ra-Akar le titans de sable
 Items/ScarabBossScannerDesc	Text		Scans the world for Ra-Akar the Sand Titan. Consumed on successful scan.	Scanne le monde à la recherche de Ra-Akar le Titan des sables. Consommé en cas d'analyse réussie.
 Items/ScarabBreastArmor	Text		Scarab Harness	Harnais Scarabée
 Items/ScarabBreastArmorDesc	Text		A masterfully crafted upper body armor to endure the dangers of the desert.	Une armure du haut du corps magistralement conçue pour endurer les dangers du désert.
@@ -3392,8 +3392,8 @@ Items/Slingshot	Text		Slingshot	Lance-pierres
 Items/SlingshotDesc	Text		Simple ranged weapon to fire away at enemies.	Arme à distance simple pour tirer sur les ennemis.
 Items/SlipperySlime	Text		Slippery Slime	Slime glissante
 Items/SlipperySlimeBlob	Text		Blue Slime	Slime bleu
-Items/SlipperySlimeBossScanner	Text		Morpha the Aquatic Mass Scanner	Scanner de Morpha la masse aquatique
-Items/SlipperySlimeBossScannerDesc	Text		Scans the world for Morpha the Aquatic Mass. Consumed on successful scan.	Scanne le monde à la recherche de Morpha la masse aquatique. Consommable en cas de scan réussi.
+Items/SlipperySlimeBossScanner	Text		Morpha the Aquatic Mass Scanner	Scanneur de Morpha la masse aquatique
+Items/SlipperySlimeBossScannerDesc	Text		Scans the world for Morpha the Aquatic Mass. Consumed on successful scan.	Scanne le monde à la recherche de Morpha la masse aquatique. Consommé en cas de scan réussi.
 Items/SlipperySlimeDesc	Text		A blue slime blob almost too slick to hold onto. Can be further processed.	Une goutte de bave bleue presque trop lisse pour s'y accrocher. Peut être traité ultérieurement.
 Items/SlipperySlimeSword	Text		Slippery Slime Sword	Épée gluante glissante
 Items/SlipperySlimeSwordDesc	Text		A blue variant of the slime sword. It sometimes spreads slime onto your enemies that makes them slide around.	Une variante bleue de l'épée visqueuse. Il répand parfois de la boue sur vos ennemis, ce qui les fait glisser.
@@ -3414,7 +3414,7 @@ Items/SmithingBellow	Text		Old Smithing Bellow	Vieux soufflet de forge
 Items/SmithingBellowDesc	Text		An old device used to circulate air into a forge to create extreme temperatures. The lever for its mechanism is rusted in place.	Un vieil appareil utilisé pour faire circuler l'air dans une forge pour créer des températures extrêmes. Le levier de son mécanisme est rouillé en place.
 Items/SmithingGlove	Text		Smithing Glove	Gant de forge
 Items/SmithingGloveDesc	Text		Reinforced with several rare materials, this glove can withstand great heat and is a must have for every experienced blacksmith.	Renforcé avec plusieurs matériaux rares, ce gant peut résister à une grande chaleur et est un must pour tout forgeron expérimenté.
-Items/SnakeBossScanner	Text		Atlantean Worm Scanner	Scanner de vers Atlantean 
+Items/SnakeBossScanner	Text		Atlantean Worm Scanner	Scanneur de vers Atlantean 
 Items/SnakeBossScannerDesc	Text		Scans the world for the Atlantean Worm. Consumed on successful scan.	Scanne le monde à la recherche du ver Atlantean. Consommé en cas de scan réussi.
 Items/SnarePlant	Text		Snare Plant	Plante à collet
 Items/SnarePlantTrophy	Text		Snare Plant Figurine	Figurine de plante piège
