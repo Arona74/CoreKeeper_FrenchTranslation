@@ -3817,7 +3817,7 @@ Items/WoodFenceGateDesc	Text		A simple gate for the wooden fence.	Une porte simp
 Items/WoodFishingRod	Text		Wood Fishing Rod	Canne à pêche en bois
 Items/WoodFishingRodDesc	Text		A crude tool for pulling up fish.	Un outil grossier pour remonter le poisson.
 Items/WoodFloor	Text		Wood Floor	Parquet
-Items/WoodFloorDesc	Text		Simple wooden slats for decorating your base.	De simples lattes de bois pour décorer votre socle.
+Items/WoodFloorDesc	Text		Simple wooden slats for decorating your base.	De simples lattes de bois pour décorer votre base.
 Items/WoodHelm	Text		Wood Helm	Heaume en bois
 Items/WoodHelmDesc	Text		Slight protection for the head but you should look for better options soon.	Légère protection pour la tête mais vous devriez bientôt chercher de meilleures options.
 Items/WoodHoe	Text		Wooden Hoe	Houe en bois
@@ -3825,7 +3825,7 @@ Items/WoodHoeDesc	Text		A crude tool to prepare ground for farming.	Un outil rud
 Items/WoodMiningPick	Text		Wood Pickaxe	Pioche en bois
 Items/WoodMiningPickDesc	Text		A crude tool, useful for breaking down walls.	Un outil grossier, utile pour briser les murs.
 Items/WoodPantsArmor	Text		Wood Pants	Pantalon en bois
-Items/WoodPantsArmorDesc	Text		The next best thing when it comes to lower body armor.	La prochaine meilleure chose quand il s'agit de gilets pare-balles inférieurs.
+Items/WoodPantsArmorDesc	Text		The next best thing when it comes to lower body armor.	La meilleure solution en matière d'armure pour le bas du corps.
 Items/WoodPillar	Text		Wooden Pillar	Pilier en bois
 Items/WoodPillarDesc	Text		This decorative, wooden pillar is just the basic design for a whole lot more colorful variants.	Ce pilier décoratif en bois n'est que la base d'une multitude de variantes colorées.
 Items/WoodShield	Text		Wooden Shield	Bouclier en bois
@@ -4283,7 +4283,7 @@ cattle	Text		Cattle	Bétail
 caughtItem	Text	Shown in chat when for example catching an item through fishing where {0} is the name of the item	Caught: {0}	Attrapé : {0}
 changeProfile	Text		Change profile	Change de profil
 character	Text		Character	Personnage
-characterBackground	Text	As in what type of character such as Miner, Explorer etc.	Background	Arrière-plan
+characterBackground	Text	As in what type of character such as Miner, Explorer etc.	Background	Antécédent
 cheatDeath	Text		Cheated death!	La mort trompée !
 chestSlot	Text	Chest as in the breast armor slot	Chest slot	Emplacement de coffre
 click	Text		Click	Cliquez sur
@@ -4360,7 +4360,7 @@ gainedItem	Text	Shown in chat when for example gaining a polished version of a r
 gainedSoul	Text		Gained soul of {0}!	A gagné l'âme de {0} !
 gameMenu	Text	Shown as title when opening the pause menu in game	Game Menu	Menu du jeu
 gamepad	Text		Gamepad	Manette de jeu
-gear	Text		Gear	Engrenage
+gear	Text		Gear	Equipement
 godModeOptionDesc	Text		"God mode features: 
 - Player can move through objects
 - Player can destroy objects in one hit
