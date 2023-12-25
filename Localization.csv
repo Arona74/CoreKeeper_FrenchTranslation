@@ -65,9 +65,9 @@ AchievementsLockedDescription/MaxedOutCooking	Text		Gain 100 skill points in coo
 AchievementsLockedDescription/MaxedOutCrafting	Text		Gain 100 skill points in crafting	Gagnez 100 points de compétence en artisanat
 AchievementsLockedDescription/MaxedOutFishing	Text		Gain 100 skill points in fishing	Gagnez 100 points de compétence en pêche
 AchievementsLockedDescription/MaxedOutGardening	Text		Gain 100 skill points in gardening	Gagnez 100 points de compétence en jardinage
-AchievementsLockedDescription/MaxedOutMelee	Text		Gain 100 skill points in melee	Gagnez 100 points de compétence en mêlée
+AchievementsLockedDescription/MaxedOutMelee	Text		Gain 100 skill points in melee	Gagnez 100 points de compétence en combat au corps à corps
 AchievementsLockedDescription/MaxedOutMining	Text		Gain 100 skill points in mining	Gagnez 100 points de compétence en minage
-AchievementsLockedDescription/MaxedOutRange	Text		Gain 100 skill points in range	Gagnez 100 points de compétence en ditance
+AchievementsLockedDescription/MaxedOutRange	Text		Gain 100 skill points in range	Gagnez 100 points de compétence en combat à distance
 AchievementsLockedDescription/MaxedOutRunning	Text		Gain 100 skill points in running	Gagnez 100 points de compétence en course
 AchievementsLockedDescription/MaxedOutVitality	Text		Gain 100 skill points in vitality	Gagnez 100 points de compétence en vitalité
 AchievementsLockedDescription/ObtainPhantomSpark	Text		Obtain Phantom Spark	Obtenir l'Étincelle fantôme
@@ -129,7 +129,7 @@ BiomeNames/Nature	Text		Azeos' Wilderness	La Forêt d'Azeos
 BiomeNames/Sea	Text		The Sunken Sea	La Mer Engloutie
 BiomeNames/Slime	Text		The Undergrounds	Les Souterrains
 BiomeNames/Stone	Text		The Forgotten Ruins	Les Ruines Oubliées
-BreastVanitySlot	Text		Chest vanity slot	Emplacement de vanité pour haut
+BreastVanitySlot	Text		Chest vanity slot	Emplacement cosmétique pour armure
 CageCattle	Text		Capture a cattle	Capture du bétail
 CanBePutIntoEnemySpawnerPlatform	Text		Figurine slot	Emplacement pour figurine
 CanBePutIntoEnemySpawnerPlatformDesc	Text		Putting a non-boss figurine in the slot and powering the Materializer with electricity will create a clone of the enemy represented by the figurine.	En plaçant une figurine qui n'est pas un boss dans l'emplacement et en alimentant le matérialiseur en électricité, vous créerez un clone de l'ennemi représenté par la figurine.
@@ -184,7 +184,7 @@ ConditionEffect/LifeOnHit	Text		{0} life on melee hit	{0} vie en cas de coup mê
 ConditionEffect/MaxHealth	Text		{0} max health	{0} santé maximale
 ConditionEffect/MeleeAttackSpeed	Text		{0}% melee speed	{0}% de vitesse de mêlée
 ConditionEffect/MeleeDamage	Text		{0}% melee damage	{0}% de dégâts de mêlée
-ConditionEffect/Mining	Text		{0} mining damage	{0} Minage
+ConditionEffect/Mining	Text		{0} mining damage	{0} dégâts de minage
 ConditionEffect/MiningSpeed	Text		{0}% mining speed	{0}% de vitesse de minage
 ConditionEffect/MovementSpeed	Text		{0}% movement speed	{0}% de vitesse de déplacement
 ConditionEffect/Poisoned	Text		75% reduced healing received	75% de réduction des soins reçus
@@ -208,7 +208,7 @@ ConditionEffectDesc/LifeOnHit	Text		Gains {0} health when hitting an enemy with 
 ConditionEffectDesc/MaxHealth	Text		Maximum amount of health is {0}.	Le montant maximum de santé est de {0}.
 ConditionEffectDesc/MeleeAttackSpeed	Text		You hit {0}% faster with melee weapons.	Vous frappez {0}% plus rapidement avec les armes de mêlée.
 ConditionEffectDesc/MeleeDamage	Text		Melee attacks deal {0}-{1} damage.	Les attaques de mêlée infligent {0}-{1} dégâts.
-ConditionEffectDesc/Mining	Text		Deals {0} damage to walls and objects that require mining to be destroyed.	Inflige {0} dégâts aux murs et aux objets qui nécessitent du minage pour être détruits.
+ConditionEffectDesc/Mining	Text		Deals {0} damage to walls and objects that require mining to be destroyed.	Inflige {0} dégâts aux murs et aux objets qui nécessitent d'être minés pour être détruits.
 ConditionEffectDesc/MiningSpeed	Text		You hit {0}% faster with pickaxes.	Vous frappez {0}% plus vite avec des pioches.
 ConditionEffectDesc/MovementSpeed	Text		Moves at {0}% of base movement speed.	Se déplace à {0}% de la vitesse de déplacement de base.
 ConditionEffectDesc/RangeAttackSpeed	Text		You shoot {0}% faster with range weapons.	Vous tirez {0}% plus vite avec des armes à distance.
@@ -360,8 +360,8 @@ Conditions/LookLikeGhost	Text		You look like a ghost	Tu ressembles à un fantôm
 Conditions/Love	Text		Gives you a  heart-warming feeling	Vous donne une sensation réconfortante
 Conditions/MeleeAttackSpeedIncrease	Text		{0}% melee attack speed	{0}% de vitesse d'attaque en mêlée
 Conditions/MeleeDamageIncrease	Text	{0} will be replaced by +10 for example so it says +10 damage which can appear on an item description	{0}% melee damage	{0}% de dégâts de mêlée
-Conditions/MiningIncrease	Text		{0} mining damage	{0} Minage
-Conditions/MiningPercentageIncrease	Text		{0}% mining damage	{0}% Minage
+Conditions/MiningIncrease	Text		{0} mining damage	{0} dégâts de minage
+Conditions/MiningPercentageIncrease	Text		{0}% mining damage	{0}% dégâts de minage
 Conditions/MiningSpeedIncrease	Text		{0}% mining speed	{0}% de vitesse de minage
 Conditions/MovementSpeedBoostAfterDodge	Text		{0}% movement speed boost for a short duration after dodging an attack	Augmentation de {0}% de la vitesse de déplacement pendant une courte durée après avoir esquivé une attaque
 Conditions/MovementSpeedBoostAfterMining	Text		{0}% movement speed boost for a short duration after mining a wall	Augmentation de {0}% de la vitesse de déplacement pendant une courte durée après avoir miné un mur
@@ -370,7 +370,7 @@ Conditions/MovementSpeedIncrease	Text		{0}% movement speed	{0}% de vitesse de d�
 Conditions/MovementSpeedIncreaseFromRunningConsistently	Text		{0} movement speed from consistent running	{0} vitesse de déplacement grâce à une course constante
 Conditions/OrangeGlow	Text		{0} glow	{0} lueur
 Conditions/PercentageOfFishingAsRange	Text		{0}% of fishing added as range damage	{0}% de pêche ajoutés en tant que dégâts distance
-Conditions/PercentageOfMiningAsMelee	Text		{0}% of mining damage added as melee damage	{0}% minage ajoutés en tant que dégâts de mêlée
+Conditions/PercentageOfMiningAsMelee	Text		{0}% of mining damage added as melee damage	{0}% des dégâts de minage ajoutés en tant que dégâts de mêlée
 Conditions/PiercingProjectiles	Text		{0} target(s) pierced by projectiles	Tuer un ennemi augmente les chances de coup critique de 3%, cumulable jusqu'à 5 fois.
 Conditions/PinkGlow	Text		{0} pink glow	{0} lueur rose
 Conditions/Poisoned	Text		75% reduced healing received	75% de réduction des soins reçus
@@ -679,9 +679,9 @@ Emotes/LarvaEmote1	Text	Something the bigger larvas say when interacting with th
 Emotes/LarvaEmote2	Text		Squeek	Cri
 Emotes/LarvaEmote3	Text		Must dig	Doit creuser
 Emotes/LooksLikeItNeedsEnergy	Text	Energy refers to a building needing ancient electricity	Looks like it needs energy	On dirait qu'il a besoin d'énergie
-Emotes/MiningSkillTooLow	Text		My mining damage is too low	Mon minage est trop bas
+Emotes/MiningSkillTooLow	Text		My mining damage is too low	Mes dégâts de minage sont trop bas
 Emotes/NeedAncientForge	Text		I must be at the Ancient Forge	Je dois être à l'Ancienne Forge
-Emotes/NeedHigherMiningSkill	Text		I need higher mining damage	J'ai besoin d’un plus haut minage
+Emotes/NeedHigherMiningSkill	Text		I need higher mining damage	J'ai besoin de plus de dégâts de minage
 Emotes/NoNearbyGroundToStandOn	Text		There's no nearby ground to stand on	Il n'y a pas de terrain à proximité sur lequel se tenir
 Emotes/NoOtherPortals	Text	Shown when there are no other portals to teleport to	No other portals to teleport to	Aucun autre portail vers lequel se téléporter
 Emotes/NotFullyCharged	Text	Shown when player tries to interact with a portal that is still charging up	It is not fully charged yet	Il n'est pas encore complètement chargé
@@ -1000,7 +1000,7 @@ FoodTypes/Meat	Text		Meat	Viande
 FoodTypes/Plant	Text		Plant	Plante
 HardMode	Text		Hard	Difficile
 HardModeDesc	Text		Monsters are harder and bosses give more rewards.	Les monstres sont plus durs et les boss donnent plus de récompenses.
-HelmVanitySlot	Text		Helm vanity slot	Emplacement de vanité pour chapeau
+HelmVanitySlot	Text		Helm vanity slot	Emplacement cosmétique pour casque
 Intro/Slide1	Text		In a place far away from anywhere else.	Dans un endroit éloigné de tout.
 Intro/Slide2	Text		You are part of a group of explorers, making your way through the forest.	Vous faites partie d'un groupe d'explorateurs qui se frayent un chemin à travers la forêt.
 Intro/Slide3	Text		Feeling a strange presence,* you notice something between the trees.	Sentant une présence étrange*, vous remarquez quelque chose entre les arbres.
@@ -1117,7 +1117,7 @@ Items/AgressiveSlimeBlob	Text		Red Slime	Slime rouge
 Items/AlchemyTable	Text		Alchemist's Table	Table d'alchimiste
 Items/AlchemyTableDesc	Text		Workbench to tinker with the wonders of chemistry.	Etabli pour bricoler les merveilles de la chimie.
 Items/AlienChest	Text		Alien Tech Chest	Coffre de technologie extraterrestre
-Items/AlienChestDesc	Text		A technological marvel: an inventory chest from outer space! Seems like even advanced civilizations need to stash things away.	Une merveille technologique : un coffre d'inventaire venu de l'espace ! Il semblerait que même les civilisations avancées aient besoin de ranger des objets.
+Items/AlienChestDesc	Text		A technological marvel: an inventory chest from outer space! Seems like even advanced civilizations need to stash things away.	Une merveille technologique : un coffre d'inventaire venu de l'espace! Il semblerait que même les civilisations avancées aient besoin de ranger des objets.
 Items/AlienFloorVent	Text		Alien Floor Vent	Ventilation de sol Alien
 Items/AlienFloorVentDesc	Text		A piece of tech that would still be functional, had it not been ripped out of the floor by greedy hands.	Un morceau de technologie qui serait encore fonctionnel s'il n'avait pas été arraché du sol par des mains avides.
 Items/AlienObeliskSmall	Text		Small Alien Obelisk	Petit Obélisque Alien
@@ -2558,8 +2558,8 @@ Items/LegendaryBowPart2	Text		Fractured Limbs	Membres fracturés
 Items/LegendaryBowPart2Desc	Text		Golden pieces that once seemed to be fused together to endure great pressure. Something inherently powerful must have broken them apart.	Des pièces dorées qui semblaient autrefois fusionnées pour supporter une grande pression. Quelque chose d'intrinsèquement puissant a dû les séparer.
 Items/LegendaryBowPart3	Text		Energy String	Chaîne d'énergie
 Items/LegendaryBowPart3Desc	Text		A fine filament that has microscopic pieces of ancient gemstones woven into it. Its existence is proof of the absolute mastery over materials by whoever created it.	Un fin filament dans lequel sont tissés des morceaux microscopiques de pierres précieuses anciennes. Son existence est la preuve de la maîtrise absolue des matériaux par celui qui l'a créé.
-Items/LegendaryMiningPick	Text		Soul Seeker	Chercheur d'âmes
-Items/LegendaryMiningPickDesc	Text		A successor prototype to the Ancient Mining Pick that had been left unfinished before. In the fires of the Ancient Forge it was now finally completed.	Un prototype successeur de l'Ancient Mining Pick qui avait été laissé inachevé auparavant. Dans les incendies de l'ancienne forge, il était enfin terminé.
+Items/LegendaryMiningPick	Text		Soul Seeker	Chercheuse d'âmes
+Items/LegendaryMiningPickDesc	Text		A successor prototype to the Ancient Mining Pick that had been left unfinished before. In the fires of the Ancient Forge it was now finally completed.	Un prototype amélioré de la Pioche antique qui avait été laissé inachevé. Dans les feux de l'ancienne forge, il a enfin été terminé.
 Items/LegendaryMiningPickParchment	Text		Cipher Parchment	Parchemin chiffré
 Items/LegendaryMiningPickParchmentDesc	Text		An unusually well preserved scroll made from golden paper. Among the blue edged runes are drawings of an ancient forge resembling the face of a caveling.	Un parchemin exceptionnellement bien conservé en papier doré. Parmi les runes aux bords bleus se trouvent des dessins d'une ancienne forge ressemblant au visage d'un cavelin.
 Items/LegendarySword	Text		Rune Song	Chant runique
@@ -3850,7 +3850,7 @@ Items/WoodenSign2	Text		"Wooden Sign ""Tulip"""	"Panneau en bois ""Tulipe"""
 Items/WoodenSign2Desc	Text		Driftwood with patterns and carvings showing a Glow Tulip.	Bois flotté avec motifs et sculptures montrant une tulipe lumineuse.
 Items/WoodenThornRing	Text		Wooden Thorn Ring	Anneau d'épine en bois
 Items/WoodenThornRingDesc	Text		A circular, brambly root with sharp thorns pointing outward.	Une racine circulaire et ronceuse avec des épines acérées pointant vers l'extérieur.
-Items/WoodenWorkBench	Text		Basic Workbench	Établi de base
+Items/WoodenWorkBench	Text		Basic Workbench	Établi
 Items/WoodenWorkBenchDesc	Text		The most basic of all workbenches.	Le plus basique de tous les établis.
 Items/Wool	Text		Wool	Laine
 Items/WoolDesc	Text		An incredibly soft tuft of wool that has a pleasant scent to it.	Une touffe de laine incroyablement douce et agréablement parfumée.
@@ -3883,7 +3883,7 @@ Menu/AdminPlayers	Text		Admin players	Joueurs administrateurs
 Menu/AllowJoinByPresence	Text		Allow friends to join without Game ID	Autoriser les amis à rejoindre sans ID de jeu
 Menu/AmbientOcclusion	Text		Ambient Occlusion	Occlusion ambiante
 Menu/BannedPlayers	Text		Banned players	Joueurs bannis
-Menu/Bloom	Text		Bloom	Floraison
+Menu/Bloom	Text		Bloom	Eclat
 Menu/BorderlessFullscreen	Text		Borderless fullscreen	Plein écran sans bordure
 Menu/Brightness	Text		Brightness	Luminosité
 Menu/CharacterSlot	Text		Character slot	Emplacement de personnage
@@ -3990,7 +3990,7 @@ OpenBeta	Text		Open Beta	Bêta ouverte
 OpenContainer	Text		Open container	Conteneur ouvert
 OpenCrackedEgg	Text		Hatch egg	Oeuf à couver
 OptionNumber	Text	{0} will be replaced with a number	Option {0}	Options {0}
-PantsVanitySlot	Text		Pants vanity slot	Emplacement de vanité pour pantalon
+PantsVanitySlot	Text		Pants vanity slot	Emplacement cosmétique de jambières
 PetTalents/ApplyBurnBuff	Text		Rising Phoenix	Phénix en Ascension
 PetTalents/ApplyBurnMelee	Text		Burning Anger	Colère Ardente
 PetTalents/ApplyBurnRange	Text		Burning Anger	Colère Ardente
@@ -4137,7 +4137,7 @@ SkillTalents/DrainLessHunger	Text		Endurance runner	Coureur d'endurance
 SkillTalents/EquipmentDurabilityLastsLonger	Text		High quality equipment	Équipement de haute qualité
 SkillTalents/ExplosivesImprovement	Text		Explosives engineer	Ingénieur en explosifs
 SkillTalents/ExtraItemChanceAtAlchemyTable	Text		Alchemist	Alchimiste
-SkillTalents/ExtraItemChanceAtBaseBuilding	Text		Base builder	Constructeur de bases
+SkillTalents/ExtraItemChanceAtBaseBuilding	Text		Base builder	Constructeur
 SkillTalents/ExtraItemChanceAtRailsWiresAndBelts	Text		Industry specialist	Spécialiste de l'industrie
 SkillTalents/FishBitesFaster	Text		Improved bait	Appât amélioré
 SkillTalents/FishChanceIncrease	Text		Fisherman's luck	La chance du pêcheur
@@ -4162,10 +4162,10 @@ SkillTalents/MeleeAttackSpeed	Text		Quick strikes	Frappes rapides
 SkillTalents/MeleeDamageIncreaseOnHittingSameTarget	Text		Stubborn fighter	Combattant têtu
 SkillTalents/MiningDamageAsMeleeDamage	Text		Miner's strength	La force du mineur
 SkillTalents/MiningDamagePercentage	Text		Efficient excavation	Excavation efficace
-SkillTalents/MiningSpeedIncrease	Text		Mine, mine, mine!	Le mien, le mien, le mien !
+SkillTalents/MiningSpeedIncrease	Text		Mine, mine, mine!	Mine, mine, mine!
 SkillTalents/MovementIncreaseAfterConsistentRunning	Text		Gotta go fast!	Dois aller vite!
 SkillTalents/MovementIncreaseAfterDodge	Text		On your toes	Sur tes orteils
-SkillTalents/MovementIncreaseAfterMining	Text		Pick and run!	Choisissez et courez!
+SkillTalents/MovementIncreaseAfterMining	Text		Pick and run!	Ramassez et courez!
 SkillTalents/NearbyAlliesGainHealingFromCookedFood	Text		Sharing is caring	Partager c'est aimer
 SkillTalents/NearbyEnemiesSlowedDown	Text		Encumbering presence	Présence encombrante
 SkillTalents/PolishedItemChanceAtJewelryTable	Text		Jewelry crafter	Artisan de bijoux
@@ -4184,24 +4184,24 @@ SkillTalents/ThornsDamageIncrease	Text		Thorny skin	Peau épineuse
 SkillTalents/ToolDurabilityLastsLonger	Text		The right tools in the right hands	Les bons outils entre de bonnes mains
 SkillTalents/VisibleOreDistance	Text		Night vision	Vision nocturne
 SkillTalents/WellFedBuffsThresholdReduction	Text		Not so picky	Pas si pointilleux
-Skills/Cooking	Text		Cooking	Cuisson
-Skills/CookingDesc	Text		Grabbing cooked food from the cooking pot increases the chance of gaining additional cooked food.	Saisir des aliments cuits dans la marmite augmente les chances d'obtenir des aliments cuits supplémentaires.
+Skills/Cooking	Text		Cooking	Cuisine
+Skills/CookingDesc	Text		Grabbing cooked food from the cooking pot increases the chance of gaining additional cooked food.	Ramasser des aliments cuits dans la marmite augmente les chances d'obtenir des aliments cuits supplémentaires.
 Skills/CookingPerk	Text		+{0} Cooking skill	+{0} Compétence culinaire
 Skills/Crafting	Text		Crafting	Artisanat
 Skills/CraftingDesc	Text		Crafting items increases your physical durability.	Fabriquer des objets augmente votre durabilité physique.
 Skills/CraftingPerk	Text		+{0} Crafting skill	+{0} compétence d'artisanat
 Skills/Fishing	Text		Fishing	Pêche
-Skills/FishingDesc	Text		Reeling up fish or other treasures from waters increases your fishing skill.	Rembobiner des poissons ou d'autres trésors des eaux augmente vos compétences de pêche.
+Skills/FishingDesc	Text		Reeling up fish or other treasures from waters increases your fishing skill.	Remonter des poissons ou d'autres trésors des eaux augmente vos compétences de pêche.
 Skills/FishingPerk	Text		+{0} Fishing skill	+{0} compétence de pêche
 Skills/Gardening	Text		Gardening	Jardinage
 Skills/GardeningDesc	Text		Harvesting plants gives you green fingers, allowing you to gain extra plants.	La récolte des plantes vous donne la main verte, vous permettant d'obtenir des plantes supplémentaires.
 Skills/GardeningPerk	Text		+{0} Gardening skill	+{0} compétence de jardinage
-Skills/Melee	Text		Melee combat	Combat mêlée
+Skills/Melee	Text		Melee combat	Combat au corps à corps
 Skills/MeleeDesc	Text		Fighting in melee increases your strength.	Combattre au corps à corps augmente votre force.
-Skills/MeleePerk	Text		+{0} Melee skill	+{0} compétence de mêlée
-Skills/Mining	Text		Mining	Mineur
+Skills/MeleePerk	Text		+{0} Melee skill	+{0} compétence de combat en corps à corps
+Skills/Mining	Text		Mining	Minage
 Skills/MiningDesc	Text		Excavating walls increases your mining damage.	Creuser des murs augmente vos dégâts de minage.
-Skills/MiningPerk	Text		+{0} Mining skill	+{0} compétence minière
+Skills/MiningPerk	Text		+{0} Mining skill	+{0} compétence de minage
 Skills/Range	Text		Range combat	Combat à distance
 Skills/RangeDesc	Text		Shooting with ranged weapons improves your firepower.	Tirer avec des armes à distance améliore votre puissance de feu.
 Skills/RangePerk	Text		+{0} Range combat skill	+{0} Compétence de combat à distance
@@ -4218,7 +4218,7 @@ Souls/SoulTitle1	Text		Soul of Azeos	Âme d'Azeos
 Souls/SoulTitle2	Text		Soul of Omoroth	Âme d'Omoroth
 Souls/SoulTitle3	Text		Soul of Ra-Akar	Âme de Ra-Akar
 Stats/Adventure	Text		Adventure	Aventure
-Stats/Defense	Text		Defense	La défense
+Stats/Defense	Text		Defense	Défense
 Stats/Health	Text		Health	Santé
 Stats/Offense	Text		Offense	Attaque
 TeleportToCore	Text		Teleport to the Core	Téléportation vers le Noyau
@@ -4242,7 +4242,7 @@ TheCore/SoulOfScarabBossHint1	Text		The desert of beginnings in which Ra-Akar re
 TheCore/SoulOfScarabBossHint2	Text		Ra-Akar slumbers deep in the sands and only emerges when disturbed by intruders.	Ra-Akar sommeille profondément dans le sable et n'émerge que lorsqu'il est dérangé par des intrus.
 TheCore/TheGreatWallHint1	Text		Thou must travel far out to the Great Wall and lay a hand upon it to open it.	Tu dois voyager loin jusqu'à la Grande Muraille et poser la main dessus pour l'ouvrir.
 TheCore/TheGreatWallHint2	Text		The titans can be found beyond the Great Wall.	Les titans se trouvent au-delà de la Grande Muraille.
-TotalItemLevel	Text		Total item level: {0}	Niveau d'objet total : {0}
+TotalItemLevel	Text		Total item level: {0}	Niveau d'objet total: {0}
 TurnOffSeasons	Text		Turn off seasons	Désactiver les saisons
 WeaponSecondary/ArcSlash	Text		Wide Slash	Taillade large
 WeaponSecondary/ChargedMultishot	Text		Strong Multishot	Tir Multiple puissant
@@ -4262,7 +4262,7 @@ areYouSure	Text		Hardcore!? Are you sure?	Hardcore ! ? Es-tu sûr?
 audioOptions	Text		Audio settings	Paramètres audio
 back	Text		Back	Retour
 backToTitle	Text		Exit to title screen	Retour à l'écran titre
-bagSlot	Text		Bag slot	Emplacement sac
+bagSlot	Text		Bag slot	Emplacement de sac
 banPlayerDialogue	Text		Do you want to ban this player?	Voulez-vous bannir ce joueur ?
 base	Text	Shown as title in crafting window	Base	Base
 body	Text	Option to choose gender	Body	Corps
@@ -4285,7 +4285,7 @@ changeProfile	Text		Change profile	Change de profil
 character	Text		Character	Personnage
 characterBackground	Text	As in what type of character such as Miner, Explorer etc.	Background	Antécédent
 cheatDeath	Text		Cheated death!	La mort trompée !
-chestSlot	Text	Chest as in the breast armor slot	Chest slot	Emplacement de coffre
+chestSlot	Text	Chest as in the breast armor slot	Chest slot	Emplacement d'armure
 click	Text		Click	Cliquez sur
 clickToActivate	Text		Click to activate.	Cliquez pour activer.
 clickToDeactivate	Text		Click to deactivate.	Cliquez pour désactiver.
@@ -4371,7 +4371,7 @@ graphicsAPIOption	Text	{0} will be replaced with the name of the graphics api	Pl
 hair	Text	Option to choose hair style	Hair	Cheveux
 hairColor	Text	Option to choose hair color	Hair color	Couleur de cheveux
 hardcoreDeathMessage	Text		You died. Character has been lost.	Tu es mort. Le personnage a été perdu.
-helmSlot	Text		Helm slot	Fente de barre
+helmSlot	Text		Helm slot	Emplacement de casque
 hideCreativeUI	Text		Hide Creative UI	Cacher l'interface utilisateur créative
 high	Text		High	Haut
 holdToSkip	Text	"{0} is replaced with a button/key so for example ""Hold SPACE to skip"". This is used in intro slides of the game."	Hold {0} to skip intro	Maintenez {0} pour sauter l'intro
@@ -4449,7 +4449,7 @@ oneTimeEffect	Text	Shown after buff texts on food for example that can only occu
 options	Text		Settings	Paramètres
 oxygen	Text		Oxygen	Oxygène
 pants	Text	Option to choose pants style	Pants	Pantalon
-pantsSlot	Text		Pants slot	Emplacement pantalon
+pantsSlot	Text		Pants slot	Emplacement de jambières
 parry	Text		parry	parer
 pauseWorldOptionDesc	Text		Pausing the world will stop creatures and objects from moving or doing any actions. Water spreading is also paused. This can only be toggled by admins.	La mise en pause du monde empêche les créatures et les objets de se déplacer ou d'effectuer des actions. L'épandage d'eau est également mis en pause. Cette fonction ne peut être activée que par les administrateurs.
 paused	Text		Game Paused	Jeu en pause
@@ -4497,7 +4497,7 @@ resetSaveDataDialogue	Text		Delete progress?	Supprimer la progression ?
 restoredefaults	Text		Reset key bindings to default	Réinitialiser les raccourcis clavier par défaut
 resume	Text		Resume game	Reprendre le jeu
 right	Text		Move right	Déplacer vers la droite
-ringSlot	Text		Ring slot	Remplacement pour anneau
+ringSlot	Text		Ring slot	Emplacement pour anneau
 saveAndExit	Text		Save and Exit	Sauvegarder et quitter
 secondary	Text	Shown as category for white, black, brown and purple painting colors	Secondary	Secondaire
 selectCharacter	Text		Select character	Sélectionnez le caractère
@@ -4550,8 +4550,8 @@ up	Text		Move up	Déplacer vers le haut
 upgrade	Text		Upgrade	Améliorer
 useItemTerm	Text		Use: {0}	Utiliser : {0}
 valuable	Text	Shown as a tag in description of items  that are meant to be sold for coins.	Valuable	Précieux
-value	Text	"As in the coin value of an item, for example ""Value: 1484 coins"""	Value: {0}	Valeur : {0}
-vanityToggleVisibility	Text		Click to toggle visiblity of equipment	Cliquez pour basculer la visibilité de l'équipement
+value	Text	"As in the coin value of an item, for example ""Value: 1484 coins"""	Value: {0}	Valeur: {0}
+vanityToggleVisibility	Text		Click to toggle visiblity of equipment	Cliquez pour basculer la visibilité de l'équipement cosmétique
 versus	Text		Versus	Contre
 veryHigh	Text		Very high	Très haut
 videoOptions	Text		Video settings	Paramètres vidéo
