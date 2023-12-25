@@ -487,13 +487,13 @@ ControlMapper/RightJoystickLeft	Text		Right joystick left	Joystick droit gauche
 ControlMapper/RightJoystickRight	Text		Right joystick right	Joystick droit droit
 ControlMapper/Rotate	Text		Rotate	Tourner
 ControlMapper/Sort	Text		Sort inventory	Trier l'inventaire
-ControlMapper/SplitStack	Text		Split item stack	Fractionner la pile d'éléments
+ControlMapper/SplitStack	Text		Split item stack	Diviser
 ControlMapper/StopPlayingInstrument	Text		Stop playing	Arrête de jouer
 ControlMapper/ToggleInventory	Text		Toggle inventory	Afficher l'inventaire
 ControlMapper/ToggleMap	Text		Toggle map	Afficher la carte
 ControlMapper/ToggleShortCutsWindow	Text		Toggle shortcuts window	Afficher la fenêtre des raccourcis
 ControlMapper/ToggleSpectatedPlayer	Text	Toggles which player is being spectated. Can be used after dying as hard core character.	Toggle spectated player	Afficher le joueur observé
-ControlMapper/ToggleUI	Text		Toggle in-game UI	Afficher l'interface utilisateur dans le jeu
+ControlMapper/ToggleUI	Text		Toggle in-game UI	Afficher l'interface utilisateur
 ControlMapper/TrashItem	Text		Trash selected item	Déplacer dans la corbeille l'élément sélectionné
 ControlMapper/UIInteract	Text		UI interact	Interaction de l'interface utilisateur
 ControlMapper/UIModifierKeys	Text		Inventory UI modifiers, use together with pick up / drop item actions	Modificateurs d'interface utilisateur d'inventaire, à utiliser avec les actions de ramassage / dépôt d'objets
@@ -507,7 +507,7 @@ ControlMapper/alt	Text		Alt	Alt
 ControlMapper/assignControllerButtonLabel	Text		Assign Controller	Attribuer un contrôleur
 ControlMapper/assignControllerWindowMessage	Text		Press any button or move an axis on the controller you would like to use.	Appuyez sur n'importe quel bouton ou déplacez un axe sur le contrôleur que vous souhaitez utiliser.
 ControlMapper/assignControllerWindowTitle	Text		Choose Controller	Choisissez le contrôleur
-ControlMapper/assignedControllersGroupLabel	Text		Assigned Controllers:	Contrôleurs assignés :
+ControlMapper/assignedControllersGroupLabel	Text		Assigned Controllers:	Contrôleurs assignés:
 ControlMapper/calibrateAxisStep1WindowMessage	Text		Center or zero {0} and press any button or wait for the timer to finish.	Centrez ou mettez à zéro {0} et appuyez sur n'importe quel bouton ou attendez que la minuterie se termine.
 ControlMapper/calibrateAxisStep1WindowTitle	Text		Calibrate Zero	Calibrer zéro
 ControlMapper/calibrateAxisStep2WindowMessage	Text		Move {0} through its entire range then press any button or wait for the timer to finish.	Déplacez {0} sur toute sa plage, puis appuyez sur n'importe quel bouton ou attendez que la minuterie se termine.
@@ -523,10 +523,10 @@ ControlMapper/command	Text		Command	Commande
 ControlMapper/control	Text		Control	Contrôle
 ControlMapper/controllerAssignmentConflictWindowMessage	Text	{0} = Joystick Name, {1} = Other Player Name, {2} = This Player Name	{0} is already assigned to {1}. Do you want to assign this controller to {2} instead?	{0} est déjà affecté à {1}. Voulez-vous plutôt attribuer ce contrôleur à {2} ?
 ControlMapper/controllerAssignmentConflictWindowTitle	Text		Controller Assignment	Affectation du contrôleur
-ControlMapper/controllerColumnLabel	Text		Controller	contrôleur
-ControlMapper/controllerSettingsGroupLabel	Text		Controller:	contrôleur:
+ControlMapper/controllerColumnLabel	Text		Controller	Contrôleur
+ControlMapper/controllerSettingsGroupLabel	Text		Controller:	Contrôleur:
 ControlMapper/default	Text		Default	Défaut
-ControlMapper/doneButtonLabel	Text		Done	Fini
+ControlMapper/doneButtonLabel	Text		Done	Terminer
 ControlMapper/elementAlreadyInUseBlocked	Text		{0} is already in use cannot be replaced.	{0} est déjà utilisé et ne peut pas être remplacé.
 ControlMapper/elementAlreadyInUseCanReplace	Text		{0} is already in use. Do you want to replace it?	{0} est déjà utilisé. Voulez-vous le remplacer?
 ControlMapper/elementAlreadyInUseCanReplace_conflictAllowed	Text		{0} is already in use. Do you want to replace it? You may also choose to add the assignment anyway.	{0} est déjà utilisé. Voulez-vous le remplacer? Vous pouvez également choisir d'ajouter l'affectation quand même.
@@ -662,20 +662,20 @@ CreditsNames/ohCreative	Text		ohCreative	ohCreative
 DemoVersion	Text	{0} will be replaced by the version number	{0} Demo Version	{0} Version de démonstration
 DontOverrideSeason	Text		Don't override season	Ne pas remplacer la saison
 EarlyAccess	Text		Early Access	Accès anticipé
-EarlyAccessVersion	Text	{0} will be replaced by the version number	{0} Early Access Version	{0} Version d'accès anticipé
-Emotes/CantLeaveWhileItsMoving	Text	Character says this when riding a vehicle such as minecart or boat and tries to jump off while it is moving	I can't leave while it's moving	Je ne peux pas partir pendant que ça bouge
+EarlyAccessVersion	Text	{0} will be replaced by the version number	{0} Early Access Version	{0} Version Accès Anticipé
+Emotes/CantLeaveWhileItsMoving	Text	Character says this when riding a vehicle such as minecart or boat and tries to jump off while it is moving	I can't leave while it's moving	Je ne peux pas descendre tant que ça bouge
 Emotes/CantSleepWhenEnemiesNear	Text		I can't sleep when enemies are nearby	Je ne peux pas dormir quand les ennemis sont à proximité
 Emotes/ICantDestroyThisObject	Text		I can't destroy this object	Je ne peux pas détruire cet objet
 Emotes/IDontHaveAPet	Text		I don't have a pet	Je n'ai pas de familier
 Emotes/IDontHaveTheRequiredComponents	Text		I don't have the components	je n'ai pas les composants
 Emotes/INeedADrillForThis	Text		I need a drill for this	J'ai besoin d'une foreuse pour ça
-Emotes/INeedBetterToolsForTheseWaters	Text	Means that player needs a better fishing rod or other means of fishing tools	I need better tools for these waters	J'ai besoin de meilleurs outils pour ces eaux
+Emotes/INeedBetterToolsForTheseWaters	Text	Means that player needs a better fishing rod or other means of fishing tools	I need better tools for these waters	J'ai besoin de meilleurs outils de pêche pour ces eaux
 Emotes/IShouldEat	Text		I should eat something	je devrais manger quelque chose
 Emotes/ImHungry	Text		I'm quite hungry	j'ai assez faim
 Emotes/ItDoesntDoAnything	Text	Shown when trying to interact with something that does'nt work such as the Core when it is not powered up.	It doesn't do anything	Ça ne fait rien
 Emotes/ItsEmpty	Text	Used when for example the water can is empty	It's empty	C'est vide
 Emotes/ItsTooHardINeedADrill	Text		It's too hard, I need a drill	C'est trop dur, j'ai besoin d'une foreuse
-Emotes/LarvaEmote1	Text	Something the bigger larvas say when interacting with them while disguised as a larva	Hungry!	Affamé!
+Emotes/LarvaEmote1	Text	Something the bigger larvas say when interacting with them while disguised as a larva	Hungry!	J'ai faim!
 Emotes/LarvaEmote2	Text		Squeek	Cri
 Emotes/LarvaEmote3	Text		Must dig	Doit creuser
 Emotes/LooksLikeItNeedsEnergy	Text	Energy refers to a building needing ancient electricity	Looks like it needs energy	On dirait qu'il a besoin d'énergie
@@ -690,27 +690,27 @@ Emotes/NothingWasFound	Text		Nothing was found	Rien n'a été trouvé
 Emotes/ObjectIsImmuneToDamage	Text		The object is immune to damage	L'objet est immunisé contre les dégâts
 Emotes/ObjectIsIndestructible	Text		The object is indestructible	L'objet est indestructible
 Emotes/Ouch	Text		Ouch!	Aie!
-Emotes/OutOfWater	Text		Out of water	Plus d'eaux
+Emotes/OutOfWater	Text		Out of water	Plus d'eau
 Emotes/PetIsAlreadyMaxLevel	Text		Pet is at max level	Le familier est au niveau maximum
 Emotes/PetIsTooFarAway	Text		Pet is too far away	Le familier est trop éloigné
 Emotes/PoweredDown	Text		It seems powered down	Il semble éteint
 Emotes/Questionmark	Text		?	?
 Emotes/ShouldPlaceHandOnWall	Text		I should place my hand on the wall	Je devrais poser ma main sur le mur
 Emotes/StomachFull	Text		My stomach is too full	Mon estomac est trop plein
-Emotes/StopHurtingMe	Text		Stop hurting me!	Arrête de me faire du mal !
-Emotes/TheAncientForge	Text	Quotes around it cause player character is reading it	"""The Ancient Forge"""	"""L'ancienne forge"""
+Emotes/StopHurtingMe	Text		Stop hurting me!	Arrête de me faire du mal!
+Emotes/TheAncientForge	Text	Quotes around it cause player character is reading it	"""The Ancient Forge"""	"""L'Ancienne Forge"""
 Emotes/TheFishArentBiting	Text		The fish aren't biting	Les poissons ne mordent pas
 Emotes/ThisIsNotMyBed	Text		This is not my bed	Ce n'est pas mon lit
 Emotes/ThisWillTakeAWhile	Text		This will take a while...	Cela va prendre un certain temps...
 Emotes/ThisWillTakeForever	Text		This will take forever...	Cela va prendre une éternité...
-Emotes/UnlockedInEarlyAccess	Text		Unlocked in Early Access	Débloqué en accès anticipé
+Emotes/UnlockedInEarlyAccess	Text		Unlocked in Early Access	Débloqué en Accès Anticipé
 Error/AuthenticationFailed	Text		Authentication failed	Authentification échouée
 Error/BackingStorageFull	Text		Disk or cloud quota is full, try deleting some things	Le quota de disque ou de cloud est plein, essayez de supprimer certains éléments
 Error/BadProtocolVersion	Text		Game version mismatch	Incompatibilité de version du jeu
 Error/Canceled	Text		Operation was canceled	L'opération a été annulée
 Error/CharacterVersionTooHigh	Text		This character was created using a more recent game version. Please check for game updates.	Ce personnage a été créé à partir d'une version plus récente du jeu. Veuillez vérifier les mises à jour du jeu.
-Error/ConnectionClose	Text		Connection closed	Connexion fermée
-Error/GameNotFound	Text		Could not find game	Impossible de trouver le jeu
+Error/ConnectionClose	Text		Connection closed	Connexion terminée
+Error/GameNotFound	Text		Could not find game	Impossible de trouver la partie
 Error/HostNotReady	Text		Host is not ready	L'hôte n'est pas prêt
 Error/InvalidRpc	Text		Invalid network message	Message réseau invalide
 Error/MaxConnectionAttempts	Text		Connection failed after too many retries	La connexion a échoué après trop de tentatives
@@ -732,9 +732,9 @@ FoodAdjectives/AngleFishMale	Text		Encased	Enveloppé
 FoodAdjectives/AstralJelly	Text		Astral	Astral
 FoodAdjectives/AstralJellyFemale	Text		Astral	Astral
 FoodAdjectives/AstralJellyMale	Text		Astral	Astral
-FoodAdjectives/AtlantianWormHeart	Text		Atlantean	Atlantean
-FoodAdjectives/AtlantianWormHeartFemale	Text		Atlantean	Atlantean
-FoodAdjectives/AtlantianWormHeartMale	Text		Atlantean	Atlantean
+FoodAdjectives/AtlantianWormHeart	Text		Atlantean	Atlantéen
+FoodAdjectives/AtlantianWormHeartFemale	Text		Atlantean	Atlantéen
+FoodAdjectives/AtlantianWormHeartMale	Text		Atlantean	Atlantéen
 FoodAdjectives/AzureFeatherFish	Text		Azure	Azur
 FoodAdjectives/AzureFeatherFishFemale	Text		Azure	Azur
 FoodAdjectives/AzureFeatherFishMale	Text		Azure	Azur
@@ -852,9 +852,9 @@ FoodAdjectives/MeatMale	Text		Tender	Tendre
 FoodAdjectives/MoldShark	Text		Moldy	Moisi
 FoodAdjectives/MoldSharkFemale	Text		Moldy	Moisi
 FoodAdjectives/MoldSharkMale	Text		Moldy	Moisi
-FoodAdjectives/Mushroom	Text		Mushy	Détrempé
-FoodAdjectives/MushroomFemale	Text		Mushy	Détrempé
-FoodAdjectives/MushroomMale	Text		Mushy	Détrempé
+FoodAdjectives/Mushroom	Text		Mushy	Bouillie
+FoodAdjectives/MushroomFemale	Text		Mushy	Bouillie
+FoodAdjectives/MushroomMale	Text		Mushy	Bouillie
 FoodAdjectives/OrangeCaveGuppy	Text		Orange	Orange
 FoodAdjectives/OrangeCaveGuppyFemale	Text		Orange	Orange
 FoodAdjectives/OrangeCaveGuppyMale	Text		Orange	Orange
@@ -879,9 +879,9 @@ FoodAdjectives/PinkPalaceFishMale	Text		Pink	Rose
 FoodAdjectives/Puffungi	Text		Puffy	Bouffi
 FoodAdjectives/PuffungiFemale	Text		Puffy	Bouffi
 FoodAdjectives/PuffungiMale	Text		Puffy	Bouffi
-FoodAdjectives/PuffungiRare	Text		Musty	moisi
-FoodAdjectives/PuffungiRareFemale	Text		Musty	moisi
-FoodAdjectives/PuffungiRareMale	Text		Musty	moisi
+FoodAdjectives/PuffungiRare	Text		Musty	Moisi
+FoodAdjectives/PuffungiRareFemale	Text		Musty	Moisi
+FoodAdjectives/PuffungiRareMale	Text		Musty	Moisi
 FoodAdjectives/RockJaw	Text		Rocky	Rocheux
 FoodAdjectives/RockJawFemale	Text		Rocky	Rocheux
 FoodAdjectives/RockJawMale	Text		Rocky	Rocheux
@@ -4473,9 +4473,9 @@ pressAnyButtonXbox	Text		Press any button	Appuyez sur n'importe quelle touche
 price	Text		Price: {0}	Prix : {0}
 primary	Text	Shown as category for red, yellow, blue and green painting colors	Primary	Primaire
 quickMove	Text		"Quick stash:
-{0}"	Pile rapide: {0}
-quickStack	Text	Shown when hovering a button that uses the quick stack function	Quick stack	Pile rapide
-quickStackDesc	Text		Moves already existing items in the chest from your inventory to the chest.	Déplace les objets déjà existants dans le coffre de votre inventaire vers le coffre.
+{0}"	Rangement rapide: {0}
+quickStack	Text	Shown when hovering a button that uses the quick stack function	Quick stack	Rangement rapide
+quickStackDesc	Text		Moves already existing items in the chest from your inventory to the chest.	Déplace les objets déjà présents dans le coffre de votre inventaire vers le coffre.
 quitToDesktop	Text		Quit	Quitter
 rareItemFormat	Text	"Format used for items that has rarity indicator as part of their name such as ""Rare Heartberry"" where
 {0} = rarity
