@@ -1,4 +1,4 @@
-Key	Type	Desc	English	Français
+Key	Type	Desc	English	Français [c0]
 15bit	Text		15-bit	15-bit
 15bitDither	Text		15-bit (Dither)	15-bit (Dither)
 24bit	Text		24-bit	24-bit
@@ -1092,7 +1092,7 @@ ItemCategory/Music_MusicSheet	Text		Music sheet	Feuille de musique
 ItemCategory/Other	Text		Other	Autres
 ItemCategory/Other_KeyItem	Text		Key item	Objet clé
 ItemCategory/Other_Mods	Text		Mods	Mods
-ItemCategory/Other_OracleCard	Text		Oracle card	Carte d'Oracle
+ItemCategory/Other_OracleCard	Text		Oracle card	Carte de l'Oracle
 ItemCategory/Other_Recipe	Text		Recipe	Recettes
 ItemCategory/Other_Seed	Text		Seed	Graines
 ItemCategory/Seasonal	Text		Seasonal	Saisonnier
@@ -1297,11 +1297,11 @@ Items/Bed	Text		Bed	Lit
 Items/BedDesc	Text		A place to sleep. Also allows friendly inhabitants to move in if placed in a room to their liking.	Un endroit pour dormir. Permet également aux habitants amis d'emménager s'ils sont placés dans une pièce à leur goût.
 Items/BentFork	Text		Bent Fork	Fourche tordue
 Items/BentForkDesc	Text		A simple fork that has seen too much use.	Une fourchette simple qui a trop servi.
-Items/BigFloorTileCaveling	Text		"Stone tile ""Cavelings"""	"Carrelage en pierre ""Cavelin"""
+Items/BigFloorTileCaveling	Text		"Stone tile ""Cavelings"""	Carrelage en pierre ""Cavelin""
 Items/BigFloorTileCavelingDesc	Text		A giant stone tile decorated with a deep blue glass. It depicts a gathering of cavelings.	Un carreau de pierre géant orné d'un verre bleu profond. Il représente un rassemblement de cavelin.
-Items/BigFloorTileGemstone	Text		"Stone tile ""Gemstone"""	"Carrelage en pierre ""Pierre précieuse"""
+Items/BigFloorTileGemstone	Text		"Stone tile ""Gemstone"""	Carrelage en pierre ""Pierre précieuse""
 Items/BigFloorTileGemstoneDesc	Text		A giant stone tile decorated with a deep blue glass. It depicts a glowing gemstone.	Un carreau de pierre géant orné d'un verre bleu profond. Il représente une pierre précieuse incandescente.
-Items/BigFloorTileScholar	Text		"Stone tile ""Scholar"""	"Carrelage en pierre ""Érudit"""
+Items/BigFloorTileScholar	Text		"Stone tile ""Scholar"""	Carrelage en pierre ""Érudit""
 Items/BigFloorTileScholarDesc	Text		A giant stone tile decorated with a deep blue glass. It depicts a robed caveling.	Un carreau de pierre géant orné d'un verre bleu profond. Il représente un cavelin en robe.
 Items/BigLarva	Text		Big Larva	Grande Larve
 Items/BigLarvaTrophy	Text		Big Larva Figurine	Figurine de Grande Larve
@@ -1351,7 +1351,7 @@ Items/BlueCaveGuppyDesc	Text		Small, blue fish home to the dirt cave lakes.	Peti
 Items/BlueFireFly	Text		Blue Glowbug	Luciole bleue
 Items/BlueFireFlyDesc	Text		This flying bug always appears in swarms which appear as dancing lights. Its blue glow is biome-specific.	Cet insecte volant apparaît toujours en essaims qui apparaissent comme des lumières dansantes. Sa lueur bleue est spécifique au biome.
 Items/BlueGlassKalimba	Text		Blue Glass Kalimba	Kalimba en verre bleu
-Items/BlueGlassKalimbaDesc	Text		"A delicate instrument that has multiple fractures across its surface, rendering it unusable. There is a signature reading ""Woopsiee"", that has been carved into the glass."	"Un instrument délicat qui présente de multiples fractures sur sa surface, le rendant inutilisable. Il y a une signature indiquant ""Woopsiee"", qui a été gravée dans le verre."
+Items/BlueGlassKalimbaDesc	Text		"A delicate instrument that has multiple fractures across its surface, rendering it unusable. There is a signature reading ""Woopsiee"", that has been carved into the glass."	"Un instrument délicat qui présente de multiples fractures sur sa surface, le rendant inutilisable. Il y a une signature indiquant ""Oups"", qui a été gravée dans le verre."
 Items/BlueGlassShard	Text		Blue Glass Shard	Éclat de verre bleu
 Items/BlueGlassShardDesc	Text		A piece of deep blue glass, it appears to be a fusion of molten sand and ancient gemstones. 	Un morceau de verre bleu profond, il semble être une fusion de sable en fusion et de pierres précieuses anciennes.
 Items/BlueKelp	Text		Blue Kelp	Algue bleu
@@ -1813,10 +1813,10 @@ Items/DecorativePot	Text		Decorative Pot	Pot décoratif
 Items/DecorativePotDesc	Text		Adding a plant to it will make for a nice decoration.	L'ajout d'une plante fera une belle décoration.
 Items/DecorativeTorch1	Text		Decorative Torch	Torche décorative
 Items/DecorativeTorch1Desc	Text		A safer, better-looking alternative to crude torches.	Une alternative plus sûre et plus esthétique aux torches brutes.
-Items/DeepStalker	Text		Glistening Deepstalker	Traqueur des profondeurs scintillant
-Items/DeepStalkerDesc	Text		A crystal-plated predator that slithers through the glowing waters of the Shimmering Frontier, always on the hunt for something weaker.	Un prédateur plaqué de cristal qui se faufile dans les eaux lumineuses de la Frontière scintillante, toujours à la recherche de quelque chose de plus faible.
 Items/DeepspaceLog	Text		Deepspace Log	Le journal de l'espace lointain
-Items/DeepspaceLogDesc	Text		A thin glass tablet that displays a map of unfamiliar star constellations.	Une fine tablette de verre qui affiche une carte des constellations d'étoiles inconnues.
+Items/DeepspaceLogDesc	Text		A thin glass tablet that displays a map of unfamiliar star constellations.	Une fine tablette en verre qui affiche une carte des constellations d'étoiles inconnues.
+Items/Deepstalker	Text		Glistening Deepstalker	Traqueur des profondeurs scintillant
+Items/DeepstalkerDesc	Text		A crystal-plated predator that slithers through the glowing waters of the Shimmering Frontier, always on the hunt for something weaker.	Un prédateur plaqué de cristal qui se faufile dans les eaux lumineuses de la Frontière scintillante, toujours à la recherche de quelque chose de plus faible.
 Items/DelayCircuit	Text		Delay Circuit	Circuit de retardement
 Items/DelayCircuitDesc	Text		Stores electricity input and sends it out during intervals of 1 second.	Stocke l'entrée d'électricité et l'envoie pendant des intervalles de 1 seconde.
 Items/DesertBreastArmor	Text		Paladin Harness	Harnais de paladin
@@ -2131,14 +2131,14 @@ Items/GingerbreadManHelmDesc	Text		A funny headpiece made from gingerbread. Just
 Items/GingerbreadPantsArmor	Text		Gingerbread Pants	Jambières en pain d'épice
 Items/GingerbreadPantsArmorDesc	Text		Fairly stiff legs are the main feature of this baked armor, as wells as crumbs bewteen the toes. 	Les jambes raides sont la principale caractéristique de cette pièce d'armure cuite, ainsi que des miettes entre les orteils.
 Items/Glass	Text		Glass Piece	Morceau de verre
-Items/GlassBridge	Text		Glass Bridge	Pont de verre
+Items/GlassBridge	Text		Glass Bridge	Pont en verre
 Items/GlassBridgeDesc	Text		A transparent bridge that has no supports and that can be built across water or chasms.	Un pont transparent qui n'a pas de support et qui peut être construit au-dessus de l'eau ou d'un gouffre.
 Items/GlassDesc	Text		This piece of glass can be used as a base material to create more advanced glass objects.	Ce morceau de verre peut être utilisé comme matériau de base pour créer des objets en verre plus sophistiqués.
 Items/GlassFloor	Text		Glass Floor	Sol en verre
 Items/GlassFloorDesc	Text		A see-through tile to provide a crystal-clear vision of the ground underneath.	Une dalle transparente qui offre une vision cristalline du sol sous-jacent.
-Items/GlassSmelter	Text		Glass Smelter	Fonderie de verre
-Items/GlassSmelterDesc	Text		This handy furnace can turn any sand block into useful glass. 	Ce four pratique permet de transformer n'importe quel bloc de sable en verre utile.
-Items/GlassStatuePrism	Text		"Glass Statue ""Octahedron"""	"Statue en verre ""Octaèdre"""
+Items/GlassSmelter	Text		Glass Smelter	Four à verre
+Items/GlassSmelterDesc	Text		This handy furnace can turn any sand block into useful glass. 	Ce four pratique permet de transformer n'importe quel bloc de sable en verre.
+Items/GlassStatuePrism	Text		"Glass Statue ""Octahedron"""	Statue en verre ""Octaèdre""
 Items/GlassStatuePrismDesc	Text		This bold statue serves as an art piece that puts the shiny properties of glass on display.	Cette statue audacieuse est une œuvre d'art qui met en valeur les propriétés brillantes du verre.
 Items/GlassWorkbench	Text		Glass Workbench	Établi en verre
 Items/GlassWorkbenchDesc	Text		This workbench makes it possible to form glass into more advanced objects to add to your base. 	Cet établi permet de façonner le verre pour en faire des objets plus évolués à ajouter à votre base.
@@ -2203,8 +2203,8 @@ Items/GoldenChocolate	Text		Golden Chocolate	Chocolat Doré
 Items/GoldenChocolateDesc	Text		A limited edition chocolate for the cold season. There is no golden ticket inside, instead the whole thing is made out of it!	Un chocolat en édition limitée pour la saison froide. Il n'y a pas de billet doré à l'intérieur, mais tout est fait à partir de ça!
 Items/GoldenCocoon	Text		Golden Cocoon	Cocon doré
 Items/GoldenCocoonDesc	Text		A gold-plated chrysalis, this doesn't seem to be its final form.	Une chrysalide plaquée or, cela ne semble pas être sa forme définitive.
-Items/GoldenDeepStalker	Text		Splendid Deepstalker	Splendide traqueur des profondeurs
-Items/GoldenDeepStalkerDesc	Text		A Solarite-plated predator that slithers through the glowing waters of the Shimmering Frontier, always on the hunt for something weaker.	Un prédateur plaqué de solarite qui se faufile dans les eaux lumineuses de la Frontière scintillante, toujours à la recherche de quelque chose de plus faible.
+Items/GoldenDeepstalker	Text		Splendid Deepstalker	Splendide traqueur des profondeurs
+Items/GoldenDeepstalkerDesc	Text		A Solarite-plated predator that slithers through the glowing waters of the Shimmering Frontier, always on the hunt for something weaker.	Un prédateur plaqué de solarite qui se faufile dans les eaux lumineuses de la Frontière scintillante, toujours à la recherche de quelque chose de plus faible.
 Items/GoldenFeather	Text		Golden Feather	Plume dorée
 Items/GoldenFeatherDesc	Text		It's big and shiny, a must have for collectors.	Il est grand et brillant, un must have pour les collectionneurs.
 Items/GoldenJellyfish	Text		Golden Jellyfish	Méduse dorée
@@ -2874,23 +2874,23 @@ Items/OmorothTrophy	Text		Omoroth Figurine	Figurine d'Omoroth
 Items/OmorothTrophyDesc	Text		A lifelike representation of Omoroth, the Sea Titan.	Une représentation réaliste d'Omoroth, le Titan des mers.
 Items/OpabiniaFossil	Text		Opabinia Fossil	Fossile Opabinia
 Items/OpabiniaFossilDesc	Text		The petrified body of an prehistoric sea critter. They were one of the first apex predators to appear in the ancient oceans of earth.	Le corps pétrifié d'une créature marine préhistorique. Ils ont été l'un des premiers prédateurs au sommet à apparaître dans les anciens océans de la terre.
-Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	"Carte Oracle ""Éclat"""
+Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	Carte de l'Oracle "Éclat"
 Items/OracleCardAzeosDesc	Text		A scratched card with golden borders and an image of the sky titan. Looks like it's part of a set.	Une carte à gratter avec des bordures dorées et une image du titan du ciel. On dirait qu'il fait partie d'un ensemble.
-Items/OracleCardCity	Text		"Oracle Card ""Metropolis"""	"Carte Oracle ""Métropole"""
+Items/OracleCardCity	Text		"Oracle Card ""Metropolis"""	Carte de l'Oracle "Métropole"
 Items/OracleCardCityDesc	Text		A card in mint condition with golden borders and an image of an ancient city. Looks like it's part of a set.	Une carte en parfait état avec des bordures dorées et une image d'une ville antique. On dirait qu'il fait partie d'un ensemble.
-Items/OracleCardCore	Text		"Oracle Card ""Entity"""	"Carte Oracle ""Entité"""
+Items/OracleCardCore	Text		"Oracle Card ""Entity"""	Carte de l'Oracle "Entité"
 Items/OracleCardCoreDesc	Text		A bent card with golden borders and an image of the core. Looks like it's part of a set.	Une carte pliée avec des bordures dorées et une image du noyau. On dirait qu'il fait partie d'un ensemble.
-Items/OracleCardFlower	Text		"Oracle Card ""Brilliance"""	"Carte Oracle ""Brilliance"""
+Items/OracleCardFlower	Text		"Oracle Card ""Brilliance"""	Carte de l'Oracle "Brillance"
 Items/OracleCardFlowerDesc	Text		A charred card with golden borders and an image of a Glow Tulip. Looks like it's part of a set.	Une carte carbonisée avec des bordures dorées et une image d'une tulipe lumineuse. On dirait qu'il fait partie d'un ensemble.
-Items/OracleCardGem	Text		"Oracle Card ""Aura"""	"Carte Oracle ""Aura"""
+Items/OracleCardGem	Text		"Oracle Card ""Aura"""	Carte de l'Oracle "Aura"
 Items/OracleCardGemDesc	Text		A ripped card with golden borders and an image of an ancient gemstone. Looks like it's part of a set.	Une carte déchirée avec des bordures dorées et une image d'une pierre précieuse ancienne. On dirait qu'il fait partie d'un ensemble.
-Items/OracleCardLeader	Text		"Oracle Card ""Inspiration"""	"Carte Oracle ""Inspiration"""
+Items/OracleCardLeader	Text		"Oracle Card ""Inspiration"""	Carte de l'Oracle "Inspiration"
 Items/OracleCardLeaderDesc	Text		Half of a card with golden borders and an image of a golden mask. Looks like it's part of a set.	La moitié d'une carte avec des bordures dorées et une image d'un masque doré. On dirait qu'il fait partie d'un ensemble.
-Items/OracleCardOmoroth	Text		"Oracle Card ""Temperance"""	"Carte Oracle ""Tempérance"""
+Items/OracleCardOmoroth	Text		"Oracle Card ""Temperance"""	Carte de l'Oracle "Tempérance"
 Items/OracleCardOmorothDesc	Text		A faded card with golden borders and an image of the sea titan. Looks like it's part of a set.	Une carte fanée avec des bordures dorées et une image du titan des mers. On dirait qu'il fait partie d'un ensemble.
-Items/OracleCardRaAkar	Text		"Oracle Card ""Endurance"""	"Carte Oracle ""Endurance"""
+Items/OracleCardRaAkar	Text		"Oracle Card ""Endurance"""	Carte de l'Oracle "Endurance"
 Items/OracleCardRaAkarDesc	Text		A crumbling card with golden borders and an image of the sand titan. Looks like it's part of a set.	Une carte en ruine avec des bordures dorées et une image du titan des sables. On dirait qu'il fait partie d'un ensemble.
-Items/OracleCardScholar	Text		"Oracle Card ""Wisdom"""	"Carte Oracle ""Sagesse"""
+Items/OracleCardScholar	Text		"Oracle Card ""Wisdom"""	Carte de l'Oracle "Sagesse"
 Items/OracleCardScholarDesc	Text		A soaked card with golden borders and an image of a caveling scholar. Looks like it's part of a set.	Une carte imbibée avec des bordures dorées et une image d'un érudit cavelin. On dirait qu'il fait partie d'un ensemble.
 Items/OracleDeck	Text		Oracle Deck	Deck de l'Oracle
 Items/OracleDeckDesc	Text		The complete set of oracle cards. Bringing them together strangely restored the cards to perfect condition and now they emit a powerful, enlightening aura.	Le jeu complet de cartes de l'oracle. Le fait de les réunir a étrangement remis les cartes en parfait état et elles émettent désormais une aura puissante et éclairante.
@@ -3040,7 +3040,7 @@ Items/PinegrappleSeedDesc	Text		Grows into a refreshing sour and sweet fruit whe
 Items/PinkCherryFlower	Text		Pink Cherry Blossom	Fleur de cerisier rose
 Items/PinkCherryFlowerDesc	Text		A vibrant pink blossom that fell from a „weeping“ tree. Its short-lived blooming period reminds one of the transcience of life.	Une fleur rose vibrante qui est tombée d'un arbre pleureur. Sa courte période de floraison rappelle la transscience de la vie. 
 Items/PinkCherryTree	Text		Pink Cherry Tree	Cerisier rose
-Items/PinkCherryTreeDesc	Text		This „weeping“ tree holds its branches low, letting the blossoms droop towards the ground. It is said that brave warriors took depictions of those trees with them into their final battle.	"Cet arbre ""pleureur"" tient ses branches basses, laissant tomber les fleurs vers le sol. On raconte que de braves guerriers ont emporté avec eux des représentations de ces arbres dans leur bataille finale."
+Items/PinkCherryTreeDesc	Text		This „weeping“ tree holds its branches low, letting the blossoms droop towards the ground. It is said that brave warriors took depictions of those trees with them into their final battle.	Cet arbre "pleureur" tient ses branches basses, laissant tomber les fleurs vers le sol. On raconte que de braves guerriers ont emporté avec eux des représentations de ces arbres dans leur bataille finale.
 Items/PinkCoralotl	Text		Pink Coralotl	Corail rose
 Items/PinkCoralotlDesc	Text		A small pink amphibian with outward-protruding gills that look like corals. It also uses them to draw nutrients out of the waters of the Sunken Sea.	Un petit amphibien rose avec des branchies saillantes qui ressemblent à des coraux. Il les utilise également pour puiser des nutriments dans les eaux de la mer submergée.
 Items/PinkPalaceFish	Text		Pink Palace Fish	Poisson du palais rose
@@ -3405,8 +3405,8 @@ Items/SharkToothDesc	Text		It's as big as the palm of a hand, meeting with a row
 Items/SignArrow	Text		Arrow Sign	Panneau flèche directionnelle
 Items/SignArrowDesc	Text		Don’t know where to go? Just look at it!	Vous ne savez pas où aller? Regardez!
 Items/SignBrute	Text		Brute Sign	Panneau brut
-Items/SignBruteDesc	Text		Someone put all their artistic efforts into painting this sign and left it as a warning.
-Caveling Brutes or worse ahead."	Quelqu'un a déployé tous ses efforts artistiques pour peindre ce panneau et l'a laissé en guise d'avertissement.
+Items/SignBruteDesc	Text		"Someone put all their artistic efforts into painting this sign and left it as a warning.
+Caveling Brutes or worse ahead."	"Quelqu'un a déployé tous ses efforts artistiques pour peindre ce panneau et l'a laissé en guise d'avertissement.
 Brutes Cavelin ou pire."
 Items/SignSkull	Text		Skull Effigy	Totem Crâne
 Items/SignSkullDesc	Text		There is no clearer warning than a skull on a stake. Better keep out.	Il n’y a pas d’avertissement plus clair qu’un crâne sur un pieu. Mieux vaut ne pas s'en approcher.
@@ -3419,9 +3419,9 @@ Items/SilverTorrentDartDesc	Text		This elusive fish appears in swarms as a spect
 Items/SingingCrystal	Text		Singing Crystal	Cristal chantant
 Items/SingingCrystalDesc	Text		Due to its shape, this naturally formed crystal rings with a harmonic frequency when struck.	En raison de sa forme, ce cristal naturel sonne avec une fréquence harmonique lorsqu'il est frappé.
 Items/SkeletonPedestal	Text		Deceased Explorer	Explorateur décédé
-Items/SkeletonPedestalDesc	Text		The remains of a fellow explorer who wasn't as lucky as you. Funnily enough he can still fit hats onto his pale skull, that's at least something.	Les restes d'un explorateur qui n'a pas eu la même chance que vous. Il est amusant de constater qu'il peut encore enfiler des chapeaux sur son crâne pâle, c'est déjà ça.
 Items/SkeletonPedestal2	Text		Skeleton Decor	Squelette décoratif
-Items/SkeletonPedestal2Desc	Text		A spooky scary skeleton made from cheap plastic. Perfect to "liven" up any room.	Un squelette effrayant en plastique bon marché. Parfait pour « égayer » n’importe quelle pièce.
+Items/SkeletonPedestal2Desc	Text		A spooky scary skeleton made from cheap plastic. Perfect to "liven" up any room.	Un squelette effrayant en plastique bon marché. Parfait pour "égayer" n’importe quelle pièce.
+Items/SkeletonPedestalDesc	Text		The remains of a fellow explorer who wasn't as lucky as you. Funnily enough he can still fit hats onto his pale skull, that's at least something.	Les restes d'un explorateur qui n'a pas eu la même chance que vous. Il est amusant de constater qu'il peut encore enfiler des chapeaux sur son crâne pâle, c'est déjà ça.
 Items/SkirmisherHelm	Text		Skirmisher Cap	Casquette de tirailleur
 Items/SkirmisherHelmDesc	Text		A headpiece worn by caveling skirmishers which has been cobbled together with larvaskin, leaves and dirty cloth.	Un couvre-chef porté par les tirailleurs cavelin qui a été bricolé avec de la peau de larve, des feuilles et du tissu sale.
 Items/SkullNecklace	Text		Skull Necklace	Collier a tête de mort
@@ -3754,7 +3754,7 @@ Items/ValentinePresentDesc	Text		This rose and silver-colored gift is packed wit
 Items/ValentineRing	Text		Valentine Ring	Anneau de la Saint-Valentin
 Items/ValentineRingDesc	Text		A golden ring featuring a candy-colored heart. The perfect gift to give to someone you like.	Une bague dorée ornée d'un cœur couleur bonbon. Le cadeau parfait à offrir à quelqu'un que vous aimez.
 Items/ValentineRug	Text		Heart-shaped Rug	Tapis en forme de coeur
-Items/ValentineRugDesc	Text		"Nothing speaks ""love"" like a big fuzzy heart on the floor. It smells like wool and lavender. "	"Rien ne parle ""d'amour"" comme un gros cœur flou sur le sol. Ça sent la laine et la lavande."
+Items/ValentineRugDesc	Text		"Nothing speaks ""love"" like a big fuzzy heart on the floor. It smells like wool and lavender. "	Rien ne parle "d'amour" comme un gros cœur flou sur le sol. Ça sent la laine et la lavande.
 Items/ValentineWallHearts	Text		Wall Hearts	Coeurs muraux
 Items/ValentineWallHeartsDesc	Text		An assortment of hearts cut from paper, they look great on walls and make a base just a little bit more lovely.	Un assortiment de cœurs découpés dans du papier, ils ont fière allure sur les murs et font une base un peu plus jolie.
 Items/ValentineWorkbench	Text		Valentine Crafting Table	Table d'artisanat de la Saint-Valentin
@@ -3793,7 +3793,7 @@ Items/WallExplosiveBlock	Text		Explosives Deposit	Dépôt d'explosifs
 Items/WallExplosiveBlockDesc	Text		A highly dangerous box of explosives that can be placed like a wall. Don't hit it or it will blow up right in your face.	Une boîte d'explosifs très dangereuse qui peut être placée comme un mur. Ne la frappez pas ou elle vous explosera à la figure.
 Items/WallGalaxiteBlock	Text		Galaxite Wall	Mur de Galaxite
 Items/WallGalaxiteBlockDesc	Text		An otherwordly wall speckled with glittering stars.	Un mur d'un autre monde parsemé d'étoiles scintillantes.
-Items/WallGlassBlock	Text		Glass Wall	Mur de verre
+Items/WallGlassBlock	Text		Glass Wall	Mur en verre
 Items/WallGlassBlockDesc	Text		A solid wall made from glass. Works well for building a base or enclosures.	Un mur solide en verre. Elle convient parfaitement à la construction d'une base ou d'enceintes.
 Items/WallGleamWoodBlock	Text		Gleam Wood Wall	Mur de bois brillant
 Items/WallGleamWoodBlockDesc	Text		An enigmatic wall reinforced with glimmering plates.	Un mur énigmatique renforcé par des plaques scintillantes.
@@ -3913,9 +3913,9 @@ Items/WoodenDestructible	Text		Wooden Crate	Caisse en bois
 Items/WoodenDestructibleDesc	Text		A wooden box used by someone to store random goods.	Une boîte en bois utilisée par quelqu'un pour stocker des marchandises aléatoires.
 Items/WoodenRing	Text		Wooden Ring	Anneau en bois
 Items/WoodenRingDesc	Text		A simple wooden ring, nothing more, nothing less.	Un simple anneau en bois, rien de plus, rien de moins.
-Items/WoodenSign1	Text		"Wooden Sign ""Core"""	"Panneau en bois ""Noyau"""
+Items/WoodenSign1	Text		"Wooden Sign ""Core"""	Panneau en bois "Noyau"
 Items/WoodenSign1Desc	Text		Driftwood with patterns and carvings showing the Core.	Bois flotté avec motifs et sculptures montrant le noyau.
-Items/WoodenSign2	Text		"Wooden Sign ""Tulip"""	"Panneau en bois ""Tulipe"""
+Items/WoodenSign2	Text		"Wooden Sign ""Tulip"""	Panneau en bois "Tulipe"
 Items/WoodenSign2Desc	Text		Driftwood with patterns and carvings showing a Glow Tulip.	Bois flotté avec motifs et sculptures montrant une tulipe lumineuse.
 Items/WoodenThornRing	Text		Wooden Thorn Ring	Anneau d'épine en bois
 Items/WoodenThornRingDesc	Text		A circular, brambly root with sharp thorns pointing outward.	Une racine circulaire et ronceuse avec des épines acérées pointant vers l'extérieur.
@@ -3991,10 +3991,10 @@ Menu/ModMenuPopUp	Text		Thank you for exploring the MODS section! Please note th
 Menu/ModMissingClientDialogue	Text		Required mod {0} is missing. Do you want to install it (needs restart)?	Le mod requis {0} est manquant. Voulez-vous l'installer (nécessite un redémarrage)?
 Menu/ModMissingServerDialogue	Text		Required mod {0} is missing from server. Do you want to disable it (needs restart)?	Le mod requis {0} est manquant sur le serveur. Voulez-vous le désactiver (nécessite un redémarrage)?
 Menu/Mods	Text		Mods	Mods
-Menu/ModsAddedWithEnhancedAccess	Text		Caution: 'Elevated Access' mods have increased access to resources outside the game like user files and internet. For the best experience, install only from reputable sources.
+Menu/ModsAddedWithEnhancedAccess	Text		"Caution: 'Elevated Access' mods have increased access to resources outside the game like user files and internet. For the best experience, install only from reputable sources.
 
 Mods with Elevated Access:
-{0}"	"Attention: Les mods ayant un 'Accès Élévé' ont des accès supplémentaires sur les fichiers locaux et internet. Pour une meilleure expérience, installez uniquement depuis des sources réputées.
+{0}"	"Attention: Les mods ayant un ""Accès Élévé"" ont des accès supplémentaires sur les fichiers locaux et internet. Pour une meilleure expérience, installez uniquement depuis des sources réputées.
 
 Mods avec Accès Élevé:
 {0}"
@@ -4562,7 +4562,7 @@ rareItemFormat	Text	"Format used for items that has rarity indicator as part of 
 {1} = item name"	{0} {1}	{0} {1}
 receivedItems	Text	"For example"" Gained 4 Copper Bars!"" where {0} is 4 and {1} is Copper Bars"	Received {0} {1}	Reçu {0} {1}
 reduced	Text		Reduced	Réduit
-regenerateGameIDPrompt	Text		Do you want to regenerate a new Game ID? This will not affect any progression made.	Voulez-vous régénérer un nouvel Identifiant de la partie? Cela n'affectera pas la progression effectuée.
+regenerateGameIDPrompt	Text		Do you want to regenerate a new Game ID? This will not affect any progression made.	Voulez-vous régénérer un nouvel Identifiant de partie? Cela n'affectera pas la progression effectuée.
 reinforceCost	Text		Reinforce cost:	Coût de renforcement:
 reinforced	Text		Reinforced: {0}/{1}	Renforcé: {0}/{1}
 release	Text		Release	Libérer
