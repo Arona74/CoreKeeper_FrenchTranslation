@@ -1133,7 +1133,7 @@ Items/AlienTechCrystalLightDesc	Text		A highly advanced light using a giant anci
 Items/AlienTechDestructible	Text		Alien Tech Crate	Caisse technologie Alien 
 Items/AlienTechDestructibleDesc	Text		A breakable box that is not from this world. It contains extraterrestrial goods.	Une boîte cassable qui n'est pas de ce monde. Elle contient des produits extraterrestres.
 Items/AlienTechHelm	Text		Cosmos Visor Helm	Casque à visière cosmique
-Items/AlienTechHelmDesc	Text		A futuristic helm sealed under a big glass dome, leaving the view open to marvel at the miracles of space.	Une barre futuriste scellée sous un grand dôme de verre, laissant la vue ouverte pour s'émerveiller des miracles de l'espace.
+Items/AlienTechHelmDesc	Text		A futuristic helm sealed under a big glass dome, leaving the view open to marvel at the miracles of space.	Un casque futuriste scellé sous un grand dôme de verre, laissant la vue ouverte pour s'émerveiller des miracles de l'espace.
 Items/AlienTechPantsArmor	Text		Cosmos Legwear	Jambières cosmiques
 Items/AlienTechPantsArmorDesc	Text		Heavy pants that are less suited for quick movements and more for safely treating on foreign planets.	Des Jambières lourdes plus adaptées à parcourir des planètes étrangères qu'aux mouvements rapides.
 Items/AlienTechSpire	Text		Dysfunctional Coil	Bobine dysfonctionnelle
@@ -1624,7 +1624,7 @@ Items/CookingPotHelm	Text		Cooking Pot Lid	Couvercle de marmite
 Items/CookingPotHelmDesc	Text		A shiny metal cover that suppresses your boiling point.	Un couvercle en métal brillant qui supprime votre point d'ébullition.
 Items/CopperAnvil	Text		Copper Anvil	Enclume en cuivre
 Items/CopperAnvilDesc	Text		Get started with creating armor for looks and combat.	Commencez à créer des armures pour l'apparence et le combat.
-Items/CopperBar	Text		Copper Bar	Barre de cuivre
+Items/CopperBar	Text		Copper Bar	Lingot de cuivre
 Items/CopperBarDesc	Text		A simple metal ingot for blacksmithing.	Un simple lingot de métal pour la forge.
 Items/CopperBreastArmor	Text		Copper Breastplate	Cuirasse en cuivre
 Items/CopperBreastArmorDesc	Text		Got no sixpack? Just craft one!	Vous n'avez pas de pack de six ? Fabriquez-en un!
@@ -2004,7 +2004,7 @@ Items/FusionedChunkNecklace	Text		Fusioned Chunk Necklace	Collier de morceaux fu
 Items/FusionedChunkNecklaceDesc	Text		A misshappen necklace that combines chunks of all kinds of materials.	Un collier raté qui associe des morceaux de toutes sortes de matières.
 Items/GalaxiteAnvil	Text		Galaxite Anvil	Enclume en Galaxite
 Items/GalaxiteAnvilDesc	Text		A special anvil for creating otherwordly equipment.	Une enclume spéciale pour créer des équipements d'un autre monde.
-Items/GalaxiteBar	Text		Galaxite Bar	Barre de Galaxite
+Items/GalaxiteBar	Text		Galaxite Bar	Lingot de Galaxite
 Items/GalaxiteBarDesc	Text		An otherwordly ingot for outstanding blacksmithing.	Un lingot d'un autre monde pour une forge exceptionnelle.
 Items/GalaxiteBreastArmor	Text		Galaxite Torso	Torse en Galaxite
 Items/GalaxiteBreastArmorDesc	Text		A futuristic protection for the upper body. Its intimidating yet elegant design is a true marvel to look at.	Une protection futuriste pour le haut du corps. Son design intimidant mais élégant est une véritable merveille à regarder.
@@ -2376,7 +2376,7 @@ Items/InventorySeaBiomeChest	Text		Seashell Chest	Coffre de coquillage
 Items/InventorySeaBiomeChestDesc	Text		Is it a chest or is it a clam?	Est-ce un coffre ou est-ce une palourde?
 Items/IronAnvil	Text		Iron Anvil	Enclume en fer
 Items/IronAnvilDesc	Text		Great for creating high tier equipment.	Idéal pour créer des équipements de haut niveau.
-Items/IronBar	Text		Iron Bar	Lingo de fer
+Items/IronBar	Text		Iron Bar	Lingot de fer
 Items/IronBarDesc	Text		A strong metal ingot for blacksmithing.	Un lingot de métal solide pour la forge.
 Items/IronBow	Text		Iron Bow	Arc en fer
 Items/IronBowDesc	Text		A sturdy bow to shoot foes from afar.	Un arc robuste pour tirer sur les ennemis de loin.
@@ -2645,7 +2645,7 @@ Items/MinecartDesc	Text		Allows riding the railways.	Permet de rouler sur les ch
 Items/MinerBreastArmor	Text		Miner's Labour Suit	Costume de travail de mineur
 Items/MinerBreastArmorDesc	Text		An airtight zip-up suit for working in deep caverns. The flashy orange makes it official.	Une combinaison hermétique à fermeture éclair pour travailler dans des cavernes profondes. L'orange flashy le rend officiel.
 Items/MinerHelm	Text		Miner's Protective Helm	Heaume protecteur de mineur
-Items/MinerHelmDesc	Text		A handy helm with integrated goggles and a still functioning headlamp.	Une barre pratique avec des lunettes intégrées et une lampe frontale toujours fonctionnelle.
+Items/MinerHelmDesc	Text		A handy helm with integrated goggles and a still functioning headlamp.	Un casque pratique avec des lunettes intégrées et une lampe frontale toujours fonctionnelle.
 Items/MinerPantsArmor	Text		Miner's Worker Pants	Pantalon de mineur
 Items/MinerPantsArmorDesc	Text		Well-fitting pants that make traversing the underground much more convenient. Comes with squeaky rubber boots.	Des pantalons bien ajustés qui rendent la traversée du métro beaucoup plus pratique. Livré avec des bottes en caoutchouc qui grincent.
 Items/MoldChest	Text		Mold Chest	Coffre moisi
@@ -2760,7 +2760,7 @@ Items/OctarineAxe	Text		Octarine Axe	Hache en octarine
 Items/OctarineAxeDesc	Text		This crescent-shaped weapon hits hard and magically arcs towards enemies' weak spots.	Cette arme en forme de croissant frappe fort et se dirige comme par magie vers les points faibles des ennemis.
 Items/OctarineBackpack	Text		Octarine Bag	Sac en Octarine
 Items/OctarineBackpackDesc	Text		A strange bag that has more space inside than it looks like from the outside.	Un sac étrange qui a plus d'espace à l'intérieur qu'il n'y paraît de l'extérieur.
-Items/OctarineBar	Text		Octarine Bar	Barre d'octarine
+Items/OctarineBar	Text		Octarine Bar	Lingot d'octarine
 Items/OctarineBarDesc	Text		A mysterious ingot for extraordinary blacksmithing.	Un lingot mystérieux pour une forge extraordinaire.
 Items/OctarineBow	Text		Octarine Bow	Arc en octarin
 Items/OctarineBowDesc	Text		A strange bow that enhances the way arrows fly, allowing for quicker shots.	Un arc étrange qui améliore la façon dont les flèches volent, permettant des tirs plus rapides.
@@ -3264,7 +3264,7 @@ Items/ScarabWingcover	Text		Scarab Wingcover	Couvre-aile de scarabée
 Items/ScarabWingcoverDesc	Text		The wing carapace of a Bomb Scarab resembling half a skull. 	La carapace d'aile d'un scarabée bombe ressemblant à un demi-crâne.
 Items/ScarletAnvil	Text		Scarlet Anvil	Enclume en Scarlet
 Items/ScarletAnvilDesc	Text		A very advanced anvil for creating supreme equipment.	Une enclume très avancée pour créer un équipement suprême.
-Items/ScarletBar	Text		Scarlet Bar	Barre de Scarlet
+Items/ScarletBar	Text		Scarlet Bar	Lingot de Scarlet
 Items/ScarletBarDesc	Text		A valuable ingot for high-tier blacksmithing.	Un lingot précieux pour la forge de haut niveau.
 Items/ScarletBreastArmor	Text		Scarlet Breastplate	Cuirasse en Scarlet
 Items/ScarletBreastArmorDesc	Text		Fierce upper body armor for true warriors.	Armure féroce du haut du corps pour les vrais guerriers.
@@ -3431,7 +3431,7 @@ Items/SoftSponge	Text		Soft Sponge	Éponge douce
 Items/SoftSpongeDesc	Text		A soft, squishy sponge. Time to take a bath!	Une éponge douce et moelleuse. C'est l'heure de prendre un bain!
 Items/SolariteAnvil	Text		Solarite Anvil	Enclume en solarite
 Items/SolariteAnvilDesc	Text		A superior anvil for creating magnificent equipment.	Une enclume supérieure pour créer de magnifiques équipements.
-Items/SolariteBar	Text		Solarite Bar	Barre de Solarite
+Items/SolariteBar	Text		Solarite Bar	Lingot de Solarite
 Items/SolariteBarDesc	Text		A magnificent ingot for masterful blacksmithing.	Un magnifique lingot pour un travail de forge magistral.
 Items/SolariteChest	Text		Solarite Chest	Coffre en solarite
 Items/SolariteChestDesc	Text		A shimmering chest made from solarite. It is not locked anymore.	Un coffre scintillant en solarite. Il n'est plus verrouillé.
@@ -3606,7 +3606,7 @@ Items/TinAnvil	Text		Tin Anvil	Enclume en étain
 Items/TinAnvilDesc	Text		A better anvil for creating gear and weapons more suited for survival.	Une meilleure enclume pour créer des équipements et des armes plus adaptés à la survie.
 Items/TinAxe	Text		Tin Axe	Hache en étain
 Items/TinAxeDesc	Text		A slower but more damaging weapon against multiple enemies.	Une arme plus lente mais plus dommageable contre plusieurs ennemis.
-Items/TinBar	Text		Tin Bar	Barre d'étain
+Items/TinBar	Text		Tin Bar	Lingot d'étain
 Items/TinBarDesc	Text		A tough metal ingot for blacksmithing.	Un lingot de métal résistant pour la forge.
 Items/TinBreastArmor	Text		Tin Breastplate	Cuirasse en étain
 Items/TinBreastArmorDesc	Text		A good armor to survive battles more easily.	Une bonne armure pour survivre plus facilement aux batailles.
