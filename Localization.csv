@@ -462,7 +462,7 @@ ControlMapper/MenuLeft	Text		In-game UI left	Interface en jeu gauche
 ControlMapper/MenuRight	Text		In-game UI right	Interface en jeu droite
 ControlMapper/MenuUp	Text		In-game UI up	Interface en jeu haut
 ControlMapper/MoveBackward	Text		Move backward	Recule
-ControlMapper/MoveFaster	Text		Move fast in creative mode	Se déplacer rapidement en mode créatif
+ControlMapper/MoveFaster	Text		Move fast in creative mode	Se déplacer rapidement en mode Créatif
 ControlMapper/MoveForward	Text		Move forward	Avance
 ControlMapper/MoveLeft	Text		Move left	Se déplacer à gauche
 ControlMapper/MoveRight	Text		Move right	Déplacer vers la droite
@@ -561,7 +561,7 @@ CookFoodToDiscover	Text		Cook food to start discovering recipes	Cuisinez des ali
 CooldownMin	Text		{0} min cooldown	{0} min de recharge
 CooldownMinSec	Text		{0} min {1} sec cooldown	{0} min {1} sec de recharge
 CooldownSec	Text		{0} sec cooldown	{0} s de recharge
-CreativeMode	Text		Creative	Créatif
+CreativeMode	Text		Creative	Mode Créatif
 CreativeModeDesc	Text		Set your imagination free in an empty, limitless world.	Laissez libre cours à votre imagination dans un monde vide et sans limites.
 Credits/AdditionalProductionSupport	Text		Additional Production Support	Assistance à la production supplémentaire
 Credits/Animation	Text		Animation	Animation
@@ -572,7 +572,7 @@ Credits/COO	Text		COO	COO
 Credits/CommunityManager	Text		Community Manager	Gestionnaire de communauté
 Credits/CompatibilityTesting	Text		Compatibility testing	Test de compatibilité
 Credits/CoreKeeper	Text		Core Keeper	Core Keeper
-Credits/CreativeDirector	Text		Creative Director	Directeur de création
+Credits/CreativeDirector	Text		Creative Director	Directeur créatif
 Credits/DevelopedBy	Text		Developed by	Développé par
 Credits/DevelopmentDirector	Text		Development Director	Directeur du développement
 Credits/FinanceDirector	Text		Finance Director	Directeur des finances
@@ -3872,16 +3872,16 @@ LanguageOption	Text		Language: {0}	Langue: {0}
 LeashCattle	Text		Attach to cattle	Attacher au bétail
 MapMarkers/DeathMarker	Text	"{0} is replaced with ""You"" or name of other players"	{0} died here	{0} est mort ici
 MapMarkers/DeathMarkerThisPlayer	Text		You died here	Vous êtes mort ici
-MapMarkers/TheCore	Text		The Core	Le noyau
-MapMarkers/You	Text	This is shown when hovering over own player marker in Map	You	Toi
+MapMarkers/TheCore	Text		The Core	Le Noyau
+MapMarkers/You	Text	This is shown when hovering over own player marker in Map	You	Vous
 MapMarkers/mustBeAtPortalToTeleportDesc	Text		You must use a portal to teleport here.	Vous devez utiliser un portail pour vous téléporter ici.
 MapMarkers/portal	Text		Portal	Portail
 MapMarkers/portalGoToDesc	Text		Click to teleport to this portal.	Cliquez pour vous téléporter vers ce portail.
 MapMarkers/portalNotReadyDesc	Text		Portal is not ready.	Le portail n'est pas prêt.
-MapMarkers/portalStandingAtDesc	Text		You are standing at this portal.	Vous vous tenez à ce portail.
-Menu/AdminPlayers	Text		Admin players	Joueurs administrateurs
-Menu/AllowJoinByPresence	Text		Allow friends to join without Game ID	Autoriser les amis à rejoindre sans ID de jeu
-Menu/AmbientOcclusion	Text		Ambient Occlusion	Occlusion ambiante
+MapMarkers/portalStandingAtDesc	Text		You are standing at this portal.	Vous êtes à ce portail.
+Menu/AdminPlayers	Text		Admin players	Joueurs Administrateurs
+Menu/AllowJoinByPresence	Text		Allow friends to join without Game ID	Autoriser les amis à rejoindre sans l'ID de jeu
+Menu/AmbientOcclusion	Text		Ambient Occlusion	Occlusion Ambiante
 Menu/BannedPlayers	Text		Banned players	Joueurs bannis
 Menu/Bloom	Text		Bloom	Eclat
 Menu/BorderlessFullscreen	Text		Borderless fullscreen	Plein écran sans bordure
@@ -3889,14 +3889,14 @@ Menu/Brightness	Text		Brightness	Luminosité
 Menu/CharacterSlot	Text		Character slot	Emplacement de personnage
 Menu/CharacterStuck	Text	Option in gameplay settings allowing player to kill themselves in order to get out of a stuck position	My character is stuck!	Mon personnage est coincé!
 Menu/CharacterType	Text		Character type	Type de personnage
-Menu/ColorOutput	Text		Color Output	Sortie couleur
+Menu/ColorOutput	Text		Color Output	Sortie Couleur
 Menu/ConnectedPlayers	Text		Connected players:	Joueurs connectés:
 Menu/ConnectedPlayersWarning	Text		More than {0} players connected. This may cause issues.	Plus de {0} joueurs connectés. Cela peut causer des problèmes.
 Menu/CreateWorld	Text		Create world	Créer un monde
-Menu/CreatedSaveBackup	Text		Created CoreKeeperSaves.zip on Desktop	Création de CoreKeeperSaves.zip sur le bureau
+Menu/CreatedSaveBackup	Text		Created CoreKeeperSaves.zip on Desktop	Création de CoreKeeperSaves.zip sur le Bureau
 Menu/Credits	Text		Credits	Crédits
 Menu/DeleteCharactersMenu	Text		Delete characters menu	Menu de suppression des personnages
-Menu/DeleteCreativeCharactersMenu	Text		Delete creative characters menu	Menu de suppression des personnages Creative
+Menu/DeleteCreativeCharactersMenu	Text		Delete creative characters menu	Menu de suppression des personnages du mode Créatif
 Menu/DeleteOptions	Text		Delete options	Options de suppression
 Menu/DeleteProgressOptions	Text		Delete progress options	Options de suppression de progression
 Menu/DeleteWorldsMenu	Text		Delete worlds menu	Menu de suppression des mondes
@@ -4299,7 +4299,7 @@ cooking	Text		Cooking	Cuisson
 copyGameID	Text		Copy game ID	Copier l'ID du jeu
 crafting	Text	Shown as title in crafting window	Crafting	Artisanat
 createCharacter	Text		Create character	Créer un personnage
-creativeModeOptions	Text		Creative mode options	Options du mode créatif
+creativeModeOptions	Text		Creative mode options	Options du mode Créatif
 crystalSlot	Text	Used as hint when hovering a slot that needs a crystal	Crystal slot	Emplacement de cristal
 currentlySaving	Text		Saving...	Sauvegarde...
 damage	Text	"The damage of an item like a trap or a turret shown when hovering it, for example ""19-22 damage"""	{0}-{1} damage	{0}-{1} dégâts
@@ -4372,7 +4372,7 @@ hair	Text	Option to choose hair style	Hair	Cheveux
 hairColor	Text	Option to choose hair color	Hair color	Couleur de cheveux
 hardcoreDeathMessage	Text		You died. Character has been lost.	Tu es mort. Le personnage a été perdu.
 helmSlot	Text		Helm slot	Emplacement de casque
-hideCreativeUI	Text		Hide Creative UI	Cacher l'interface utilisateur créative
+hideCreativeUI	Text		Hide Creative UI	Cacher l'interface utilisateur du mode Créatif
 high	Text		High	Haut
 holdToSkip	Text	"{0} is replaced with a button/key so for example ""Hold SPACE to skip"". This is used in intro slides of the game."	Hold {0} to skip intro	Maintenez {0} pour sauter l'intro
 incubator	Text		Incubator	Incubateur
@@ -4524,7 +4524,7 @@ settingVibrationXbox	Text		Vibration	Vibration
 sheets	Text	Refers to Music sheets/notes	Sheets	Feuilles
 shirt	Text	Option to choose shirt style	Shirt	Chemise
 shortcuts	Text		Shortcuts	Raccourcis
-showCreativeUI	Text		Show Creative UI	Afficher l'interface utilisateur créative
+showCreativeUI	Text		Show Creative UI	Afficher l'interface utilisateur du mode Créatif
 signedOutWarning	Text		Warning!\Your profile has\been signed out.	Attention!\Votre profil\a été déconnecté.
 singleplayer	Text		Singleplayer	Solo
 skillInfo	Text		Click to expand talent tree.	Cliquez pour développer l'arbre des talents.
