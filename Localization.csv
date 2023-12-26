@@ -1,6 +1,6 @@
 Key	Type	Desc	English	Français
 15bit	Text		15-bit	15-bit
-15bitDither	Text		15-bit (Dither)	15-bit (Tramage)
+15bitDither	Text		15-bit (Dither)	15-bit (Dither)
 24bit	Text		24-bit	24-bit
 Achievements/CatchStarlightNautilus	Text		Legendary Fossil	Fossile légendaire
 Achievements/CherryBlossomTrees	Text		5 Centimeters Per Second	5 centimètres par seconde
@@ -41,7 +41,7 @@ Achievements/PetMaxLevel	Text		Pet Prodigy	Prodige animalier
 Achievements/SitOnCavelingToiletWithACrown	Text		A Throne Fit for a King	Un trône digne d'un roi
 Achievements/StormSong	Text		A Strange Song	Une chanson étrange
 Achievements/TalkToBigLarva	Text		Gossip Group	De vraies commères
-AchievementsLockedDescription/CatchStarlightNautilus	Text		Catch a Starlight Nautilus	Attraper un Coquillage stellaire
+AchievementsLockedDescription/CatchStarlightNautilus	Text		Catch a Starlight Nautilus	Attrapez un Coquillage stellaire
 AchievementsLockedDescription/DefeatAtlanteanWorm	Text		Defeat an Atlantean Worm	Vaincre le Ver Atlantéen
 AchievementsLockedDescription/DefeatAzeos	Text		Defeat Azeos the Sky Titan	Vaincre Azeos le Titan du ciel
 AchievementsLockedDescription/DefeatGhorm	Text		Defeat Ghorm the Devourer	Vaincre Ghorm le Dévoreur
@@ -55,10 +55,10 @@ AchievementsLockedDescription/DefeatMorpha	Text		Defeat Morpha the Aquatic Mass	
 AchievementsLockedDescription/DefeatOmoroth	Text		Defeat Omoroth the Sea Titan	Vaincre Omoroth le Titan des mers
 AchievementsLockedDescription/DefeatRaAkar	Text		Defeat Ra-Akar the Sand Titan	Vaincre Ra-Akar le Titan des sables
 AchievementsLockedDescription/Discover100CookBookRecipes	Text		Discover 100 recipes in the cook book	Découvrez 100 recettes dans le livre de cuisine
-AchievementsLockedDescription/EquipRingOfRockAndStone	Text		Equip the Ring of Rock and Ring of Stone	Équipez l'anneau de roche et l'anneau de pierre
+AchievementsLockedDescription/EquipRingOfRockAndStone	Text		Equip the Ring of Rock and Ring of Stone	Équipez l'Anneau de roche et l'Anneau de pierre
 AchievementsLockedDescription/FeedCattle	Text		Feed cattle	Nourrir du bétail
-AchievementsLockedDescription/FirstPet	Text		Hatch your first pet from an egg	Faites éclore votre premier animal de compagnie à partir d'un œuf
-AchievementsLockedDescription/GainOver200MovementSpeed	Text		Gain over 200% movement speed	Gagnez plus de 200% de vitesse de déplacement
+AchievementsLockedDescription/FirstPet	Text		Hatch your first pet from an egg	Obtenez votre premier familier à partir d'un œuf
+AchievementsLockedDescription/GainOver200MovementSpeed	Text		Gain over 200% movement speed	Obtenez plus de 200% de vitesse de déplacement
 AchievementsLockedDescription/HarvestGoldenIngredient	Text		Harvest a golden plant	Récolter une plante dorée
 AchievementsLockedDescription/KeyArtCharacter	Text		Dress like a character from the official illustrations	Habillez-vous comme un personnage des illustrations officielles
 AchievementsLockedDescription/MaxedOutCooking	Text		Gain 100 skill points in cooking	Gagnez 100 points de compétence en cuisine
@@ -75,13 +75,13 @@ AchievementsLockedDescription/ObtainRuneSong	Text		Obtain Rune Song	Obtenir le C
 AchievementsLockedDescription/ObtainSoulSeeker	Text		Obtain Soul Seeker	Obtenir la Chercheuse d'Âme
 AchievementsLockedDescription/ObtainTheOracleDeck	Text		Obtain the Oracle Card deck	Obtenir le jeu de cartes de l'Oracle
 AchievementsLockedDescription/PetColors	Text		Store all color variations of one pet type in a chest	Stocker toutes les variations de couleur d'un type de familier dans un coffre
-AchievementsLockedDescription/PetMaxLevel	Text		Reach max level on a pet	Atteindre le niveau maximum d'un animal de compagnie
+AchievementsLockedDescription/PetMaxLevel	Text		Reach max level on a pet	Atteindre le niveau maximum d'un familier
 AchievementsLockedDescription/PlantCherryTree	Text		Plant 10 Cherry Trees	Plantez 10 cerisiers
-AchievementsLockedDescription/SitOnCavelingToiletWithACrown	Text		Sit on a Caveling Toilet while wearing a crown	Asseyez-vous sur une toilette Cavelin tout en portant une couronne
-AchievementsLockedDescription/StormSong	Text		Play the Tune of Tempest	Jouer l'air de la Tempête
+AchievementsLockedDescription/SitOnCavelingToiletWithACrown	Text		Sit on a Caveling Toilet while wearing a crown	Asseyez-vous sur des toilettes cavelin tout en portant une couronne
+AchievementsLockedDescription/StormSong	Text		Play the Tune of Tempest	Jouez la Mélodie de l'Orage
 AchievementsLockedDescription/TalkToBigLarva	Text		Talk to a Big Larva	Parlez à une grosse larve
-AchievementsUnlockedDescription/CatchStarlightNautilus	Text		Caught a Starlight Nautilus	Attraper un Coquillage stellaire
-AchievementsUnlockedDescription/DefeatAtlanteanWorm	Text		Defeated an Atlantean Worm	Vaincre le Ver Atlantéen
+AchievementsUnlockedDescription/CatchStarlightNautilus	Text		Caught a Starlight Nautilus	Vous avez attrapé un Coquillage stellaire
+AchievementsUnlockedDescription/DefeatAtlanteanWorm	Text		Defeated an Atlantean Worm	A vaincu le Ver Atlantéen
 AchievementsUnlockedDescription/DefeatAzeos	Text		Defeated Azeos the Sky Titan	A vaincu Azeos le Titan du Ciel
 AchievementsUnlockedDescription/DefeatGhorm	Text		Defeated Ghorm the Devourer	Vous avez vaincu Ghorm le Dévoreur
 AchievementsUnlockedDescription/DefeatGlurch	Text		Defeated Glurch the Abominous Mass	Vous avez vaincu Glurch la masse abominable
@@ -93,32 +93,32 @@ AchievementsUnlockedDescription/DefeatMalugaz	Text		Defeated Malugaz the Corrupt
 AchievementsUnlockedDescription/DefeatMorpha	Text		Defeated Morpha the Aquatic Mass	Vous avez vaincu Morpha la masse aquatique
 AchievementsUnlockedDescription/DefeatOmoroth	Text		Defeated Omoroth the Sea Titan	Vous avez vaincu Omoroth le Titan des mers
 AchievementsUnlockedDescription/DefeatRaAkar	Text		Defeated Ra-Akar the Sand Titan	Vous avez vaincu Ra-Akar le Titan des sables
-AchievementsUnlockedDescription/Discover100CookBookRecipes	Text		Discovered 100 recipes in the cook book	Découverte de 100 recettes dans le livre de cuisine
-AchievementsUnlockedDescription/EquipRingOfRockAndStone	Text		Equipped the Ring of Rock and Ring of Stone	Vous équiper de l'anneau de roche et de l'anneau de pierre
-AchievementsUnlockedDescription/FeedCattle	Text		Fed cattle	Bétail nourri
-AchievementsUnlockedDescription/FirstPet	Text		Hatched your first pet from an egg	Éclosion de votre premier animal de compagnie à partir d'un œuf
-AchievementsUnlockedDescription/GainOver200MovementSpeed	Text		Gained over 200% movement speed	Avoir plus de 200 % de vitesse de déplacement
-AchievementsUnlockedDescription/HarvestGoldenIngredient	Text		Harvested a golden plant	Récolter une plante dorée
-AchievementsUnlockedDescription/KeyArtCharacter	Text		Dressed like a character from the official illustrations	Habillé comme un personnage des illustrations officielles
-AchievementsUnlockedDescription/MaxedOutCooking	Text		Gained 100 skill points in cooking	A gagné 100 points de compétence en cuisine
-AchievementsUnlockedDescription/MaxedOutCrafting	Text		Gained 100 skill points in crafting	A gagné 100 points de compétence en artisanat
-AchievementsUnlockedDescription/MaxedOutFishing	Text		Gained 100 skill points in fishing	A gagné 100 points de compétence en pêche
-AchievementsUnlockedDescription/MaxedOutGardening	Text		Gained 100 skill points in gardening	A obtenu 100 points de compétence en jardinage
-AchievementsUnlockedDescription/MaxedOutMelee	Text		Gained 100 skill points in melee	A gagné 100 points de compétence en mêlée
-AchievementsUnlockedDescription/MaxedOutMining	Text		Gained 100 skill points in mining	A gagné 100 points de compétence en minage
-AchievementsUnlockedDescription/MaxedOutRange	Text		Gained 100 skill points in range	A gagné 100 points de compétence à portée
-AchievementsUnlockedDescription/MaxedOutRunning	Text		Gained 100 skill points in running	A gagné 100 points de compétence en course à pied
-AchievementsUnlockedDescription/MaxedOutVitality	Text		Gained 100 skill points in vitality	A gagné 100 points de compétence en vitalité
-AchievementsUnlockedDescription/ObtainPhantomSpark	Text		Obtained Phantom Spark	Étincelle Fantôme obtenue
-AchievementsUnlockedDescription/ObtainRuneSong	Text		Obtained Rune Song	Chanson Runique obtenue
-AchievementsUnlockedDescription/ObtainSoulSeeker	Text		Obtained Soul Seeker	Chercheuse d'Âme obtenue
-AchievementsUnlockedDescription/ObtainTheOracleDeck	Text		Obtained the Oracle Card deck	Obtention du jeu de cartes de l'Oracle
+AchievementsUnlockedDescription/Discover100CookBookRecipes	Text		Discovered 100 recipes in the cook book	Vous avez découvert 100 recettes dans le livre de cuisine
+AchievementsUnlockedDescription/EquipRingOfRockAndStone	Text		Equipped the Ring of Rock and Ring of Stone	Vous vous êtes équipé de l'Anneau de roche et de l'Anneau de pierre
+AchievementsUnlockedDescription/FeedCattle	Text		Fed cattle	Vous avez nourri du Bétail
+AchievementsUnlockedDescription/FirstPet	Text		Hatched your first pet from an egg	Vous avez obtenu votre premier animal de compagnie à partir d'un œuf
+AchievementsUnlockedDescription/GainOver200MovementSpeed	Text		Gained over 200% movement speed	Vous avez eu plus de 200% de vitesse de déplacement
+AchievementsUnlockedDescription/HarvestGoldenIngredient	Text		Harvested a golden plant	Vous avez récolté une plante dorée
+AchievementsUnlockedDescription/KeyArtCharacter	Text		Dressed like a character from the official illustrations	Vous vous êtes habillé comme un personnage des illustrations officielles
+AchievementsUnlockedDescription/MaxedOutCooking	Text		Gained 100 skill points in cooking	Vous avez obtenu 100 points de compétence en cuisine
+AchievementsUnlockedDescription/MaxedOutCrafting	Text		Gained 100 skill points in crafting	Vous avez obtenu 100 points de compétence en artisanat
+AchievementsUnlockedDescription/MaxedOutFishing	Text		Gained 100 skill points in fishing	Vous avez obtenu 100 points de compétence en pêche
+AchievementsUnlockedDescription/MaxedOutGardening	Text		Gained 100 skill points in gardening	Vous avez obtenu 100 points de compétence en jardinage
+AchievementsUnlockedDescription/MaxedOutMelee	Text		Gained 100 skill points in melee	Vous avez obtenu 100 points de compétence en mêlée
+AchievementsUnlockedDescription/MaxedOutMining	Text		Gained 100 skill points in mining	Vous avez obtenu 100 points de compétence en minage
+AchievementsUnlockedDescription/MaxedOutRange	Text		Gained 100 skill points in range	Vous avez obtenu 100 points de compétence à portée
+AchievementsUnlockedDescription/MaxedOutRunning	Text		Gained 100 skill points in running	Vous avez obtenu obtenu 100 points de compétence en course à pied
+AchievementsUnlockedDescription/MaxedOutVitality	Text		Gained 100 skill points in vitality	Vous avez obtenu 100 points de compétence en vitalité
+AchievementsUnlockedDescription/ObtainPhantomSpark	Text		Obtained Phantom Spark	Vous avez obtenu l'Étincelle Fantôme
+AchievementsUnlockedDescription/ObtainRuneSong	Text		Obtained Rune Song	Vous avez obtenu la Chanson Runique
+AchievementsUnlockedDescription/ObtainSoulSeeker	Text		Obtained Soul Seeker	Vous avez obtenu la Chercheuse d'Âme
+AchievementsUnlockedDescription/ObtainTheOracleDeck	Text		Obtained the Oracle Card deck	Vous avez obtenu le jeu de cartes de l'Oracle
 AchievementsUnlockedDescription/PetColors	Text		Stored all color variations of one pet type in a chest	Stockage de toutes les variations de couleur d'un type de familier dans un coffre
-AchievementsUnlockedDescription/PetMaxLevel	Text		Reached max level on a pet	Atteint le niveau maximum d'un familier
-AchievementsUnlockedDescription/PlantCherryTree	Text		Planted 10 Cherry Trees	Planté 10 cerisiers
-AchievementsUnlockedDescription/SitOnCavelingToiletWithACrown	Text		Sat on a Caveling Toilet while wearing a crown	Assis sur une toilette Cavelin tout en portant une couronne
-AchievementsUnlockedDescription/StormSong	Text		Played the Tune of Tempest	Joue l'air de la Tempête
-AchievementsUnlockedDescription/TalkToBigLarva	Text		Talked to a Big Larva	Parlé à une grosse larve
+AchievementsUnlockedDescription/PetMaxLevel	Text		Reached max level on a pet	Un familier à atteint le niveau maximum
+AchievementsUnlockedDescription/PlantCherryTree	Text		Planted 10 Cherry Trees	Vous avez planté 10 cerisiers
+AchievementsUnlockedDescription/SitOnCavelingToiletWithACrown	Text		Sat on a Caveling Toilet while wearing a crown	Vous vous êtes assis sur des toilettes cavelin tout en portant une couronne
+AchievementsUnlockedDescription/StormSong	Text		Played the Tune of Tempest	Vous avez joué la Mélodie de l'Orage
+AchievementsUnlockedDescription/TalkToBigLarva	Text		Talked to a Big Larva	Vous avez parlé à une grosse larve
 Advanced	Text		Advanced	Avancé
 AvailableInEarlyAccess	Text		Will be available at Early Access launch	Sera disponible au lancement de l'accès anticipé
 BetaVersion	Text	{0} will be replaced by the version number	{0} Beta Version	{0} Version bêta
@@ -176,7 +176,7 @@ ConditionEffect/ExplosivesDamage	Text		{0}% explosives damage	{0}% de dégâts d
 ConditionEffect/Fishing	Text		{0} fishing	{0} pêche
 ConditionEffect/Glowing	Text		{0} glow	{0} lueur
 ConditionEffect/HarvestChance	Text		{0}% extra harvest chance	{0}% de chances de récolte supplémentaires
-ConditionEffect/HealOverTime	Text		{0} health every sec	{0} points de vie toutes les secondes
+ConditionEffect/HealOverTime	Text		{0} health every sec	{0} points de vie par seconde
 ConditionEffect/Health	Text		{0} health	{0} santé
 ConditionEffect/Hunger	Text		{0} food	{0} nourriture
 ConditionEffect/ImmuneToSlimeSlow	Text		Immune to being slowed by slime	Immunisé contre le ralentissement par le slime
@@ -563,57 +563,74 @@ CooldownMinSec	Text		{0} min {1} sec cooldown	{0} min {1} sec de recharge
 CooldownSec	Text		{0} sec cooldown	{0} s de recharge
 CreativeMode	Text		Creative	Mode Créatif
 CreativeModeDesc	Text		Set your imagination free in an empty, limitless world.	Laissez libre cours à votre imagination dans un monde vide et sans limites.
-Credits/AdditionalProductionSupport	Text		Additional Production Support	Assistance à la production supplémentaire
+Credits/AmazingModeratorTeam	Text		Amazing Moderator Team	Une équipe de modération incroyable
 Credits/Animation	Text		Animation	Animation
 Credits/Art	Text		Art	Art
-Credits/AssociateProductManager	Text		Associate Product Manager	Chef de produit associé
-Credits/CEO	Text		CEO	PDG
+Credits/AssociateProducer	Text		Associate Producer	Associate Producer
+Credits/AssociateProductManager	Text		Associate Product Manager	Associate Product Manager
+Credits/CEO	Text		CEO	CEO
 Credits/COO	Text		COO	COO
 Credits/CommunityManager	Text		Community Manager	Gestionnaire de communauté
 Credits/CompatibilityTesting	Text		Compatibility testing	Test de compatibilité
 Credits/CoreKeeper	Text		Core Keeper	Core Keeper
-Credits/CreativeDirector	Text		Creative Director	Directeur créatif
+Credits/CoreSupporters	Text		Core Supporters	Core Supporters
+Credits/CreativeDirector	Text		Creative Director	Creative Director
+Credits/DevOps	Text		DevOps	DevOps
 Credits/DevelopedBy	Text		Developed by	Développé par
-Credits/DevelopmentDirector	Text		Development Director	Directeur du développement
-Credits/FinanceDirector	Text		Finance Director	Directeur des finances
-Credits/FinanceTeam	Text		Finance Team	Équipe des finances
+Credits/DevelopmentDirector	Text		Development Director	Development Director
+Credits/FinanceDirector	Text		Finance Director	Finance Director
+Credits/FinanceTeam	Text		Finance Team	Finance Team
 Credits/GameDesign	Text		Game design	Game design
-Credits/GameplayDirector	Text		Gameplay Director	Directeur du Gameplay
-Credits/HeadofProductMarketing	Text		Head of Product Marketing	Responsable Marketing Produits
-Credits/LeadAnimator	Text		Lead Animator	Animateur principal
-Credits/LeadArtist	Text		Lead Artist	Artiste principal
-Credits/LeadRenderingProgrammer	Text		Lead Rendering Programmer	Programmeur principal de rendu
+Credits/GameDirector	Text		Game Director	Game Director
+Credits/GameplayDirector	Text		Gameplay Director	Gameplay Director
+Credits/HeadofProductMarketing	Text		Head of Product Marketing	Head of Product Marketing
+Credits/LeadAnimator	Text		Lead Animator	Lead Animator
+Credits/LeadAnimators	Text		Lead Animators	Lead Animators
+Credits/LeadArtist	Text		Lead Artist	Lead Artist
+Credits/LeadRenderingProgrammer	Text		Lead Rendering Programmer	Lead Rendering Programmer
 Credits/Localisation	Text		Localisation	Localisation
-Credits/MarketingDirector	Text		Marketing Director	Directeur marketing
-Credits/MarketingMaterial	Text		Marketing material	Matériel de commercialisation
+Credits/MarketingDirector	Text		Marketing Director	Marketing Director
+Credits/MarketingMaterial	Text		Marketing material	Marketing material
 Credits/Music	Text		Music	Musique
-Credits/OurAmazingModTeam	Text		Our Amazing Moderator Team	Notre incroyable équipe de modérateurs
+Credits/OperationsAssistantManager	Text		Operations Assistant Manager	Operations Assistant Manager
+Credits/OperationsManager	Text		Operations Manager	Operations Manager
 Credits/PCFQA	Text		PC FQA	PC FQA
-Credits/PRAndCommunications	Text		PR and Communications	RP et communication
-Credits/ProductManager	Text		Product Manager	Chef de produit
-Credits/ProductionAssistant	Text		Production Assistant	Assistant de production
-Credits/Programming	Text		Programming	La programmation
-Credits/PublishedBy	Text		Published by	Publié par
-Credits/ReleaseManager	Text		Release Manager	Gestionnaire de version
+Credits/PRAndCommunications	Text		PR and Communications	Communication et Relations publiques
+Credits/ProductManager	Text		Product Manager	Product Manager
+Credits/ProductionAssistant	Text		Production Assistant	Production Assistant
+Credits/ProductionDirector	Text		Production Director	Production Director
+Credits/ProductionSupport	Text		Production Support	Production Support
+Credits/Programming	Text		Programming	Développement
+Credits/PublishedBy	Text		Published by	Edité par
+Credits/ReleaseManager	Text		Release Manager	Release Manager
 Credits/SFX	Text		SFX	SFX
-Credits/SalesDirector	Text		Sales Director	Directeur des ventes
-Credits/SalesManager	Text		Sales Manager	Directeur commercial
-Credits/SeniorProducer	Text		Senior Producer	Producteur principal
-Credits/SeventyOneConsulting	Text		71 Consulting	71 Conseil
-Credits/SocialMediaAndCommunityManager	Text		Social Media and Community Manager	Gestionnaire de médias sociaux et de communauté
-Credits/SpecialThanks	Text		Special thanks	Remerciement spécial
-Credits/TechnicalDirector	Text		Technical Director	Directeur technique
-Credits/ThaiFont	Text		Thai font	Police thaïlandaise
-Credits/UserTesting	Text		User testing	Utilisateurs tests
-Credits/Writing	Text		Writing	Sénariste
+Credits/SalesDirector	Text		Sales Director	Sales Director
+Credits/SalesManager	Text		Sales Manager	Sales Manager
+Credits/SeniorBrandManager	Text		Senior Brand Manager	Senior Brand Manager
+Credits/SeniorProducer	Text		Senior Producer	Senior Producer
+Credits/SeniorProductManager	Text		Senior Product Manager	Senior Product Manager
+Credits/SeniorSalesManager	Text		Senior Sales Manager	Senior Sales Manager
+Credits/SeventyOneConsulting	Text		71 Consulting	71 Consulting
+Credits/SocialMediaAndCommunityManager	Text		Social Media and Community Manager	Réseaux sociaux et Gestionnaire de communauté
+Credits/SpecialThanks	Text		Special thanks	Remerciements spéciaux
+Credits/TechnicalDirector	Text		Technical Director	Technical Director
+Credits/ThaiFont	Text		Thai font	Thai font
+Credits/UserTesting	Text		User testing	User testing
+Credits/Writing	Text		Writing	Texte
 CreditsNames/ACE	Text		ACE Agency	ACE Agency
+CreditsNames/AndreeaSandu	Text		Andreea Sandu	Andreea Sandu
 CreditsNames/AzurDawn	Text		AzurDawn	AzurDawn
 CreditsNames/Beach	Text		Beach	Beach
 CreditsNames/BridieDaniels	Text		Bridie Daniels	Bridie Daniels
 CreditsNames/Cedric	Text		Cedric	Cedric
+CreditsNames/ChantelleLarmond	Text		Chantelle Larmond	Chantelle Larmond
+CreditsNames/CharlotteKelly	Text		Charlotte Kelly	Charlotte Kelly
 CreditsNames/ChrisGlover	Text		Chris Glover	Chris Glover
+CreditsNames/ChristianMarkowicz	Text		Christian Markowicz	Christian Markowicz
+CreditsNames/CormacBrennan	Text		Cormac Brennan	Cormac Brennan
+CreditsNames/DanJenkins	Text		Dan Jenkins	Dan Jenkins
 CreditsNames/DanielPereira	Text		Daniel Pereira	Daniel Pereira
-CreditsNames/DanieldeKretser	Text		Danielde Kretser	Danielde Kretser
+CreditsNames/DanieldeKretser	Text		Daniel de Kretser	Daniel de Kretser
 CreditsNames/DaveScammell	Text		Dave Scammell	Dave Scammell
 CreditsNames/DavidLindqvist	Text		David Lindqvist	David Lindqvist
 CreditsNames/DavidWalker	Text		David Walker	David Walker
@@ -622,7 +639,7 @@ CreditsNames/Enzyme	Text		Enzyme	Enzyme
 CreditsNames/FelixWestin	Text		Felix Westin	Felix Westin
 CreditsNames/Fireshine	Text		Fireshine Games	Fireshine Games
 CreditsNames/FredrikPrantare	Text		Fredrik Präntare	Fredrik Präntare
-CreditsNames/FriendsAndFamily	Text		Friends and Families	Friends and Families
+CreditsNames/FriendsAndFamily	Text		Friends and Families	Amis et Familles
 CreditsNames/GarryWilliams	Text		Garry Williams	Garry Williams
 CreditsNames/Genos	Text		Genos	Genos
 CreditsNames/HermanAppelgren	Text		Herman Appelgren	Herman Appelgren
@@ -636,33 +653,44 @@ CreditsNames/Karillya	Text		Karillya	Karillya
 CreditsNames/KeywordsIndia	Text		Keywords India	Keywords India
 CreditsNames/Kittco36	Text		Kittco36	Kittco36
 CreditsNames/LeeOni	Text		Lee~ (Oni)	Lee~ (Oni)
+CreditsNames/LetTheBodyFall	Text		LetTheBodyFall	LetTheBodyFall
 CreditsNames/MarkInman	Text		Mark Inman	Mark Inman
 CreditsNames/MaxHallden	Text		Max Halldén	Max Halldén
 CreditsNames/MegSpencer	Text		Meg Spencer	Meg Spencer
+CreditsNames/Mistry	Text		Mistry	Mistry
 CreditsNames/MrVilo	Text		Mr Vilo	Mr Vilo
 CreditsNames/Nebur7420	Text		Nebur7420	Nebur7420
 CreditsNames/NickPayne	Text		Nick Payne	Nick Payne
+CreditsNames/NiklasWigertz	Text		Niklas Wigertz	Niklas Wigertz
 CreditsNames/Omnimetatron	Text		Omnimetatron	Omnimetatron
 CreditsNames/OskarTengvall	Text		Oskar Tengvall	Oskar Tengvall
 CreditsNames/Playtropic	Text		Playtropic	Playtropic
 CreditsNames/Pugstorm	Text		Pugstorm AB	Pugstorm AB
 CreditsNames/RasmusJarvela	Text		Rasmus Järvelä	Rasmus Järvelä
 CreditsNames/RicardoCruzFarah	Text		Ricardo Cruz Farah	Ricardo Cruz Farah
+CreditsNames/RobinForsstrom	Text		Robin Forsström	Robin Forsström
 CreditsNames/SamMckie	Text		Sam Mckie	Sam Mckie
 CreditsNames/SarahHoeksma	Text		Sarah Hoeksma	Sarah Hoeksma
 CreditsNames/SeanCampbell	Text		Sean Campbell	Sean Campbell
+CreditsNames/SoulWade	Text		Soul Wade	Soul Wade
 CreditsNames/SvenThole	Text		Sven Thole	Sven Thole
+CreditsNames/Svings	Text		Svings	Svings
 CreditsNames/Testify	Text		Testify	Testify
 CreditsNames/Testronic	Text		Testronic	Testronic
 CreditsNames/ThomasLumeau	Text		Thomas Lumeau	Thomas Lumeau
+CreditsNames/TimSchipper	Text		Tim Schipper	Tim Schipper
 CreditsNames/TinaMoore	Text		Tina Moore	Tina Moore
 CreditsNames/TonyEvans	Text		Tony Evans	Tony Evans
+CreditsNames/VictoriaKrizmanich	Text		Victoria Krizmanich	Victoria Krizmanich
 CreditsNames/VincentCoates	Text		Vincent Coates	Vincent Coates
+CreditsNames/Zar	Text		Zar	Zar
+CreditsNames/bklyn	Text		bklyn	bklyn
 CreditsNames/ohCreative	Text		ohCreative	ohCreative
 DemoVersion	Text	{0} will be replaced by the version number	{0} Demo Version	{0} Version de démonstration
 DontOverrideSeason	Text		Don't override season	Ne pas remplacer la saison
 EarlyAccess	Text		Early Access	Accès anticipé
 EarlyAccessVersion	Text	{0} will be replaced by the version number	{0} Early Access Version	{0} Version Accès Anticipé
+Emotes/AlreadyScanned	Text		I have already scanned this	J'ai déjà scanné ceci
 Emotes/CantLeaveWhileItsMoving	Text	Character says this when riding a vehicle such as minecart or boat and tries to jump off while it is moving	I can't leave while it's moving	Je ne peux pas descendre tant que ça bouge
 Emotes/CantSleepWhenEnemiesNear	Text		I can't sleep when enemies are nearby	Je ne peux pas dormir quand les ennemis sont à proximité
 Emotes/ICantDestroyThisObject	Text		I can't destroy this object	Je ne peux pas détruire cet objet
@@ -1413,6 +1441,8 @@ Items/Campfire	Text		Campfire	Feu de camp
 Items/CampfireDesc	Text		Great for huddling together, telling stories and burning marshmallows to a crisp.	Idéal pour se blottir, raconter des histoires et brûler des guimauves pour les rendre croustillantes.
 Items/Candle	Text		Candle	Bougie
 Items/CandleDesc	Text		This simple decorative candle can be placed anywhere to set up a cozy atmosphere.	Cette simple bougie décorative peut être placée n'importe où pour créer une atmosphère chaleureuse.
+Items/CandleStack	Text		Candle Stack	Pile de bougies
+Items/CandleStackDesc	Text		A set of candles for your decoration needs or the right atmosphere when summoning evil entities.	Un ensemble de bougies pour vos besoins de décoration ou la bonne ambiance lors de l'invocation d'entités maléfiques.
 Items/CarapaceBreastArmor	Text		Carapace Breastplate	Cuirasse de carapace
 Items/CarapaceBreastArmorDesc	Text		An organic body armor resembling Ghorm's shell, it is heavy and feels weird on the inside.	Une armure corporelle organique ressemblant à la carapace de Ghorm, elle est lourde et semble étrange à l'intérieur.
 Items/CarapaceHelm	Text		Carapace Helm	Heaume de carapace
@@ -1462,7 +1492,7 @@ Items/CavelingCup	Text		Caveling Cup	Coupe de cavelin
 Items/CavelingCupDesc	Text		This small drinking that cup must have held many different beverages. There is still a faint smell of something sweet.	Cette petite tasse à boire devait contenir de nombreuses boissons différentes. Il y a encore une légère odeur de quelque chose de sucré.
 Items/CavelingDoll	Text		Caveling Doll	Poupée cavelin
 Items/CavelingDollDesc	Text		A handmade doll found in a grave. It must once have belonged to a child...	Une poupée faite à la main trouvée dans une tombe. Il a dû appartenir à un enfant...
-Items/CavelingEffigy	Text		Caveling Effigy	Effigie de cavelin
+Items/CavelingEffigy	Text		Caveling Effigy	Totem Cavelin
 Items/CavelingEffigyDesc	Text		A small depiction of a caveling, it's hollow and must have been used for storing small goods.	Une petite représentation d'un cavelin, c'est creux et doit avoir été utilisé pour stocker de petites marchandises.
 Items/CavelingFarmerTrophy	Text		Caveling Gardener Figurine	Figurine de jardinier cavelin
 Items/CavelingFarmerTrophyDesc	Text		A lifelike representation of a Caveling Gardener.	Une représentation réaliste d'un jardinier Cavelin.
@@ -1581,7 +1611,10 @@ Items/ClayCavelingMoss	Text		Clay Moss	Mousse d'argile
 Items/ClayCavelingMossDesc	Text		Ground plants found in the Clay Caves. They grow aromatic berries that attract cavelings of the corresponding area.	Plantes terrestres trouvées dans les grottes d'argile. Ils font pousser des baies aromatiques qui attirent les cavelin de la zone correspondante.
 Items/ClayPot	Text		Clay Pot	Pot en terre cuite
 Items/ClayPotDesc	Text		A crude container thats already almost broken. Smash it to relieve it of its contents.	Un conteneur brut qui est déjà presque cassé. Cassez-le pour le décharger de son contenu.
-Items/ClotRing	Text		Clot Ring	Anneau de caillot
+Items/ClayWormSegment	Text		Clay Burrower	Fouisseur d'argile
+Items/ClayWormTrophy	Text		Clay Burrower Figurine	Figurine de Fouisseur d’argile
+Items/ClayWormTrophyDesc	Text		A lifelike representation of a Clay Burrower.	Une représentation réaliste d'un Fouisseur d’argile.
+Items/ClotRing	Text		Clot Ring	Anneau Coagulé
 Items/ClotRingDesc	Text		A blood-red ring that latches onto your finger.	Une bague rouge sang qui s'accroche à votre doigt.
 Items/Cocoon	Text		Cocoon	Cocon
 Items/CocoonTrophy	Text		Cocoon Figurine	Figurine Cocon
@@ -1898,6 +1931,20 @@ Items/EasterPillar	Text		Easter Pillar	Pilier de Pâques
 Items/EasterPillarDesc	Text		A beautiful decorative pillar, holding up high a planter containing spring flowers. A perfect way to greet the new season.	Un magnifique pilier décoratif, portant haut une jardinière contenant des fleurs de printemps. Une façon parfaite de saluer la nouvelle saison.
 Items/EasterWorkbench	Text		Easter Workbench	Établi de Pâques
 Items/EasterWorkbenchDesc	Text		This small working table contains the right materials to create a selection of spring and Easter-themed decorations.	Cette petite table de travail contient le matériel nécessaire pour créer une sélection de décorations sur le thème du printemps et de Pâques.
+Items/EerieChest	Text		Eerie Chest	Coffre étrange
+Items/EerieChestDesc	Text		A creaking chest, useful for storing belongings. There are faint growling noises that can be heard from inside.	Un coffre grinçant, utile pour ranger ses affaires. De légers grognements peuvent être entendus de l’intérieur.
+Items/EerieDresser	Text		Eerie Dresser	Commode étrange
+Items/EerieDresserDesc	Text		Years of misuse turned this dresser into what it is now. Hopefully it treats your clothes better.	Des années d’utilisation abusive ont transformé cette commode en ce qu’elle est aujourd’hui. Espérons que vos vêtements soient mieux traités.
+Items/EerieFloor	Text		Eerie Floor	Sol étrange
+Items/EerieFloorDesc	Text		Dark floor boards trodden for many years by unholy feet.	Des planches de parquet sombres foulées depuis de nombreuses années par des pieds impies.
+Items/EerieRug	Text		Eerie Rug	Tapis étrange
+Items/EerieRugDesc	Text		An old rug with a mysterious sigil. A witness of too many séances.	Un vieux tapis avec un mystérieux sceau. Il en a trop vu.
+Items/EerieStool	Text		Eerie Stool	Tabouret étrange
+Items/EerieStoolDesc	Text		A seating opportunity made from cursed wood, ready to scare your buttocks off.	Une occasion de s'asseoir sur du bois maudit, prêt à vous effrayer les fesses.
+Items/EerieTable	Text		Eerie Table	Table étrange
+Items/EerieTableDesc	Text		An old table that was used to serve horrible dishes. The presence of those who devoured them still lingers.	Une vieille table utilisée pour servir des plats horribles. La présence de ceux qui les ont dévorés persiste encore.
+Items/EerieTreeLight	Text		Twisted Roots Torch	Torche aux racines tordues
+Items/EerieTreeLightDesc	Text		A torch that stands like an eerie beacon in the darkness of the caves.	Une torche qui se dresse comme un étrange phare dans l'obscurité des grottes.
 Items/EggIncubator	Text		Egg Incubator	Incubateur d'œufs
 Items/EggIncubatorDesc	Text		This device is made to hatch mysterious eggs. Please don't exceed the recommended temperature.	Cet appareil est conçu pour faire éclore des œufs mystérieux.
 Items/ElderDragonfish	Text		Elder Dragonfish	Poisson-dragon ancien
@@ -2274,6 +2321,8 @@ Items/GuardiansPotion	Text		Guardian's Potion	Potion de gardien
 Items/GuardiansPotionDesc	Text		A potion that fills you with great courage and the ability to withstand the strongest of foes.	Une potion qui vous remplit d'un grand courage et de la capacité de résister aux ennemis les plus puissants.
 Items/HalloweenGoodieBag	Text		Samhain Goodie Bag	Sac à surprises Samhain
 Items/HalloweenGoodieBagDesc	Text		A bag full of spooky sweets and secrets. Pop it up to peek inside.	Un sac plein de bonbons effrayants et de secrets. Ouvrez-le pour jeter un coup d'œil à l'intérieur.
+Items/HalloweenWorkbench	Text		Samhain Workbench	Établi Samhain
+Items/HalloweenWorkbenchDesc	Text		A coffin-shaped workbench that aids the creation of eerie furniture.	Un établi en forme de cercueil qui facilite la création de meubles étranges.
 Items/HandMortar	Text		Hand Mortar	Mortier à main
 Items/HandMortarDesc	Text		Problems that can't be solved can usually be blasted away.	Les problèmes qui ne peuvent pas être résolus peuvent généralement être éliminés.
 Items/HardThorn	Text		Hard Thorn	Épine dure
@@ -3104,6 +3153,8 @@ Items/PuffungiSeed	Text		Puffungi Seed	Graine de Puffungi
 Items/PuffungiSeedDesc	Text		A seed that only grows in mold.	Une graine qui ne pousse que dans la moisissure.
 Items/PulseCircuit	Text		Pulse Circuit	Circuit à impulsions
 Items/PulseCircuitDesc	Text		Electricity moves through in intervals of 1 second.	L'électricité passe par intervalles de 1 seconde.
+Items/PumpkinCoin	Text		Pumpkin Coin	Pièce Citrouille
+Items/PumpkinCoinDesc	Text		A mischievous-looking coin that can be traded for various, eerie goods.	Une pièce à l'allure espiègle qui peut être échangée contre divers biens étranges.
 Items/PumpkinHeadCavelingShamanTrophy	Text		Pumpking Caveling Figurine	Figurine de cavelin à tête de citrouille
 Items/PumpkinHeadCavelingShamanTrophyDesc	Text		A lifelike representation of a Pumpking Caveling.	Une représentation réaliste d'un Pumpking Cavelin.
 Items/PumpkinHelm	Text		Pumpkin Head	Tête de citrouille
@@ -3351,12 +3402,26 @@ Items/ShardClub	Text		Crystal Shard Club	Club de l'Eclat de Cristal
 Items/ShardClubDesc	Text		This bludgeoning weapon is made from fragile crystal, that can send out splinters when swung.	Cette arme contondante est faite de cristal fragile, qui peut projeter des éclats lorsqu'on la balance.
 Items/SharkTooth	Text		Shark Tooth	Dent de requin
 Items/SharkToothDesc	Text		It's as big as the palm of a hand, meeting with a row of those will end up fatal.	C'est aussi grand que la paume d'une main, rencontrer une rangée de ceux-ci finira par être fatal.
+Items/SignArrow	Text		Arrow Sign	Panneau flèche directionnelle
+Items/SignArrowDesc	Text		Don’t know where to go? Just look at it!	Vous ne savez pas où aller? Regardez!
+Items/SignBrute	Text		Brute Sign	Panneau brut
+Items/SignBruteDesc	Text		Someone put all their artistic efforts into painting this sign and left it as a warning.
+Caveling Brutes or worse ahead."	Quelqu'un a déployé tous ses efforts artistiques pour peindre ce panneau et l'a laissé en guise d'avertissement.
+Brutes Cavelin ou pire."
+Items/SignSkull	Text		Skull Effigy	Totem Crâne
+Items/SignSkullDesc	Text		There is no clearer warning than a skull on a stake. Better keep out.	Il n’y a pas d’avertissement plus clair qu’un crâne sur un pieu. Mieux vaut ne pas s'en approcher.
+Items/SignText	Text		Sign	Panneau
+Items/SignTextDesc	Text		The best way to leave messages for everyone to see.	La meilleure façon de laisser des messages visibles par tout le monde.
+Items/SignTextMetropolis	Text		Metropolis Sign	Panneau métropolitain
+Items/SignTextMetropolisDesc	Text		A modern message sign that can be programmed to display information.	Un panneau moderne qui peut être programmé pour afficher des informations.
 Items/SilverTorrentDart	Text		Silver Dart	Dard d'argent
 Items/SilverTorrentDartDesc	Text		This elusive fish appears in swarms as a spectacle of blinking silver to confuse predators.	Ce poisson insaisissable apparaît en essaims comme un spectacle d'argent clignotant pour confondre les prédateurs.
 Items/SingingCrystal	Text		Singing Crystal	Cristal chantant
 Items/SingingCrystalDesc	Text		Due to its shape, this naturally formed crystal rings with a harmonic frequency when struck.	En raison de sa forme, ce cristal naturel sonne avec une fréquence harmonique lorsqu'il est frappé.
 Items/SkeletonPedestal	Text		Deceased Explorer	Explorateur décédé
 Items/SkeletonPedestalDesc	Text		The remains of a fellow explorer who wasn't as lucky as you. Funnily enough he can still fit hats onto his pale skull, that's at least something.	Les restes d'un explorateur qui n'a pas eu la même chance que vous. Il est amusant de constater qu'il peut encore enfiler des chapeaux sur son crâne pâle, c'est déjà ça.
+Items/SkeletonPedestal2	Text		Skeleton Decor	Squelette décoratif
+Items/SkeletonPedestal2Desc	Text		A spooky scary skeleton made from cheap plastic. Perfect to "liven" up any room.	Un squelette effrayant en plastique bon marché. Parfait pour « égayer » n’importe quelle pièce.
 Items/SkirmisherHelm	Text		Skirmisher Cap	Casquette de tirailleur
 Items/SkirmisherHelmDesc	Text		A headpiece worn by caveling skirmishers which has been cobbled together with larvaskin, leaves and dirty cloth.	Un couvre-chef porté par les tirailleurs cavelin qui a été bricolé avec de la peau de larve, des feuilles et du tissu sale.
 Items/SkullNecklace	Text		Skull Necklace	Collier a tête de mort
@@ -3722,6 +3787,8 @@ Items/WallDesertTempleBlock2Desc	Text		An extremely durable wall with an engrave
 Items/WallDesertTempleBlockDesc	Text		A sturdy wall section made with blue tiles and gold.	Une section de mur solide faite de carreaux bleus et d'or.
 Items/WallDirtBlock	Text		Dirt Wall	Mur de terre
 Items/WallDirtBlockDesc	Text		A brown wall section.	Un pan de mur marron.
+Items/WallEerieBlock	Text		Eerie Wall	Mur sinistre
+Items/WallEerieBlockDesc	Text		A ghostly wooden wall section.	Un pan de mur constitué de bois fantômatique.
 Items/WallExplosiveBlock	Text		Explosives Deposit	Dépôt d'explosifs
 Items/WallExplosiveBlockDesc	Text		A highly dangerous box of explosives that can be placed like a wall. Don't hit it or it will blow up right in your face.	Une boîte d'explosifs très dangereuse qui peut être placée comme un mur. Ne la frappez pas ou elle vous explosera à la figure.
 Items/WallGalaxiteBlock	Text		Galaxite Wall	Mur de Galaxite
@@ -3742,6 +3809,8 @@ Items/WallMeadowBlock	Text		Meadow Wall	Mur de prairies
 Items/WallMeadowBlockDesc	Text		A warm, crumbly wall section that grows golden-colored tufts of grass.	Un pan de mur chaud et friable où poussent des touffes d'herbe de couleur dorée.
 Items/WallMoldBlock	Text		Mold Wall	Mur moisi
 Items/WallMoldBlockDesc	Text		A moldy wall section.	Un pan de mur moisi.
+Items/WallNaturalExplosiveBlock	Text		Thermite Wall	Mur explosif
+Items/WallNaturalExplosiveBlockDesc	Text		An unstable, explosive piece of wall.	Un pan de mur instable et explosif.
 Items/WallObsidianBlock	Text		Obsidian Wall	Mur d'obsidienne
 Items/WallObsidianBlockDesc	Text		An indestructible wall section... wait! You shouldn't have this!	Un pan de mur indestructible... attendez! Vous ne devriez pas avoir ça!
 Items/WallPaintableBlock	Text		Paintable Wall	Mur à peindre
@@ -3922,10 +3991,19 @@ Menu/ModMenuPopUp	Text		Thank you for exploring the MODS section! Please note th
 Menu/ModMissingClientDialogue	Text		Required mod {0} is missing. Do you want to install it (needs restart)?	Le mod requis {0} est manquant. Voulez-vous l'installer (nécessite un redémarrage)?
 Menu/ModMissingServerDialogue	Text		Required mod {0} is missing from server. Do you want to disable it (needs restart)?	Le mod requis {0} est manquant sur le serveur. Voulez-vous le désactiver (nécessite un redémarrage)?
 Menu/Mods	Text		Mods	Mods
+Menu/ModsAddedWithEnhancedAccess	Text		Caution: 'Elevated Access' mods have increased access to resources outside the game like user files and internet. For the best experience, install only from reputable sources.
+
+Mods with Elevated Access:
+{0}"	"Attention: Les mods ayant un 'Accès Élévé' ont des accès supplémentaires sur les fichiers locaux et internet. Pour une meilleure expérience, installez uniquement depuis des sources réputées.
+
+Mods avec Accès Élevé:
+{0}"
+Menu/ModsLoaded	Text		{0} Mods Loaded	{0} Mods chargés
 Menu/MoreInfo	Text		More info	Plus d'informations
 Menu/NoAdminsOnline	Text		There are no admins online.	Il n'y a pas d'administrateurs en ligne.
 Menu/NoBannedPlayers	Text		No players have been banned.	Aucun joueur n'a été banni.
 Menu/ObjectShadows	Text		Object Shadows	Ombres d'objets
+Menu/OneModLoaded	Text	Should match ModsLoaded, but singular	1 Mod Loaded	Un mod chargé
 Menu/Options	Text		Settings	Paramètres
 Menu/OverrideSeason	Text		Override season	Remplacer la saison
 Menu/PacketRate	Text		Network packet send rate	Taux d'envoi de paquets par le réseau
@@ -4317,6 +4395,7 @@ disableGodMode	Text		Disable god mode	Désactiver le mode dieu
 disableWorldSimulation	Text		Pause world	Monde en pause
 dodge	Text	This text appears when a character dodges an attack	dodge	esquiver
 done	Text		Done	Fini
+dontShowAgain	Text		Don't show again	Ne plus afficher
 down	Text		Move down	Descendre
 dresser	Text		Dresser	Commode
 dropToWorld	Text		"Drop item:
@@ -4339,6 +4418,7 @@ enableGodMode	Text		Enable god mode	Activer le mode dieu
 enableWorldSimulation	Text		World paused	Monde Arrêté
 enterGameId	Text		Enter Game ID	Entrez l'Identifiant de la partie
 enterHost	Text		Enter host IP address	Entrez l'adresse IP de l'hôte
+enterLabel	Text		Label...	Etiquette...
 enterName	Text	Hint shown on text input to enter name	Enter name...	Entrez le nom...
 enterPort	Text		Enter host port	Entrez le port hôte
 equipment	Text		Equipment	Équipement
@@ -4456,7 +4536,7 @@ paused	Text		Game Paused	Jeu en pause
 permanentWhenEaten	Text	Shown above list of buffs gained from eating food	Permanent when eaten:	Permanente lorsqu'elle est consommée:
 petCandy	Text		Use: Feed this to your pet to boost its experience by {0}.	Utiliser: Nourrissez votre familier pour augmenter son expérience de {0}.
 petEgg	Text		Hatchable	À faire éclore
-petInfo	Text		Pet info	Informations sur familier
+petInfo	Text		Pet info	Informations du familier
 petLeveledUp	Text		Pet reached level {0}!	Le familier a atteint le niveau {0}!
 petSlot	Text		Pet slot	Emplacement pour familier
 pickUpHalf	Text		"Pick up half:
@@ -4505,7 +4585,7 @@ selectDifficulty	Text		Select difficulty	Sélectionnez la difficulté
 sell	Text		Sell	Vendre
 set	Text	"Format to show set bonuses such as ""2 set: +10% damage"" indicating that 2 pieces are needed to fullfill the set bonus where
 {0} = 2
-{1} = +10% damage"	{0} set: {1}	{0} ensemble: {1}
+{1} = +10% damage"	{0} set: {1}	{0} pièces: {1}
 settingAmbientVol	Text		Ambient SFX	SFX ambiant
 settingDisplayGameTime	Text		Show game time	Afficher le temps de jeu
 settingLanguage	Text		Language	Langue
