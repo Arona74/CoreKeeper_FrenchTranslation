@@ -1204,7 +1204,7 @@ Items/AnniversaryPartyHatRedDesc	Text		This radical red party hat can be worn to
 Items/AntiqueBoardGame	Text		Antique Board Game	Jeu de société antique
 Items/AntiqueBoardGameDesc	Text		An ancient game for two players, there is no rulebook but apparently it was about shifting blocks around.	Un ancien jeu pour deux joueurs, il n'y a pas de livre de règles mais apparemment il s'agissait de déplacer des blocs.
 Items/ArcheologyHelm	Text		Explorer's Hat	Chapeau d'explorateur
-Items/ArcheologyHelmDesc	Text		A hat that's made to go adventuring. Never falls off, even when a giant boulder is chasing behind.	Un chapeau fait pour partir à l'aventure. Ne tombe jamais, même lorsqu'un rocher géant poursuit derrière.
+Items/ArcheologyHelmDesc	Text		A hat that's made to go adventuring. Never falls off, even when a giant boulder is chasing behind.	Un chapeau fait pour partir à l'aventure. Ne tombe jamais, même lorsqu'un rocher géant vous poursuit.
 Items/ArcheologyPants	Text		Explorer's Pants	Jambières d'explorateur
 Items/ArcheologyPantsDesc	Text		A good pair of pants that is made for traveling long distances and sneaking past ancient traps.	Une bonne paire de jambières conçue pour parcourir de longues distances et se faufiler au devant d'anciens pièges.
 Items/ArcheologyShirt	Text		Explorer's Jacket	Veste d'explorateur
@@ -1641,7 +1641,7 @@ Items/CopperKeyDesc	Text		A crude key cast in copper. There should be a lock som
 Items/CopperMiningPick	Text		Copper Pickaxe	Pioche en cuivre
 Items/CopperMiningPickDesc	Text		A sturdy tool, well-suited for breaking down walls effortlessly.	Un outil robuste, bien adapté pour abattre les murs sans effort.
 Items/CopperOre	Text		Copper Ore	Minerai de cuivre
-Items/CopperOreBoulder	Text		Copper Ore Boulder	Rocher de minerai de cuivre
+Items/CopperOreBoulder	Text		Copper Ore Boulder	Bloc de cuivre
 Items/CopperOreDesc	Text		Commonly found in dirt walls.	Communément trouvé dans les murs en terre battue.
 Items/CopperPantsArmor	Text		Copper Pants	Jambières en cuivre
 Items/CopperPantsArmorDesc	Text		Protects the shins with ease.	Protège facilement les tibias.
@@ -2031,7 +2031,7 @@ Items/GalaxiteKeyDesc	Text		An indestructible key cast in galaxite. There should
 Items/GalaxiteMiningPick	Text		Galaxite Pickaxe	Pioche en Galaxite
 Items/GalaxiteMiningPickDesc	Text		An otherwordly tool for breaking down exceptionally hard walls.	Un autre outil pour abattre des murs exceptionnellement durs.
 Items/GalaxiteOre	Text		Galaxite Ore	Minerai de Galaxite
-Items/GalaxiteOreBoulder	Text		Galaxite Ore Boulder	Rocher de minerai de Galaxite
+Items/GalaxiteOreBoulder	Text		Galaxite Ore Boulder	Bloc de Galaxite
 Items/GalaxiteOreDesc	Text		Otherwordly ore commonly found in sandstone walls.	Minerai d'autres monde que l'on trouve couramment dans les murs de grès.
 Items/GalaxitePantsArmor	Text		Galaxite Pants	Jambières en Galaxite
 Items/GalaxitePantsArmorDesc	Text		A futuristic armor for the lower body. It makes you feel like every small step you take is a giant leap for mankind.	Une pièce d'armure futuriste pour le bas du corps. Cela vous donne l'impression que chaque petit pas que vous faites est un pas de géant pour l'humanité.
@@ -2145,8 +2145,8 @@ Items/GoldCrystalNecklace	Text		Gold Crystal Necklace	Collier en cristal d'or
 Items/GoldCrystalNecklaceDesc	Text		A shiny trinket combining the most valuable of materials.	Un bijou brillant combinant les matériaux les plus précieux.
 Items/GoldCrystalRing	Text		Gold Crystal Ring	Bague en cristal d'or
 Items/GoldCrystalRingDesc	Text		A precious ring featuring ancient gemstones.	Une bague précieuse ornée de pierres précieuses anciennes.
-Items/GoldOre	Text		Gold Ore	Le minerai d'or
-Items/GoldOreBoulder	Text		Gold Ore Boulder	Minerai d'or Boulder
+Items/GoldOre	Text		Gold Ore	Minerai d'or
+Items/GoldOreBoulder	Text		Gold Ore Boulder	Bloc d'or
 Items/GoldOreDesc	Text		Rarely found in clay and stone walls.	Rarement trouvé dans les murs d'argile et de pierre.
 Items/GoldenAngleFish	Text		Jasper Angle Fish	Poisson d'angle Jasper
 Items/GoldenAngleFishDesc	Text		This sun-golden fish seemed to have had a normal body once, but the water of the Shimmering Frontier corrupted it to be crystalline through and through.	Ce poisson doré par le soleil semblait avoir eu un corps normal, mais l'eau de la Frontière miroitante l'avait corrompu pour le rendre cristallin de part en part.
@@ -2399,7 +2399,7 @@ Items/IronKeyDesc	Text		An old key cast in iron. There should be a lock somewher
 Items/IronMiningPick	Text		Iron Pickaxe	Pioche en fer
 Items/IronMiningPickDesc	Text		A strong tool, excellent for breaking down harder walls.	Un outil puissant, excellent pour abattre des murs plus durs.
 Items/IronOre	Text		Iron Ore	Minerai de fer
-Items/IronOreBoulder	Text		Iron Ore Boulder	Rocher de minerai de fer
+Items/IronOreBoulder	Text		Iron Ore Boulder	Bloc de fer
 Items/IronOreDesc	Text		Commonly found in stone walls.	Communément trouvé dans les murs en pierre.
 Items/IronPantsArmor	Text		Iron Pants	Pantalon en fer
 Items/IronPantsArmorDesc	Text		You've got knees of steel!	Vous avez des genoux d'acier!
@@ -2779,7 +2779,7 @@ Items/OctarineMiningPickDesc	Text		An extraordinary tool for breaking down compa
 Items/OctarineNecklace	Text		Octarine Necklace	Collier en Octarine
 Items/OctarineNecklaceDesc	Text		A necklace made from pure octarine filled with magic energy.	Un collier en octarine pure rempli d'énergie magique.
 Items/OctarineOre	Text		Octarine Ore	Minerai d'octarine
-Items/OctarineOreBoulder	Text		Octarine Ore Boulder	Rocher de minerai d'octarine
+Items/OctarineOreBoulder	Text		Octarine Ore Boulder	Bloc d'octarine
 Items/OctarineOreDesc	Text		Mysterious ore commonly found in limestone walls.	Minerai mystérieux que l'on trouve couramment dans les parois calcaires.
 Items/OctarinePantsArmor	Text		Octarine Pants	Pantalon en Octarine
 Items/OctarinePantsArmorDesc	Text		This peculiar leg protection phases energy through your whole body.	Cette protection particulière des jambes répartit l'énergie dans tout votre corps.
@@ -3297,7 +3297,7 @@ Items/ScarletKeyDesc	Text		A sturdy key cast in scarlet. There should be a lock 
 Items/ScarletMiningPick	Text		Scarlet Pickaxe	Pioche en Scarlet
 Items/ScarletMiningPickDesc	Text		A great tool for breaking down extremely hard walls.	Un excellent outil pour abattre des murs extrêmement durs.
 Items/ScarletOre	Text		Scarlet Ore	Minerai de Scarlet
-Items/ScarletOreBoulder	Text		Scarlet Ore Boulder	Rocher de minerai de Scarlet
+Items/ScarletOreBoulder	Text		Scarlet Ore Boulder	Bloc de Scarlet
 Items/ScarletOreDesc	Text		Scarlet ore commonly found in grass walls.	Minerai de Scarlet couramment trouvé dans les murs d'herbe.
 Items/ScarletPantsArmor	Text		Scarlet Pants	Pantalon en Scarlet
 Items/ScarletPantsArmorDesc	Text		March through your enemies and don't look back.	Traversez vos ennemis et ne regardez pas en arrière.
@@ -3444,7 +3444,7 @@ Items/SolariteKeyDesc	Text		A shimmering key cast in solarite. There should be a
 Items/SolariteMiningPick	Text		Solarite Pickaxe	Pioche en solarite
 Items/SolariteMiningPickDesc	Text		A superior tool for breaking down perplexingly hard walls.	Un outil de premier ordre pour abattre les murs qui laissent perplexe.
 Items/SolariteOre	Text		Solarite Ore	Minerai de solarite
-Items/SolariteOreBoulder	Text		Solarite Ore Boulder	Rocher de minerai de solarite
+Items/SolariteOreBoulder	Text		Solarite Ore Boulder	Bloc de solarite
 Items/SolariteOreDesc	Text		An ore that fused with Ancient Gemstones. It can sometimes be found in crystalline walls.	Un minerai qui fusionne avec les pierres précieuses anciennes. On le trouve parfois dans des murs cristallins.
 Items/SolariteSword	Text		Solarite Sword	Épée en solarite
 Items/SolariteSwordDesc	Text		A superior weapon for obliterating foes.	Une arme supérieure pour anéantir les ennemis.
@@ -3621,7 +3621,7 @@ Items/TinHoeDesc	Text		A durable tool to prepare ground for farming.	Un outil du
 Items/TinMiningPick	Text		Tin Pickaxe	Pioche en étain
 Items/TinMiningPickDesc	Text		A durable tool, good for breaking down walls more easily.	Un outil durable, bon pour abattre les murs plus facilement.
 Items/TinOre	Text		Tin Ore	Minerai d'étain
-Items/TinOreBoulder	Text		Tin Ore Boulder	Rocher de minerai d'étain
+Items/TinOreBoulder	Text		Tin Ore Boulder	Bloc d'étain
 Items/TinOreDesc	Text		Commonly found in clay walls.	Communément trouvé dans les murs d'argile.
 Items/TinPantsArmor	Text		Tin Pants	Pantalon en étain
 Items/TinPantsArmorDesc	Text		Some tin for the shin.	Un peu d'étain pour le tibia.
