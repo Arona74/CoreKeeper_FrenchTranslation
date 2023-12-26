@@ -462,7 +462,7 @@ ControlMapper/MenuLeft	Text		In-game UI left	Interface en jeu gauche
 ControlMapper/MenuRight	Text		In-game UI right	Interface en jeu droite
 ControlMapper/MenuUp	Text		In-game UI up	Interface en jeu haut
 ControlMapper/MoveBackward	Text		Move backward	Recule
-ControlMapper/MoveFaster	Text		Move fast in creative mode	Se déplacer rapidement en mode créatif
+ControlMapper/MoveFaster	Text		Move fast in creative mode	Se déplacer rapidement en mode Créatif
 ControlMapper/MoveForward	Text		Move forward	Avance
 ControlMapper/MoveLeft	Text		Move left	Se déplacer à gauche
 ControlMapper/MoveRight	Text		Move right	Déplacer vers la droite
@@ -488,18 +488,18 @@ ControlMapper/RightJoystickRight	Text		Right joystick right	Joystick droit droit
 ControlMapper/Rotate	Text		Rotate	Tourner
 ControlMapper/Sort	Text		Sort inventory	Trier l'inventaire
 ControlMapper/SplitStack	Text		Split item stack	Diviser
-ControlMapper/StopPlayingInstrument	Text		Stop playing	Arrête de jouer
-ControlMapper/ToggleInventory	Text		Toggle inventory	Afficher l'inventaire
-ControlMapper/ToggleMap	Text		Toggle map	Afficher la carte
-ControlMapper/ToggleShortCutsWindow	Text		Toggle shortcuts window	Afficher la fenêtre des raccourcis
+ControlMapper/StopPlayingInstrument	Text		Stop playing	Arrêter de jouer
+ControlMapper/ToggleInventory	Text		Toggle inventory	Ouvrir/Fermer l'inventaire
+ControlMapper/ToggleMap	Text		Toggle map	Ouvrir/Fermer la carte
+ControlMapper/ToggleShortCutsWindow	Text		Toggle shortcuts window	Ouvrir/Fermer la fenêtre des raccourcis
 ControlMapper/ToggleSpectatedPlayer	Text	Toggles which player is being spectated. Can be used after dying as hard core character.	Toggle spectated player	Afficher le joueur observé
-ControlMapper/ToggleUI	Text		Toggle in-game UI	Afficher l'interface utilisateur
+ControlMapper/ToggleUI	Text		Toggle in-game UI	Afficher/Masquer l'Interface Utilisateur
 ControlMapper/TrashItem	Text		Trash selected item	Déplacer dans la corbeille l'élément sélectionné
-ControlMapper/UIInteract	Text		UI interact	Interaction de l'interface utilisateur
-ControlMapper/UIModifierKeys	Text		Inventory UI modifiers, use together with pick up / drop item actions	Modificateurs d'interface utilisateur d'inventaire, à utiliser avec les actions de ramassage / dépôt d'objets
-ControlMapper/UISecondInteract	Text		UI second interact	Deuxième interaction de l'interface utilisateur
+ControlMapper/UIInteract	Text		UI interact	Interaction de l'Interface Utilisateur
+ControlMapper/UIModifierKeys	Text		Inventory UI modifiers, use together with pick up / drop item actions	Modificateurs d'Interface Utilisateur d'inventaire, à utiliser avec les actions de ramassage / dépôt d'objets
+ControlMapper/UISecondInteract	Text		UI second interact	Deuxième interaction de l'Interface Utilisateur
 ControlMapper/UseOffHand	Text		Use off-hand	Utiliser la main secondaire
-ControlMapper/ZoomInMap	Text		Zoom in map	Agrandir la carte
+ControlMapper/ZoomInMap	Text		Zoom in map	Zoomer la carte
 ControlMapper/ZoomOutMap	Text		Zoom out map	Dézoomer la carte
 ControlMapper/actionColumnLabel	Text		Actions	Actions
 ControlMapper/add	Text		Add	Ajouter
@@ -521,7 +521,7 @@ ControlMapper/calibrateWindow_sensitivitySliderLabel	Text		Sensitivity:	Sensibil
 ControlMapper/calibrateWindow_zeroSliderLabel	Text		Zero:	Zéro:
 ControlMapper/command	Text		Command	Commande
 ControlMapper/control	Text		Control	Contrôle
-ControlMapper/controllerAssignmentConflictWindowMessage	Text	{0} = Joystick Name, {1} = Other Player Name, {2} = This Player Name	{0} is already assigned to {1}. Do you want to assign this controller to {2} instead?	{0} est déjà affecté à {1}. Voulez-vous plutôt attribuer ce contrôleur à {2} ?
+ControlMapper/controllerAssignmentConflictWindowMessage	Text	{0} = Joystick Name, {1} = Other Player Name, {2} = This Player Name	{0} is already assigned to {1}. Do you want to assign this controller to {2} instead?	{0} est déjà affecté à {1}. Voulez-vous plutôt attribuer ce contrôleur à {2}?
 ControlMapper/controllerAssignmentConflictWindowTitle	Text		Controller Assignment	Affectation du contrôleur
 ControlMapper/controllerColumnLabel	Text		Controller	Contrôleur
 ControlMapper/controllerSettingsGroupLabel	Text		Controller:	Contrôleur:
@@ -538,14 +538,14 @@ ControlMapper/joystickElementAssignmentPollingWindowMessage	Text		Now press a bu
 ControlMapper/joystickElementAssignmentPollingWindowMessage_fullAxisFieldOnly	Text		Now move an axis to assign it to {0}.	Déplacez maintenant un axe pour l'affecter à {0}.
 ControlMapper/keyboardColumnLabel	Text		Keyboard	Clavier
 ControlMapper/keyboardElementAssignmentPollingWindowMessage	Text		Press a key to assign it to {0}. Modifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.	Appuyez sur une touche pour l'affecter à {0}. Les touches de modification peuvent également être utilisées. Pour affecter une touche de modification seule, maintenez-la enfoncée pendant 1 seconde.
-ControlMapper/mapCategoriesGroupLabel	Text		Categories:	Catégories :
-ControlMapper/mouseAssignmentConflictWindowMessage	Text		The mouse is already assigned to {0}. Do you want to assign the mouse to {1} instead?	La souris est déjà affectée à {0}. Voulez-vous plutôt attribuer la souris à {1} ?
+ControlMapper/mapCategoriesGroupLabel	Text		Categories:	Catégories:
+ControlMapper/mouseAssignmentConflictWindowMessage	Text		The mouse is already assigned to {0}. Do you want to assign the mouse to {1} instead?	La souris est déjà affectée à {0}. Voulez-vous plutôt attribuer la souris à {1}?
 ControlMapper/mouseAssignmentConflictWindowTitle	Text		Mouse Assignment	Affectation de la souris
 ControlMapper/mouseColumnLabel	Text		Mouse	Souris
 ControlMapper/mouseElementAssignmentPollingWindowMessage	Text		Press a mouse button or move an axis to assign it to {0}	Appuyez sur un bouton de la souris ou déplacez un axe pour l'affecter à {0}
 ControlMapper/mouseElementAssignmentPollingWindowMessage_fullAxisFieldOnly	Text		Move an axis to assign it to {0}.	Déplacez un axe pour l'affecter à {0}.
 ControlMapper/none	Text		None	Aucun
-ControlMapper/okay	Text		Okay	D'accord
+ControlMapper/okay	Text		Okay	OK
 ControlMapper/playersGroupLabel	Text		Players:	Joueurs:
 ControlMapper/remove	Text		Remove	Retirer
 ControlMapper/removeControllerButtonLabel	Text		Remove	Retirer
@@ -561,7 +561,7 @@ CookFoodToDiscover	Text		Cook food to start discovering recipes	Cuisinez des ali
 CooldownMin	Text		{0} min cooldown	{0} min de recharge
 CooldownMinSec	Text		{0} min {1} sec cooldown	{0} min {1} sec de recharge
 CooldownSec	Text		{0} sec cooldown	{0} s de recharge
-CreativeMode	Text		Creative	Créatif
+CreativeMode	Text		Creative	Mode Créatif
 CreativeModeDesc	Text		Set your imagination free in an empty, limitless world.	Laissez libre cours à votre imagination dans un monde vide et sans limites.
 Credits/AdditionalProductionSupport	Text		Additional Production Support	Assistance à la production supplémentaire
 Credits/Animation	Text		Animation	Animation
@@ -572,7 +572,7 @@ Credits/COO	Text		COO	COO
 Credits/CommunityManager	Text		Community Manager	Gestionnaire de communauté
 Credits/CompatibilityTesting	Text		Compatibility testing	Test de compatibilité
 Credits/CoreKeeper	Text		Core Keeper	Core Keeper
-Credits/CreativeDirector	Text		Creative Director	Directeur de création
+Credits/CreativeDirector	Text		Creative Director	Directeur créatif
 Credits/DevelopedBy	Text		Developed by	Développé par
 Credits/DevelopmentDirector	Text		Development Director	Directeur du développement
 Credits/FinanceDirector	Text		Finance Director	Directeur des finances
@@ -716,12 +716,12 @@ Error/InvalidRpc	Text		Invalid network message	Message réseau invalide
 Error/MaxConnectionAttempts	Text		Connection failed after too many retries	La connexion a échoué après trop de tentatives
 Error/NoNetwork	Text		No network	Pas de réseau
 Error/NoWorldWriteWarning	Text		There has been no auto save since {0} minutes. This probably means an error has occurred. Restarting the host is recommended to ensure all progress is saved.	Il n'y a pas eu d'enregistrement automatique depuis {0} minutes. Cela signifie probablement qu'une erreur s'est produite. Il est recommandé de redémarrer l'hôte pour s'assurer que toute la progression est enregistrée.
-Error/NoWorldWriteWarningEnd	Text		Auto save successful!	Enregistrement automatique réussi !
+Error/NoWorldWriteWarningEnd	Text		Auto save successful!	Enregistrement automatique réussi!
 Error/SaveFileCorrupt	Text		Could not read save file	Impossible de lire le fichier de sauvegarde
 Error/Timeout	Text		Connection timed out	La connexion a expiré
 Error/Unknown	Text		Unknown error	Erreur inconnue
 Error/WorldVersionTooHigh	Text		This world was created using a more recent game version. Please check for game updates.	Ce monde a été créé à partir d'une version plus récente du jeu. Veuillez vérifier les mises à jour du jeu.
-Error/reqFailNotificationGPU	Text		Warning: Your GPU does not meet the minimum requirements. Game visuals might not work correctly	Avertissement : Votre GPU ne répond pas aux exigences minimales. Les visuels du jeu peuvent ne pas fonctionner correctement
+Error/reqFailNotificationGPU	Text		Warning: Your GPU does not meet the minimum requirements. Game visuals might not work correctly	Avertissement: Votre GPU ne répond pas aux exigences minimales. Les visuels du jeu peuvent ne pas fonctionner correctement
 FollowTwitter	Text		Follow us on Twitter	Suivez-nous sur Twitter
 FoodAdjectives/AmberLarva	Text		Meaty	Viande
 FoodAdjectives/AmberLarvaFemale	Text		Meaty	Viande
@@ -1062,7 +1062,7 @@ ItemCategory/Music	Text		Music	Musique
 ItemCategory/Music_Instrument	Text		Instrument	Instruments
 ItemCategory/Music_MusicSheet	Text		Music sheet	Feuille de musique
 ItemCategory/Other	Text		Other	Autres
-ItemCategory/Other_KeyItem	Text		Key item	Poste clé
+ItemCategory/Other_KeyItem	Text		Key item	Objet clé
 ItemCategory/Other_Mods	Text		Mods	Mods
 ItemCategory/Other_OracleCard	Text		Oracle card	Carte d'Oracle
 ItemCategory/Other_Recipe	Text		Recipe	Recettes
@@ -1098,9 +1098,9 @@ ItemCategory/Valuable_StoneBiome	Text		Stone biome	Biome de pierre
 ItemCategory/Valuable_Trophy	Text		Figurine	Figurines
 ItemLevel	Text		Item level {0}	Niveau d'objet {0}
 Items/AbandonedCampMatress	Text		Camp Matress	Matelas de camping
-Items/AbandonedCampMatressDesc	Text		The resting place of a former adventurer?	La demeure d'un ancien aventurier ?
+Items/AbandonedCampMatressDesc	Text		The resting place of a former adventurer?	La demeure d'un ancien aventurier?
 Items/AbandonedCampTent	Text		Camp Tent	Tente de camping
-Items/AbandonedCampTentDesc	Text		An abandoned makeshift tent, who would have lived here?	Une tente de fortune abandonnée, qui aurait vécu ici ?
+Items/AbandonedCampTentDesc	Text		An abandoned makeshift tent, who would have lived here?	Une tente de fortune abandonnée, qui aurait vécu ici?
 Items/AbyssTree	Text		Abyss Tree	Arbre des abysses
 Items/AbyssTreeDesc	Text		A tree that grows in the chasms of Azeos Wilderness. It is unknown how far down it reaches.	Un arbre qui pousse dans les abysses sauvages d'Azeos. On ne sait pas jusqu'où il descend.
 Items/AcidLarva	Text		Acid Larva	Larve acide
@@ -1117,7 +1117,7 @@ Items/AgressiveSlimeBlob	Text		Red Slime	Slime rouge
 Items/AlchemyTable	Text		Alchemist's Table	Table d'alchimiste
 Items/AlchemyTableDesc	Text		Workbench to tinker with the wonders of chemistry.	Etabli pour bricoler les merveilles de la chimie.
 Items/AlienChest	Text		Alien Tech Chest	Coffre de technologie extraterrestre
-Items/AlienChestDesc	Text		A technological marvel: an inventory chest from outer space! Seems like even advanced civilizations need to stash things away.	Une merveille technologique : un coffre d'inventaire venu de l'espace! Il semblerait que même les civilisations avancées aient besoin de ranger des objets.
+Items/AlienChestDesc	Text		A technological marvel: an inventory chest from outer space! Seems like even advanced civilizations need to stash things away.	Une merveille technologique: un coffre d'inventaire venu de l'espace! Il semblerait que même les civilisations avancées aient besoin de ranger des objets.
 Items/AlienFloorVent	Text		Alien Floor Vent	Ventilation de sol Alien
 Items/AlienFloorVentDesc	Text		A piece of tech that would still be functional, had it not been ripped out of the floor by greedy hands.	Un morceau de technologie qui serait encore fonctionnel s'il n'avait pas été arraché du sol par des mains avides.
 Items/AlienObeliskSmall	Text		Small Alien Obelisk	Petit Obélisque Alien
@@ -1125,7 +1125,7 @@ Items/AlienObeliskSmallDesc	Text		A descriptive stele, carved into mysterious st
 Items/AlienObeliskTall	Text		Tall Alien Obelisk	Grand Obélisque Alien
 Items/AlienObeliskTallDesc	Text		A large descriptive stele, carved into mysterious stone. Its meaning is beyond earthly understanding.	Une grande stèle descriptive, taillée dans une pierre mystérieuse. Sa signification dépasse l'entendement terrestre.
 Items/AlienStalagmite	Text		High Tech Pillar	Pilier technologique
-Items/AlienStalagmiteDesc	Text		It looks like a pillar but its actual function is unknown. Is it a cooling mechanism or does it perhaps store energy?	Il ressemble à un pilier, mais sa fonction réelle est inconnue. S'agit-il d'un mécanisme de refroidissement ou peut-être stocke-t-il de l'énergie ?
+Items/AlienStalagmiteDesc	Text		It looks like a pillar but its actual function is unknown. Is it a cooling mechanism or does it perhaps store energy?	Il ressemble à un pilier, mais sa fonction réelle est inconnue. S'agit-il d'un mécanisme de refroidissement ou peut-être stocke-t-il de l'énergie?
 Items/AlienTechBreastArmor	Text		Cosmos Torso	Torse cosmique
 Items/AlienTechBreastArmorDesc	Text		This airtight jacket keeps the atmosphere around your body evenly pressured and is equipped with a useful lock-on system.	Cette veste étanche maintient l'atmosphère autour de votre corps sous une pression uniforme et est équipée d'un système de verrouillage très utile.
 Items/AlienTechCrystalLight	Text		Alien Crystal Light	Lumière de cristal Alien 
@@ -1133,7 +1133,7 @@ Items/AlienTechCrystalLightDesc	Text		A highly advanced light using a giant anci
 Items/AlienTechDestructible	Text		Alien Tech Crate	Caisse technologie Alien 
 Items/AlienTechDestructibleDesc	Text		A breakable box that is not from this world. It contains extraterrestrial goods.	Une boîte cassable qui n'est pas de ce monde. Elle contient des produits extraterrestres.
 Items/AlienTechHelm	Text		Cosmos Visor Helm	Casque à visière cosmique
-Items/AlienTechHelmDesc	Text		A futuristic helm sealed under a big glass dome, leaving the view open to marvel at the miracles of space.	Une barre futuriste scellée sous un grand dôme de verre, laissant la vue ouverte pour s'émerveiller des miracles de l'espace.
+Items/AlienTechHelmDesc	Text		A futuristic helm sealed under a big glass dome, leaving the view open to marvel at the miracles of space.	Un casque futuriste scellé sous un grand dôme de verre, laissant la vue ouverte pour s'émerveiller des miracles de l'espace.
 Items/AlienTechPantsArmor	Text		Cosmos Legwear	Jambières cosmiques
 Items/AlienTechPantsArmorDesc	Text		Heavy pants that are less suited for quick movements and more for safely treating on foreign planets.	Des Jambières lourdes plus adaptées à parcourir des planètes étrangères qu'aux mouvements rapides.
 Items/AlienTechSpire	Text		Dysfunctional Coil	Bobine dysfonctionnelle
@@ -1204,11 +1204,11 @@ Items/AnniversaryPartyHatRedDesc	Text		This radical red party hat can be worn to
 Items/AntiqueBoardGame	Text		Antique Board Game	Jeu de société antique
 Items/AntiqueBoardGameDesc	Text		An ancient game for two players, there is no rulebook but apparently it was about shifting blocks around.	Un ancien jeu pour deux joueurs, il n'y a pas de livre de règles mais apparemment il s'agissait de déplacer des blocs.
 Items/ArcheologyHelm	Text		Explorer's Hat	Chapeau d'explorateur
-Items/ArcheologyHelmDesc	Text		A hat that's made to go adventuring. Never falls off, even when a giant boulder is chasing behind.	Un chapeau fait pour partir à l'aventure. Ne tombe jamais, même lorsqu'un rocher géant poursuit derrière.
+Items/ArcheologyHelmDesc	Text		A hat that's made to go adventuring. Never falls off, even when a giant boulder is chasing behind.	Un chapeau fait pour partir à l'aventure. Ne tombe jamais, même lorsqu'un rocher géant vous poursuit.
 Items/ArcheologyPants	Text		Explorer's Pants	Jambières d'explorateur
 Items/ArcheologyPantsDesc	Text		A good pair of pants that is made for traveling long distances and sneaking past ancient traps.	Une bonne paire de jambières conçue pour parcourir de longues distances et se faufiler au devant d'anciens pièges.
 Items/ArcheologyShirt	Text		Explorer's Jacket	Veste d'explorateur
-Items/ArcheologyShirtDesc	Text		A leather jacket that's almost too warm to wear on adventures, but it looks cool!	Une veste en cuir presque trop chaude pour être portée à l'aventure, mais elle a l'air cool !
+Items/ArcheologyShirtDesc	Text		A leather jacket that's almost too warm to wear on adventures, but it looks cool!	Une veste en cuir presque trop chaude pour être portée à l'aventure, mais elle a l'air cool!
 Items/AssassinBreastArmor	Text		Assassin Cloak	Cape d'assassin
 Items/AssassinBreastArmorDesc	Text		This multi-layered piece of fabric is tightly woven to keep the body cool and protect from coarse, grainy sand.	Ce morceau de tissu multicouche est étroitement tissé pour garder le corps au frais et le protéger du sable grossier et granuleux.
 Items/AssassinHelm	Text		Assassin Hood	Capuche d'assassin
@@ -1287,11 +1287,11 @@ Items/BikiniBreastArmorGreenDesc	Text		A green swim suit piece that keeps everyt
 Items/BikiniBreastArmorRed	Text		Red Bikini Top	Haut de bikini rouge
 Items/BikiniBreastArmorRedDesc	Text		A red swim suit piece that keeps everything in its place. Everyone knows the most revealing armor is the most protective.	Une pièce de maillot de bain rouge qui garde tout à sa place. Tout le monde sait que l'armure la plus révélatrice est la plus protectrice.
 Items/BikiniPantsArmorBlue	Text		Blue Bikini Bottom	Bas de bikini bleu
-Items/BikiniPantsArmorBlueDesc	Text		A blue underwear piece that goes well with its top part. Get rid of unnecessary clothing and run free in the sun!	Un sous-vêtement bleu qui se marie bien avec sa partie haute. Débarrassez-vous des vêtements inutiles et courez librement au soleil !
+Items/BikiniPantsArmorBlueDesc	Text		A blue underwear piece that goes well with its top part. Get rid of unnecessary clothing and run free in the sun!	Un sous-vêtement bleu qui se marie bien avec sa partie haute. Débarrassez-vous des vêtements inutiles et courez librement au soleil!
 Items/BikiniPantsArmorGreen	Text		Green Bikini Bottom	Bas de bikini vert
-Items/BikiniPantsArmorGreenDesc	Text		A green underwear piece that goes well with its top part. Get rid of unnecessary clothing and run free in the sun!	Un sous-vêtement vert qui se marie bien avec sa partie haute. Débarrassez-vous des vêtements inutiles et courez librement au soleil !
+Items/BikiniPantsArmorGreenDesc	Text		A green underwear piece that goes well with its top part. Get rid of unnecessary clothing and run free in the sun!	Un sous-vêtement vert qui se marie bien avec sa partie haute. Débarrassez-vous des vêtements inutiles et courez librement au soleil!
 Items/BikiniPantsArmorRed	Text		Red Bikini Bottom	Bas de bikini rouge
-Items/BikiniPantsArmorRedDesc	Text		A red underwear piece that goes well with its top part. Get rid of unnecessary clothing and run free in the sun!	Un sous-vêtement rouge qui se marie bien avec sa partie haute. Débarrassez-vous des vêtements inutiles et courez librement au soleil !
+Items/BikiniPantsArmorRedDesc	Text		A red underwear piece that goes well with its top part. Get rid of unnecessary clothing and run free in the sun!	Un sous-vêtement rouge qui se marie bien avec sa partie haute. Débarrassez-vous des vêtements inutiles et courez librement au soleil!
 Items/BindingString	Text		Thread of Fate	Fil du destin
 Items/BindingStringDesc	Text		A mysterious string woven from fine filaments. It can be used to bind a set of cards together.	Une ficelle mystérieuse tissée de fins filaments. Il peut être utilisé pour lier un ensemble de cartes ensemble.
 Items/BirdBossScanner	Text		Azeos the Sky Titan Scanner	Scanneur d'Azeos le titans du ciel
@@ -1333,7 +1333,7 @@ Items/BlueSlimeTrophyDesc	Text		A lifelike representation of a slippery Blue Sli
 Items/Boat	Text		Boat	Bateau
 Items/BoatDesc	Text		Allows travelling over water.	Permet de voyager sur l'eau.
 Items/BoatWorkbench	Text		Boat Workbench	Établi de bateau
-Items/BoatWorkbenchDesc	Text		This wide workstation allows the construction of different boats. Ahoy!	Ce large poste de travail permet la construction de différents bateaux. Ohé !
+Items/BoatWorkbenchDesc	Text		This wide workstation allows the construction of different boats. Ahoy!	Ce large poste de travail permet la construction de différents bateaux. Ohé!
 Items/Bomb	Text		Bomb	Bombe
 Items/BombDesc	Text		A stronger explosive for crowd control and facing giant enemies.	Un explosif plus puissant pour contrôler les foules et affronter des ennemis géants.
 Items/BombPepper	Text		Bomb Pepper	Piment bombe
@@ -1428,9 +1428,9 @@ Items/CarrockSeedDesc	Text		A tough seed that only grows in stone.	Une graine du
 Items/CartographyTable	Text		Cartography Table	Tableau de cartographie
 Items/CartographyTableDesc	Text		A table to share your map discoveries with other explorers.	Une table pour partager vos découvertes cartographiques avec d'autres explorateurs.
 Items/CatalystGemstone	Text		Catalyst Gemstone	Pierre précieuse catalyseur
-Items/CatalystGemstoneDesc	Text		It looks like an Ancient Gemstone but seems to be extremely dense with energy. Has it been used to grow the Shimmering Frontier?	Elle ressemble à une pierre précieuse ancienne, mais elle semble extrêmement dense en énergie. A-t-elle été utilisée pour faire croître la Frontière scintillante ?
+Items/CatalystGemstoneDesc	Text		It looks like an Ancient Gemstone but seems to be extremely dense with energy. Has it been used to grow the Shimmering Frontier?	Elle ressemble à une pierre précieuse ancienne, mais elle semble extrêmement dense en énergie. A-t-elle été utilisée pour faire croître la Frontière scintillante?
 Items/CattleCage	Text		Cattle Transport Box	Boîte de transport de bétail
-Items/CattleCageDesc	Text		Useful, handy and secure: the box. One that cattle will feel comfortable to be carried around in and delivered right onto the doorstep of your next farm. Can only be used once.	Utile, pratique et sûre : LA boîte. Une boîte dans laquelle le bétail se sentira à l'aise pour être transporté et livré directement sur le pas de la porte de votre prochaine ferme. Elle ne peut être utilisée qu'une seule fois.
+Items/CattleCageDesc	Text		Useful, handy and secure: the box. One that cattle will feel comfortable to be carried around in and delivered right onto the doorstep of your next farm. Can only be used once.	Utile, pratique et sûre: LA boîte. Une boîte dans laquelle le bétail se sentira à l'aise pour être transporté et livré directement sur le pas de la porte de votre prochaine ferme. Elle ne peut être utilisée qu'une seule fois.
 Items/CattleFeedTray	Text		Feeding Tray	Mangeoire
 Items/CattleFeedTrayDesc	Text		This useful tray can be filled to the brim with cattle feed to keep cattle fed and happy.	Ce bac utile peut être rempli à ras bord d'aliments pour bétail afin de garder le bétail nourri et heureux.
 Items/CattleWorkbench	Text		Livestock Workbench	Établi d'élevage
@@ -1438,7 +1438,7 @@ Items/CattleWorkbenchDesc	Text		A workbench to create helpful tools and furnitur
 Items/CaveGuppyNecklace	Text		Cave Guppy Necklace	Collier Guppy des Caverne
 Items/CaveGuppyNecklaceDesc	Text		Odd necklace made from a fish that never let go of the hook.	Bizarre collier réalisé à partir d'un poisson qui ne lâche jamais l'hameçon.
 Items/CavePouch	Text		Cave Pouch	Sac des cavernes
-Items/CavePouchDesc	Text		Every underground miner needs one of those!	Chaque mineur souterrain en a besoin !
+Items/CavePouchDesc	Text		Every underground miner needs one of those!	Chaque mineur souterrain en a besoin!
 Items/Caveling	Text		Caveling	Cavelin
 Items/CavelingAssassin	Text		Caveling Assassin	Assassin Cavelin
 Items/CavelingAssassinTrophy	Text		Caveling Assassin Figurine	Figurine d'Assassin Cavelin
@@ -1477,7 +1477,7 @@ Items/CavelingHunter	Text		Caveling Hunter	Chasseur Cavelin
 Items/CavelingHunterTrophy	Text		Caveling Hunter Figurine	Figurine de Chasseur Cavelin
 Items/CavelingHunterTrophyDesc	Text		A lifelike representation of a Caveling Hunter.	Une représentation réaliste d'un chasseur cavelin.
 Items/CavelingID	Text		Caveling ID	ID de cavelin
-Items/CavelingIDDesc	Text		A sturdy card that once belonged to a citizen of the forlorn metropolis. It's thousand of years old but the excellent print hasn't faded.	Une carte solide qui a appartenu à un citoyen de la métropole malheureuse. Il a des milliers d'années mais l'excellente impression ne s'est pas estompée.
+Items/CavelingIDDesc	Text		A sturdy card that once belonged to a citizen of the forlorn metropolis. It's thousand of years old but the excellent print hasn't faded.	Une carte d'identité solide qui a appartenu à un citoyen de la métropole malheureuse. Elle a des milliers d'années mais l'excellente impression ne s'est pas estompée.
 Items/CavelingInfectedTrophy	Text		Infected Caveling Figurine	Figurine de cavelin infectée
 Items/CavelingInfectedTrophyDesc	Text		A lifelike representation of a Infected Caveling.	Une représentation réaliste d'un Cavelin infecté.
 Items/CavelingMedal	Text		Caveling Medal	Médaille de cavelin
@@ -1500,7 +1500,7 @@ Items/CavelingShaman	Text		Caveling Shaman	Chaman Cavelin
 Items/CavelingShamanTrophy	Text		Caveling Shaman Figurine	Figurine de Chaman Cavelin
 Items/CavelingShamanTrophyDesc	Text		A lifelike representation of a Caveling Shaman.	Une représentation réaliste d'un chaman cavelin.
 Items/CavelingSkinTome	Text		Blue Leather Tome	Tome en cuir bleu
-Items/CavelingSkinTomeDesc	Text		An ancient book with stitched blue covers. Is that skin?	Un livre ancien aux couvertures bleues piquées. C'est de la peau ?
+Items/CavelingSkinTomeDesc	Text		An ancient book with stitched blue covers. Is that skin?	Un livre ancien aux couvertures bleues piquées. C'est de la peau?
 Items/CavelingSkirmisher	Text		Caveling Skirmisher	Tirailleur Cavelin
 Items/CavelingSkirmisherTrophy	Text		Caveling Skirmisher Figurine	Figurine de Tirailleur Cavelin
 Items/CavelingSkirmisherTrophyDesc	Text		A lifelike representation of a Caveling Skirmisher.	Une représentation réaliste d'un tirailleur cavelin.
@@ -1526,7 +1526,7 @@ Items/ChemicalRationDesc	Text		This box contains a strange, synthetic food sourc
 Items/ChewyConeCandy	Text		Chewy Cone Candy	Bonbons à mâcher
 Items/ChewyConeCandyDesc	Text		A super sweet candy that ends up in the gap of your teeth. And it's there to stay.	Un bonbon super sucré qui se retrouve dans l'espace de vos dents. Et il est là pour rester.
 Items/ChippedPlate	Text		Chipped Plate	Assiette ébréchée
-Items/ChippedPlateDesc	Text		An old stone plate. What kind of food has been served on it?	Une ancienne assiette en pierre. Quel type de nourriture y a-t-il servi ?
+Items/ChippedPlateDesc	Text		An old stone plate. What kind of food has been served on it?	Une ancienne assiette en pierre. Quel type de nourriture y a-t-il servi?
 Items/ChristmasBruteTrophy	Text		Bakery Brute Figurine	Figurine de brute boulanger
 Items/ChristmasBruteTrophyDesc	Text		A lifelike representation of a Bakery Brute.	Une représentation réaliste d'une Bakery boulanger.
 Items/ChristmasCavelingTrophy	Text		Gingerbreadling Figurine	Figurine d'un pain d'épice
@@ -1538,9 +1538,9 @@ Items/ChristmasLightDecorationMixDesc	Text		A mix of colorful lights to decorate
 Items/ChristmasLightDecorationPaintable	Text		Paintable Festive Wall Lights	Appliques murales festives à peindre
 Items/ChristmasLightDecorationPaintableDesc	Text		Small colorful lights to decorate the walls with.	Petites lumières colorées pour décorer les murs.
 Items/ChristmasLuxuryPresent	Text		Luxury Winter Present	Cadeau d'hiver de luxe
-Items/ChristmasLuxuryPresentDesc	Text		A mysterious golden gift with unknown contents. Rip it open and peek inside!	Un mystérieux cadeau en or au contenu inconnu. Déchirez-le et jetez un coup d'œil à l'intérieur !
+Items/ChristmasLuxuryPresentDesc	Text		A mysterious golden gift with unknown contents. Rip it open and peek inside!	Un mystérieux cadeau en or au contenu inconnu. Déchirez-le et jetez un coup d'œil à l'intérieur!
 Items/ChristmasPresent	Text		Winter Present	Cadeau d'hiver
-Items/ChristmasPresentDesc	Text		A mysterious gift with unknown contents. Rip it open and peek inside!	Un cadeau mystérieux au contenu inconnu. Déchirez-le et jetez un coup d'œil à l'intérieur !
+Items/ChristmasPresentDesc	Text		A mysterious gift with unknown contents. Rip it open and peek inside!	Un cadeau mystérieux au contenu inconnu. Déchirez-le et jetez un coup d'œil à l'intérieur!
 Items/ChristmasShamanTrophy	Text		Starwand Shaman Figurine	Figurine d'un chaman à baguette magique
 Items/ChristmasShamanTrophyDesc	Text		A lifelike representation of a Starwand Shaman.	Une représentation réaliste d'un chaman à baguette magique.
 Items/ChristmasShroomanTrophy	Text		Santas Shrooman Figurine	Figurine Champignon du Père Noël
@@ -1593,13 +1593,13 @@ Items/ConceiledBladeDesc	Text		A knife attached to a wrist band hidden among lay
 Items/ConchShellNecklace	Text		Conch Shell Necklace	Collier de coquille de conque
 Items/ConchShellNecklaceDesc	Text		A beautiful necklace featuring a small shell. When you hold it up to your ear you can hear distant waves.	Un beau collier avec un petit coquillage. Lorsque vous le portez à votre oreille, vous pouvez entendre des ondes lointaines.
 Items/ConveyorBelt	Text		Conveyor Belt	Tapis roulant
-Items/ConveyorBeltDesc	Text		Transport your resources!	Transportez vos ressources !
+Items/ConveyorBeltDesc	Text		Transport your resources!	Transportez vos ressources!
 Items/CookHelm	Text		Chef's Hat	Toque de chef
 Items/CookHelmDesc	Text		The hallmark of every professional cook. Proof that even in the undergrounds taste can have priority over nutrition.	La marque de fabrique de tout cuisinier professionnel. Preuve que même dans les souterrains le goût peut primer sur la nutrition.
 Items/CookPants	Text		Chef's Pants	Pantalon de chef
 Items/CookPantsDesc	Text		Sporting an apron, these pants are made to prove their worth in the steam and heat of a cave kitchen.	Arborant un tablier, ce pantalon est fait pour prouver sa valeur dans la vapeur et la chaleur d'une cuisine troglodyte.
 Items/CookShirt	Text		Chef's Jacket	Veste de chef
-Items/CookShirtDesc	Text		It's just a spotless, white jacket but the red neckerchief makes it official. Time to get cookin'!	C'est juste une veste blanche impeccable mais le foulard rouge le rend officiel. Il est temps de cuisiner !
+Items/CookShirtDesc	Text		It's just a spotless, white jacket but the red neckerchief makes it official. Time to get cookin'!	C'est juste une veste blanche impeccable mais le foulard rouge le rend officiel. Il est temps de cuisiner!
 Items/CookedCereal	Text		Cereal	Céréale
 Items/CookedCheese	Text		Cheese	Fromage
 Items/CookedDipSnack	Text		Dip Snack	Snack à tremper
@@ -1619,15 +1619,15 @@ Items/CookiesAndMilkDesc	Text		To trade with the one that decides who is naughty
 Items/CookingPot	Text		Cooking Pot	Marmite
 Items/CookingPotBreastArmor	Text		Cooking Pot Tub	Marmite en tube
 Items/CookingPotBreastArmorDesc	Text		Only the ones really passionate about cooking dare to become the pot itself.	Seuls les vrais passionnés de cuisine osent devenir la marmite elle-même.
-Items/CookingPotDesc	Text		Cooking ingredients brings out their full potential. Combine two and see what happens!	La cuisson des ingrédients permet de révéler tout leur potentiel. Combinez-en deux et voyez ce qui se passe !
+Items/CookingPotDesc	Text		Cooking ingredients brings out their full potential. Combine two and see what happens!	La cuisson des ingrédients permet de révéler tout leur potentiel. Combinez-en deux et voyez ce qui se passe!
 Items/CookingPotHelm	Text		Cooking Pot Lid	Couvercle de marmite
 Items/CookingPotHelmDesc	Text		A shiny metal cover that suppresses your boiling point.	Un couvercle en métal brillant qui supprime votre point d'ébullition.
 Items/CopperAnvil	Text		Copper Anvil	Enclume en cuivre
 Items/CopperAnvilDesc	Text		Get started with creating armor for looks and combat.	Commencez à créer des armures pour l'apparence et le combat.
-Items/CopperBar	Text		Copper Bar	Barre de cuivre
+Items/CopperBar	Text		Copper Bar	Lingot de cuivre
 Items/CopperBarDesc	Text		A simple metal ingot for blacksmithing.	Un simple lingot de métal pour la forge.
 Items/CopperBreastArmor	Text		Copper Breastplate	Cuirasse en cuivre
-Items/CopperBreastArmorDesc	Text		Got no sixpack? Just craft one!	Vous n'avez pas de pack de six ? Fabriquez-en un!
+Items/CopperBreastArmorDesc	Text		Got no sixpack? Just craft one!	Vous n'avez pas de pack de six? Fabriquez-en un!
 Items/CopperChest	Text		Copper Chest	Coffre en cuivre
 Items/CopperChestDesc	Text		An crude chest made from copper. It is not locked anymore.	Un coffre brut en cuivre. Il n'est plus verrouillé.
 Items/CopperCrossNecklace	Text		Copper Cross Necklace	Collier en cuivre avec croix
@@ -1637,11 +1637,11 @@ Items/CopperHelmDesc	Text		Resembles more of a bucket but repels strong blows to
 Items/CopperHoe	Text		Copper Hoe	Houe en cuivre
 Items/CopperHoeDesc	Text		A sturdy tool to prepare ground for farming.	Un outil robuste pour préparer le terrain pour l'agriculture.
 Items/CopperKey	Text		Copper Key	Clé en cuivre
-Items/CopperKeyDesc	Text		A crude key cast in copper. There should be a lock somewhere that it fits into.	Une clé brute moulée en cuivre. Il devrait y avoir un verrou quelque part dans lequel il s'insère.
+Items/CopperKeyDesc	Text		A crude key cast in copper. There should be a lock somewhere that it fits into.	Une clé brute moulée en cuivre. Il devrait y avoir un verrou quelque part dans lequel elle s'insère.
 Items/CopperMiningPick	Text		Copper Pickaxe	Pioche en cuivre
 Items/CopperMiningPickDesc	Text		A sturdy tool, well-suited for breaking down walls effortlessly.	Un outil robuste, bien adapté pour abattre les murs sans effort.
 Items/CopperOre	Text		Copper Ore	Minerai de cuivre
-Items/CopperOreBoulder	Text		Copper Ore Boulder	Rocher de minerai de cuivre
+Items/CopperOreBoulder	Text		Copper Ore Boulder	Bloc de cuivre
 Items/CopperOreDesc	Text		Commonly found in dirt walls.	Communément trouvé dans les murs en terre battue.
 Items/CopperPantsArmor	Text		Copper Pants	Jambières en cuivre
 Items/CopperPantsArmorDesc	Text		Protects the shins with ease.	Protège facilement les tibias.
@@ -1682,9 +1682,9 @@ Items/CoreProtocol3Desc	Text		This blue slate depicts a graph of an entity redis
 Items/CoreTrophy	Text		Core Figurine	Figurine de noyau
 Items/CoreTrophyDesc	Text		A lifelike representation of the core.	Une représentation réaliste du noyau.
 Items/CosmicCheese	Text		Lunar Cheese	Fromage lunaire
-Items/CosmicCheeseDesc	Text		An aromatic snack that seems out of this world. Is it proof that the moon is made out of cheese after all?	Un en-cas aromatique qui semble hors du commun. Est-ce la preuve que la lune est faite de fromage ?
+Items/CosmicCheeseDesc	Text		An aromatic snack that seems out of this world. Is it proof that the moon is made out of cheese after all?	Un en-cas aromatique qui semble hors du commun. Est-ce la preuve que la lune est faite de fromage?
 Items/CosmicForm	Text		Cosmic Form	Forme cosmique
-Items/CosmicFormDesc	Text		A strange entity that is unlike any terrestrial sea life you have ever seen. Did it come from a place far away from earth?	Une entité étrange qui ne ressemble à aucune des espèces marines terrestres que vous avez déjà vues. Vient-il d'un endroit très éloigné de la terre ?
+Items/CosmicFormDesc	Text		A strange entity that is unlike any terrestrial sea life you have ever seen. Did it come from a place far away from earth?	Une entité étrange qui ne ressemble à aucune des espèces marines terrestres que vous avez déjà vues. Vient-il d'un endroit très éloigné de la terre?
 Items/Cow	Text		Moolin	Moolin
 Items/CowBaby	Text		Moolin Calf	Veau Moolin
 Items/CowBabyDesc	Text		The innocent juvenile of a Moolin, who has just learned how to stand on its own hoofs. It grows up faster than you think, so give it all the love you have.	L'innocent juvénile d'un Moolin, qui vient d'apprendre à se tenir sur ses propres sabots. Il grandit plus vite que vous ne le pensez, alors donnez-lui tout l'amour que vous avez.
@@ -1719,7 +1719,7 @@ Items/CritterWormDesc	Text		A worm. Nothing special about it.	Un ver. Rien de sp
 Items/CrossCircuit	Text		Cross Circuit	Circuit croisé
 Items/CrossCircuitDesc	Text		Separates horizontal and vertical wires. Useful to allow crossing wires without connecting the electricity. Direction of connections can be changed by interacting with the circuit.	Sépare les fils horizontaux et verticaux. Utile pour permettre de croiser des fils sans brancher l'électricité. La direction des connexions peut être modifiée en interagissant avec le circuit.
 Items/CrownSquid	Text		Crown Squid	Calamar de la Couronne
-Items/CrownSquidDesc	Text		All hail the pale king of water!	Salut au pâle roi de l'eau !
+Items/CrownSquidDesc	Text		All hail the pale king of water!	Salut au pâle roi de l'eau!
 Items/CrudeDrill	Text		Crude Drill	Foreuse Brute
 Items/CrudeDrillDesc	Text		Can very slowly drill through tougher materials such as ore boulders when powered with electricity.	Peut forer très lentement à travers des matériaux plus durs tels que les blocs de minerai lorsqu'il est alimenté avec de l'électricité.
 Items/CrystalBigSnail	Text		Crystal Snail	Escargot de cristal
@@ -1853,13 +1853,13 @@ Items/DynamitePackDesc	Text		This tight pack of explosives can be detonated in s
 Items/EarPlate	Text		Ear Plate	Plaque d'oreille
 Items/EarPlateDesc	Text		A squarish earring plated with gold.	Une boucle d'oreille carrée plaquée d'or.
 Items/EarlyHumanSkull	Text		Early Human Skull	Crâne d'humain ancien
-Items/EarlyHumanSkullDesc	Text		Remains of a human that lived about 200.000 years ago. Has mankind found these caves before?	Restes d'un humain qui a vécu il y a environ 200 000 ans. L'humanité a-t-elle déjà découvert ces grottes ?
+Items/EarlyHumanSkullDesc	Text		Remains of a human that lived about 200.000 years ago. Has mankind found these caves before?	Restes d'un humain qui a vécu il y a environ 200 000 ans. L'humanité a-t-elle déjà découvert ces grottes?
 Items/EasterAzeosTrophy	Text		Awakened Azeos Figurine	Figurine d'Azeos éveillé
 Items/EasterAzeosTrophyDesc	Text		A unique lifelike representation of the Awakened Azeos.	Une représentation unique et réaliste des Azeos éveillés.
 Items/EasterChest	Text		Golden Titan's Chest	Coffre du Titan doré
 Items/EasterChestDesc	Text		A unique variant of the large ancient chest.	Une variante unique du grand coffre ancien.
 Items/EasterChickenHat	Text		Chicken Hat	Chapeau de Poulet
-Items/EasterChickenHatDesc	Text		A derpy-looking chicken hat that will be center of attention at the next party. Clucking funny!	Un chapeau de poule à l'allure déroutante qui sera le centre d'attention lors de la prochaine fête. Très drôle !
+Items/EasterChickenHatDesc	Text		A derpy-looking chicken hat that will be center of attention at the next party. Clucking funny!	Un chapeau de poule à l'allure déroutante qui sera le centre d'attention lors de la prochaine fête. Très drôle!
 Items/EasterChickenPants	Text		Chicken Pants	Pantalon de Poulet
 Items/EasterChickenPantsDesc	Text		These flashy pants are chicken skin-inducing and complete the look of an egg-citing easter costume.	Ce pantalon tape-à-l'œil donne la chair de poule et complète le look d'un costume de Pâques.
 Items/EasterChickenSuit	Text		Chicken Breast Piece	Haut de Poulet
@@ -1879,11 +1879,11 @@ Items/EasterEggNatureDesc	Text		A weedy collectible egg that can be combined wit
 Items/EasterEggStone	Text		Gray Easter Egg	Oeuf de Pâques gris
 Items/EasterEggStoneDesc	Text		A rocky collectible egg that can be combined with other types of eggs. Get as many as you can, they might not be around for long.	Un œuf de collection rocheux qui peut être combiné avec d'autres types d'œufs. Obtenez-en autant que vous le pouvez, ils ne resteront peut-être pas longtemps.
 Items/EasterEggcellentHat	Text		Eggcellent Hat	Chapeau Eggcellent
-Items/EasterEggcellentHatDesc	Text		Everyone wearing this oversized egg shell hat has only one mission: to become egg.	Tous ceux qui portent ce chapeau en coquille d'œuf surdimensionné n'ont qu'une seule mission : devenir des œufs.
+Items/EasterEggcellentHatDesc	Text		Everyone wearing this oversized egg shell hat has only one mission: to become egg.	Tous ceux qui portent ce chapeau en coquille d'œuf surdimensionné n'ont qu'une seule mission: devenir des œufs.
 Items/EasterEggcellentPants	Text		Eggcellent Pants	Pantalon Eggcellent
 Items/EasterEggcellentPantsDesc	Text		These cheaply made pants are as yellow as egg yolk and itchy beyond comprehension.	Ce pantalon bon marché est aussi jaune que du jaune d'œuf et provoque des démangeaisons incompréhensibles.
 Items/EasterEggcellentSuit	Text		Eggcellent Breast Piece	Haut Eggcellent
-Items/EasterEggcellentSuitDesc	Text		A spacious, oval shape that is made from hopes, dreams and lime. In other words: Egg.	Une forme ovale et spacieuse, faite d'espoirs, de rêves et de chaux. En d'autres termes : L'œuf.
+Items/EasterEggcellentSuitDesc	Text		A spacious, oval shape that is made from hopes, dreams and lime. In other words: Egg.	Une forme ovale et spacieuse, faite d'espoirs, de rêves et de chaux. En d'autres termes: L'œuf.
 Items/EasterGarland	Text		Easter Garland	Guirlande de Pâques
 Items/EasterGarlandDesc	Text		This charming green garland is adorned with little daisies, making it a perfect addition to your Easter-themed walls.	Cette charmante guirlande verte est ornée de petites marguerites, ce qui en fait un complément parfait pour vos murs sur le thème de Pâques.
 Items/EasterGoldenEgg	Text		Large Golden Egg	Grand Oeuf d'Or
@@ -1989,7 +1989,7 @@ Items/FrankensteinHelmDesc	Text		Put more head on your head. Doesn't necessarily
 Items/FrozenFlame	Text		Frozen Flame	Flamme gelée
 Items/FrozenFlameDesc	Text		A gemstone that is shaped like crystalline fire. 	Une pierre précieuse qui a la forme d'un feu cristallin.
 Items/FruitBread	Text		Fruit Bread	Pain aux fruits
-Items/FruitBreadDesc	Text		A traditionally baked fruit bread with powdered sugar on top. One slice is never enough!	Un pain aux fruits cuit traditionnellement avec du sucre en poudre sur le dessus. Une tranche n'est jamais assez !
+Items/FruitBreadDesc	Text		A traditionally baked fruit bread with powdered sugar on top. One slice is never enough!	Un pain aux fruits cuit traditionnellement avec du sucre en poudre sur le dessus. Une tranche n'est jamais assez!
 Items/FungalBone	Text		Fungal Bone	Os fongique
 Items/FungalBoneDesc	Text		Rotten with mold down to the marrow, its owner must have suffered greatly.	Pourri de moisissure jusqu'à la moelle, son propriétaire a dû beaucoup souffrir.
 Items/FungalGrowth	Text		Fungal Soil	Sol fongique
@@ -2004,7 +2004,7 @@ Items/FusionedChunkNecklace	Text		Fusioned Chunk Necklace	Collier de morceaux fu
 Items/FusionedChunkNecklaceDesc	Text		A misshappen necklace that combines chunks of all kinds of materials.	Un collier raté qui associe des morceaux de toutes sortes de matières.
 Items/GalaxiteAnvil	Text		Galaxite Anvil	Enclume en Galaxite
 Items/GalaxiteAnvilDesc	Text		A special anvil for creating otherwordly equipment.	Une enclume spéciale pour créer des équipements d'un autre monde.
-Items/GalaxiteBar	Text		Galaxite Bar	Barre de Galaxite
+Items/GalaxiteBar	Text		Galaxite Bar	Lingot de Galaxite
 Items/GalaxiteBarDesc	Text		An otherwordly ingot for outstanding blacksmithing.	Un lingot d'un autre monde pour une forge exceptionnelle.
 Items/GalaxiteBreastArmor	Text		Galaxite Torso	Torse en Galaxite
 Items/GalaxiteBreastArmorDesc	Text		A futuristic protection for the upper body. Its intimidating yet elegant design is a true marvel to look at.	Une protection futuriste pour le haut du corps. Son design intimidant mais élégant est une véritable merveille à regarder.
@@ -2027,11 +2027,11 @@ Items/GalaxiteFloorDesc	Text		An otherwordly floor that feels like walking on th
 Items/GalaxiteHelm	Text		Galaxite Helm	Heaume en Galaxite
 Items/GalaxiteHelmDesc	Text		A futuristic helmet fit for a space explorer. Looking through its visor is like looking into the depths of the universe.	Un casque futuriste digne d'un explorateur de l'espace. Regarder à travers sa visière, c'est comme regarder dans les profondeurs de l'univers.
 Items/GalaxiteKey	Text		Galaxite Key	Clé en Galaxite
-Items/GalaxiteKeyDesc	Text		An indestructible key cast in galaxite. There should be a lock somewhere that it fits into.	Une clé indestructible moulée en galaxite. Il devrait y avoir un verrou quelque part dans lequel il s'insère.
+Items/GalaxiteKeyDesc	Text		An indestructible key cast in galaxite. There should be a lock somewhere that it fits into.	Une clé indestructible moulée en galaxite. Il devrait y avoir un verrou quelque part dans lequel elle s'insère.
 Items/GalaxiteMiningPick	Text		Galaxite Pickaxe	Pioche en Galaxite
 Items/GalaxiteMiningPickDesc	Text		An otherwordly tool for breaking down exceptionally hard walls.	Un autre outil pour abattre des murs exceptionnellement durs.
 Items/GalaxiteOre	Text		Galaxite Ore	Minerai de Galaxite
-Items/GalaxiteOreBoulder	Text		Galaxite Ore Boulder	Rocher de minerai de Galaxite
+Items/GalaxiteOreBoulder	Text		Galaxite Ore Boulder	Bloc de Galaxite
 Items/GalaxiteOreDesc	Text		Otherwordly ore commonly found in sandstone walls.	Minerai d'autres monde que l'on trouve couramment dans les murs de grès.
 Items/GalaxitePantsArmor	Text		Galaxite Pants	Jambières en Galaxite
 Items/GalaxitePantsArmorDesc	Text		A futuristic armor for the lower body. It makes you feel like every small step you take is a giant leap for mankind.	Une pièce d'armure futuriste pour le bas du corps. Cela vous donne l'impression que chaque petit pas que vous faites est un pas de géant pour l'humanité.
@@ -2060,7 +2060,7 @@ Items/GhormTrophyDesc	Text		A lifelike representation of Ghorm the Devourer.	Une
 Items/GhormsStomachBag	Text		Ghorm's Stomach Bag	Sac à ventre de Ghorm
 Items/GhormsStomachBagDesc	Text		A well-preserved stomach portion of the Devourer, comes with a handy strap.	Une portion d'estomac bien conservée du Dévoreur est livrée avec une sangle pratique.
 Items/GhostBlanketBreastArmor	Text		Spooky Blanket Cape	Cape de couverture effrayante
-Items/GhostBlanketBreastArmorDesc	Text		Boohooo, behold the dirty bedding!	Boohooo, voici la literie sale !
+Items/GhostBlanketBreastArmorDesc	Text		Boohooo, behold the dirty bedding!	Boohooo, voici la literie sale!
 Items/GhostBlanketCavelingTrophy	Text		Spookaveling Figurine	Figurine Effrayin
 Items/GhostBlanketCavelingTrophyDesc	Text		A lifelike representation of a Spookaveling.	Une représentation réaliste d'un Effrayin.
 Items/GhostBlanketHelm	Text		Spooky Blanket Hood	Capuche de couverture effrayante
@@ -2076,7 +2076,7 @@ Items/GiantSquidEyeDesc	Text		A sensory organ of a big sea creature. It probably
 Items/GingerbreadBreastArmor	Text		Gingerbread Top	Haut de pain d'épice
 Items/GingerbreadBreastArmorDesc	Text		A tasty breast armor made from gingerbread, comes with sugar buttons and a fondant bowtie. 	Une savoureuse armure de poitrine en pain d'épice, livrée avec des boutons en sucre et un nœud papillon en fondant.
 Items/GingerbreadChest	Text		Gingerbread House Chest	Coffre de maison en pain d'épice
-Items/GingerbreadChestDesc	Text		A sweet chest made with a sturdy baked body and sugar decor. Perfect to store some seasonal items!	Un joli coffre composé d'un corps cuit au four robuste et d'un décor en sucre. Parfait pour ranger quelques articles de saison !
+Items/GingerbreadChestDesc	Text		A sweet chest made with a sturdy baked body and sugar decor. Perfect to store some seasonal items!	Un joli coffre composé d'un corps cuit au four robuste et d'un décor en sucre. Parfait pour ranger quelques articles de saison!
 Items/GingerbreadHoodHelm	Text		Gingerbread Hood	Capuche en pain d'épice
 Items/GingerbreadHoodHelmDesc	Text		This gingerbread headpice has not been baked, so it remains flexible to be drawn over the head.	Ce couvre-chef en pain d'épice n'a pas été cuit, il reste donc souple pour être passé sur la tête.
 Items/GingerbreadManHelm	Text		Gingerbreadman Head	Tête en pain d'épice
@@ -2145,15 +2145,15 @@ Items/GoldCrystalNecklace	Text		Gold Crystal Necklace	Collier en cristal d'or
 Items/GoldCrystalNecklaceDesc	Text		A shiny trinket combining the most valuable of materials.	Un bijou brillant combinant les matériaux les plus précieux.
 Items/GoldCrystalRing	Text		Gold Crystal Ring	Bague en cristal d'or
 Items/GoldCrystalRingDesc	Text		A precious ring featuring ancient gemstones.	Une bague précieuse ornée de pierres précieuses anciennes.
-Items/GoldOre	Text		Gold Ore	Le minerai d'or
-Items/GoldOreBoulder	Text		Gold Ore Boulder	Minerai d'or Boulder
+Items/GoldOre	Text		Gold Ore	Minerai d'or
+Items/GoldOreBoulder	Text		Gold Ore Boulder	Bloc d'or
 Items/GoldOreDesc	Text		Rarely found in clay and stone walls.	Rarement trouvé dans les murs d'argile et de pierre.
 Items/GoldenAngleFish	Text		Jasper Angle Fish	Poisson d'angle Jasper
 Items/GoldenAngleFishDesc	Text		This sun-golden fish seemed to have had a normal body once, but the water of the Shimmering Frontier corrupted it to be crystalline through and through.	Ce poisson doré par le soleil semblait avoir eu un corps normal, mais l'eau de la Frontière miroitante l'avait corrompu pour le rendre cristallin de part en part.
 Items/GoldenCavelingMask	Text		Golden Caveling Mask	Masque de cavelin doré
 Items/GoldenCavelingMaskDesc	Text		An intricate mask with a stern expression, probably used in a ritual or by someone of high ranks.	Un masque complexe avec une expression sévère, probablement utilisé dans un rituel ou par quelqu'un de haut rang.
 Items/GoldenChocolate	Text		Golden Chocolate	Chocolat Doré
-Items/GoldenChocolateDesc	Text		A limited edition chocolate for the cold season. There is no golden ticket inside, instead the whole thing is made out of it!	Un chocolat en édition limitée pour la saison froide. Il n'y a pas de billet doré à l'intérieur, mais tout est fait à partir de ça !
+Items/GoldenChocolateDesc	Text		A limited edition chocolate for the cold season. There is no golden ticket inside, instead the whole thing is made out of it!	Un chocolat en édition limitée pour la saison froide. Il n'y a pas de billet doré à l'intérieur, mais tout est fait à partir de ça!
 Items/GoldenCocoon	Text		Golden Cocoon	Cocon doré
 Items/GoldenCocoonDesc	Text		A gold-plated chrysalis, this doesn't seem to be its final form.	Une chrysalide plaquée or, cela ne semble pas être sa forme définitive.
 Items/GoldenDeepStalker	Text		Splendid Deepstalker	Splendide traqueur des profondeurs
@@ -2229,7 +2229,7 @@ Items/GroundDirtBlockDesc	Text		A brown piece of ground.	Un morceau de terre bru
 Items/GroundGrassBlock	Text		Grass Ground	Sol en herbe
 Items/GroundGrassBlockDesc	Text		A lush piece of groundplants.	Un morceau luxuriant de plantes terrestres.
 Items/GroundHiveBlock	Text		Larva Hive Ground	Sol de larves
-Items/GroundHiveBlockDesc	Text		A lumpy piece of...ground?	Un morceau de... sol grumeleux ?
+Items/GroundHiveBlockDesc	Text		A lumpy piece of...ground?	Un morceau de... sol grumeleux?
 Items/GroundLavaBlock	Text		Lava Rock Ground	Sol de pierre de lave
 Items/GroundLavaBlockDesc	Text		A molten piece of ground.	Un morceau de terre en fusion.
 Items/GroundLavaSlime	Text		Ground Magma Slime	Sol de slime de magma
@@ -2261,7 +2261,7 @@ Items/GrubKapokSeedDesc	Text		Turns into a plant that gives fiber when harvested
 Items/GrubKnot	Text		Grub Knot	Noeud de ver
 Items/GrubKnotDesc	Text		A mutated lump of small grubs. Disgusting.	Un morceau muté de petites larves. Dégoûtant.
 Items/GrubPearl	Text		Grub Pearl	Perle de Grub
-Items/GrubPearlDesc	Text		Is it a grub-shaped pearl or a pearl-like grub? 	Est-ce une perle en forme de larve ou une larve ressemblant à une perle ?
+Items/GrubPearlDesc	Text		Is it a grub-shaped pearl or a pearl-like grub? 	Est-ce une perle en forme de larve ou une larve ressemblant à une perle?
 Items/Grubzooka	Text		Grubzooka	Grubzooka
 Items/GrubzookaDesc	Text		The heavy shots from the Grubzooka also tear down any dirt, sand and turf walls in its path.	Les tirs lourds du Grubzooka abattent également tous les murs de terre, de sable et de gazon sur son passage.
 Items/Grumpkin	Text		Grumpkin	Grintrouille
@@ -2283,7 +2283,7 @@ Items/HealingPotionDesc	Text		A healthy elixir that heals instantly. Also tastes
 Items/HeartBerry	Text		Heart Berry	Baie de Coeur
 Items/HeartBerryDesc	Text		A sweet, juicy berry that refreshes the body.	Une baie sucrée et juteuse qui rafraîchit le corps.
 Items/HeartBerryNecklace	Text		Heart Berry Necklace	Collier Baie de Coeur
-Items/HeartBerryNecklaceDesc	Text		A heart berry on the neck makes for an easy snack!	Une baie de cœur sur le cou fait une collation facile !
+Items/HeartBerryNecklaceDesc	Text		A heart berry on the neck makes for an easy snack!	Une baie de cœur sur le cou fait une collation facile!
 Items/HeartBerryRare	Text		Golden Heart Berry	Baie de coeur d'or
 Items/HeartBerryRareDesc	Text		A very rare variant of the common heart berry.	Une variante très rare de la baie de cœur commune.
 Items/HeartBerrySeed	Text		Heart Berry Seed	Graine de baie de coeur
@@ -2326,7 +2326,7 @@ Items/HivemotherHalloweenChestDesc	Text		This chest is pulsating as if it is ali
 Items/HivemotherTrophy	Text		Hive Mother Figurine	Figurine Ruche-Mère
 Items/HivemotherTrophyDesc	Text		A lifelike representation of the Hive Mother.	Une représentation réaliste de la Ruche-Mère.
 Items/HomeworldReminiscence	Text		Homeworld Reminiscence	Souvenirs de Homeworld
-Items/HomeworldReminiscenceDesc	Text		The replica of a blue, glistening planet, orbited by what seems to be three suns. Is this a model of a solar system?	La réplique d'une planète bleue, scintillante, en orbite autour de ce qui semble être trois soleils. S'agit-il d'une maquette de système solaire ?
+Items/HomeworldReminiscenceDesc	Text		The replica of a blue, glistening planet, orbited by what seems to be three suns. Is this a model of a solar system?	La réplique d'une planète bleue, scintillante, en orbite autour de ce qui semble être trois soleils. S'agit-il d'une maquette de système solaire?
 Items/HotChocolate	Text		Hot Chocolate	Chocolat chaud
 Items/HotChocolateDesc	Text		A mug full of creamy, hot chocolate milk with small marshmallows on top. Drinking it feels like being a kid again.	Une tasse pleine de lait au chocolat chaud et crémeux avec de petites guimauves sur le dessus. Boire, c'est comme redevenir un enfant.
 Items/HotPunch	Text		Hot Punch	punch chaud
@@ -2376,7 +2376,7 @@ Items/InventorySeaBiomeChest	Text		Seashell Chest	Coffre de coquillage
 Items/InventorySeaBiomeChestDesc	Text		Is it a chest or is it a clam?	Est-ce un coffre ou est-ce une palourde?
 Items/IronAnvil	Text		Iron Anvil	Enclume en fer
 Items/IronAnvilDesc	Text		Great for creating high tier equipment.	Idéal pour créer des équipements de haut niveau.
-Items/IronBar	Text		Iron Bar	Lingo de fer
+Items/IronBar	Text		Iron Bar	Lingot de fer
 Items/IronBarDesc	Text		A strong metal ingot for blacksmithing.	Un lingot de métal solide pour la forge.
 Items/IronBow	Text		Iron Bow	Arc en fer
 Items/IronBowDesc	Text		A sturdy bow to shoot foes from afar.	Un arc robuste pour tirer sur les ennemis de loin.
@@ -2395,14 +2395,14 @@ Items/IronHelmDesc	Text		Tough helm fit for knights. Comes with a visor and a fl
 Items/IronHoe	Text		Iron Hoe	Houe en fer
 Items/IronHoeDesc	Text		A strong tool to prepare ground for farming. Covers an area of 2x2 tiles.	Un outil puissant pour préparer le terrain pour l'agriculture. Couvre une zone de tuiles 2x2.
 Items/IronKey	Text		Iron Key	Clé en fer
-Items/IronKeyDesc	Text		An old key cast in iron. There should be a lock somewhere that it fits into.	Une ancienne clé coulée en fer. Il devrait y avoir un verrou quelque part dans lequel il s'insère.
+Items/IronKeyDesc	Text		An old key cast in iron. There should be a lock somewhere that it fits into.	Une ancienne clé coulée en fer. Il devrait y avoir un verrou quelque part dans lequel elle s'insère.
 Items/IronMiningPick	Text		Iron Pickaxe	Pioche en fer
 Items/IronMiningPickDesc	Text		A strong tool, excellent for breaking down harder walls.	Un outil puissant, excellent pour abattre des murs plus durs.
 Items/IronOre	Text		Iron Ore	Minerai de fer
-Items/IronOreBoulder	Text		Iron Ore Boulder	Rocher de minerai de fer
+Items/IronOreBoulder	Text		Iron Ore Boulder	Bloc de fer
 Items/IronOreDesc	Text		Commonly found in stone walls.	Communément trouvé dans les murs en pierre.
 Items/IronPantsArmor	Text		Iron Pants	Pantalon en fer
-Items/IronPantsArmorDesc	Text		You've got knees of steel!	Vous avez des genoux d'acier !
+Items/IronPantsArmorDesc	Text		You've got knees of steel!	Vous avez des genoux d'acier!
 Items/IronShield	Text		Iron Shield	Bouclier de fer
 Items/IronShieldDesc	Text		A heraldic shield offering significant protection from attacks.	Bouclier héraldique offrant une protection importante contre les attaques.
 Items/IronShovel	Text		Iron Shovel	Pelle en fer
@@ -2440,7 +2440,7 @@ Items/KelpDumplingDesc	Text		A soft, warm dumpling that smells pretty... funny. 
 Items/KelpTree	Text		Kelp Tree	Arbre d'algue
 Items/KelpTreeDesc	Text		It's technically not a tree but a giant kelp with a double-helix coral as a trunk.	Ce n'est techniquement pas un arbre mais une algue géant avec un corail à double hélice comme tronc.
 Items/KeyCraftingTable	Text		Key Casting Table	Établi de moulage des clés
-Items/KeyCraftingTableDesc	Text		A workbench with changeable casting plates to create all kinds of different keys.	Un établi avec des plaques de moulage interchangeables pour créer toutes sortes de clés différentes.
+Items/KeyCraftingTableDesc	Text		A workbench with changeable casting plates to create all kinds of different keys.	Un établi avec des plaques de moulage interchangeables pour créer toutes sortes de clés.
 Items/Kiln1	Text		Broken Clay Kiln	Four à argile cassé
 Items/Kiln1Desc	Text		Having seen many years of use this old kiln is beyond repair. 	Ayant vu de nombreuses années d'utilisation, ce vieux four est irréparable.
 Items/Kiln2	Text		Clay Firing Bucket	Seau de cuisson en argile
@@ -2612,7 +2612,7 @@ Items/LuxuriousHandmirrorDesc	Text		A hand-held mirror in great condition. Clear
 Items/MagicMirror	Text		Magic Mirror	Miroir magique
 Items/MagicMirrorDesc	Text		This mysterious piece of furniture has been enhanced in strange ways. Looking into it makes it possible to change your appearance.	Ce meuble mystérieux a été mis en valeur de façon étrange. Y jeter un coup d'œil permet de changer d'apparence.
 Items/MagneticRing	Text		Magnetic Ring	Anneau magnétique
-Items/MagneticRingDesc	Text		A strange ring that pulls in loot around you in a higher radius. Magnets, how do they work?	Un anneau étrange qui attire les objet autour de vous dans un rayon plus élevé. Les aimants, comment ça marche ?
+Items/MagneticRingDesc	Text		A strange ring that pulls in loot around you in a higher radius. Magnets, how do they work?	Un anneau étrange qui attire les objet autour de vous dans un rayon plus élevé. Les aimants, comment ça marche?
 Items/MalugazTrophy	Text		Malugaz Figurine	Figurine de Malugaz
 Items/MalugazTrophyDesc	Text		A lifelike representation of Malugaz the Corrupted.	Une représentation réaliste de Malugaz le Corrompu.
 Items/Mannequin	Text		Mannequin	Mannequin
@@ -2640,12 +2640,12 @@ Items/MilkDesc	Text		A bottle of milk with a slight vanilla aroma and an earthy 
 Items/Mimite	Text		Mimite	Mimite
 Items/MimiteTrophy	Text		Mimite Figurine	Figurine de mimite
 Items/MimiteTrophyDesc	Text		A lifelike representation of a Mimite.	Une représentation réaliste d'un Mimite.
-Items/Minecart	Text		Minecart	Chariot de mine
+Items/Minecart	Text		Minecart	Chariot
 Items/MinecartDesc	Text		Allows riding the railways.	Permet de rouler sur les chemins de fer.
 Items/MinerBreastArmor	Text		Miner's Labour Suit	Costume de travail de mineur
 Items/MinerBreastArmorDesc	Text		An airtight zip-up suit for working in deep caverns. The flashy orange makes it official.	Une combinaison hermétique à fermeture éclair pour travailler dans des cavernes profondes. L'orange flashy le rend officiel.
 Items/MinerHelm	Text		Miner's Protective Helm	Heaume protecteur de mineur
-Items/MinerHelmDesc	Text		A handy helm with integrated goggles and a still functioning headlamp.	Une barre pratique avec des lunettes intégrées et une lampe frontale toujours fonctionnelle.
+Items/MinerHelmDesc	Text		A handy helm with integrated goggles and a still functioning headlamp.	Un casque pratique avec des lunettes intégrées et une lampe frontale toujours fonctionnelle.
 Items/MinerPantsArmor	Text		Miner's Worker Pants	Pantalon de mineur
 Items/MinerPantsArmorDesc	Text		Well-fitting pants that make traversing the underground much more convenient. Comes with squeaky rubber boots.	Des pantalons bien ajustés qui rendent la traversée du métro beaucoup plus pratique. Livré avec des bottes en caoutchouc qui grincent.
 Items/MoldChest	Text		Mold Chest	Coffre moisi
@@ -2734,11 +2734,11 @@ Items/NatureWoodenDestructible	Text		Overgrown Wooden Crate	Caisse en bois mouss
 Items/NatureWoodenDestructibleDesc	Text		A box that has been partially reclaimed by nature. It's containing useful goods.	Une boîte qui a été partiellement récupérée par la nature. Il contient des biens utiles.
 Items/NilipedeTrophy	Text		Nilipede Figurine	Figurine de Nilipede
 Items/NilipedeTrophyDesc	Text		A lifelike representation of a Nilipede.	Une représentation réaliste d'un Nilipede.
-Items/NinjaBreastArmor	Text		Ninja Garments	Masque de Ninja
-Items/NinjaBreastArmorDesc	Text		Moving swiftly as the wind.	Se déplacer rapidement comme le vent.
-Items/NinjaHelm	Text		Ninja Cowl	Manteau de Ninja
+Items/NinjaBreastArmor	Text		Ninja Garments	Tenue de Ninja
+Items/NinjaBreastArmorDesc	Text		Moving swiftly as the wind.	Rapide comme le vent.
+Items/NinjaHelm	Text		Ninja Cowl	Capuche de Ninja
 Items/NinjaHelmDesc	Text		Hidden by the dark.	Caché par l'obscurité.
-Items/NinjaPantsArmor	Text		Ninja Leggings	Collants de Ninja
+Items/NinjaPantsArmor	Text		Ninja Leggings	Leggings de Ninja
 Items/NinjaPantsArmorDesc	Text		Gone without a sound.	Disparu sans un bruit.
 Items/NobleRing	Text		Noble Ring	Anneau Noble
 Items/NobleRingDesc	Text		An expensive looking ring featuring a ruby. It must have belonged to someone wealthy.	Une bague d'aspect cher avec un rubis. Il devait appartenir à quelqu'un de riche.
@@ -2760,7 +2760,7 @@ Items/OctarineAxe	Text		Octarine Axe	Hache en octarine
 Items/OctarineAxeDesc	Text		This crescent-shaped weapon hits hard and magically arcs towards enemies' weak spots.	Cette arme en forme de croissant frappe fort et se dirige comme par magie vers les points faibles des ennemis.
 Items/OctarineBackpack	Text		Octarine Bag	Sac en Octarine
 Items/OctarineBackpackDesc	Text		A strange bag that has more space inside than it looks like from the outside.	Un sac étrange qui a plus d'espace à l'intérieur qu'il n'y paraît de l'extérieur.
-Items/OctarineBar	Text		Octarine Bar	Barre d'octarine
+Items/OctarineBar	Text		Octarine Bar	Lingot d'octarine
 Items/OctarineBarDesc	Text		A mysterious ingot for extraordinary blacksmithing.	Un lingot mystérieux pour une forge extraordinaire.
 Items/OctarineBow	Text		Octarine Bow	Arc en octarin
 Items/OctarineBowDesc	Text		A strange bow that enhances the way arrows fly, allowing for quicker shots.	Un arc étrange qui améliore la façon dont les flèches volent, permettant des tirs plus rapides.
@@ -2773,13 +2773,13 @@ Items/OctarineFishingRodDesc	Text		An extraordinary tool for pulling up deep sea
 Items/OctarineHelm	Text		Octarine Helm	Heaume en octarien
 Items/OctarineHelmDesc	Text		A strange headgear with no visor. For some reason you can still see clearly when putting it on.	Un étrange couvre-chef sans visière. Pour une raison quelconque, vous pouvez toujours voir clairement lorsque vous le mettez.
 Items/OctarineKey	Text		Octarine Key	Clé en octarine
-Items/OctarineKeyDesc	Text		A clunky key cast in octarine. There should be a lock somewhere that it fits into.	Une clé maladroite moulée en octarine. Il devrait y avoir un verrou quelque part dans lequel il s'insère.
+Items/OctarineKeyDesc	Text		A clunky key cast in octarine. There should be a lock somewhere that it fits into.	Une clé maladroite moulée en octarine. Il devrait y avoir un verrou quelque part dans lequel elle s'insère.
 Items/OctarineMiningPick	Text		Octarine Pickaxe	Pioche en octarine
 Items/OctarineMiningPickDesc	Text		An extraordinary tool for breaking down compact walls.	Un outil extraordinaire pour briser les murs compacts.
 Items/OctarineNecklace	Text		Octarine Necklace	Collier en Octarine
 Items/OctarineNecklaceDesc	Text		A necklace made from pure octarine filled with magic energy.	Un collier en octarine pure rempli d'énergie magique.
 Items/OctarineOre	Text		Octarine Ore	Minerai d'octarine
-Items/OctarineOreBoulder	Text		Octarine Ore Boulder	Rocher de minerai d'octarine
+Items/OctarineOreBoulder	Text		Octarine Ore Boulder	Bloc d'octarine
 Items/OctarineOreDesc	Text		Mysterious ore commonly found in limestone walls.	Minerai mystérieux que l'on trouve couramment dans les parois calcaires.
 Items/OctarinePantsArmor	Text		Octarine Pants	Pantalon en Octarine
 Items/OctarinePantsArmorDesc	Text		This peculiar leg protection phases energy through your whole body.	Cette protection particulière des jambes répartit l'énergie dans tout votre corps.
@@ -2900,56 +2900,56 @@ Items/PeasantHelm	Text		Peasant Hat	Chapeau de paysan
 Items/PeasantHelmDesc	Text		Simple leather hat, doesn't look that great but does its job.	Chapeau en cuir simple, n'a pas l'air génial mais fait son travail.
 Items/PeasantPantsArmor	Text		Peasant Pants	Pantalon de paysan
 Items/Pedestal	Text		Pedestal	Piédestal
-Items/PedestalDesc	Text		Showcase your findings!	Exposez vos trouvailles !
+Items/PedestalDesc	Text		Showcase your findings!	Exposez vos trouvailles!
 Items/PepperSoup	Text		Pepper Soup	Soupe aux poivrons
 Items/PetBird	Text		Owlux	Owlux
-Items/PetBirdDesc	Text		A swift, beaked ally. While too shy to partake in battle, it still has your back!	Un allié rapide à bec. Bien que trop timide pour participer au combat, il est toujours là pour vous !
+Items/PetBirdDesc	Text		A swift, beaked ally. While too shy to partake in battle, it still has your back!	Un allié rapide à bec. Bien que trop timide pour participer au combat, il est toujours là pour vous!
 Items/PetBirdEgg	Text		Lively Egg	Oeuf vif
 Items/PetBirdEggCracked	Text		Cracked Lively Egg	Oeuf vif craquelé
 Items/PetBirdEggCrackedDesc	Text		A mysterious, feathered egg that is about to hatch.	Un mystérieux oeuf à plumes qui est sur le point d'éclore.
-Items/PetBirdEggDesc	Text		A mysterious, feathered egg that seems to react to your presence. Is there a way to hatch it?	Un mystérieux oeuf à plumes qui semble réagir à votre présence. Existe-t-il un moyen de le faire éclore ?
+Items/PetBirdEggDesc	Text		A mysterious, feathered egg that seems to react to your presence. Is there a way to hatch it?	Un mystérieux oeuf à plumes qui semble réagir à votre présence. Existe-t-il un moyen de le faire éclore?
 Items/PetBunny	Text		Fanhare	Fanhare
 Items/PetBunnyDesc	Text		This feather-eared rodent is an able companion, making up for its size by swinging poisonous, sturdy hair into the enemy.	Ce rongeur à oreilles de plumes est un compagnon habile, qui compense sa taille en balançant sur l'ennemi des poils robustes et empoisonnés.
 Items/PetBunnyEgg	Text		Nimble Egg	Oeuf agile
 Items/PetBunnyEggCracked	Text		Cracked Nimble Egg	Oeuf agile craquelé
 Items/PetBunnyEggCrackedDesc	Text		A mysterious, feather-eared egg that is about to hatch.	Un mystérieux oeuf aux oreilles de plumes qui est sur le point d'éclore.
-Items/PetBunnyEggDesc	Text		A mysterious, feather-eared egg that seems to react to your presence. Is there a way to hatch it?	Un mystérieux oeuf aux oreilles de plumes qui semble réagir à votre présence. Existe-t-il un moyen de le faire éclore ?
+Items/PetBunnyEggDesc	Text		A mysterious, feather-eared egg that seems to react to your presence. Is there a way to hatch it?	Un mystérieux oeuf aux oreilles de plumes qui semble réagir à votre présence. Existe-t-il un moyen de le faire éclore?
 Items/PetCandy	Text		Pet Pellet	Granulés pour animaux de compagnie
 Items/PetCandyDesc	Text		This handful of treats with different meaty flavours is a great addition to your pets' diet.	Cette poignée de friandises aux différentes saveurs de viande est un excellent complément à l'alimentation de votre familier.
 Items/PetCandyEpic	Text		Beast Booster	Booster pour les animaux
 Items/PetCandyEpicDesc	Text		Fully packed with vitamins, flavours and lots of energy, this treat is the pinnacle of how you can spoil your pets.	Pleine de vitamines, de saveurs et d'énergie, cette friandise est le summum de ce que vous pouvez faire pour gâter vos animaux de compagnie.
 Items/PetCandyRare	Text		Rare Candy	Bonbons rares
-Items/PetCandyRareDesc	Text		A nutrient-rich snack that's highly sought after. Your pets will go crazy over this!	Un en-cas riche en nutriments très recherché. Vos animaux de compagnie en raffoleront !
+Items/PetCandyRareDesc	Text		A nutrient-rich snack that's highly sought after. Your pets will go crazy over this!	Un en-cas riche en nutriments très recherché. Vos animaux de compagnie en raffoleront!
 Items/PetCat	Text		Embertail	Embertail
 Items/PetCatDesc	Text		Spontaneous and impulsive in nature, this pet is as fierce in battle as it is at clawing at furniture. But also incredibly cuddly.	De nature spontanée et impulsive, cet animal est aussi féroce au combat qu'il l'est pour griffer les meubles. Mais il est aussi incroyablement câlin.
 Items/PetCatEgg	Text		Curious Egg	Oeuf curieux
 Items/PetCatEggCracked	Text		Cracked Curious Egg	Oeuf curieux craquelé
 Items/PetCatEggCrackedDesc	Text		A mysterious, curly-tailed egg that is about to hatch.	Un mystérieux oeuf à queue frisée qui est sur le point d'éclore.
-Items/PetCatEggDesc	Text		A mysterious, curly-tailed egg that seems to react to your presence. Is there a way to hatch it?	Un mystérieux oeuf à queue frisée qui semble réagir à votre présence. Existe-t-il un moyen de le faire éclore ?
+Items/PetCatEggDesc	Text		A mysterious, curly-tailed egg that seems to react to your presence. Is there a way to hatch it?	Un mystérieux oeuf à queue frisée qui semble réagir à votre présence. Existe-t-il un moyen de le faire éclore?
 Items/PetDog	Text		Subterrier	Subterrier
 Items/PetDogDesc	Text		A canine companion that is out to smite your enemies, endlessly lick his paws and in general just be a good pal.	Un compagnon canin qui est là pour frapper vos ennemis, lécher sans cesse ses pattes et, en général, être un bon copain.
 Items/PetDogEgg	Text		Loyal Egg	Oeuf fidèle
 Items/PetDogEggCracked	Text		Cracked Loyal Egg	Oeuf fidèle craquelé
 Items/PetDogEggCrackedDesc	Text		A mysterious, pointy-eared egg that is about to hatch.	Un œuf mystérieux aux oreilles pointues qui est sur le point d'éclore.
-Items/PetDogEggDesc	Text		A mysterious, pointy-eared egg that seems to react to your presence. Is there a way to hatch it?	Un mystérieux œuf aux oreilles pointues qui semble réagir à votre présence. Existe-t-il un moyen de le faire éclore ?
+Items/PetDogEggDesc	Text		A mysterious, pointy-eared egg that seems to react to your presence. Is there a way to hatch it?	Un mystérieux œuf aux oreilles pointues qui semble réagir à votre présence. Existe-t-il un moyen de le faire éclore?
 Items/PetLavaSlimeBlob	Text		Jr. Lava Slime	Slime de lave junior
 Items/PetLavaSlimeBlobDesc	Text		A scorching little friend that is ready for adventures underground.	Un petit ami brûlant qui est prêt à vivre des aventures sous terre.
 Items/PetLavaSlimeBlobEgg	Text		Oozy Lava Egg	Oeuf gluants de lave
 Items/PetLavaSlimeBlobEggCracked	Text		Cracked Oozy Lava Egg	Oeuf gluants de lave craquelé
 Items/PetLavaSlimeBlobEggCrackedDesc	Text		A mysterious, transparent egg that is about to hatch.	Un mystérieux oeuf et transparent qui est sur le point d'éclore.
-Items/PetLavaSlimeBlobEggDesc	Text		A mysterious, transparent egg that seems to react to your presence. Is there a way to hatch it?	Un mystérieux oeuf et transparent qui semble réagir à votre présence. Existe-t-il un moyen de le faire éclore ?
+Items/PetLavaSlimeBlobEggDesc	Text		A mysterious, transparent egg that seems to react to your presence. Is there a way to hatch it?	Un mystérieux oeuf et transparent qui semble réagir à votre présence. Existe-t-il un moyen de le faire éclore?
 Items/PetPoisonSlimeBlob	Text		Jr. Purple Slime	Slime pourpre junior
 Items/PetPoisonSlimeBlobDesc	Text		A poisonous little friend that is ready for adventures underground.	Un petit ami vénéneux prêt à vivre des aventures sous terre.
 Items/PetPoisonSlimeBlobEgg	Text		Oozy Poison Egg	Oeuf gluants de poison
 Items/PetPoisonSlimeBlobEggCracked	Text		Cracked Oozy Poison Egg	Oeuf gluants de poison craquelé
 Items/PetPoisonSlimeBlobEggCrackedDesc	Text		A mysterious, transparent egg that is about to hatch.	Un mystérieux oeuf et transparent qui est sur le point d'éclore.
-Items/PetPoisonSlimeBlobEggDesc	Text		A mysterious, transparent egg that seems to react to your presence. Is there a way to hatch it?	Un mystérieux oeuf et transparent qui semble réagir à votre présence. Existe-t-il un moyen de le faire éclore ?
+Items/PetPoisonSlimeBlobEggDesc	Text		A mysterious, transparent egg that seems to react to your presence. Is there a way to hatch it?	Un mystérieux oeuf et transparent qui semble réagir à votre présence. Existe-t-il un moyen de le faire éclore?
 Items/PetPrinceSlimeBlob	Text		Prince Slime	Prince Slime
 Items/PetPrinceSlimeBlobDesc	Text		A royal little friend that is ready for adventures underground.	Un petit ami royal prêt à vivre des aventures sous terre.
 Items/PetPrinceSlimeBlobEgg	Text		Oozy Royal Egg	Oeuf gluants Royal
 Items/PetPrinceSlimeBlobEggCracked	Text		Cracked Oozy Royal Egg	Oeuf gluants Royal craquelé
 Items/PetPrinceSlimeBlobEggCrackedDesc	Text		A mysterious, transparent egg that is about to hatch.	Un œuf mystérieux et transparent sur le point d'éclore.
-Items/PetPrinceSlimeBlobEggDesc	Text		A mysterious, transparent egg that seems to react to your presence. Is there a way to hatch it?	Un œuf mystérieux et transparent qui semble réagir à votre présence. Existe-t-il un moyen de le faire éclore ?
+Items/PetPrinceSlimeBlobEggDesc	Text		A mysterious, transparent egg that seems to react to your presence. Is there a way to hatch it?	Un œuf mystérieux et transparent qui semble réagir à votre présence. Existe-t-il un moyen de le faire éclore?
 Items/PetRock	Text		Pet Rock	Rocher de compagnie
 Items/PetRockDesc	Text		It's Bob the pet rock. Don't drop or throw him, he has feelings too.	C'est Bob, le rocher de compagnie. Ne le laisse pas tomber ou ne le jette pas, il a aussi des sentiments.
 Items/PetSlimeBlob	Text		Jr. Orange Slime	Slime Orange junior
@@ -2957,13 +2957,13 @@ Items/PetSlimeBlobDesc	Text		An oozy little friend that is ready for adventures 
 Items/PetSlimeBlobEgg	Text		Oozy Egg	Oeuf gluants
 Items/PetSlimeBlobEggCracked	Text		Cracked Oozy Egg	Oeuf gluants craquelé
 Items/PetSlimeBlobEggCrackedDesc	Text		A mysterious, transparent egg that is about to hatch.	Un mystérieux oeuf et transparent qui est sur le point d'éclore.
-Items/PetSlimeBlobEggDesc	Text		A mysterious, transparent egg that seems to react to your presence. Is there a way to hatch it?	Un mystérieux oeuf et transparent qui semble réagir à votre présence. Existe-t-il un moyen de le faire éclore ?
+Items/PetSlimeBlobEggDesc	Text		A mysterious, transparent egg that seems to react to your presence. Is there a way to hatch it?	Un mystérieux oeuf et transparent qui semble réagir à votre présence. Existe-t-il un moyen de le faire éclore?
 Items/PetSlipperySlimeBlob	Text		Jr. Blue Slime	Slime Bleu junior
 Items/PetSlipperySlimeBlobDesc	Text		A slippery little friend that is ready for adventures underground.	Un petit ami glissant prêt à vivre des aventures sous terre.
 Items/PetSlipperySlimeBlobEgg	Text		Oozy Slippery Egg	Oeuf gluants visqueux
 Items/PetSlipperySlimeBlobEggCracked	Text		Cracked Oozy Slippery Egg	Oeuf gluants visqueux craquelé
 Items/PetSlipperySlimeBlobEggCrackedDesc	Text		A mysterious, transparent egg that is about to hatch.	Un mystérieux oeuf et transparent qui est sur le point d'éclore.
-Items/PetSlipperySlimeBlobEggDesc	Text		A mysterious, transparent egg that seems to react to your presence. Is there a way to hatch it?	Un mystérieux oeuf et transparent qui semble réagir à votre présence. Existe-t-il un moyen de le faire éclore ?
+Items/PetSlipperySlimeBlobEggDesc	Text		A mysterious, transparent egg that seems to react to your presence. Is there a way to hatch it?	Un mystérieux oeuf et transparent qui semble réagir à votre présence. Existe-t-il un moyen de le faire éclore?
 Items/PetalRing	Text		Petal Ring	Anneau de Pétale
 Items/PetalRingDesc	Text		A precious ring that has naturally grown in the yellow blossoms of the jungle caves.	Un anneau précieux qui a naturellement poussé dans les fleurs jaunes des grottes de la jungle.
 Items/PetrifiedCoral	Text		Petrified Coral	Corail pétrifié
@@ -3005,7 +3005,7 @@ Items/PlankDesc	Text		Wooden slate made for more precise carpentry work.	Ardoise
 Items/PlanterBox	Text		Planter Box	Jardinière
 Items/PlanterBoxDesc	Text		This wide, stone-hewn box holds up three plants for decoration.	Cette large boîte taillée dans la pierre contient trois plantes pour la décoration.
 Items/PlayerGrave	Text		Tombstone	Pierre tombale
-Items/PlayerGraveDesc	Text		Now that the worst is over, use it to decorate!	Maintenant que le pire est passé, utilisez-le pour décorer !
+Items/PlayerGraveDesc	Text		Now that the worst is over, use it to decorate!	Maintenant que le pire est passé, utilisez-le pour décorer!
 Items/PlayingDice	Text		Playing Dice	Dés à jouer
 Items/PlayingDiceDesc	Text		A playing dice with unique symbols on each face. It's probably been used in sets and for multiple different games.	Un jeu de dés avec des symboles uniques sur chaque face. Il a probablement été utilisé dans des sets et pour plusieurs jeux différents.
 Items/PlumeBall	Text		Plume Ball	Boule de Plume
@@ -3043,7 +3043,7 @@ Items/PolishedGoldenSpikeRingDesc	Text		This golden ring is very uncomfortable t
 Items/PolishedIronChunkNecklace	Text		Polished Iron Chunk Necklace	Collier en morceaux de fer poli
 Items/PolishedIronChunkNecklaceDesc	Text		A heavy piece of jewelry that increases defence.	Un bijou lourd qui augmente la défense.
 Items/PolishedMagneticRing	Text		Polished Magnetic Ring	Anneau magnétique poli
-Items/PolishedMagneticRingDesc	Text		A strange ring that pulls in loot around you in a higher radius. Magnets, how do they work?	Un anneau étrange qui attire le butin autour de vous dans un rayon plus élevé. Les aimants, comment ça marche ?
+Items/PolishedMagneticRingDesc	Text		A strange ring that pulls in loot around you in a higher radius. Magnets, how do they work?	Un anneau étrange qui attire le butin autour de vous dans un rayon plus élevé. Les aimants, comment ça marche?
 Items/PolishedOctarineNecklace	Text		Polished Octarine Necklace	Collier en octarine poli
 Items/PolishedOctarineNecklaceDesc	Text		A necklace made from pure octarine filled with magic energy.	Un collier en octarine pure rempli d'énergie magique.
 Items/PolishedOctarineRing	Text		Polished Octarine Ring	Bague en octarine polie
@@ -3061,7 +3061,7 @@ Items/PotBreastArmorDesc	Text		This brittle clay container is just your size and
 Items/PotHelm	Text		Pot Lid	Couvercle de pot en terre
 Items/PotHelmDesc	Text		A heavy clay cover that has partially cracked and doubles down as a funny hat.	A heavy clay cover that has partially cracked and doubles down as a funny hat.
 Items/PottedAlienFlower	Text		Potted Alien Flower	Fleur Alien en pot
-Items/PottedAlienFlowerDesc	Text		It is not an actual flower but a hologram of one. Is it proof of a dying world where nothing grew anymore?	Il ne s'agit pas d'une véritable fleur, mais d'un hologramme. Est-ce la preuve d'un monde en voie de disparition où plus rien ne pousse ?
+Items/PottedAlienFlowerDesc	Text		It is not an actual flower but a hologram of one. Is it proof of a dying world where nothing grew anymore?	Il ne s'agit pas d'une véritable fleur, mais d'un hologramme. Est-ce la preuve d'un monde en voie de disparition où plus rien ne pousse?
 Items/PottedCherryTree	Text		Potted Cherry Tree	Cerisier en pot
 Items/PottedCherryTreeDesc	Text		A bonsai-sized offshoot of the common cherry tree, planted in a decorative vase.	Une ramification du cerisier commun de la taille d'un bonsaï, plantée dans un vase décoratif.
 Items/PottedFlowerTree	Text		Potted Bloom Tree	Arbre à fleurs en pot
@@ -3093,9 +3093,9 @@ Items/PrimitiveGoKartDesc	Text		An ancient vehicle built by the lost civilizatio
 Items/ProcessorChip	Text		Processor Chip	Puce du processeur
 Items/ProcessorChipDesc	Text		This intricate, golden chip seems technically very advanced and must have computed complex calculations.	Cette puce dorée complexe semble techniquement très avancée et doit avoir effectué des calculs complexes.
 Items/ProtocolSlate	Text		Empty Crystal	Cristal vide
-Items/ProtocolSlateDesc	Text		A rhombus-shaped crystal made from glass that has complex circuits embedded. It seems powered down, maybe it could be fed data to activate it again?	Un cristal en forme de losange fabriqué à partir de verre qui intègre des circuits complexes. Il semble éteint, peut-être pourrait-il être alimenté en données pour le réactiver ?
+Items/ProtocolSlateDesc	Text		A rhombus-shaped crystal made from glass that has complex circuits embedded. It seems powered down, maybe it could be fed data to activate it again?	Un cristal en forme de losange fabriqué à partir de verre qui intègre des circuits complexes. Il semble éteint, peut-être pourrait-il être alimenté en données pour le réactiver?
 Items/ProtocolSlateKey	Text		Admin Key	Clé administrateur
-Items/ProtocolSlateKeyDesc	Text		A reactivated key belonging to a wise leader. It may open the door to something very valuable.	Une clé réactivée appartenant à un chef avisé. Cela peut ouvrir la porte à quelque chose de très précieux.
+Items/ProtocolSlateKeyDesc	Text		A reactivated key belonging to a wise leader. It may open the door to something very valuable.	Une clé réactivée appartenant à un chef avisé. Cela peut ouvrir la porte de quelque chose de très précieux.
 Items/Puffungi	Text		Puffungi	Puffungi
 Items/PuffungiDesc	Text		A moldy fungus fit for gourmets.	Un champignon moisi digne des gourmets.
 Items/PuffungiRare	Text		Golden Puffungi	Poufungi doré
@@ -3123,7 +3123,7 @@ Items/RadiationBreastArmorDesc	Text		Whatever the problem is, encountering it be
 Items/RadiationCrystal	Text		Radiation Crystal	Cristal radioactifs
 Items/RadiationCrystalDesc	Text		A culmination of radioactive elements that resulted in a glass-like structure.	Une combinaison d'éléments radioactifs qui a donné naissance à une structure semblable à du verre.
 Items/RadiationHelm	Text		Hazmat Helm	Casque Hazmat
-Items/RadiationHelmDesc	Text		Need to handle strange materials that emit even stranger radiation? Ask no more!	Vous devez manipuler des matériaux étranges qui émettent des radiations encore plus étranges ? Ne cherchez plus !
+Items/RadiationHelmDesc	Text		Need to handle strange materials that emit even stranger radiation? Ask no more!	Vous devez manipuler des matériaux étranges qui émettent des radiations encore plus étranges? Ne cherchez plus!
 Items/RadiationPantsArmor	Text		Hazmat Suit Pants	Pantalon de combinaison Hazmat
 Items/RadiationPantsArmorDesc	Text		A protective suit is not complete without some boots that save the feet.	Une combinaison de protection n'est pas complète sans des bottes qui protègent les pieds.
 Items/RadicalRabbitEars	Text		Radical Rabbit Ears	Oreilles de lapin radicales
@@ -3184,7 +3184,7 @@ Items/RockJawDesc	Text		A small shark that can break almost every material with 
 Items/RolyPoly	Text		Strolly Poly	Strolly Poly
 Items/RolyPolyBaby	Text		Strolly Poly Nymph	Strolly Poly Nymphe
 Items/RolyPolyBabyDesc	Text		The young version of a Strolly Poly. Unlike its grown up parents, this one is in constant danger of being stepped on or being mistaken for a larva by careless explorers.	La version jeune d'un Strolly Poly. Contrairement à ses parents adultes, il risque constamment de se faire marcher dessus ou d'être pris pour une larve par des explorateurs imprudents.
-Items/RolyPolyDesc	Text		Content with everything going on around it, this gentle giant waddles through the darkness, always in search of a skittering, crunchy snack. Did you know that it is not even an insect?	Se contentant de tout ce qui se passe autour de lui, ce gentil géant se dandine dans l'obscurité, toujours à la recherche d'un en-cas croustillant. Saviez-vous qu'il ne s'agit même pas d'un insecte ?
+Items/RolyPolyDesc	Text		Content with everything going on around it, this gentle giant waddles through the darkness, always in search of a skittering, crunchy snack. Did you know that it is not even an insect?	Se contentant de tout ce qui se passe autour de lui, ce gentil géant se dandine dans l'obscurité, toujours à la recherche d'un en-cas croustillant. Saviez-vous qu'il ne s'agit même pas d'un insecte?
 Items/RolyPolyPlate	Text		Strolly Poly Plate	Plaque en polyéthylène
 Items/RolyPolyPlateDesc	Text		A cast-off plate that makes up the hard armor of a Strolly Poly. Very sturdy and great for crafting.	Une plaque jetable qui constitue l’armure dure d’un polyéthylène. Très robuste et idéal pour l’artisanat.
 Items/RoofingTool	Text		Roofing Gadget	Gadget pour plafond
@@ -3239,7 +3239,7 @@ Items/RustyFishingHookDesc	Text		Rusted to the core and unusable. That fish was 
 Items/RustySpoon	Text		Rusty Spoon	Cuillère rouillée
 Items/RustySpoonDesc	Text		An old, corroded eating utensil. Almost every culture has invented it.	Un vieil ustensile de cuisine corrodé. Presque toutes les cultures l'ont inventé.
 Items/SalvageAndRepairStation	Text		Salvage and Repair Station	Station de recyclage et de réparation
-Items/SalvageAndRepairStationDesc	Text		Scraps tools and equipment you don't need or refurbishes broken ones.	Mettez au rebut les outils et l'équipement dont vous n'avez pas besoin ou remettez à neuf ceux qui sont cassés.
+Items/SalvageAndRepairStationDesc	Text		Scraps tools and equipment you don't need or refurbishes broken ones.	Recycler les outils et l'équipement dont vous n'avez plus besoin ou remettez à neuf ceux qui sont cassés.
 Items/SamhainCurseRing	Text		Samhain Curse Ring	Anneau de malédiction de Samhain
 Items/SamhainCurseRingDesc	Text		A cursed ring that was used to welcome the cold season into the lands. It represents decay and darkness.	Un anneau maudit qui a été utilisé pour accueillir la saison froide dans les terres. Il représente la décadence et les ténèbres.
 Items/SamhainOfferingNecklace	Text		Samhain Offering Necklace	Collier d'offrande de Samhain
@@ -3249,7 +3249,7 @@ Items/SandySpikebackDesc	Text		A very defensive fish with sandstone skin and jag
 Items/SantaHelm	Text		Festive Hat	Chapeau de fête
 Items/SantaHelmDesc	Text		A warm, soft hat to keep ones ears warm in the cold season. You can't get around wearing one of those in winter.	Un bonnet chaud et doux pour garder les oreilles au chaud pendant la saison froide. Vous ne pouvez pas vous déplacer en portant un de ceux-là en hiver.
 Items/SantasLittleHelper	Text		Little Helperling	Petit assistant
-Items/SantasLittleHelperDesc	Text		A fellow caveling that fits in your backpack but wants to be placed down soon because it's eager to work. It will craft presents in exchange for cooked food, give it rare cooked food for higher quality! 	Un camarade cavelin qui tient dans votre sac à dos mais qui veut être déposé bientôt parce qu'il a hâte de travailler. Il fabriquera des cadeaux en échange de plats cuisinés, donnez-lui des plats cuisinés rares pour une meilleure qualité !
+Items/SantasLittleHelperDesc	Text		A fellow caveling that fits in your backpack but wants to be placed down soon because it's eager to work. It will craft presents in exchange for cooked food, give it rare cooked food for higher quality! 	Un camarade cavelin qui tient dans votre sac à dos mais qui veut être déposé bientôt parce qu'il a hâte de travailler. Il fabriquera des cadeaux en échange de plats cuisinés, donnez-lui des plats cuisinés rares pour une meilleure qualité!
 Items/ScarabBossScanner	Text		Ra-Akar the Sand Titan Scanner	Scanneur de Ra-Akar le titans de sable
 Items/ScarabBossScannerDesc	Text		Scans the world for Ra-Akar the Sand Titan. Consumed on successful scan.	Scanne le monde à la recherche de Ra-Akar le Titan des sables. Consommé en cas d'analyse réussie.
 Items/ScarabBreastArmor	Text		Scarab Harness	Harnais Scarabée
@@ -3264,7 +3264,7 @@ Items/ScarabWingcover	Text		Scarab Wingcover	Couvre-aile de scarabée
 Items/ScarabWingcoverDesc	Text		The wing carapace of a Bomb Scarab resembling half a skull. 	La carapace d'aile d'un scarabée bombe ressemblant à un demi-crâne.
 Items/ScarletAnvil	Text		Scarlet Anvil	Enclume en Scarlet
 Items/ScarletAnvilDesc	Text		A very advanced anvil for creating supreme equipment.	Une enclume très avancée pour créer un équipement suprême.
-Items/ScarletBar	Text		Scarlet Bar	Barre de Scarlet
+Items/ScarletBar	Text		Scarlet Bar	Lingot de Scarlet
 Items/ScarletBarDesc	Text		A valuable ingot for high-tier blacksmithing.	Un lingot précieux pour la forge de haut niveau.
 Items/ScarletBreastArmor	Text		Scarlet Breastplate	Cuirasse en Scarlet
 Items/ScarletBreastArmorDesc	Text		Fierce upper body armor for true warriors.	Armure féroce du haut du corps pour les vrais guerriers.
@@ -3293,11 +3293,11 @@ Items/ScarletHelmDesc	Text		Menacing-looking horned helm, fits perfectly with th
 Items/ScarletHoe	Text		Scarlet Hoe	Houe en Scarlet
 Items/ScarletHoeDesc	Text		An excellent tool to prepare ground for farming. Each hit covers an area of 3x3 tiles.	Un excellent outil pour préparer le terrain pour l'agriculture. Chaque coup couvre une zone de 3x3 tuiles.
 Items/ScarletKey	Text		Scarlet Key	Clé en Scarlet
-Items/ScarletKeyDesc	Text		A sturdy key cast in scarlet. There should be a lock somewhere that it fits into.	Une clé solide moulée en Scarlet. Il devrait y avoir un verrou quelque part dans lequel il s'insère.
+Items/ScarletKeyDesc	Text		A sturdy key cast in scarlet. There should be a lock somewhere that it fits into.	Une clé solide moulée en Scarlet. Il devrait y avoir un verrou quelque part dans lequel elle s'insère.
 Items/ScarletMiningPick	Text		Scarlet Pickaxe	Pioche en Scarlet
 Items/ScarletMiningPickDesc	Text		A great tool for breaking down extremely hard walls.	Un excellent outil pour abattre des murs extrêmement durs.
 Items/ScarletOre	Text		Scarlet Ore	Minerai de Scarlet
-Items/ScarletOreBoulder	Text		Scarlet Ore Boulder	Rocher de minerai de Scarlet
+Items/ScarletOreBoulder	Text		Scarlet Ore Boulder	Bloc de Scarlet
 Items/ScarletOreDesc	Text		Scarlet ore commonly found in grass walls.	Minerai de Scarlet couramment trouvé dans les murs d'herbe.
 Items/ScarletPantsArmor	Text		Scarlet Pants	Pantalon en Scarlet
 Items/ScarletPantsArmorDesc	Text		March through your enemies and don't look back.	Traversez vos ennemis et ne regardez pas en arrière.
@@ -3319,8 +3319,8 @@ Items/ScholarStaff	Text		Scholar's Staff	Bâton d'érudit
 Items/ScholarStaffDesc	Text		A magical staff wielded by caveling scholars that utilizes an ancient gemstone to produce powerful bolts of energy.	Un bâton magique manié par des érudits cavelin qui utilise une pierre précieuse ancienne pour produire de puissants éclairs d'énergie.
 Items/ScholarTrophy	Text		Caveling Scholar Figurine	Figurine d'érudit cavelin
 Items/ScholarTrophyDesc	Text		A lifelike representation of a caveling scholar.	Une représentation réaliste d'un érudit cavelin.
-Items/ScrapPart	Text	Should be in plural as the ingame icon shows several parts	Scrap Parts	Pièces de détacher
-Items/ScrapPartDesc	Text		Different materials salvaged from junk. Used to repair items at the salvage and repair station.	Différents matériaux récupérés de la ferraille. Utilisé pour réparer des objets à la station de récupération et de réparation.
+Items/ScrapPart	Text	Should be in plural as the ingame icon shows several parts	Scrap Parts	Pièces de feraille
+Items/ScrapPartDesc	Text		Different materials salvaged from junk. Used to repair items at the salvage and repair station.	Différents matériaux récupérés de la ferraille. Utilisé pour réparer des objets à la station de recyclage et de réparation.
 Items/ScreenDevice	Text		Screen Device	Dispositif d'écran
 Items/ScreenDeviceDesc	Text		A small device made from blue glass, perfectly fitting into your hand. It's touch sensitive and scrolls through images and glyphs.	Un petit appareil en verre bleu, parfaitement adapté à votre main. Il est tactile et fait défiler les images et les glyphes.
 Items/SeaBiomeChest	Text		Seashell Chest	Coffre de coquillage
@@ -3333,7 +3333,7 @@ Items/SeaShellDesc	Text		A strange shell with a silky-smooth surface. 	Un étran
 Items/SeaWoodenDestructible	Text		Driftwood Wooden Crate	Caisse en bois flotté
 Items/SeaWoodenDestructibleDesc	Text		This box has been created from driftwood and is bleached by light from above.	Cette boîte a été créée à partir de bois flotté et est blanchie par la lumière d'en haut.
 Items/SealedBeverage	Text		Sealed Beverage	Boisson scellée
-Items/SealedBeverageDesc	Text		An unknown liquid slushes inside when shaken. Is there an ancient corkscrew around?	Un liquide inconnu coule à l'intérieur lorsqu'il est secoué. Y a-t-il un ancien tire-bouchon dans le coin ?
+Items/SealedBeverageDesc	Text		An unknown liquid slushes inside when shaken. Is there an ancient corkscrew around?	Un liquide inconnu coule à l'intérieur lorsqu'il est secoué. Y a-t-il un ancien tire-bouchon dans le coin?
 Items/SeasonalMerchant	Text		Seasonal Merchant	Marchand saisonnier
 Items/SeismicClock	Text		Seismic Clock	Horloge sismique
 Items/SeismicClockDesc	Text		This broken device looks like it was able to predict earthquakes.	Cet appareil cassé semble être capable de prédire les tremblements de terre.
@@ -3428,10 +3428,10 @@ Items/SnowballPyramidDesc	Text		A traditional festive contruct built with snowba
 Items/SnowmanHelm	Text		Snowman Hat	Chapeau de bonhomme de neige
 Items/SnowmanHelmDesc	Text		Whatever one is feeling at the moment, this hat covers it all up with a happy expression made from coal and carrots.	Quoi que l'on ressente en ce moment, ce chapeau cache tout avec une expression joyeuse faite de charbon et de carottes.
 Items/SoftSponge	Text		Soft Sponge	Éponge douce
-Items/SoftSpongeDesc	Text		A soft, squishy sponge. Time to take a bath!	Une éponge douce et moelleuse. C'est l'heure de prendre un bain !
+Items/SoftSpongeDesc	Text		A soft, squishy sponge. Time to take a bath!	Une éponge douce et moelleuse. C'est l'heure de prendre un bain!
 Items/SolariteAnvil	Text		Solarite Anvil	Enclume en solarite
 Items/SolariteAnvilDesc	Text		A superior anvil for creating magnificent equipment.	Une enclume supérieure pour créer de magnifiques équipements.
-Items/SolariteBar	Text		Solarite Bar	Barre de Solarite
+Items/SolariteBar	Text		Solarite Bar	Lingot de Solarite
 Items/SolariteBarDesc	Text		A magnificent ingot for masterful blacksmithing.	Un magnifique lingot pour un travail de forge magistral.
 Items/SolariteChest	Text		Solarite Chest	Coffre en solarite
 Items/SolariteChestDesc	Text		A shimmering chest made from solarite. It is not locked anymore.	Un coffre scintillant en solarite. Il n'est plus verrouillé.
@@ -3444,7 +3444,7 @@ Items/SolariteKeyDesc	Text		A shimmering key cast in solarite. There should be a
 Items/SolariteMiningPick	Text		Solarite Pickaxe	Pioche en solarite
 Items/SolariteMiningPickDesc	Text		A superior tool for breaking down perplexingly hard walls.	Un outil de premier ordre pour abattre les murs qui laissent perplexe.
 Items/SolariteOre	Text		Solarite Ore	Minerai de solarite
-Items/SolariteOreBoulder	Text		Solarite Ore Boulder	Rocher de minerai de solarite
+Items/SolariteOreBoulder	Text		Solarite Ore Boulder	Bloc de solarite
 Items/SolariteOreDesc	Text		An ore that fused with Ancient Gemstones. It can sometimes be found in crystalline walls.	Un minerai qui fusionne avec les pierres précieuses anciennes. On le trouve parfois dans des murs cristallins.
 Items/SolariteSword	Text		Solarite Sword	Épée en solarite
 Items/SolariteSwordDesc	Text		A superior weapon for obliterating foes.	Une arme supérieure pour anéantir les ennemis.
@@ -3491,7 +3491,7 @@ Items/StoneFenceGateDesc	Text		A simple gate for the stone fence.	Une porte simp
 Items/StoneFloor	Text		Stone Floor	Sol en pierre
 Items/StoneFloorDesc	Text		Simple rock tiles for decorating your base.	Tuiles de roche simples pour décorer votre base.
 Items/StonePedestal	Text		Stone Pedestal	Piédestal en pierre
-Items/StonePedestalDesc	Text		Showcase your findings!	Exposez vos trouvailles !
+Items/StonePedestalDesc	Text		Showcase your findings!	Exposez vos trouvailles!
 Items/StoneStalagmite	Text		Stone Stalagmite	Stalagmite de pierre
 Items/StoneStalagmiteDesc	Text		A stone pillar slowly raised over thousands of years through tectonic pressure.	Un pilier de pierre qui s'est lentement élevé pendant des milliers d'années sous l'effet de la pression tectonique.
 Items/StoneskinPotion	Text		Stoneskin Potion	Potion de peau de pierre
@@ -3563,9 +3563,9 @@ Items/TempleGlyphBlockBroken	Text		Broken Glyph Stele	Stèle de glyphe brisé
 Items/TempleGlyphBlockBrokenDesc	Text		A block made from hazy blue glass with golden etchings. The information written on it is lost forever as it has been smashed on purpose.	Un bloc en verre bleu voilé avec des gravures dorées. Les informations écrites dessus sont perdues à jamais car elles ont été détruites exprès.
 Items/TempleGlyphBlockDesc	Text		A block made from hazy blue glass with golden etchings. It seems like these were used as memorials or to mark places of importance.	Un bloc en verre bleu voilé avec des gravures dorées. Il semble que ceux-ci aient été utilisés comme mémoriaux ou pour marquer des lieux importants.
 Items/TempleGlyphWall1	Text		Angled Glyph Wall	Mur de glyphe incliné
-Items/TempleGlyphWall1Desc	Text		An ancient sandstone wall with an angled top and covered in indecipherable glyphs. What stories do they tell?	Un ancien mur de grès avec un sommet incliné et couvert de glyphes indéchiffrables. Quelles histoires racontent-ils ?
+Items/TempleGlyphWall1Desc	Text		An ancient sandstone wall with an angled top and covered in indecipherable glyphs. What stories do they tell?	Un ancien mur de grès avec un sommet incliné et couvert de glyphes indéchiffrables. Quelles histoires racontent-ils?
 Items/TempleGlyphWall2	Text		Glyph Wall	Mur de glyphes
-Items/TempleGlyphWall2Desc	Text		An ancient sandstone wall covered in indecipherable glyphs. What stories do they tell?	Un ancien mur de grès couvert de glyphes indéchiffrables. Quelles histoires racontent-ils ?
+Items/TempleGlyphWall2Desc	Text		An ancient sandstone wall covered in indecipherable glyphs. What stories do they tell?	Un ancien mur de grès couvert de glyphes indéchiffrables. Quelles histoires racontent-ils?
 Items/TempleGuardianStatue	Text		Temple Guardian Statue	Statue du gardien du temple
 Items/TempleGuardianStatueDesc	Text		This intimidating statue depicts an ancient guardian in exotic garment. Its kneeling pose hints at being in service of a king.	Cette statue intimidante représente un ancien gardien vêtu d'un vêtement exotique. Sa pose à genoux suggère d'être au service d'un roi.
 Items/TempleGuardianStatueRaided	Text		Raided Temple Guardian Statue	Statue du gardien du temple pillé
@@ -3606,7 +3606,7 @@ Items/TinAnvil	Text		Tin Anvil	Enclume en étain
 Items/TinAnvilDesc	Text		A better anvil for creating gear and weapons more suited for survival.	Une meilleure enclume pour créer des équipements et des armes plus adaptés à la survie.
 Items/TinAxe	Text		Tin Axe	Hache en étain
 Items/TinAxeDesc	Text		A slower but more damaging weapon against multiple enemies.	Une arme plus lente mais plus dommageable contre plusieurs ennemis.
-Items/TinBar	Text		Tin Bar	Barre d'étain
+Items/TinBar	Text		Tin Bar	Lingot d'étain
 Items/TinBarDesc	Text		A tough metal ingot for blacksmithing.	Un lingot de métal résistant pour la forge.
 Items/TinBreastArmor	Text		Tin Breastplate	Cuirasse en étain
 Items/TinBreastArmorDesc	Text		A good armor to survive battles more easily.	Une bonne armure pour survivre plus facilement aux batailles.
@@ -3621,7 +3621,7 @@ Items/TinHoeDesc	Text		A durable tool to prepare ground for farming.	Un outil du
 Items/TinMiningPick	Text		Tin Pickaxe	Pioche en étain
 Items/TinMiningPickDesc	Text		A durable tool, good for breaking down walls more easily.	Un outil durable, bon pour abattre les murs plus facilement.
 Items/TinOre	Text		Tin Ore	Minerai d'étain
-Items/TinOreBoulder	Text		Tin Ore Boulder	Rocher de minerai d'étain
+Items/TinOreBoulder	Text		Tin Ore Boulder	Bloc d'étain
 Items/TinOreDesc	Text		Commonly found in clay walls.	Communément trouvé dans les murs d'argile.
 Items/TinPantsArmor	Text		Tin Pants	Pantalon en étain
 Items/TinPantsArmorDesc	Text		Some tin for the shin.	Un peu d'étain pour le tibia.
@@ -3733,7 +3733,7 @@ Items/WallGleamWoodBlockDesc	Text		An enigmatic wall reinforced with glimmering 
 Items/WallGrassBlock	Text		Grass Wall	Mur d'herbe
 Items/WallGrassBlockDesc	Text		A lush plant wall section.	Un pan de mur végétal luxuriant.
 Items/WallHiveBlock	Text		Larva Hive Wall	Mur de ruche de larves
-Items/WallHiveBlockDesc	Text		A lumpy, moving...wall section?	Une section de mur grumeleuse et mobile ?
+Items/WallHiveBlockDesc	Text		A lumpy, moving...wall section?	Une section de mur grumeleuse et mobile?
 Items/WallLavaBlock	Text		Lava Rock Wall	Mur de pierre de lave
 Items/WallLavaBlockDesc	Text		A molten wall section.	Une section de paroi en fusion.
 Items/WallLimestoneBlock	Text		Limestone Wall	Mur de calcaire
@@ -3743,7 +3743,7 @@ Items/WallMeadowBlockDesc	Text		A warm, crumbly wall section that grows golden-c
 Items/WallMoldBlock	Text		Mold Wall	Mur moisi
 Items/WallMoldBlockDesc	Text		A moldy wall section.	Un pan de mur moisi.
 Items/WallObsidianBlock	Text		Obsidian Wall	Mur d'obsidienne
-Items/WallObsidianBlockDesc	Text		An indestructible wall section... wait! You shouldn't have this!	Un pan de mur indestructible... attendez ! Vous ne devriez pas avoir ça !
+Items/WallObsidianBlockDesc	Text		An indestructible wall section... wait! You shouldn't have this!	Un pan de mur indestructible... attendez! Vous ne devriez pas avoir ça!
 Items/WallPaintableBlock	Text		Paintable Wall	Mur à peindre
 Items/WallPaintableBlockDesc	Text		A bleak stone wall ready to be turned lively with colors.	Un mur de pierre sombre prêt à être animé de couleurs.
 Items/WallSandBlock	Text		Sand Wall	Mur de sable
@@ -3796,8 +3796,8 @@ Items/WinterCookies	Text		Winter Cookies	Biscuits d'hiver
 Items/WinterCookiesDesc	Text		Nicely decorated this handful of cookies will put one in a seasonal mood. There's even a little core-shaped one in there.	Joliment décorées, cette poignée de biscuits vous mettra dans une ambiance saisonnière. Il y en a même un petit en forme de noyau là-dedans.
 Items/WinterDinner	Text		Winter Dinner	Dîner d'hiver
 Items/WinterDinnerDesc	Text		A full meal to warm your belly in the cold season. Prepared with a roasted larva, hot heartberry sauce, dumplings and some greens.	Un repas complet pour se réchauffer le ventre pendant la saison froide. Préparé avec une larve rôtie, une sauce piquante aux myrtilles, des boulettes et quelques légumes verts.
-Items/WonkyMinecart	Text		Wonky Minecart	Bouquet de roses blanches
-Items/WonkyMinecartDesc	Text		Allows riding the railways.	Ce magnifique bouquet de roses blanches rehaussera l'aspect de chaque pièce. Offrez-le à une personne qui vous est chère.
+Items/WonkyMinecart	Text		Wonky Minecart	Chariot branlant
+Items/WonkyMinecartDesc	Text		Allows riding the railways.	Permet de rouler sur les chemins de fer.
 Items/Wood	Text		Wood	Bois
 Items/WoodBow	Text		Wood Bow	Arc en bois
 Items/WoodBowDesc	Text		A crude bow to shoot foes from afar.	Un arc rudimentaire pour tirer sur les ennemis de loin.
@@ -3855,7 +3855,7 @@ Items/WoodenWorkBenchDesc	Text		The most basic of all workbenches.	Le plus basiq
 Items/Wool	Text		Wool	Laine
 Items/WoolDesc	Text		An incredibly soft tuft of wool that has a pleasant scent to it.	Une touffe de laine incroyablement douce et agréablement parfumée.
 Items/WorkerHandcuff	Text		Worker Handcuff	Menottes de travailleur
-Items/WorkerHandcuffDesc	Text		Cast from thick metal this tool seemed to be attached to a chain. Has it been used to keep the unlawful from running away?	Coulé à partir d'un métal épais, cet outil semblait être attaché à une chaîne. A-t-il été utilisé pour empêcher les clandestins de s'enfuir ?
+Items/WorkerHandcuffDesc	Text		Cast from thick metal this tool seemed to be attached to a chain. Has it been used to keep the unlawful from running away?	Coulé à partir d'un métal épais, cet outil semblait être attaché à une chaîne. A-t-il été utilisé pour empêcher les clandestins de s'enfuir?
 Items/WormSegment	Text		Nilipede	Nilipede
 Items/WovenMat	Text		Woven Mat	Tapis tissé
 Items/WovenMatDesc	Text		Groundcover made from a net of firm plants.	Couvre-sol constitué d'un filet de plantes fermes.
@@ -3868,35 +3868,35 @@ Items/YellowFireflyDesc	Text		This flying bug always appears in swarms which app
 Items/YellowKelp	Text		Yellow Kelp	Algue jaune
 Items/YellowKelpDesc	Text		A yellow lump of marine plants, not that useful.	Un morceau jaune de plantes marines, pas si utile.
 JoinDiscord	Text		Join the Core Keeper Discord Server	Rejoignez le serveur Discord Core Keeper
-LanguageOption	Text		Language: {0}	Langue : {0}
+LanguageOption	Text		Language: {0}	Langue: {0}
 LeashCattle	Text		Attach to cattle	Attacher au bétail
 MapMarkers/DeathMarker	Text	"{0} is replaced with ""You"" or name of other players"	{0} died here	{0} est mort ici
 MapMarkers/DeathMarkerThisPlayer	Text		You died here	Vous êtes mort ici
-MapMarkers/TheCore	Text		The Core	Le noyau
-MapMarkers/You	Text	This is shown when hovering over own player marker in Map	You	Toi
+MapMarkers/TheCore	Text		The Core	Le Noyau
+MapMarkers/You	Text	This is shown when hovering over own player marker in Map	You	Vous
 MapMarkers/mustBeAtPortalToTeleportDesc	Text		You must use a portal to teleport here.	Vous devez utiliser un portail pour vous téléporter ici.
 MapMarkers/portal	Text		Portal	Portail
 MapMarkers/portalGoToDesc	Text		Click to teleport to this portal.	Cliquez pour vous téléporter vers ce portail.
 MapMarkers/portalNotReadyDesc	Text		Portal is not ready.	Le portail n'est pas prêt.
-MapMarkers/portalStandingAtDesc	Text		You are standing at this portal.	Vous vous tenez à ce portail.
-Menu/AdminPlayers	Text		Admin players	Joueurs administrateurs
-Menu/AllowJoinByPresence	Text		Allow friends to join without Game ID	Autoriser les amis à rejoindre sans ID de jeu
-Menu/AmbientOcclusion	Text		Ambient Occlusion	Occlusion ambiante
+MapMarkers/portalStandingAtDesc	Text		You are standing at this portal.	Vous êtes à ce portail.
+Menu/AdminPlayers	Text		Admin players	Joueurs Administrateurs
+Menu/AllowJoinByPresence	Text		Allow friends to join without Game ID	Autoriser les amis à rejoindre sans l'Identifiant de la partie
+Menu/AmbientOcclusion	Text		Ambient Occlusion	Occlusion Ambiante
 Menu/BannedPlayers	Text		Banned players	Joueurs bannis
 Menu/Bloom	Text		Bloom	Eclat
 Menu/BorderlessFullscreen	Text		Borderless fullscreen	Plein écran sans bordure
 Menu/Brightness	Text		Brightness	Luminosité
 Menu/CharacterSlot	Text		Character slot	Emplacement de personnage
-Menu/CharacterStuck	Text	Option in gameplay settings allowing player to kill themselves in order to get out of a stuck position	My character is stuck!	Mon personnage est coincé !
+Menu/CharacterStuck	Text	Option in gameplay settings allowing player to kill themselves in order to get out of a stuck position	My character is stuck!	Mon personnage est coincé!
 Menu/CharacterType	Text		Character type	Type de personnage
-Menu/ColorOutput	Text		Color Output	Sortie couleur
-Menu/ConnectedPlayers	Text		Connected players:	Joueurs connectés :
+Menu/ColorOutput	Text		Color Output	Sortie Couleur
+Menu/ConnectedPlayers	Text		Connected players:	Joueurs connectés:
 Menu/ConnectedPlayersWarning	Text		More than {0} players connected. This may cause issues.	Plus de {0} joueurs connectés. Cela peut causer des problèmes.
 Menu/CreateWorld	Text		Create world	Créer un monde
-Menu/CreatedSaveBackup	Text		Created CoreKeeperSaves.zip on Desktop	Création de CoreKeeperSaves.zip sur le bureau
+Menu/CreatedSaveBackup	Text		Created CoreKeeperSaves.zip on Desktop	Création de CoreKeeperSaves.zip sur le Bureau
 Menu/Credits	Text		Credits	Crédits
 Menu/DeleteCharactersMenu	Text		Delete characters menu	Menu de suppression des personnages
-Menu/DeleteCreativeCharactersMenu	Text		Delete creative characters menu	Menu de suppression des personnages Creative
+Menu/DeleteCreativeCharactersMenu	Text		Delete creative characters menu	Menu de suppression des personnages du mode Créatif
 Menu/DeleteOptions	Text		Delete options	Options de suppression
 Menu/DeleteProgressOptions	Text		Delete progress options	Options de suppression de progression
 Menu/DeleteWorldsMenu	Text		Delete worlds menu	Menu de suppression des mondes
@@ -3906,9 +3906,9 @@ Menu/EnterWorldName	Text		Enter world name...	Entrez le nom du monde...
 Menu/ExperimentalPopUp	Text		Core Keeper is currently running in experimental mode. This mode is using a separate set of save files. Your regular save files will still be there when you are back in non-experimental mode.	Core Keeper fonctionne actuellement en mode expérimental. Ce mode utilise un ensemble séparé de fichiers de sauvegarde. Vos fichiers de sauvegarde habituels seront toujours là lorsque vous serez de retour en mode non expérimental.
 Menu/FaceMouseDirection	Text	Option that when enabled causes character to face towards mouse on screen, otherwise character faces the direction that player last moved towards	Face mouse direction	Face à la direction de la souris
 Menu/Fullscreen	Text		Fullscreen	Plein écran
-Menu/GameID	Text	Game ID is used to connect to other players and shown in pause menu while in a game	Game ID: {0}	ID de jeu : {0}
+Menu/GameID	Text	Game ID is used to connect to other players and shown in pause menu while in a game	Game ID: {0}	Identifiant de la partie: {0}
 Menu/GameplayOptions	Text		Gameplay settings	Paramètres de jeu
-Menu/GetOutOfStuckPositionDialogue	Text		Do you want to kill your character to get out of a stuck position?	Voulez-vous tuer votre personnage pour sortir d'une position bloquée ?
+Menu/GetOutOfStuckPositionDialogue	Text		Do you want to kill your character to get out of a stuck position?	Voulez-vous tuer votre personnage pour sortir d'une position bloquée?
 Menu/GiveFeedback	Text		Report bugs / feedback	Signaler des bugs / commentaires
 Menu/GraphicsOptions	Text		Graphics settings	Paramètres graphiques
 Menu/Hardcore	Text		Hardcore	Hardcore
@@ -3918,9 +3918,9 @@ Menu/LightQuality	Text		Light quality	Qualité de la lumière
 Menu/LocalModMissingClientDialogue	Text		Required mod {0} is missing.	Le mod requis {0} est manquant.
 Menu/LocalModMissingServerDialogue	Text		Required mod {0} is missing from server.	Le mod requis {0} est manquant sur le serveur.
 Menu/ManagePlayers	Text		Manage players	Gérer les joueurs
-Menu/ModMenuPopUp	Text		Thank you for exploring the MODS section! Please note that our mod support is currently work-in-progress. As it's newly released, there might not be many mods available yet. Additionally, using mods may lead to unforeseen issues or behaviors in the game. Use them at your own discretion and enjoy the creative possibilities!	Merci d'avoir exploré la section MODS ! Veuillez noter que la prise en charge des mods est actuellement en cours. Comme il s'agit d'une version récente, il se peut qu'il n'y ait pas encore beaucoup de mods disponibles. En outre, l'utilisation de mods peut entraîner des problèmes ou des comportements imprévus dans le jeu. Utilisez-les à votre propre discrétion et profitez des possibilités créatives !
-Menu/ModMissingClientDialogue	Text		Required mod {0} is missing. Do you want to install it (needs restart)?	Le mod requis {0} est manquant. Voulez-vous l'installer (nécessite un redémarrage) ?
-Menu/ModMissingServerDialogue	Text		Required mod {0} is missing from server. Do you want to disable it (needs restart)?	Le mod requis {0} est manquant sur le serveur. Voulez-vous le désactiver (nécessite un redémarrage) ?
+Menu/ModMenuPopUp	Text		Thank you for exploring the MODS section! Please note that our mod support is currently work-in-progress. As it's newly released, there might not be many mods available yet. Additionally, using mods may lead to unforeseen issues or behaviors in the game. Use them at your own discretion and enjoy the creative possibilities!	Merci d'avoir exploré la section MODS! Veuillez noter que la prise en charge des mods est actuellement en cours. Comme il s'agit d'une version récente, il se peut qu'il n'y ait pas encore beaucoup de mods disponibles. En outre, l'utilisation de mods peut entraîner des problèmes ou des comportements imprévus dans le jeu. Utilisez-les à votre propre discrétion et profitez des possibilités créatives!
+Menu/ModMissingClientDialogue	Text		Required mod {0} is missing. Do you want to install it (needs restart)?	Le mod requis {0} est manquant. Voulez-vous l'installer (nécessite un redémarrage)?
+Menu/ModMissingServerDialogue	Text		Required mod {0} is missing from server. Do you want to disable it (needs restart)?	Le mod requis {0} est manquant sur le serveur. Voulez-vous le désactiver (nécessite un redémarrage)?
 Menu/Mods	Text		Mods	Mods
 Menu/MoreInfo	Text		More info	Plus d'informations
 Menu/NoAdminsOnline	Text		There are no admins online.	Il n'y a pas d'administrateurs en ligne.
@@ -3931,11 +3931,11 @@ Menu/OverrideSeason	Text		Override season	Remplacer la saison
 Menu/PacketRate	Text		Network packet send rate	Taux d'envoi de paquets par le réseau
 Menu/ParticlesQuality	Text		Particles quality	Qualité des particules
 Menu/PerformanceOptions	Text		Performance settings	Paramètres de performances
-Menu/Ping	Text	Ping to server, shown in pause menu	Ping: {0} ms	Ping : {0} ms
+Menu/Ping	Text	Ping to server, shown in pause menu	Ping: {0} ms	Ping: {0} ms
 Menu/Quit	Text		Quit	Quitter
 Menu/Reflections	Text		Reflections	Reflets
 Menu/RestartPendingModChanges	Text		Restarting to install necessary mods.	Redémarrage pour installer les mods nécessaires.
-Menu/RestartToApplyModChanges	Text		Pending mod changes requires a restart, do you want to restart now?	Les changements de mods en cours nécessitent un redémarrage, voulez-vous redémarrer maintenant ?
+Menu/RestartToApplyModChanges	Text		Pending mod changes requires a restart, do you want to restart now?	Les changements de mods en cours nécessitent un redémarrage, voulez-vous redémarrer maintenant?
 Menu/SelectCharacterType	Text		Select character type	Sélectionnez le type de caractère
 Menu/SelectSaveSlotIcon	Text		Select save slot icon	Sélectionnez l'icône de l'emplacement de sauvegarde
 Menu/SelectWorld	Text		Select world	Sélectionnez le monde
@@ -3946,22 +3946,22 @@ Menu/SettingsNotAvailableNote	Text		Some settings can only be changed in main me
 Menu/ShadowQuality	Text		Shadow quality	La qualité de l'ombre
 Menu/ShowCharacterNames	Text		Show character names	Afficher les noms des personnages
 Menu/ShowDamageNumbers	Text		Show damage numbers	Afficher les nombres de dégâts
-Menu/ShowInGameUI	Text		Show in-game UI	Afficher UI dans le jeu
+Menu/ShowInGameUI	Text		Show in-game UI	Afficher Interface Utilisateur
 Menu/ShowKeyHints	Text		Show key hints	Afficher les conseils clés
 Menu/ShowMinimap	Text		Show minimap	Afficher la mini-carte
 Menu/SquashBugs	Text	This option allows player to toggle off bugs being squashed when player walks on them in game	Squash bugs	Écrasement d’insecte
 Menu/Standard	Text	Refers to type of character type such as classic or hardcore	Standard	Standard
 Menu/StandardDesc	Text		Standard characters respawn after dying. This is the intended way to play Core Keeper.	Les personnages standard réapparaissent après leur mort. C'est la manière prévue de jouer à Core Keeper.
-Menu/StartGame	Text		Start Game	Démarrer jeu
+Menu/StartGame	Text		Start Game	Démarrer une partie
 Menu/StreamerMode	Text		Streamer mode	Mode diffusion
-Menu/TargetFrameRate	Text		Frame rate target	fréquence d'images cible
+Menu/TargetFrameRate	Text		Frame rate target	Fréquence d'images max
 Menu/ToggleGuestModeOff	Text		Disable guest mode	Désactiver le mode invité
 Menu/ToggleGuestModeOn	Text		Enable guest mode	Activer le mode invité
-Menu/UIOptions	Text		UI settings	Paramètres de l'interface utilisateur
-Menu/Version	Text		Version: {0} ({1})   |   © Pugstorm AB	Version : {0} ({1}) | © Pugstorm AB
+Menu/UIOptions	Text		UI settings	Paramètres de l'Interface Utilisateur
+Menu/Version	Text		Version: {0} ({1})   |   © Pugstorm AB	Version: {0} ({1}) | © Pugstorm AB
 Menu/WindowMode	Text		Window mode	Mode fenêtré
 Menu/Windowed	Text		Windowed	Fenêtré
-Menu/WorldName	Text		World: {0}	Monde : {0}
+Menu/WorldName	Text		World: {0}	Monde: {0}
 Menu/WorldSlot	Text		World slot	Emplacement de monde
 Names/BirdBoss	Text		Azeos the Sky Titan	Azeos le titan du ciel
 Names/HiveEgg	Text	Name shown on eggs at larva hive boss	Hive Egg	Oeuf de ruche
@@ -4070,10 +4070,10 @@ Rarity/UncommonFemale	Text		Uncommon	Rare
 Rarity/UncommonMale	Text		Uncommon	Rare
 Recipes	Text	"Title for recipes of foods, {0} will be replaced with a number indicating the current amount of known recipes
 "	Recipes ({0})	Recettes ({0})
-ReinforceButtonDesc	Text		Toggle to reinforce tools, weapons and equipment. Reinforcing will improve the stats of the item by a small amount and also extend the durability.	Basculer pour renforcer les outils, les armes et l'équipement. Le renforcement améliorera légèrement les statistiques de l'objet et prolongera également sa durabilité.
+ReinforceButtonDesc	Text		Toggle to reinforce tools, weapons and equipment. Reinforcing will improve the stats of the item by a small amount and also extend the durability.	Utiliser pour renforcer les outils, les armes et l'équipement. Le renforcement améliorera légèrement les statistiques de l'objet et prolongera également sa durabilité.
 ReinforceButtonTitle	Text		Reinforce	Renforcer
-RepairButtonDesc	Text		Toggle to repair tools, weapons and equipment.	Basculer pour réparer les outils, les armes et l'équipement.
-RepairButtonTitle	Text		Repair	Réparation
+RepairButtonDesc	Text		Toggle to repair tools, weapons and equipment.	Utiliser pour réparer les outils, les armes et l'équipement.
+RepairButtonTitle	Text		Repair	Réparer
 Roles/Chef	Text		Chef	Chef
 Roles/ChefDesc	Text		A culinary expert preparing food for anyone in need.	Un expert culinaire préparant de la nourriture pour toute personne dans le besoin.
 Roles/Explorer	Text		Explorer	Explorateur
@@ -4090,8 +4090,8 @@ Roles/Nomad	Text		Nomad	Nomade
 Roles/NomadDesc	Text		An ordinary person without starting equipment but all the possibilities.	Une personne ordinaire sans matériel de départ mais toutes les possibilités.
 Roles/Ranger	Text		Ranger	Ranger
 Roles/RangerDesc	Text		A swift fighter with a keen eye that's trained to hit enemies from far away.	Un combattant rapide à l'œil vif, entraîné à frapper les ennemis de loin.
-SalvageButtonDesc	Text		Salvage tools, weapons and equipment to gain scrap parts and some of the crafting materials back. Items with less durability gives back less materials.	Récupérez des outils, des armes et de l'équipement pour récupérer des pièces de rebut et certains matériaux d'artisanat. Les articles avec moins de durabilité donnent moins de matériaux.
-SalvageButtonTitle	Text		Salvage	Sauvetage
+SalvageButtonDesc	Text		Salvage tools, weapons and equipment to gain scrap parts and some of the crafting materials back. Items with less durability gives back less materials.	Recycler des outils, des armes ou de l'équipement pour récupérer des pièces de ferraille et certains matériaux d'artisanat. Les articles avec moins de durabilité donnent moins de matériaux.
+SalvageButtonTitle	Text		Salvage	Recycler
 Salvaging	Text	"Shown as title in the salvage and repair UI
 "	Salvaging	Récupération
 ScanWorld	Text		Scan the world	Scannez le monde
@@ -4252,18 +4252,18 @@ WeaponSecondary/ExplosiveBolt	Text		Explosive Projectile	Projectile explosif
 WeaponSecondary/PiercingShot	Text		Piercing Shot	Tir de perforation
 WeaponSecondary/TrailingCrystals	Text		Trailing Crystals	Cristaux de traînée
 WeaponSpeed	Text		{0} attacks per second	{0} attaques par seconde
-additionalItemGained	Text	"For example"" Gained 5 extra mushroom soup!"""	Gained {0} extra {1}!	Vous avez gagné {0} {1} supplémentaires !
+additionalItemGained	Text	"For example"" Gained 5 extra mushroom soup!"""	Gained {0} extra {1}!	Vous avez gagné {0} {1} supplémentaires!
 additionalSlotsStat	Text		+{0} inventory slots	+{0} emplacements d'inventaire
 ancientCoins	Text	"For example ""14 ancient coins"""	{0} ancient coins	{0} pièces anciennes
 anyCommonEdibleObject	Text	Shown on items as a requirement for the material used in crafting	Any cooked food of uncommon or lower rarity	Tout aliment cuit de rareté rare ou inférieure
 anyRareEdibleObject	Text	Shown on items as a requirement for the material used in crafting	Any cooked food of rare or higher rarity	Tout aliment cuit de rareté ou de rareté supérieure
 anySandObject	Text		Any sand ground or wall	Tout sol ou mur de sable
-areYouSure	Text		Hardcore!? Are you sure?	Hardcore ! ? Es-tu sûr?
+areYouSure	Text		Hardcore!? Are you sure?	Hardcore!? Es-tu sûr?
 audioOptions	Text		Audio settings	Paramètres audio
 back	Text		Back	Retour
 backToTitle	Text		Exit to title screen	Retour à l'écran titre
 bagSlot	Text		Bag slot	Emplacement de sac
-banPlayerDialogue	Text		Do you want to ban this player?	Voulez-vous bannir ce joueur ?
+banPlayerDialogue	Text		Do you want to ban this player?	Voulez-vous bannir ce joueur?
 base	Text	Shown as title in crafting window	Base	Base
 body	Text	Option to choose gender	Body	Corps
 buffsOwner	Text		Buffs owner with: {0}	Améliore le détenteur avec: {0}
@@ -4280,11 +4280,11 @@ cantBeReinforced	Text		Cannot be reinforced	Ne peut pas être renforcé
 cantRemoveAdmin	Text		You cannot remove admin privileges from this player.	Vous ne pouvez pas supprimer les privilèges d'administrateur de ce joueur.
 cantRemoveAdminFromYourself	Text		You cannot remove admin privileges from yourself.	Vous ne pouvez pas vous retirer les privilèges d'administrateur.
 cattle	Text		Cattle	Bétail
-caughtItem	Text	Shown in chat when for example catching an item through fishing where {0} is the name of the item	Caught: {0}	Attrapé : {0}
-changeProfile	Text		Change profile	Change de profil
+caughtItem	Text	Shown in chat when for example catching an item through fishing where {0} is the name of the item	Caught: {0}	Attrapé: {0}
+changeProfile	Text		Change profile	Changer de profil
 character	Text		Character	Personnage
 characterBackground	Text	As in what type of character such as Miner, Explorer etc.	Background	Antécédent
-cheatDeath	Text		Cheated death!	La mort trompée !
+cheatDeath	Text		Cheated death!	La mort trompée!
 chestSlot	Text	Chest as in the breast armor slot	Chest slot	Emplacement d'armure
 click	Text		Click	Cliquez sur
 clickToActivate	Text		Click to activate.	Cliquez pour activer.
@@ -4296,10 +4296,10 @@ connectionFailed	Text		Connection failed	La connexion a échoué
 continue	Text		Continue	Continuer
 controls	Text		Controls	Contrôles
 cooking	Text		Cooking	Cuisson
-copyGameID	Text		Copy game ID	Copier l'ID du jeu
+copyGameID	Text		Copy game ID	Copier l'Identifiant de la partie
 crafting	Text	Shown as title in crafting window	Crafting	Artisanat
 createCharacter	Text		Create character	Créer un personnage
-creativeModeOptions	Text		Creative mode options	Options du mode créatif
+creativeModeOptions	Text		Creative mode options	Options du mode Créatif
 crystalSlot	Text	Used as hint when hovering a slot that needs a crystal	Crystal slot	Emplacement de cristal
 currentlySaving	Text		Saving...	Sauvegarde...
 damage	Text	"The damage of an item like a trap or a turret shown when hovering it, for example ""19-22 damage"""	{0}-{1} damage	{0}-{1} dégâts
@@ -4320,8 +4320,8 @@ done	Text		Done	Fini
 down	Text		Move down	Descendre
 dresser	Text		Dresser	Commode
 dropToWorld	Text		"Drop item:
-{0}"	Objet jeté : {0}
-durability	Text	"For example ""Durability 159/500"""	Durability: {0}/{1}	Durabilité : {0}/{1}
+{0}"	Objet jeté: {0}
+durability	Text	"For example ""Durability 159/500"""	Durability: {0}/{1}	Durabilité: {0}/{1}
 durabilityLost	Text		Some durability on equipment was lost.	Une certaine durabilité de l'équipement a été perdue.
 durationMin	Text	"Shown at end of buff text with a duration such as ""+2 health every sec for 1 min"" where 
 {0} is replaced with  ""+2 health every sec"" and
@@ -4337,7 +4337,7 @@ electrictyIconHoverDesc	Text	Shown when hovering over the electricity icon in bu
 emptySlot	Text		Empty slot	Emplacement vide
 enableGodMode	Text		Enable god mode	Activer le mode dieu
 enableWorldSimulation	Text		World paused	Monde Arrêté
-enterGameId	Text		Enter Game ID	Entrez l'ID du jeu
+enterGameId	Text		Enter Game ID	Entrez l'Identifiant de la partie
 enterHost	Text		Enter host IP address	Entrez l'adresse IP de l'hôte
 enterName	Text	Hint shown on text input to enter name	Enter name...	Entrez le nom...
 enterPort	Text		Enter host port	Entrez le port hôte
@@ -4356,8 +4356,8 @@ foodFormat	Text	"{0} = food adjective,
 {2} = food type
 Turns into for example ""Hearty Mushroom Soup"" when cooking Heart berries with mushrooms in the cooking pot. "	{0} {1} {2}	{0} {1} {2}
 fullness	Text	"For example ""Fullness 159/500"", shown on items like water can"	Fullness: {0}/{1}	Remplissage: {0}/{1}
-gainedItem	Text	Shown in chat when for example gaining a polished version of a ring when crafting where {0} is the name of the item	Gained {0}!	Vous avez gagné {0} !
-gainedSoul	Text		Gained soul of {0}!	A gagné l'âme de {0} !
+gainedItem	Text	Shown in chat when for example gaining a polished version of a ring when crafting where {0} is the name of the item	Gained {0}!	Vous avez gagné {0}!
+gainedSoul	Text		Gained soul of {0}!	A gagné l'âme de {0}!
 gameMenu	Text	Shown as title when opening the pause menu in game	Game Menu	Menu du jeu
 gamepad	Text		Gamepad	Manette de jeu
 gear	Text		Gear	Equipement
@@ -4366,15 +4366,15 @@ godModeOptionDesc	Text		"God mode features:
 - Player can destroy objects in one hit
 - Items doesn't drop from destroyed objects
 - Player can place objects faster
-- Objects are not consumed when used"	Caractéristiques du mode Dieu :  - Le joueur peut se déplacer à travers les objets - Le joueur peut détruire les objets en un seul coup - Les objets ne tombent pas des objets détruits - Le joueur peut placer les objets plus rapidement - Les objets ne sont pas consommés lorsqu'ils sont utilisés
+- Objects are not consumed when used"	Caractéristiques du mode Dieu:  - Le joueur peut se déplacer à travers les objets - Le joueur peut détruire les objets en un seul coup - Les objets ne tombent pas des objets détruits - Le joueur peut placer les objets plus rapidement - Les objets ne sont pas consommés lorsqu'ils sont utilisés
 graphicsAPIOption	Text	{0} will be replaced with the name of the graphics api	Play Core Keeper using {0}	Jouez à Core Keeper avec {0}
 hair	Text	Option to choose hair style	Hair	Cheveux
 hairColor	Text	Option to choose hair color	Hair color	Couleur de cheveux
 hardcoreDeathMessage	Text		You died. Character has been lost.	Tu es mort. Le personnage a été perdu.
 helmSlot	Text		Helm slot	Emplacement de casque
-hideCreativeUI	Text		Hide Creative UI	Cacher l'interface utilisateur créative
+hideCreativeUI	Text		Hide Creative UI	Masquer l'Interface Utilisateur du mode Créatif
 high	Text		High	Haut
-holdToSkip	Text	"{0} is replaced with a button/key so for example ""Hold SPACE to skip"". This is used in intro slides of the game."	Hold {0} to skip intro	Maintenez {0} pour sauter l'intro
+holdToSkip	Text	"{0} is replaced with a button/key so for example ""Hold SPACE to skip"". This is used in intro slides of the game."	Hold {0} to skip intro	Maintenez {0} pour passer l'intro
 incubator	Text		Incubator	Incubateur
 infinity	Text		Infinity	Infini
 ingredients	Text		Ingredients:	Ingrédients:
@@ -4398,11 +4398,11 @@ keyboard	Text		Keyboard	Clavier
 lanternSlot	Text		Lantern slot	Emplacement pour lanterne
 leaveTheGame	Text		Leave	Partir
 left	Text		Move left	Se déplacer à gauche
-legalBlurb	Text		© 2021. Core Keeper is a trademark or registered trademark of Pugstorm AB. Published by Fireshine Games.	© 2021. Core Keeper is a trademark or registered trademark of Pugstorm AB. Published by Fireshine Games.
+legalBlurb	Text		© 2021. Core Keeper is a trademark or registered trademark of Pugstorm AB. Published by Fireshine Games.	© 2021. Core Keeper est une marque déposée par Pugstorm AB. Édité par Fireshine Games.
 level	Text		Level: {0}	Niveau: {0}
 loading	Text		Loading...	Chargement...
 low	Text		Low	Faible
-makeAdmin	Text		Do you want to give this player admin privileges?	Voulez-vous donner à ce joueur des privilèges d'administrateur ?
+makeAdmin	Text		Do you want to give this player admin privileges?	Voulez-vous donner à ce joueur des privilèges d'administrateur?
 materials	Text	Used as header when showing required materials in crafting for example	Materials:	Matériaux:
 maxLevel	Text		Max level: {0}	Niveau max: {0}
 maximumMapMarkersPlaced	Text		You have already placed the maximum amount of map markers.	Vous avez déjà placé le nombre maximum de marqueurs de carte.
@@ -4413,7 +4413,7 @@ menuButtonBack	Text		Back	Retour
 menuButtonDeactivate	Text		Deactivate	Désactiver
 menuButtonNavigate	Text		Navigate	Naviguer
 menuButtonSelect	Text		Select	Sélectionner
-missingScrapParts	Text		Missing scrap parts	Pièces détacher manquantes
+missingScrapParts	Text		Missing scrap parts	Pièces de feraille manquantes
 months	Text	"Please give the short form of a month, for each month, and
 separate each month by an ASCII space.
 The month will be placed into the 'dateFormat' string."	Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec	Jan Fév Mar Avr Mai Juin Juil Août Sept Oct Nov Déc
@@ -4422,14 +4422,14 @@ musicSheetItem	Text		Music sheet	Partition
 nativeLang	Text	"should not translate ""english"" but should show the name of the language itself"	English	Francais
 necklaceSlot	Text		Necklace slot	Emplacement de collier
 newGame	Text		New Game	Nouveau jeu
-newItem	Text	"Shown when a new item is picked up, for example: ""New item: Apple"""	New item: {0}	Nouvel élément : {0}
-newTalentPoint	Text	"Will for example say ""New talent point available in Fishing!"" in the chat window when player unlocks a new talent point"	New talent point available in {0}!	Nouveau point de talent disponible dans {0} !
-nextTalentPoint	Text	Shown as part of talent points hover window showing what the next talent point will give	Next rank:	Rang suivant :
+newItem	Text	"Shown when a new item is picked up, for example: ""New item: Apple"""	New item: {0}	Nouvel élément: {0}
+newTalentPoint	Text	"Will for example say ""New talent point available in Fishing!"" in the chat window when player unlocks a new talent point"	New talent point available in {0}!	Nouveau point de talent disponible dans {0}!
+nextTalentPoint	Text	Shown as part of talent points hover window showing what the next talent point will give	Next rank:	Rang suivant:
 no	Text		no	Non
-noControllerWarning	Text		Warning!\Your controller\has disconnected.	Attention !\Votre contrôleur\s'est déconnecté.
+noControllerWarning	Text		Warning!\Your controller\has disconnected.	Attention!\Votre contrôleur\s'est déconnecté.
 noPermissionToBan	Text		You don't have permission to ban players.	Vous n'êtes pas autorisé à bannir des joueurs.
 noPermissionToGiveAdmin	Text		You don't have permission to give players admin privileges.	Vous n'êtes pas autorisé à accorder des privilèges d'administrateur aux joueurs.
-noPermissionToRegenerateGameIDPrompt	Text		You don't have permission to regenerate the Game ID.	Vous n'êtes pas autorisé à régénérer l'ID de jeu.
+noPermissionToRegenerateGameIDPrompt	Text		You don't have permission to regenerate the Game ID.	Vous n'êtes pas autorisé à régénérer l'Identifiant de la partie.
 noPermissionToRemoveAdmin	Text		You don't have permission to remove players admin privileges.	Vous n'êtes pas autorisé à supprimer les privilèges d'administrateur des joueurs.
 noPermissionToUnBan	Text		You don't have permission to unban players.	Vous n'êtes pas autorisé à débannir des joueurs.
 nonLocalizedPlaceholder	Text	No need to be translated, only exists in localization for devs convenience	{0}	{0}
@@ -4439,7 +4439,7 @@ numpadPlus	Text		NUMPAD +	PAVÉ NUMÉRIQUE +
 off	Text	"On/Off
 If your language doesn't have specific words for on/off, consider yes/no or enabled/disabled.
 This will be used with things like ""gamepad vibration: On/Off"""	off	désactivé
-offHandUse	Text		Off-hand use: {0}	Utilisation occasionnelle : {0}
+offHandUse	Text		Off-hand use: {0}	Utilisation occasionnelle: {0}
 offhandSlot	Text		Off-hand slot	Emplacement secondaire
 ok	Text		Ok	Ok
 on	Text	"On/Off setting.
@@ -4451,49 +4451,49 @@ oxygen	Text		Oxygen	Oxygène
 pants	Text	Option to choose pants style	Pants	Pantalon
 pantsSlot	Text		Pants slot	Emplacement de jambières
 parry	Text		parry	parer
-pauseWorldOptionDesc	Text		Pausing the world will stop creatures and objects from moving or doing any actions. Water spreading is also paused. This can only be toggled by admins.	La mise en pause du monde empêche les créatures et les objets de se déplacer ou d'effectuer des actions. L'épandage d'eau est également mis en pause. Cette fonction ne peut être activée que par les administrateurs.
+pauseWorldOptionDesc	Text		Pausing the world will stop creatures and objects from moving or doing any actions. Water spreading is also paused. This can only be toggled by admins.	La mise en pause du monde empêche les créatures et les objets de se déplacer ou d'effectuer des actions. L'épandage d'eau est également mis en pause. Cette fonction ne peut être utilisée que par les Administrateurs.
 paused	Text		Game Paused	Jeu en pause
 permanentWhenEaten	Text	Shown above list of buffs gained from eating food	Permanent when eaten:	Permanente lorsqu'elle est consommée:
-petCandy	Text		Use: Feed this to your pet to boost its experience by {0}.	Utiliser : Nourrissez votre familier pour augmenter son expérience de {0}.
+petCandy	Text		Use: Feed this to your pet to boost its experience by {0}.	Utiliser: Nourrissez votre familier pour augmenter son expérience de {0}.
 petEgg	Text		Hatchable	À faire éclore
 petInfo	Text		Pet info	Informations sur familier
-petLeveledUp	Text		Pet reached level {0}!	Le familier a atteint le niveau {0} !
+petLeveledUp	Text		Pet reached level {0}!	Le familier a atteint le niveau {0}!
 petSlot	Text		Pet slot	Emplacement pour familier
 pickUpHalf	Text		"Pick up half:
 {0}"	Prendre la moitié: {0}
 pickUpOne	Text		"Pick up one:
 {0}"	En prendre un: {0}
 piercingProjectiles	Text	Shown as description on weapons that shoots piercing projectiles	Projectiles pierces through enemies	Les projectiles transpercent les ennemis
-points	Text		Points: {0}	Points : {0}
+points	Text		Points: {0}	Points: {0}
 press	Text		Press	Appuyez
 pressAnyButtonNintendoSwitch	Text		Press any button	Appuyez sur n'importe quelle touche
 pressAnyButtonPC	Text		Press any button	Appuyez sur n'importe quelle touche
 pressAnyButtonPS4	Text		Press any button	Appuyez sur n'importe quelle touche
 pressAnyButtonXbox	Text		Press any button	Appuyez sur n'importe quelle touche
-price	Text		Price: {0}	Prix : {0}
+price	Text		Price: {0}	Prix: {0}
 primary	Text	Shown as category for red, yellow, blue and green painting colors	Primary	Primaire
 quickMove	Text		"Quick stash:
 {0}"	Rangement rapide: {0}
 quickStack	Text	Shown when hovering a button that uses the quick stack function	Quick stack	Rangement rapide
-quickStackDesc	Text		Moves already existing items in the chest from your inventory to the chest.	Déplace les objets déjà présents dans le coffre de votre inventaire vers le coffre.
+quickStackDesc	Text		Moves already existing items in the chest from your inventory to the chest.	Déplace les objets déjà présents dans le coffre, de votre inventaire vers le coffre.
 quitToDesktop	Text		Quit	Quitter
 rareItemFormat	Text	"Format used for items that has rarity indicator as part of their name such as ""Rare Heartberry"" where
 {0} = rarity
 {1} = item name"	{0} {1}	{0} {1}
 receivedItems	Text	"For example"" Gained 4 Copper Bars!"" where {0} is 4 and {1} is Copper Bars"	Received {0} {1}	Reçu {0} {1}
 reduced	Text		Reduced	Réduit
-regenerateGameIDPrompt	Text		Do you want to regenerate a new Game ID? This will not affect any progression made.	Voulez-vous régénérer un nouvel ID de jeu ? Cela n'affectera pas la progression effectuée.
-reinforceCost	Text		Reinforce cost:	Renforcer le coût :
-reinforced	Text		Reinforced: {0}/{1}	Renforcé : {0}/{1}
+regenerateGameIDPrompt	Text		Do you want to regenerate a new Game ID? This will not affect any progression made.	Voulez-vous régénérer un nouvel Identifiant de la partie? Cela n'affectera pas la progression effectuée.
+reinforceCost	Text		Reinforce cost:	Coût de renforcement:
+reinforced	Text		Reinforced: {0}/{1}	Renforcé: {0}/{1}
 release	Text		Release	Libérer
-removeAdmin	Text		Do you want to remove the admin privileges of this player?	Voulez-vous supprimer les privilèges d'administrateur de ce joueur ?
-removeUserMapMarkersPrompt	Text		Do you want to clear all placed map markers?	Voulez-vous effacer tous les marqueurs de carte placés ?
+removeAdmin	Text		Do you want to remove the admin privileges of this player?	Voulez-vous supprimer les privilèges d'administrateur de ce joueur?
+removeUserMapMarkersPrompt	Text		Do you want to clear all placed map markers?	Voulez-vous effacer tous les marqueurs de carte placés?
 repairCost	Text		Repair cost:	Coût de réparation:
 replace	Text		Replace	Remplacer
-requiresItem	Text	{0} will be replaced with an item the player must have such as a key for a lock	Requires: {0}	Nécessite : {0}
+requiresItem	Text	{0} will be replaced with an item the player must have such as a key for a lock	Requires: {0}	Nécessite: {0}
 requiresNearbyObject	Text	{0} will be replaced with an object the player must be nearby in the world such as Ancient Forge	Requires {0}	Nécessite {0}
 reset	Text	Shown above button that resets talent points	Reset:	Réinitialiser:
-resetSaveDataDialogue	Text		Delete progress?	Supprimer la progression ?
+resetSaveDataDialogue	Text		Delete progress?	Supprimer la progression?
 restoredefaults	Text		Reset key bindings to default	Réinitialiser les raccourcis clavier par défaut
 resume	Text		Resume game	Reprendre le jeu
 right	Text		Move right	Déplacer vers la droite
@@ -4505,7 +4505,7 @@ selectDifficulty	Text		Select difficulty	Sélectionnez la difficulté
 sell	Text		Sell	Vendre
 set	Text	"Format to show set bonuses such as ""2 set: +10% damage"" indicating that 2 pieces are needed to fullfill the set bonus where
 {0} = 2
-{1} = +10% damage"	{0} set: {1}	{0} ensemble : {1}
+{1} = +10% damage"	{0} set: {1}	{0} ensemble: {1}
 settingAmbientVol	Text		Ambient SFX	SFX ambiant
 settingDisplayGameTime	Text		Show game time	Afficher le temps de jeu
 settingLanguage	Text		Language	Langue
@@ -4524,8 +4524,8 @@ settingVibrationXbox	Text		Vibration	Vibration
 sheets	Text	Refers to Music sheets/notes	Sheets	Feuilles
 shirt	Text	Option to choose shirt style	Shirt	Chemise
 shortcuts	Text		Shortcuts	Raccourcis
-showCreativeUI	Text		Show Creative UI	Afficher l'interface utilisateur créative
-signedOutWarning	Text		Warning!\Your profile has\been signed out.	Attention !\Votre profil\a été déconnecté.
+showCreativeUI	Text		Show Creative UI	Afficher l'Interface Utilisateur du mode Créatif
+signedOutWarning	Text		Warning!\Your profile has\been signed out.	Attention!\Votre profil\a été déconnecté.
 singleplayer	Text		Singleplayer	Solo
 skillInfo	Text		Click to expand talent tree.	Cliquez pour développer l'arbre des talents.
 skills	Text		Skills	Compétences
@@ -4535,23 +4535,23 @@ smelting	Text		Smelting	Fonderie
 sort	Text	Shown when hovering a button that sorts the inventory	Sort	Trier
 sortDesc	Text		Sorts and stacks the items together in the inventory.	Trie et empile les objets ensemble dans l'inventaire.
 souls	Text		Souls	Âmes
-startingPerks	Text		Starting perks:	Avantages de départ :
+startingPerks	Text		Starting perks:	Avantages de départ:
 starvationDeathMessage	Text		You died from starvation.	Tu es mort de faim.
 stats	Text	Title of stats window that shows when hovering character ui in game	Stats	Statistiques
 stop	Text		Stop	Arrêt
 textWithAmount	Text	"Used for any text that has an amount indicated such as ""Mining 48/100"" to show the current and max Mining skill"	{0} {1}/{2}	{0} {1}/{2}
-toggleShortcuts	Text		Press {0} to toggle this window	Appuyez sur {0} pour basculer cette fenêtre
+toggleShortcuts	Text		Press {0} to toggle this window	Appuyez sur {0} pour afficher/masquer cette fenêtre
 tools	Text	Shown as title in crafting window	Tools	Outils
 trading	Text		Trading	Commerce
-unbanPlayerDialogue	Text		Do you want to unban this player?	Voulez-vous débannir ce joueur ?
+unbanPlayerDialogue	Text		Do you want to unban this player?	Voulez-vous débannir ce joueur?
 uncapped	Text		Uncapped	Non plafonné
 uniqueCraftingComponent	Text	Shown in hover text of items that are unique crafting components	Unique crafting component	Composant d'artisanat unique
 up	Text		Move up	Déplacer vers le haut
 upgrade	Text		Upgrade	Améliorer
-useItemTerm	Text		Use: {0}	Utiliser : {0}
+useItemTerm	Text		Use: {0}	Utiliser: {0}
 valuable	Text	Shown as a tag in description of items  that are meant to be sold for coins.	Valuable	Précieux
 value	Text	"As in the coin value of an item, for example ""Value: 1484 coins"""	Value: {0}	Valeur: {0}
-vanityToggleVisibility	Text		Click to toggle visiblity of equipment	Cliquez pour basculer la visibilité de l'équipement cosmétique
+vanityToggleVisibility	Text		Click to toggle visiblity of equipment	Cliquez pour activer/désactiver la visibilité de l'équipement cosmétique
 versus	Text		Versus	Contre
 veryHigh	Text		Very high	Très haut
 videoOptions	Text		Video settings	Paramètres vidéo
@@ -4559,7 +4559,7 @@ weaponMeleeDamage	Text	"The damage of a weapon shown when hovering it, for examp
 weaponRangeDamage	Text		{0}-{1} range damage	{0}-{1} dégâts de portée
 weaponSecondary	Text		Secondary use: {0}	Utilisation secondaire: {0}
 weapons	Text		Weapons	Armes
-whenEaten	Text		When eaten:	Lorsqu'il est consommé :
+whenEaten	Text		When eaten:	Lorsqu'il est consommé:
 woodCutting	Text	Shown as title in the crafting UI of the buzz saw building	Wood cutting	Scie circulaire
 yes	Text		Yes	Oui
 youAreInGuestMode	Text		You are in guest mode	Vous êtes en mode invité
