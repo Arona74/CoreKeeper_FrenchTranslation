@@ -538,7 +538,7 @@ ControlMapper/joystickElementAssignmentPollingWindowMessage	Text		Now press a bu
 ControlMapper/joystickElementAssignmentPollingWindowMessage_fullAxisFieldOnly	Text		Now move an axis to assign it to {0}.	Déplacez maintenant un axe pour l'affecter à {0}.
 ControlMapper/keyboardColumnLabel	Text		Keyboard	Clavier
 ControlMapper/keyboardElementAssignmentPollingWindowMessage	Text		Press a key to assign it to {0}. Modifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.	Appuyez sur une touche pour l'affecter à {0}. Les touches de modification peuvent également être utilisées. Pour affecter une touche de modification seule, maintenez-la enfoncée pendant 1 seconde.
-ControlMapper/mapCategoriesGroupLabel	Text		Categories:	Catégories :
+ControlMapper/mapCategoriesGroupLabel	Text		Categories:	Catégories:
 ControlMapper/mouseAssignmentConflictWindowMessage	Text		The mouse is already assigned to {0}. Do you want to assign the mouse to {1} instead?	La souris est déjà affectée à {0}. Voulez-vous plutôt attribuer la souris à {1} ?
 ControlMapper/mouseAssignmentConflictWindowTitle	Text		Mouse Assignment	Affectation de la souris
 ControlMapper/mouseColumnLabel	Text		Mouse	Souris
@@ -721,7 +721,7 @@ Error/SaveFileCorrupt	Text		Could not read save file	Impossible de lire le fichi
 Error/Timeout	Text		Connection timed out	La connexion a expiré
 Error/Unknown	Text		Unknown error	Erreur inconnue
 Error/WorldVersionTooHigh	Text		This world was created using a more recent game version. Please check for game updates.	Ce monde a été créé à partir d'une version plus récente du jeu. Veuillez vérifier les mises à jour du jeu.
-Error/reqFailNotificationGPU	Text		Warning: Your GPU does not meet the minimum requirements. Game visuals might not work correctly	Avertissement : Votre GPU ne répond pas aux exigences minimales. Les visuels du jeu peuvent ne pas fonctionner correctement
+Error/reqFailNotificationGPU	Text		Warning: Your GPU does not meet the minimum requirements. Game visuals might not work correctly	Avertissement: Votre GPU ne répond pas aux exigences minimales. Les visuels du jeu peuvent ne pas fonctionner correctement
 FollowTwitter	Text		Follow us on Twitter	Suivez-nous sur Twitter
 FoodAdjectives/AmberLarva	Text		Meaty	Viande
 FoodAdjectives/AmberLarvaFemale	Text		Meaty	Viande
@@ -1117,7 +1117,7 @@ Items/AgressiveSlimeBlob	Text		Red Slime	Slime rouge
 Items/AlchemyTable	Text		Alchemist's Table	Table d'alchimiste
 Items/AlchemyTableDesc	Text		Workbench to tinker with the wonders of chemistry.	Etabli pour bricoler les merveilles de la chimie.
 Items/AlienChest	Text		Alien Tech Chest	Coffre de technologie extraterrestre
-Items/AlienChestDesc	Text		A technological marvel: an inventory chest from outer space! Seems like even advanced civilizations need to stash things away.	Une merveille technologique : un coffre d'inventaire venu de l'espace! Il semblerait que même les civilisations avancées aient besoin de ranger des objets.
+Items/AlienChestDesc	Text		A technological marvel: an inventory chest from outer space! Seems like even advanced civilizations need to stash things away.	Une merveille technologique: un coffre d'inventaire venu de l'espace! Il semblerait que même les civilisations avancées aient besoin de ranger des objets.
 Items/AlienFloorVent	Text		Alien Floor Vent	Ventilation de sol Alien
 Items/AlienFloorVentDesc	Text		A piece of tech that would still be functional, had it not been ripped out of the floor by greedy hands.	Un morceau de technologie qui serait encore fonctionnel s'il n'avait pas été arraché du sol par des mains avides.
 Items/AlienObeliskSmall	Text		Small Alien Obelisk	Petit Obélisque Alien
@@ -1430,7 +1430,7 @@ Items/CartographyTableDesc	Text		A table to share your map discoveries with othe
 Items/CatalystGemstone	Text		Catalyst Gemstone	Pierre précieuse catalyseur
 Items/CatalystGemstoneDesc	Text		It looks like an Ancient Gemstone but seems to be extremely dense with energy. Has it been used to grow the Shimmering Frontier?	Elle ressemble à une pierre précieuse ancienne, mais elle semble extrêmement dense en énergie. A-t-elle été utilisée pour faire croître la Frontière scintillante ?
 Items/CattleCage	Text		Cattle Transport Box	Boîte de transport de bétail
-Items/CattleCageDesc	Text		Useful, handy and secure: the box. One that cattle will feel comfortable to be carried around in and delivered right onto the doorstep of your next farm. Can only be used once.	Utile, pratique et sûre : LA boîte. Une boîte dans laquelle le bétail se sentira à l'aise pour être transporté et livré directement sur le pas de la porte de votre prochaine ferme. Elle ne peut être utilisée qu'une seule fois.
+Items/CattleCageDesc	Text		Useful, handy and secure: the box. One that cattle will feel comfortable to be carried around in and delivered right onto the doorstep of your next farm. Can only be used once.	Utile, pratique et sûre: LA boîte. Une boîte dans laquelle le bétail se sentira à l'aise pour être transporté et livré directement sur le pas de la porte de votre prochaine ferme. Elle ne peut être utilisée qu'une seule fois.
 Items/CattleFeedTray	Text		Feeding Tray	Mangeoire
 Items/CattleFeedTrayDesc	Text		This useful tray can be filled to the brim with cattle feed to keep cattle fed and happy.	Ce bac utile peut être rempli à ras bord d'aliments pour bétail afin de garder le bétail nourri et heureux.
 Items/CattleWorkbench	Text		Livestock Workbench	Établi d'élevage
@@ -1879,11 +1879,11 @@ Items/EasterEggNatureDesc	Text		A weedy collectible egg that can be combined wit
 Items/EasterEggStone	Text		Gray Easter Egg	Oeuf de Pâques gris
 Items/EasterEggStoneDesc	Text		A rocky collectible egg that can be combined with other types of eggs. Get as many as you can, they might not be around for long.	Un œuf de collection rocheux qui peut être combiné avec d'autres types d'œufs. Obtenez-en autant que vous le pouvez, ils ne resteront peut-être pas longtemps.
 Items/EasterEggcellentHat	Text		Eggcellent Hat	Chapeau Eggcellent
-Items/EasterEggcellentHatDesc	Text		Everyone wearing this oversized egg shell hat has only one mission: to become egg.	Tous ceux qui portent ce chapeau en coquille d'œuf surdimensionné n'ont qu'une seule mission : devenir des œufs.
+Items/EasterEggcellentHatDesc	Text		Everyone wearing this oversized egg shell hat has only one mission: to become egg.	Tous ceux qui portent ce chapeau en coquille d'œuf surdimensionné n'ont qu'une seule mission: devenir des œufs.
 Items/EasterEggcellentPants	Text		Eggcellent Pants	Pantalon Eggcellent
 Items/EasterEggcellentPantsDesc	Text		These cheaply made pants are as yellow as egg yolk and itchy beyond comprehension.	Ce pantalon bon marché est aussi jaune que du jaune d'œuf et provoque des démangeaisons incompréhensibles.
 Items/EasterEggcellentSuit	Text		Eggcellent Breast Piece	Haut Eggcellent
-Items/EasterEggcellentSuitDesc	Text		A spacious, oval shape that is made from hopes, dreams and lime. In other words: Egg.	Une forme ovale et spacieuse, faite d'espoirs, de rêves et de chaux. En d'autres termes : L'œuf.
+Items/EasterEggcellentSuitDesc	Text		A spacious, oval shape that is made from hopes, dreams and lime. In other words: Egg.	Une forme ovale et spacieuse, faite d'espoirs, de rêves et de chaux. En d'autres termes: L'œuf.
 Items/EasterGarland	Text		Easter Garland	Guirlande de Pâques
 Items/EasterGarlandDesc	Text		This charming green garland is adorned with little daisies, making it a perfect addition to your Easter-themed walls.	Cette charmante guirlande verte est ornée de petites marguerites, ce qui en fait un complément parfait pour vos murs sur le thème de Pâques.
 Items/EasterGoldenEgg	Text		Large Golden Egg	Grand Oeuf d'Or
@@ -3868,7 +3868,7 @@ Items/YellowFireflyDesc	Text		This flying bug always appears in swarms which app
 Items/YellowKelp	Text		Yellow Kelp	Algue jaune
 Items/YellowKelpDesc	Text		A yellow lump of marine plants, not that useful.	Un morceau jaune de plantes marines, pas si utile.
 JoinDiscord	Text		Join the Core Keeper Discord Server	Rejoignez le serveur Discord Core Keeper
-LanguageOption	Text		Language: {0}	Langue : {0}
+LanguageOption	Text		Language: {0}	Langue: {0}
 LeashCattle	Text		Attach to cattle	Attacher au bétail
 MapMarkers/DeathMarker	Text	"{0} is replaced with ""You"" or name of other players"	{0} died here	{0} est mort ici
 MapMarkers/DeathMarkerThisPlayer	Text		You died here	Vous êtes mort ici
@@ -3890,7 +3890,7 @@ Menu/CharacterSlot	Text		Character slot	Emplacement de personnage
 Menu/CharacterStuck	Text	Option in gameplay settings allowing player to kill themselves in order to get out of a stuck position	My character is stuck!	Mon personnage est coincé!
 Menu/CharacterType	Text		Character type	Type de personnage
 Menu/ColorOutput	Text		Color Output	Sortie couleur
-Menu/ConnectedPlayers	Text		Connected players:	Joueurs connectés :
+Menu/ConnectedPlayers	Text		Connected players:	Joueurs connectés:
 Menu/ConnectedPlayersWarning	Text		More than {0} players connected. This may cause issues.	Plus de {0} joueurs connectés. Cela peut causer des problèmes.
 Menu/CreateWorld	Text		Create world	Créer un monde
 Menu/CreatedSaveBackup	Text		Created CoreKeeperSaves.zip on Desktop	Création de CoreKeeperSaves.zip sur le bureau
@@ -3906,7 +3906,7 @@ Menu/EnterWorldName	Text		Enter world name...	Entrez le nom du monde...
 Menu/ExperimentalPopUp	Text		Core Keeper is currently running in experimental mode. This mode is using a separate set of save files. Your regular save files will still be there when you are back in non-experimental mode.	Core Keeper fonctionne actuellement en mode expérimental. Ce mode utilise un ensemble séparé de fichiers de sauvegarde. Vos fichiers de sauvegarde habituels seront toujours là lorsque vous serez de retour en mode non expérimental.
 Menu/FaceMouseDirection	Text	Option that when enabled causes character to face towards mouse on screen, otherwise character faces the direction that player last moved towards	Face mouse direction	Face à la direction de la souris
 Menu/Fullscreen	Text		Fullscreen	Plein écran
-Menu/GameID	Text	Game ID is used to connect to other players and shown in pause menu while in a game	Game ID: {0}	ID de jeu : {0}
+Menu/GameID	Text	Game ID is used to connect to other players and shown in pause menu while in a game	Game ID: {0}	ID de jeu: {0}
 Menu/GameplayOptions	Text		Gameplay settings	Paramètres de jeu
 Menu/GetOutOfStuckPositionDialogue	Text		Do you want to kill your character to get out of a stuck position?	Voulez-vous tuer votre personnage pour sortir d'une position bloquée ?
 Menu/GiveFeedback	Text		Report bugs / feedback	Signaler des bugs / commentaires
@@ -3931,7 +3931,7 @@ Menu/OverrideSeason	Text		Override season	Remplacer la saison
 Menu/PacketRate	Text		Network packet send rate	Taux d'envoi de paquets par le réseau
 Menu/ParticlesQuality	Text		Particles quality	Qualité des particules
 Menu/PerformanceOptions	Text		Performance settings	Paramètres de performances
-Menu/Ping	Text	Ping to server, shown in pause menu	Ping: {0} ms	Ping : {0} ms
+Menu/Ping	Text	Ping to server, shown in pause menu	Ping: {0} ms	Ping: {0} ms
 Menu/Quit	Text		Quit	Quitter
 Menu/Reflections	Text		Reflections	Reflets
 Menu/RestartPendingModChanges	Text		Restarting to install necessary mods.	Redémarrage pour installer les mods nécessaires.
@@ -3958,10 +3958,10 @@ Menu/TargetFrameRate	Text		Frame rate target	fréquence d'images cible
 Menu/ToggleGuestModeOff	Text		Disable guest mode	Désactiver le mode invité
 Menu/ToggleGuestModeOn	Text		Enable guest mode	Activer le mode invité
 Menu/UIOptions	Text		UI settings	Paramètres de l'interface utilisateur
-Menu/Version	Text		Version: {0} ({1})   |   © Pugstorm AB	Version : {0} ({1}) | © Pugstorm AB
+Menu/Version	Text		Version: {0} ({1})   |   © Pugstorm AB	Version: {0} ({1}) | © Pugstorm AB
 Menu/WindowMode	Text		Window mode	Mode fenêtré
 Menu/Windowed	Text		Windowed	Fenêtré
-Menu/WorldName	Text		World: {0}	Monde : {0}
+Menu/WorldName	Text		World: {0}	Monde: {0}
 Menu/WorldSlot	Text		World slot	Emplacement de monde
 Names/BirdBoss	Text		Azeos the Sky Titan	Azeos le titan du ciel
 Names/HiveEgg	Text	Name shown on eggs at larva hive boss	Hive Egg	Oeuf de ruche
@@ -4280,7 +4280,7 @@ cantBeReinforced	Text		Cannot be reinforced	Ne peut pas être renforcé
 cantRemoveAdmin	Text		You cannot remove admin privileges from this player.	Vous ne pouvez pas supprimer les privilèges d'administrateur de ce joueur.
 cantRemoveAdminFromYourself	Text		You cannot remove admin privileges from yourself.	Vous ne pouvez pas vous retirer les privilèges d'administrateur.
 cattle	Text		Cattle	Bétail
-caughtItem	Text	Shown in chat when for example catching an item through fishing where {0} is the name of the item	Caught: {0}	Attrapé : {0}
+caughtItem	Text	Shown in chat when for example catching an item through fishing where {0} is the name of the item	Caught: {0}	Attrapé: {0}
 changeProfile	Text		Change profile	Changer de profil
 character	Text		Character	Personnage
 characterBackground	Text	As in what type of character such as Miner, Explorer etc.	Background	Antécédent
@@ -4320,8 +4320,8 @@ done	Text		Done	Fini
 down	Text		Move down	Descendre
 dresser	Text		Dresser	Commode
 dropToWorld	Text		"Drop item:
-{0}"	Objet jeté : {0}
-durability	Text	"For example ""Durability 159/500"""	Durability: {0}/{1}	Durabilité : {0}/{1}
+{0}"	Objet jeté: {0}
+durability	Text	"For example ""Durability 159/500"""	Durability: {0}/{1}	Durabilité: {0}/{1}
 durabilityLost	Text		Some durability on equipment was lost.	Une certaine durabilité de l'équipement a été perdue.
 durationMin	Text	"Shown at end of buff text with a duration such as ""+2 health every sec for 1 min"" where 
 {0} is replaced with  ""+2 health every sec"" and
@@ -4366,7 +4366,7 @@ godModeOptionDesc	Text		"God mode features:
 - Player can destroy objects in one hit
 - Items doesn't drop from destroyed objects
 - Player can place objects faster
-- Objects are not consumed when used"	Caractéristiques du mode Dieu :  - Le joueur peut se déplacer à travers les objets - Le joueur peut détruire les objets en un seul coup - Les objets ne tombent pas des objets détruits - Le joueur peut placer les objets plus rapidement - Les objets ne sont pas consommés lorsqu'ils sont utilisés
+- Objects are not consumed when used"	Caractéristiques du mode Dieu:  - Le joueur peut se déplacer à travers les objets - Le joueur peut détruire les objets en un seul coup - Les objets ne tombent pas des objets détruits - Le joueur peut placer les objets plus rapidement - Les objets ne sont pas consommés lorsqu'ils sont utilisés
 graphicsAPIOption	Text	{0} will be replaced with the name of the graphics api	Play Core Keeper using {0}	Jouez à Core Keeper avec {0}
 hair	Text	Option to choose hair style	Hair	Cheveux
 hairColor	Text	Option to choose hair color	Hair color	Couleur de cheveux
@@ -4422,9 +4422,9 @@ musicSheetItem	Text		Music sheet	Partition
 nativeLang	Text	"should not translate ""english"" but should show the name of the language itself"	English	Francais
 necklaceSlot	Text		Necklace slot	Emplacement de collier
 newGame	Text		New Game	Nouveau jeu
-newItem	Text	"Shown when a new item is picked up, for example: ""New item: Apple"""	New item: {0}	Nouvel élément : {0}
+newItem	Text	"Shown when a new item is picked up, for example: ""New item: Apple"""	New item: {0}	Nouvel élément: {0}
 newTalentPoint	Text	"Will for example say ""New talent point available in Fishing!"" in the chat window when player unlocks a new talent point"	New talent point available in {0}!	Nouveau point de talent disponible dans {0}!
-nextTalentPoint	Text	Shown as part of talent points hover window showing what the next talent point will give	Next rank:	Rang suivant :
+nextTalentPoint	Text	Shown as part of talent points hover window showing what the next talent point will give	Next rank:	Rang suivant:
 no	Text		no	Non
 noControllerWarning	Text		Warning!\Your controller\has disconnected.	Attention!\Votre contrôleur\s'est déconnecté.
 noPermissionToBan	Text		You don't have permission to ban players.	Vous n'êtes pas autorisé à bannir des joueurs.
@@ -4439,7 +4439,7 @@ numpadPlus	Text		NUMPAD +	PAVÉ NUMÉRIQUE +
 off	Text	"On/Off
 If your language doesn't have specific words for on/off, consider yes/no or enabled/disabled.
 This will be used with things like ""gamepad vibration: On/Off"""	off	désactivé
-offHandUse	Text		Off-hand use: {0}	Utilisation occasionnelle : {0}
+offHandUse	Text		Off-hand use: {0}	Utilisation occasionnelle: {0}
 offhandSlot	Text		Off-hand slot	Emplacement secondaire
 ok	Text		Ok	Ok
 on	Text	"On/Off setting.
@@ -4454,7 +4454,7 @@ parry	Text		parry	parer
 pauseWorldOptionDesc	Text		Pausing the world will stop creatures and objects from moving or doing any actions. Water spreading is also paused. This can only be toggled by admins.	La mise en pause du monde empêche les créatures et les objets de se déplacer ou d'effectuer des actions. L'épandage d'eau est également mis en pause. Cette fonction ne peut être activée que par les administrateurs.
 paused	Text		Game Paused	Jeu en pause
 permanentWhenEaten	Text	Shown above list of buffs gained from eating food	Permanent when eaten:	Permanente lorsqu'elle est consommée:
-petCandy	Text		Use: Feed this to your pet to boost its experience by {0}.	Utiliser : Nourrissez votre familier pour augmenter son expérience de {0}.
+petCandy	Text		Use: Feed this to your pet to boost its experience by {0}.	Utiliser: Nourrissez votre familier pour augmenter son expérience de {0}.
 petEgg	Text		Hatchable	À faire éclore
 petInfo	Text		Pet info	Informations sur familier
 petLeveledUp	Text		Pet reached level {0}!	Le familier a atteint le niveau {0}!
@@ -4464,13 +4464,13 @@ pickUpHalf	Text		"Pick up half:
 pickUpOne	Text		"Pick up one:
 {0}"	En prendre un: {0}
 piercingProjectiles	Text	Shown as description on weapons that shoots piercing projectiles	Projectiles pierces through enemies	Les projectiles transpercent les ennemis
-points	Text		Points: {0}	Points : {0}
+points	Text		Points: {0}	Points: {0}
 press	Text		Press	Appuyez
 pressAnyButtonNintendoSwitch	Text		Press any button	Appuyez sur n'importe quelle touche
 pressAnyButtonPC	Text		Press any button	Appuyez sur n'importe quelle touche
 pressAnyButtonPS4	Text		Press any button	Appuyez sur n'importe quelle touche
 pressAnyButtonXbox	Text		Press any button	Appuyez sur n'importe quelle touche
-price	Text		Price: {0}	Prix : {0}
+price	Text		Price: {0}	Prix: {0}
 primary	Text	Shown as category for red, yellow, blue and green painting colors	Primary	Primaire
 quickMove	Text		"Quick stash:
 {0}"	Rangement rapide: {0}
@@ -4483,14 +4483,14 @@ rareItemFormat	Text	"Format used for items that has rarity indicator as part of 
 receivedItems	Text	"For example"" Gained 4 Copper Bars!"" where {0} is 4 and {1} is Copper Bars"	Received {0} {1}	Reçu {0} {1}
 reduced	Text		Reduced	Réduit
 regenerateGameIDPrompt	Text		Do you want to regenerate a new Game ID? This will not affect any progression made.	Voulez-vous régénérer un nouvel ID de jeu ? Cela n'affectera pas la progression effectuée.
-reinforceCost	Text		Reinforce cost:	Renforcer le coût :
-reinforced	Text		Reinforced: {0}/{1}	Renforcé : {0}/{1}
+reinforceCost	Text		Reinforce cost:	Renforcer le coût:
+reinforced	Text		Reinforced: {0}/{1}	Renforcé: {0}/{1}
 release	Text		Release	Libérer
 removeAdmin	Text		Do you want to remove the admin privileges of this player?	Voulez-vous supprimer les privilèges d'administrateur de ce joueur ?
 removeUserMapMarkersPrompt	Text		Do you want to clear all placed map markers?	Voulez-vous effacer tous les marqueurs de carte placés ?
 repairCost	Text		Repair cost:	Coût de réparation:
 replace	Text		Replace	Remplacer
-requiresItem	Text	{0} will be replaced with an item the player must have such as a key for a lock	Requires: {0}	Nécessite : {0}
+requiresItem	Text	{0} will be replaced with an item the player must have such as a key for a lock	Requires: {0}	Nécessite: {0}
 requiresNearbyObject	Text	{0} will be replaced with an object the player must be nearby in the world such as Ancient Forge	Requires {0}	Nécessite {0}
 reset	Text	Shown above button that resets talent points	Reset:	Réinitialiser:
 resetSaveDataDialogue	Text		Delete progress?	Supprimer la progression ?
@@ -4505,7 +4505,7 @@ selectDifficulty	Text		Select difficulty	Sélectionnez la difficulté
 sell	Text		Sell	Vendre
 set	Text	"Format to show set bonuses such as ""2 set: +10% damage"" indicating that 2 pieces are needed to fullfill the set bonus where
 {0} = 2
-{1} = +10% damage"	{0} set: {1}	{0} ensemble : {1}
+{1} = +10% damage"	{0} set: {1}	{0} ensemble: {1}
 settingAmbientVol	Text		Ambient SFX	SFX ambiant
 settingDisplayGameTime	Text		Show game time	Afficher le temps de jeu
 settingLanguage	Text		Language	Langue
@@ -4535,7 +4535,7 @@ smelting	Text		Smelting	Fonderie
 sort	Text	Shown when hovering a button that sorts the inventory	Sort	Trier
 sortDesc	Text		Sorts and stacks the items together in the inventory.	Trie et empile les objets ensemble dans l'inventaire.
 souls	Text		Souls	Âmes
-startingPerks	Text		Starting perks:	Avantages de départ :
+startingPerks	Text		Starting perks:	Avantages de départ:
 starvationDeathMessage	Text		You died from starvation.	Tu es mort de faim.
 stats	Text	Title of stats window that shows when hovering character ui in game	Stats	Statistiques
 stop	Text		Stop	Arrêt
@@ -4548,7 +4548,7 @@ uncapped	Text		Uncapped	Non plafonné
 uniqueCraftingComponent	Text	Shown in hover text of items that are unique crafting components	Unique crafting component	Composant d'artisanat unique
 up	Text		Move up	Déplacer vers le haut
 upgrade	Text		Upgrade	Améliorer
-useItemTerm	Text		Use: {0}	Utiliser : {0}
+useItemTerm	Text		Use: {0}	Utiliser: {0}
 valuable	Text	Shown as a tag in description of items  that are meant to be sold for coins.	Valuable	Précieux
 value	Text	"As in the coin value of an item, for example ""Value: 1484 coins"""	Value: {0}	Valeur: {0}
 vanityToggleVisibility	Text		Click to toggle visiblity of equipment	Cliquez pour basculer la visibilité de l'équipement cosmétique
@@ -4559,7 +4559,7 @@ weaponMeleeDamage	Text	"The damage of a weapon shown when hovering it, for examp
 weaponRangeDamage	Text		{0}-{1} range damage	{0}-{1} dégâts de portée
 weaponSecondary	Text		Secondary use: {0}	Utilisation secondaire: {0}
 weapons	Text		Weapons	Armes
-whenEaten	Text		When eaten:	Lorsqu'il est consommé :
+whenEaten	Text		When eaten:	Lorsqu'il est consommé:
 woodCutting	Text	Shown as title in the crafting UI of the buzz saw building	Wood cutting	Scie circulaire
 yes	Text		Yes	Oui
 youAreInGuestMode	Text		You are in guest mode	Vous êtes en mode invité
