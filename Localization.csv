@@ -2640,7 +2640,7 @@ Items/MilkDesc	Text		A bottle of milk with a slight vanilla aroma and an earthy 
 Items/Mimite	Text		Mimite	Mimite
 Items/MimiteTrophy	Text		Mimite Figurine	Figurine de mimite
 Items/MimiteTrophyDesc	Text		A lifelike representation of a Mimite.	Une représentation réaliste d'un Mimite.
-Items/Minecart	Text		Minecart	Chariot de mine
+Items/Minecart	Text		Minecart	Chariot
 Items/MinecartDesc	Text		Allows riding the railways.	Permet de rouler sur les chemins de fer.
 Items/MinerBreastArmor	Text		Miner's Labour Suit	Costume de travail de mineur
 Items/MinerBreastArmorDesc	Text		An airtight zip-up suit for working in deep caverns. The flashy orange makes it official.	Une combinaison hermétique à fermeture éclair pour travailler dans des cavernes profondes. L'orange flashy le rend officiel.
@@ -3796,8 +3796,8 @@ Items/WinterCookies	Text		Winter Cookies	Biscuits d'hiver
 Items/WinterCookiesDesc	Text		Nicely decorated this handful of cookies will put one in a seasonal mood. There's even a little core-shaped one in there.	Joliment décorées, cette poignée de biscuits vous mettra dans une ambiance saisonnière. Il y en a même un petit en forme de noyau là-dedans.
 Items/WinterDinner	Text		Winter Dinner	Dîner d'hiver
 Items/WinterDinnerDesc	Text		A full meal to warm your belly in the cold season. Prepared with a roasted larva, hot heartberry sauce, dumplings and some greens.	Un repas complet pour se réchauffer le ventre pendant la saison froide. Préparé avec une larve rôtie, une sauce piquante aux myrtilles, des boulettes et quelques légumes verts.
-Items/WonkyMinecart	Text		Wonky Minecart	Bouquet de roses blanches
-Items/WonkyMinecartDesc	Text		Allows riding the railways.	Ce magnifique bouquet de roses blanches rehaussera l'aspect de chaque pièce. Offrez-le à une personne qui vous est chère.
+Items/WonkyMinecart	Text		Wonky Minecart	Chariot branlant
+Items/WonkyMinecartDesc	Text		Allows riding the railways.	Permet de rouler sur les chemins de fer.
 Items/Wood	Text		Wood	Bois
 Items/WoodBow	Text		Wood Bow	Arc en bois
 Items/WoodBowDesc	Text		A crude bow to shoot foes from afar.	Un arc rudimentaire pour tirer sur les ennemis de loin.
