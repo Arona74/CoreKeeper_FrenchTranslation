@@ -488,18 +488,18 @@ ControlMapper/RightJoystickRight	Text		Right joystick right	Joystick droit droit
 ControlMapper/Rotate	Text		Rotate	Tourner
 ControlMapper/Sort	Text		Sort inventory	Trier l'inventaire
 ControlMapper/SplitStack	Text		Split item stack	Diviser
-ControlMapper/StopPlayingInstrument	Text		Stop playing	Arrête de jouer
-ControlMapper/ToggleInventory	Text		Toggle inventory	Afficher l'inventaire
-ControlMapper/ToggleMap	Text		Toggle map	Afficher la carte
-ControlMapper/ToggleShortCutsWindow	Text		Toggle shortcuts window	Afficher la fenêtre des raccourcis
+ControlMapper/StopPlayingInstrument	Text		Stop playing	Arrêter de jouer
+ControlMapper/ToggleInventory	Text		Toggle inventory	Ouvrir/Fermer l'inventaire
+ControlMapper/ToggleMap	Text		Toggle map	Ouvrir/Fermer la carte
+ControlMapper/ToggleShortCutsWindow	Text		Toggle shortcuts window	Ouvrir/Fermer la fenêtre des raccourcis
 ControlMapper/ToggleSpectatedPlayer	Text	Toggles which player is being spectated. Can be used after dying as hard core character.	Toggle spectated player	Afficher le joueur observé
-ControlMapper/ToggleUI	Text		Toggle in-game UI	Afficher l'interface utilisateur
+ControlMapper/ToggleUI	Text		Toggle in-game UI	Afficher/Masquer l'Interface Utilisateur
 ControlMapper/TrashItem	Text		Trash selected item	Déplacer dans la corbeille l'élément sélectionné
-ControlMapper/UIInteract	Text		UI interact	Interaction de l'interface utilisateur
-ControlMapper/UIModifierKeys	Text		Inventory UI modifiers, use together with pick up / drop item actions	Modificateurs d'interface utilisateur d'inventaire, à utiliser avec les actions de ramassage / dépôt d'objets
-ControlMapper/UISecondInteract	Text		UI second interact	Deuxième interaction de l'interface utilisateur
+ControlMapper/UIInteract	Text		UI interact	Interaction de l'Interface Utilisateur
+ControlMapper/UIModifierKeys	Text		Inventory UI modifiers, use together with pick up / drop item actions	Modificateurs d'Interface Utilisateur d'inventaire, à utiliser avec les actions de ramassage / dépôt d'objets
+ControlMapper/UISecondInteract	Text		UI second interact	Deuxième interaction de l'Interface Utilisateur
 ControlMapper/UseOffHand	Text		Use off-hand	Utiliser la main secondaire
-ControlMapper/ZoomInMap	Text		Zoom in map	Agrandir la carte
+ControlMapper/ZoomInMap	Text		Zoom in map	Zoomer la carte
 ControlMapper/ZoomOutMap	Text		Zoom out map	Dézoomer la carte
 ControlMapper/actionColumnLabel	Text		Actions	Actions
 ControlMapper/add	Text		Add	Ajouter
@@ -3954,10 +3954,10 @@ Menu/Standard	Text	Refers to type of character type such as classic or hardcore	
 Menu/StandardDesc	Text		Standard characters respawn after dying. This is the intended way to play Core Keeper.	Les personnages standard réapparaissent après leur mort. C'est la manière prévue de jouer à Core Keeper.
 Menu/StartGame	Text		Start Game	Démarrer jeu
 Menu/StreamerMode	Text		Streamer mode	Mode diffusion
-Menu/TargetFrameRate	Text		Frame rate target	fréquence d'images cible
+Menu/TargetFrameRate	Text		Frame rate target	Fréquence d'images max
 Menu/ToggleGuestModeOff	Text		Disable guest mode	Désactiver le mode invité
 Menu/ToggleGuestModeOn	Text		Enable guest mode	Activer le mode invité
-Menu/UIOptions	Text		UI settings	Paramètres de l'interface utilisateur
+Menu/UIOptions	Text		UI settings	Paramètres de l'Interface Utilisateur
 Menu/Version	Text		Version: {0} ({1})   |   © Pugstorm AB	Version: {0} ({1}) | © Pugstorm AB
 Menu/WindowMode	Text		Window mode	Mode fenêtré
 Menu/Windowed	Text		Windowed	Fenêtré
@@ -4070,9 +4070,9 @@ Rarity/UncommonFemale	Text		Uncommon	Rare
 Rarity/UncommonMale	Text		Uncommon	Rare
 Recipes	Text	"Title for recipes of foods, {0} will be replaced with a number indicating the current amount of known recipes
 "	Recipes ({0})	Recettes ({0})
-ReinforceButtonDesc	Text		Toggle to reinforce tools, weapons and equipment. Reinforcing will improve the stats of the item by a small amount and also extend the durability.	Basculer pour renforcer les outils, les armes et l'équipement. Le renforcement améliorera légèrement les statistiques de l'objet et prolongera également sa durabilité.
+ReinforceButtonDesc	Text		Toggle to reinforce tools, weapons and equipment. Reinforcing will improve the stats of the item by a small amount and also extend the durability.	Utiliser pour renforcer les outils, les armes et l'équipement. Le renforcement améliorera légèrement les statistiques de l'objet et prolongera également sa durabilité.
 ReinforceButtonTitle	Text		Reinforce	Renforcer
-RepairButtonDesc	Text		Toggle to repair tools, weapons and equipment.	Basculer pour réparer les outils, les armes et l'équipement.
+RepairButtonDesc	Text		Toggle to repair tools, weapons and equipment.	Utiliser pour réparer les outils, les armes et l'équipement.
 RepairButtonTitle	Text		Repair	Réparation
 Roles/Chef	Text		Chef	Chef
 Roles/ChefDesc	Text		A culinary expert preparing food for anyone in need.	Un expert culinaire préparant de la nourriture pour toute personne dans le besoin.
@@ -4372,7 +4372,7 @@ hair	Text	Option to choose hair style	Hair	Cheveux
 hairColor	Text	Option to choose hair color	Hair color	Couleur de cheveux
 hardcoreDeathMessage	Text		You died. Character has been lost.	Tu es mort. Le personnage a été perdu.
 helmSlot	Text		Helm slot	Emplacement de casque
-hideCreativeUI	Text		Hide Creative UI	Cacher l'interface utilisateur du mode Créatif
+hideCreativeUI	Text		Hide Creative UI	Masquer l'Interface Utilisateur du mode Créatif
 high	Text		High	Haut
 holdToSkip	Text	"{0} is replaced with a button/key so for example ""Hold SPACE to skip"". This is used in intro slides of the game."	Hold {0} to skip intro	Maintenez {0} pour sauter l'intro
 incubator	Text		Incubator	Incubateur
@@ -4451,7 +4451,7 @@ oxygen	Text		Oxygen	Oxygène
 pants	Text	Option to choose pants style	Pants	Pantalon
 pantsSlot	Text		Pants slot	Emplacement de jambières
 parry	Text		parry	parer
-pauseWorldOptionDesc	Text		Pausing the world will stop creatures and objects from moving or doing any actions. Water spreading is also paused. This can only be toggled by admins.	La mise en pause du monde empêche les créatures et les objets de se déplacer ou d'effectuer des actions. L'épandage d'eau est également mis en pause. Cette fonction ne peut être activée que par les administrateurs.
+pauseWorldOptionDesc	Text		Pausing the world will stop creatures and objects from moving or doing any actions. Water spreading is also paused. This can only be toggled by admins.	La mise en pause du monde empêche les créatures et les objets de se déplacer ou d'effectuer des actions. L'épandage d'eau est également mis en pause. Cette fonction ne peut être utilisée que par les Administrateurs.
 paused	Text		Game Paused	Jeu en pause
 permanentWhenEaten	Text	Shown above list of buffs gained from eating food	Permanent when eaten:	Permanente lorsqu'elle est consommée:
 petCandy	Text		Use: Feed this to your pet to boost its experience by {0}.	Utiliser: Nourrissez votre familier pour augmenter son expérience de {0}.
@@ -4475,7 +4475,7 @@ primary	Text	Shown as category for red, yellow, blue and green painting colors	P
 quickMove	Text		"Quick stash:
 {0}"	Rangement rapide: {0}
 quickStack	Text	Shown when hovering a button that uses the quick stack function	Quick stack	Rangement rapide
-quickStackDesc	Text		Moves already existing items in the chest from your inventory to the chest.	Déplace les objets déjà présents dans le coffre de votre inventaire vers le coffre.
+quickStackDesc	Text		Moves already existing items in the chest from your inventory to the chest.	Déplace les objets déjà présents dans le coffre, de votre inventaire vers le coffre.
 quitToDesktop	Text		Quit	Quitter
 rareItemFormat	Text	"Format used for items that has rarity indicator as part of their name such as ""Rare Heartberry"" where
 {0} = rarity
@@ -4483,7 +4483,7 @@ rareItemFormat	Text	"Format used for items that has rarity indicator as part of 
 receivedItems	Text	"For example"" Gained 4 Copper Bars!"" where {0} is 4 and {1} is Copper Bars"	Received {0} {1}	Reçu {0} {1}
 reduced	Text		Reduced	Réduit
 regenerateGameIDPrompt	Text		Do you want to regenerate a new Game ID? This will not affect any progression made.	Voulez-vous régénérer un nouvel ID de jeu ? Cela n'affectera pas la progression effectuée.
-reinforceCost	Text		Reinforce cost:	Renforcer le coût:
+reinforceCost	Text		Reinforce cost:	Coût de renforcement:
 reinforced	Text		Reinforced: {0}/{1}	Renforcé: {0}/{1}
 release	Text		Release	Libérer
 removeAdmin	Text		Do you want to remove the admin privileges of this player?	Voulez-vous supprimer les privilèges d'administrateur de ce joueur ?
@@ -4524,7 +4524,7 @@ settingVibrationXbox	Text		Vibration	Vibration
 sheets	Text	Refers to Music sheets/notes	Sheets	Feuilles
 shirt	Text	Option to choose shirt style	Shirt	Chemise
 shortcuts	Text		Shortcuts	Raccourcis
-showCreativeUI	Text		Show Creative UI	Afficher l'interface utilisateur du mode Créatif
+showCreativeUI	Text		Show Creative UI	Afficher l'Interface Utilisateur du mode Créatif
 signedOutWarning	Text		Warning!\Your profile has\been signed out.	Attention!\Votre profil\a été déconnecté.
 singleplayer	Text		Singleplayer	Solo
 skillInfo	Text		Click to expand talent tree.	Cliquez pour développer l'arbre des talents.
@@ -4540,7 +4540,7 @@ starvationDeathMessage	Text		You died from starvation.	Tu es mort de faim.
 stats	Text	Title of stats window that shows when hovering character ui in game	Stats	Statistiques
 stop	Text		Stop	Arrêt
 textWithAmount	Text	"Used for any text that has an amount indicated such as ""Mining 48/100"" to show the current and max Mining skill"	{0} {1}/{2}	{0} {1}/{2}
-toggleShortcuts	Text		Press {0} to toggle this window	Appuyez sur {0} pour basculer cette fenêtre
+toggleShortcuts	Text		Press {0} to toggle this window	Appuyez sur {0} pour afficher/masquer cette fenêtre
 tools	Text	Shown as title in crafting window	Tools	Outils
 trading	Text		Trading	Commerce
 unbanPlayerDialogue	Text		Do you want to unban this player?	Voulez-vous débannir ce joueur ?
@@ -4551,7 +4551,7 @@ upgrade	Text		Upgrade	Améliorer
 useItemTerm	Text		Use: {0}	Utiliser: {0}
 valuable	Text	Shown as a tag in description of items  that are meant to be sold for coins.	Valuable	Précieux
 value	Text	"As in the coin value of an item, for example ""Value: 1484 coins"""	Value: {0}	Valeur: {0}
-vanityToggleVisibility	Text		Click to toggle visiblity of equipment	Cliquez pour basculer la visibilité de l'équipement cosmétique
+vanityToggleVisibility	Text		Click to toggle visiblity of equipment	Cliquez pour activer/désactiver la visibilité de l'équipement cosmétique
 versus	Text		Versus	Contre
 veryHigh	Text		Very high	Très haut
 videoOptions	Text		Video settings	Paramètres vidéo
