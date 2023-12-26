@@ -3239,7 +3239,7 @@ Items/RustyFishingHookDesc	Text		Rusted to the core and unusable. That fish was 
 Items/RustySpoon	Text		Rusty Spoon	Cuillère rouillée
 Items/RustySpoonDesc	Text		An old, corroded eating utensil. Almost every culture has invented it.	Un vieil ustensile de cuisine corrodé. Presque toutes les cultures l'ont inventé.
 Items/SalvageAndRepairStation	Text		Salvage and Repair Station	Station de recyclage et de réparation
-Items/SalvageAndRepairStationDesc	Text		Scraps tools and equipment you don't need or refurbishes broken ones.	Mettez au rebut les outils et l'équipement dont vous n'avez pas besoin ou remettez à neuf ceux qui sont cassés.
+Items/SalvageAndRepairStationDesc	Text		Scraps tools and equipment you don't need or refurbishes broken ones.	Recycler les outils et l'équipement dont vous n'avez plus besoin ou remettez à neuf ceux qui sont cassés.
 Items/SamhainCurseRing	Text		Samhain Curse Ring	Anneau de malédiction de Samhain
 Items/SamhainCurseRingDesc	Text		A cursed ring that was used to welcome the cold season into the lands. It represents decay and darkness.	Un anneau maudit qui a été utilisé pour accueillir la saison froide dans les terres. Il représente la décadence et les ténèbres.
 Items/SamhainOfferingNecklace	Text		Samhain Offering Necklace	Collier d'offrande de Samhain
@@ -3319,8 +3319,8 @@ Items/ScholarStaff	Text		Scholar's Staff	Bâton d'érudit
 Items/ScholarStaffDesc	Text		A magical staff wielded by caveling scholars that utilizes an ancient gemstone to produce powerful bolts of energy.	Un bâton magique manié par des érudits cavelin qui utilise une pierre précieuse ancienne pour produire de puissants éclairs d'énergie.
 Items/ScholarTrophy	Text		Caveling Scholar Figurine	Figurine d'érudit cavelin
 Items/ScholarTrophyDesc	Text		A lifelike representation of a caveling scholar.	Une représentation réaliste d'un érudit cavelin.
-Items/ScrapPart	Text	Should be in plural as the ingame icon shows several parts	Scrap Parts	Pièces de détacher
-Items/ScrapPartDesc	Text		Different materials salvaged from junk. Used to repair items at the salvage and repair station.	Différents matériaux récupérés de la ferraille. Utilisé pour réparer des objets à la station de récupération et de réparation.
+Items/ScrapPart	Text	Should be in plural as the ingame icon shows several parts	Scrap Parts	Pièces de feraille
+Items/ScrapPartDesc	Text		Different materials salvaged from junk. Used to repair items at the salvage and repair station.	Différents matériaux récupérés de la ferraille. Utilisé pour réparer des objets à la station de recyclage et de réparation.
 Items/ScreenDevice	Text		Screen Device	Dispositif d'écran
 Items/ScreenDeviceDesc	Text		A small device made from blue glass, perfectly fitting into your hand. It's touch sensitive and scrolls through images and glyphs.	Un petit appareil en verre bleu, parfaitement adapté à votre main. Il est tactile et fait défiler les images et les glyphes.
 Items/SeaBiomeChest	Text		Seashell Chest	Coffre de coquillage
@@ -4073,7 +4073,7 @@ Recipes	Text	"Title for recipes of foods, {0} will be replaced with a number ind
 ReinforceButtonDesc	Text		Toggle to reinforce tools, weapons and equipment. Reinforcing will improve the stats of the item by a small amount and also extend the durability.	Utiliser pour renforcer les outils, les armes et l'équipement. Le renforcement améliorera légèrement les statistiques de l'objet et prolongera également sa durabilité.
 ReinforceButtonTitle	Text		Reinforce	Renforcer
 RepairButtonDesc	Text		Toggle to repair tools, weapons and equipment.	Utiliser pour réparer les outils, les armes et l'équipement.
-RepairButtonTitle	Text		Repair	Réparation
+RepairButtonTitle	Text		Repair	Réparer
 Roles/Chef	Text		Chef	Chef
 Roles/ChefDesc	Text		A culinary expert preparing food for anyone in need.	Un expert culinaire préparant de la nourriture pour toute personne dans le besoin.
 Roles/Explorer	Text		Explorer	Explorateur
@@ -4090,8 +4090,8 @@ Roles/Nomad	Text		Nomad	Nomade
 Roles/NomadDesc	Text		An ordinary person without starting equipment but all the possibilities.	Une personne ordinaire sans matériel de départ mais toutes les possibilités.
 Roles/Ranger	Text		Ranger	Ranger
 Roles/RangerDesc	Text		A swift fighter with a keen eye that's trained to hit enemies from far away.	Un combattant rapide à l'œil vif, entraîné à frapper les ennemis de loin.
-SalvageButtonDesc	Text		Salvage tools, weapons and equipment to gain scrap parts and some of the crafting materials back. Items with less durability gives back less materials.	Récupérez des outils, des armes et de l'équipement pour récupérer des pièces de rebut et certains matériaux d'artisanat. Les articles avec moins de durabilité donnent moins de matériaux.
-SalvageButtonTitle	Text		Salvage	Sauvetage
+SalvageButtonDesc	Text		Salvage tools, weapons and equipment to gain scrap parts and some of the crafting materials back. Items with less durability gives back less materials.	Recycler des outils, des armes ou de l'équipement pour récupérer des pièces de ferraille et certains matériaux d'artisanat. Les articles avec moins de durabilité donnent moins de matériaux.
+SalvageButtonTitle	Text		Salvage	Recycler
 Salvaging	Text	"Shown as title in the salvage and repair UI
 "	Salvaging	Récupération
 ScanWorld	Text		Scan the world	Scannez le monde
@@ -4413,7 +4413,7 @@ menuButtonBack	Text		Back	Retour
 menuButtonDeactivate	Text		Deactivate	Désactiver
 menuButtonNavigate	Text		Navigate	Naviguer
 menuButtonSelect	Text		Select	Sélectionner
-missingScrapParts	Text		Missing scrap parts	Pièces détacher manquantes
+missingScrapParts	Text		Missing scrap parts	Pièces de feraille manquantes
 months	Text	"Please give the short form of a month, for each month, and
 separate each month by an ASCII space.
 The month will be placed into the 'dateFormat' string."	Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec	Jan Fév Mar Avr Mai Juin Juil Août Sept Oct Nov Déc
