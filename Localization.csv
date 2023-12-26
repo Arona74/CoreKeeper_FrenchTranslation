@@ -545,7 +545,7 @@ ControlMapper/mouseColumnLabel	Text		Mouse	Souris
 ControlMapper/mouseElementAssignmentPollingWindowMessage	Text		Press a mouse button or move an axis to assign it to {0}	Appuyez sur un bouton de la souris ou déplacez un axe pour l'affecter à {0}
 ControlMapper/mouseElementAssignmentPollingWindowMessage_fullAxisFieldOnly	Text		Move an axis to assign it to {0}.	Déplacez un axe pour l'affecter à {0}.
 ControlMapper/none	Text		None	Aucun
-ControlMapper/okay	Text		Okay	D'accord
+ControlMapper/okay	Text		Okay	OK
 ControlMapper/playersGroupLabel	Text		Players:	Joueurs:
 ControlMapper/remove	Text		Remove	Retirer
 ControlMapper/removeControllerButtonLabel	Text		Remove	Retirer
