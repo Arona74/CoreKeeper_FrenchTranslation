@@ -355,7 +355,7 @@ Conditions/KillsIncreaseCritChance	Text		Killing an enemy increases critical hit
 Conditions/KingOfSlimes	Text		You are the king of slimes	Tu es le roi des slimes
 Conditions/LarvaDisguise	Text		Disguised as a larva	Déguisé en larve
 Conditions/LifeOnHit	Text		{0} life on melee hit	{0} vie en cas de coup au mêlée
-Conditions/LongerCookedFoodBuffs	Text		{0}% longer cooked food buff durations	{0}% de durées d'amélioration des plats cuisinés plus longues
+Conditions/LongerCookedFoodBuffs	Text		{0}% longer cooked food buff durations	{0}% de durée supplémentaire pour les effets des plats cuisinés
 Conditions/LookLikeGhost	Text		You look like a ghost	Tu ressembles à un fantôme
 Conditions/Love	Text		Gives you a  heart-warming feeling	Vous donne une sensation réconfortante
 Conditions/MeleeAttackSpeedIncrease	Text		{0}% melee attack speed	{0}% de vitesse d'attaque en mêlée
@@ -395,14 +395,14 @@ Conditions/StackedCritChance	Text		{0}% critical hit chance	{0}% de chances de c
 Conditions/StarvingDamageDecrease	Text		{0}% reduced damage from starving	{0}% de réduction des dégâts causés car vous etes affamé
 Conditions/StarvingHealthDecrease	Text		{0}% reduced max health from starving	{0}% de réduction de la santé maximale car vous etes affamé
 Conditions/StarvingMovementSpeedDecrease	Text		{0}% movement speed from starving	{0}% de vitesse de déplacement car vous etes affamé
-Conditions/StrongerWellFedBuffs	Text		Well fed buffs are {0}% stronger	Les buffs bien nourris sont {0}% plus forts
+Conditions/StrongerWellFedBuffs	Text		Well fed buffs are {0}% stronger	Les effets "Bien nourri" sont {0}% plus forts
 Conditions/Stunned	Text		Stunned	Étourdi
 Conditions/Suffocating	Text		Suffocating	Suffocant
 Conditions/ThornsDamage	Text		{0} thorns damage	{0} dégâts d'épines
 Conditions/ThornsDamageAddedToMeleeAndRange	Text		Your thorns damage is added to your melee and range damage	Vos dégâts d'épines sont ajoutés à vos dégâts de mêlée et à distance
 Conditions/ToolDurabilityLastsLonger	Text		{0}% chance to not lose durability when using tools and weapons	{0}% de chances de ne pas perdre de durabilité lors de l'utilisation d'outils et d'armes
 Conditions/VisibleOreDistanceIncrease	Text		{0} tiles visible ore distance	Augmentation de la distance de visibilité des minerais de {0} cases
-Conditions/WellFedBuffsThresholdReduction	Text		Well fed buffs are gained at {0}% lower food	Les buffs bien nourris sont gagnés avec {0}% de nourriture en moins
+Conditions/WellFedBuffsThresholdReduction	Text		Well fed buffs are gained at {0}% lower food	Les effets "Bien nourri" sont obtenus avec {0}% de nourriture en moins
 Conditions/WellFedDamageIncrease	Text		{0}% increased damage from being well fed	{0}% d'Augmentation des dégâts due au fait d'être bien nourri
 Conditions/WellFedHealthIncrease	Text		{0}% increased max health from being well fed	{0}% d'augmentation de la santé maximale due au fait d'être bien nourri
 Conditions/WellFedMovementSpeedIncrease	Text		{0}% movement speed from being well fed	{0}% de vitesse de déplacement due au fait d'être bien nourri
@@ -1072,7 +1072,7 @@ ItemCategory/Environment_Wall	Text		Wall	Mur
 ItemCategory/Equipment	Text		Equipment	Equipement
 ItemCategory/Equipment_Bag	Text		Bag	Sac
 ItemCategory/Equipment_Bait	Text		Bait	Appât
-ItemCategory/Equipment_BreastArmor	Text		Breast armor	Haut d'armure
+ItemCategory/Equipment_BreastArmor	Text		Breast armor	Armure
 ItemCategory/Equipment_Helm	Text		Helm	Casque
 ItemCategory/Equipment_MeleeWeapon	Text		Melee weapon	Armes de mêlée
 ItemCategory/Equipment_Necklace	Text		Necklace	Collier
@@ -1154,7 +1154,7 @@ Items/AlienObeliskTall	Text		Tall Alien Obelisk	Grand Obélisque Alien
 Items/AlienObeliskTallDesc	Text		A large descriptive stele, carved into mysterious stone. Its meaning is beyond earthly understanding.	Une grande stèle descriptive, taillée dans une pierre mystérieuse. Sa signification dépasse l'entendement terrestre.
 Items/AlienStalagmite	Text		High Tech Pillar	Pilier technologique
 Items/AlienStalagmiteDesc	Text		It looks like a pillar but its actual function is unknown. Is it a cooling mechanism or does it perhaps store energy?	Il ressemble à un pilier, mais sa fonction réelle est inconnue. S'agit-il d'un mécanisme de refroidissement ou peut-être stocke-t-il de l'énergie?
-Items/AlienTechBreastArmor	Text		Cosmos Torso	Torse cosmique
+Items/AlienTechBreastArmor	Text		Cosmos Torso	Plastron cosmique
 Items/AlienTechBreastArmorDesc	Text		This airtight jacket keeps the atmosphere around your body evenly pressured and is equipped with a useful lock-on system.	Cette veste étanche maintient l'atmosphère autour de votre corps sous une pression uniforme et est équipée d'un système de verrouillage très utile.
 Items/AlienTechCrystalLight	Text		Alien Crystal Light	Lumière de cristal Alien 
 Items/AlienTechCrystalLightDesc	Text		A highly advanced light using a giant ancient gemstone. It almost appears like an oversized torch made for something with even larger hands.	Une lampe très perfectionnée utilisant une pierre précieuse géante ancienne. Elle ressemble presque à une torche surdimensionnée conçue pour des mains encore plus grandes.
@@ -1443,7 +1443,7 @@ Items/Candle	Text		Candle	Bougie
 Items/CandleDesc	Text		This simple decorative candle can be placed anywhere to set up a cozy atmosphere.	Cette simple bougie décorative peut être placée n'importe où pour créer une atmosphère chaleureuse.
 Items/CandleStack	Text		Candle Stack	Pile de bougies
 Items/CandleStackDesc	Text		A set of candles for your decoration needs or the right atmosphere when summoning evil entities.	Un ensemble de bougies pour vos besoins de décoration ou la bonne ambiance lors de l'invocation d'entités maléfiques.
-Items/CarapaceBreastArmor	Text		Carapace Breastplate	Cuirasse de carapace
+Items/CarapaceBreastArmor	Text		Carapace Breastplate	Cuirasse en carapace
 Items/CarapaceBreastArmorDesc	Text		An organic body armor resembling Ghorm's shell, it is heavy and feels weird on the inside.	Une armure corporelle organique ressemblant à la carapace de Ghorm, elle est lourde et semble étrange à l'intérieur.
 Items/CarapaceHelm	Text		Carapace Helm	Heaume de carapace
 Items/CarapaceHelmDesc	Text		A chitin-plated head piece, wearing it fills you with the urge to dig paths through the darkness.	Un couvre-chef plaqué de chitine, le porter vous donne envie de creuser des chemins dans l'obscurité.
@@ -1477,8 +1477,8 @@ Items/CavelingBed	Text		Caveling Bed	Lit de cavelin
 Items/CavelingBedDesc	Text		Doesn't look very comfortable.	N'a pas l'air très confortable.
 Items/CavelingBread	Text		Caveling Bread	Pain cavelin
 Items/CavelingBreadDesc	Text		Dry, hard bread. It feels like chewing chalk but fills the stomach.	Pain sec et dur. C'est comme mâcher de la craie mais ça remplit l'estomac.
-Items/CavelingBreastArmor	Text		Caveling Chest	Coffre de cavelin
-Items/CavelingBreastArmorDesc	Text		Made from grub leather, good for unhindered movement in combat.	Fabriqué à partir de cuir grub, bon pour un mouvement sans entrave au combat.
+Items/CavelingBreastArmor	Text		Caveling Chest	Cuirasse de Cavelin
+Items/CavelingBreastArmorDesc	Text		Made from grub leather, good for unhindered movement in combat.	Fabriqué à partir de cuir de ver, offre un mouvement sans entrave au combat.
 Items/CavelingBrute	Text		Caveling Brute	Brute Cavelin
 Items/CavelingBruteTrophy	Text		Caveling Brute Figurine	Figurine d’une Brute Cavelin
 Items/CavelingBruteTrophyDesc	Text		A lifelike representation of a Caveling Brute.	Une représentation réaliste d'une Brute cavelin.
@@ -1650,7 +1650,7 @@ Items/CookedWrap	Text		Wrap	Wrap
 Items/CookiesAndMilk	Text		Cookies & Milk	Biscuits et Lait
 Items/CookiesAndMilkDesc	Text		To trade with the one that decides who is naughty and who is nice.	Échanger avec celui qui décide qui est méchant et qui est gentil.
 Items/CookingPot	Text		Cooking Pot	Marmite
-Items/CookingPotBreastArmor	Text		Cooking Pot Tub	Marmite en tube
+Items/CookingPotBreastArmor	Text		Cooking Pot Tub	Armure Marmite
 Items/CookingPotBreastArmorDesc	Text		Only the ones really passionate about cooking dare to become the pot itself.	Seuls les vrais passionnés de cuisine osent devenir la marmite elle-même.
 Items/CookingPotDesc	Text		Cooking ingredients brings out their full potential. Combine two and see what happens!	La cuisson des ingrédients permet de révéler tout leur potentiel. Combinez-en deux et voyez ce qui se passe!
 Items/CookingPotHelm	Text		Cooking Pot Lid	Couvercle de marmite
@@ -1660,7 +1660,7 @@ Items/CopperAnvilDesc	Text		Get started with creating armor for looks and combat
 Items/CopperBar	Text		Copper Bar	Lingot de cuivre
 Items/CopperBarDesc	Text		A simple metal ingot for blacksmithing.	Un simple lingot de métal pour la forge.
 Items/CopperBreastArmor	Text		Copper Breastplate	Cuirasse en cuivre
-Items/CopperBreastArmorDesc	Text		Got no sixpack? Just craft one!	Vous n'avez pas de pack de six? Fabriquez-en un!
+Items/CopperBreastArmorDesc	Text		Got no sixpack? Just craft one!	Vous n'avez pas d'abdos? Maintenant si!
 Items/CopperChest	Text		Copper Chest	Coffre en cuivre
 Items/CopperChestDesc	Text		An crude chest made from copper. It is not locked anymore.	Un coffre brut en cuivre. Il n'est plus verrouillé.
 Items/CopperCrossNecklace	Text		Copper Cross Necklace	Collier en cuivre avec croix
@@ -1758,7 +1758,7 @@ Items/CrudeDrillDesc	Text		Can very slowly drill through tougher materials such 
 Items/CrystalBigSnail	Text		Crystal Snail	Escargot de cristal
 Items/CrystalBone	Text		Crystal Bone	Os de cristal
 Items/CrystalBoneDesc	Text		All that's left of a creature that had the misfortune to stumble upon the Shimmering Frontier.	Tout ce qu'il reste d'une créature qui a eu la malchance de tomber sur la frontière scintillante.
-Items/CrystalBreastArmor	Text		Solarite Cuirass	Cuirasse Solarite
+Items/CrystalBreastArmor	Text		Solarite Cuirass	Cuirasse en Solarite
 Items/CrystalBreastArmorDesc	Text		A crystalline piece of equipment that shields the upper body like a fortress. The bright material evokes old memories of the sun.	Un équipement cristallin qui protège le haut du corps comme une forteresse. Le matériau brillant évoque de vieux souvenirs de soleil.
 Items/CrystalCicada	Text		Failed Titan	Titan défaillant
 Items/CrystalCicadaDesc	Text		A rare specimen of a coloss cicada that would have become a titan. But due to becoming corrupted with crystals inside its husk, it died when it tried to finally emerge.	Un spécimen rare de cigale colossale qui aurait pu devenir un titan. Mais, corrompue par des cristaux à l'intérieur de son enveloppe, elle est morte lorsqu'elle a tenté d'émerger.
@@ -2053,7 +2053,7 @@ Items/GalaxiteAnvil	Text		Galaxite Anvil	Enclume en Galaxite
 Items/GalaxiteAnvilDesc	Text		A special anvil for creating otherwordly equipment.	Une enclume spéciale pour créer des équipements d'un autre monde.
 Items/GalaxiteBar	Text		Galaxite Bar	Lingot de Galaxite
 Items/GalaxiteBarDesc	Text		An otherwordly ingot for outstanding blacksmithing.	Un lingot d'un autre monde pour une forge exceptionnelle.
-Items/GalaxiteBreastArmor	Text		Galaxite Torso	Torse en Galaxite
+Items/GalaxiteBreastArmor	Text		Galaxite Torso	Armure en Galaxite
 Items/GalaxiteBreastArmorDesc	Text		A futuristic protection for the upper body. Its intimidating yet elegant design is a true marvel to look at.	Une protection futuriste pour le haut du corps. Son design intimidant mais élégant est une véritable merveille à regarder.
 Items/GalaxiteBridge	Text		Galaxite Bridge	Pont en Galaxite
 Items/GalaxiteBridgeDesc	Text		An otherwordly bridge that feels like walking on a path through the universe.	Un pont d'un autre monde qui donne l'impression de marcher sur un chemin à travers l'univers.
@@ -2106,7 +2106,7 @@ Items/GhormTrophy	Text		Ghorm Figurine	Figurine Ghorm
 Items/GhormTrophyDesc	Text		A lifelike representation of Ghorm the Devourer.	Une représentation réaliste de Ghorm le Dévoreur.
 Items/GhormsStomachBag	Text		Ghorm's Stomach Bag	Sac à ventre de Ghorm
 Items/GhormsStomachBagDesc	Text		A well-preserved stomach portion of the Devourer, comes with a handy strap.	Une portion d'estomac bien conservée du Dévoreur est livrée avec une sangle pratique.
-Items/GhostBlanketBreastArmor	Text		Spooky Blanket Cape	Cape de couverture effrayante
+Items/GhostBlanketBreastArmor	Text		Spooky Blanket Cape	Cape effrayante
 Items/GhostBlanketBreastArmorDesc	Text		Boohooo, behold the dirty bedding!	Boohooo, voici la literie sale!
 Items/GhostBlanketCavelingTrophy	Text		Spookaveling Figurine	Figurine Effrayin
 Items/GhostBlanketCavelingTrophyDesc	Text		A lifelike representation of a Spookaveling.	Une représentation réaliste d'un Effrayin.
@@ -2120,8 +2120,8 @@ Items/GiantMushroom	Text		Giant Mushroom	Champignon Géant
 Items/GiantMushroomDesc	Text		The king of all mushrooms, growing in perfect conditions made it unusually large.	Le roi de tous les champignons, poussant dans des conditions parfaites, l'a rendu exceptionnellement grand.
 Items/GiantSquidEye	Text		Giant Squid Eye	Oeil de calamar géant
 Items/GiantSquidEyeDesc	Text		A sensory organ of a big sea creature. It probably was lost in a fight to death with something even bigger.	Un organe sensoriel d'une grande créature marine. Il a probablement été perdu dans un combat à mort avec quelque chose d'encore plus grand.
-Items/GingerbreadBreastArmor	Text		Gingerbread Top	Haut de pain d'épice
-Items/GingerbreadBreastArmorDesc	Text		A tasty breast armor made from gingerbread, comes with sugar buttons and a fondant bowtie. 	Une savoureuse armure de poitrine en pain d'épice, livrée avec des boutons en sucre et un nœud papillon en fondant.
+Items/GingerbreadBreastArmor	Text		Gingerbread Top	Armure en pain d'épice
+Items/GingerbreadBreastArmorDesc	Text		A tasty breast armor made from gingerbread, comes with sugar buttons and a fondant bowtie. 	Une savoureuse armure en pain d'épice, livrée avec des boutons en sucre et un nœud papillon en fondant.
 Items/GingerbreadChest	Text		Gingerbread House Chest	Coffre de maison en pain d'épice
 Items/GingerbreadChestDesc	Text		A sweet chest made with a sturdy baked body and sugar decor. Perfect to store some seasonal items!	Un joli coffre composé d'un corps cuit au four robuste et d'un décor en sucre. Parfait pour ranger quelques articles de saison!
 Items/GingerbreadHoodHelm	Text		Gingerbread Hood	Capuche en pain d'épice
@@ -2180,7 +2180,7 @@ Items/Goat	Text		Bambuck	Bambuck
 Items/GoatBaby	Text		Bambuck Kid	L'enfant Bambuck
 Items/GoatBabyDesc	Text		Not (yet) as stubborn as its parents, this kid is mostly concerned with charging at butterflies while its oversized ears flop around in the breeze. Truly a heartwarming sight to behold.	Pas (encore) aussi têtu que ses parents, cet enfant se préoccupe surtout de foncer sur les papillons tandis que ses oreilles surdimensionnées flottent au gré de la brise. Un spectacle qui fait chaud au cœur.
 Items/GoatDesc	Text		The fuzzy Bambuck has more wool than patience, which is why it’s quite bold by nature. It doesn’t even see that much, so if it runs into you by accident be easy on it.	Le bambou flou a plus de laine que de patience, c'est pourquoi il est de nature assez audacieuse. Il ne voit même pas beaucoup, alors s'il vous croise par accident, soyez indulgent avec lui.
-Items/GodsentBreastArmor	Text		Godsent King Breast Armor	Armure de poitrine du roi divin
+Items/GodsentBreastArmor	Text		Godsent King Breast Armor	Armure du Roi divin
 Items/GodsentBreastArmorDesc	Text		A unique, royal piece of armor resembling the heart of the state. Golden wings were added to inherit the grace of Azeos. Before it could be used, the kingdom crumbled to dust from the inside.	Une pièce d'armure royale unique représentant le cœur de l'État. Des ailes dorées ont été ajoutées pour hériter de la grâce d'Azeos. Avant qu'il ne puisse être utilisé, le royaume s'est effondré de l'intérieur.
 Items/GodsentHelm	Text		Godsent King Mask	Masque du Roi divin
 Items/GodsentHelmDesc	Text		A unique, royal piece of armor resembling the head of the state, crowning it as a descendant of the gods. It was intended for a future that never came. 	Une pièce d'armure royale unique représentant la tête de l'État, le couronnant en tant que descendant des dieux. Il était destiné à un avenir qui n'est jamais venu.
@@ -2535,8 +2535,8 @@ Items/LarvaBossScanner	Text		Ghorm the Devourer Scanner	Scanneur de Ghorm le Dé
 Items/LarvaBossScannerDesc	Text		Scans the world for Ghorm the Devourer. Consumed on successful scan.	Scanne le monde à la recherche de Ghorm le Dévoreur. Consommé en cas d'analyse réussie.
 Items/LarvaBossSummoningItem	Text		Ghorm Summoning Idol	Idole d'invocation de Ghorm
 Items/LarvaBossSummoningItemDesc	Text		Crystal idol to reawaken Ghorm the Devourer. Consumed upon placing it on Ghorm's summoning rune.	Idole de cristal pour réveiller Ghorm le Dévoreur. Consomme en le plaçant sur la rune d'invocation de Ghorm.
-Items/LarvaBreastArmor	Text		Larva Chest	Coffre de larve
-Items/LarvaBreastArmorDesc	Text		Don't be anything else. Be grub.	Ne soyez rien d'autre. Soyez grub.
+Items/LarvaBreastArmor	Text		Larva Chest	Armure de larve
+Items/LarvaBreastArmorDesc	Text		Don't be anything else. Be grub.	Ne soyez rien d'autre. Soyez un ver.
 Items/LarvaHelm	Text		Larva Helm	Heaume de larve
 Items/LarvaHelmDesc	Text		No need for fancy hats. Just grub.	Pas besoin de chapeaux fantaisie. Juste grignoter.
 Items/LarvaMeat	Text		Larva Meat	Viande de larve
@@ -2559,15 +2559,15 @@ Items/LaserDrillTool	Text		Obliteration Ray	Rayon d'oblitération
 Items/LaserDrillToolDesc	Text		A high energy mining tool that is at the constant limit of bursting. The barely contained laser melts almost anything in its path.	Un outil minier à haute énergie qui est constamment à la limite de l'explosion. Le laser à peine contenu fait fondre presque tout ce qui se trouve sur son passage.
 Items/LavaAxe	Text		Lava Battle Axe	Hache de bataille de lave
 Items/LavaAxeDesc	Text		A smoldering, heavy weapon that looks like it was just taken out of the forge.	Une arme lourde et fumante qui semble sortir tout juste de la forge.
-Items/LavaBreastArmor	Text		Magma Torso Armor	Armure de torse de magma
+Items/LavaBreastArmor	Text		Magma Torso Armor	Armure de Magma
 Items/LavaBreastArmorDesc	Text		This fiery armor is almost too hot to handle but becomes well-tempered when worn.	Cette armure ardente est presque trop chaude pour être manipulée mais devient bien tempérée lorsqu'elle est portée.
 Items/LavaButterfly	Text		Lava Butterfly	Papillon de lave
 Items/LavaButterflyTrophy	Text		Lava Butterfly Figurine	Figurine Papillon de lave
 Items/LavaButterflyTrophyDesc	Text		A lifelike representation of a Lava Butterfly	Une représentation réaliste d'un papillon de lave
-Items/LavaHelm	Text		Magma Horn Armor	Armure de corne de magma
-Items/LavaHelmDesc	Text		A pretty awesome piece of equipment that makes you look like the harbinger of doom.	Un équipement assez impressionnant qui vous fait ressembler à un signe avant-coureur de malheur.
-Items/LavaPantsArmor	Text		Magma Shin Armor	Armure Magma Shin
-Items/LavaPantsArmorDesc	Text		A melting leg armor made from liquid stone, giving hot legs a whole new definition.	Une armure de jambe fondante à base de pierre liquide, donnant aux jambes chaudes une toute nouvelle définition.
+Items/LavaHelm	Text		Magma Horn Armor	Heaume de Magma
+Items/LavaHelmDesc	Text		A pretty awesome piece of equipment that makes you look like the harbinger of doom.	Un équipement assez impressionnant qui vous fait ressembler à un signe avant-coureur du malheur.
+Items/LavaPantsArmor	Text		Magma Shin Armor	Jambières de Magma
+Items/LavaPantsArmorDesc	Text		A melting leg armor made from liquid stone, giving hot legs a whole new definition.	Des jambières fondante à base de pierre liquide, donnant aux jambes chaudes une toute nouvelle définition.
 Items/LavaPost1	Text		Broken Quarry Timber	Bois de carrière cassé
 Items/LavaPost1Desc	Text		One half of a broken wooden construction that seemed to have once held something in place.	La moitié d'une construction en bois cassée qui semblait avoir autrefois maintenu quelque chose en place.
 Items/LavaPost2	Text		Large Quarry Timber	Grand bois de carrière
@@ -2691,7 +2691,7 @@ Items/MimiteTrophy	Text		Mimite Figurine	Figurine de mimite
 Items/MimiteTrophyDesc	Text		A lifelike representation of a Mimite.	Une représentation réaliste d'un Mimite.
 Items/Minecart	Text		Minecart	Chariot
 Items/MinecartDesc	Text		Allows riding the railways.	Permet de rouler sur les chemins de fer.
-Items/MinerBreastArmor	Text		Miner's Labour Suit	Costume de travail de mineur
+Items/MinerBreastArmor	Text		Miner's Labour Suit	Tenue de mineur
 Items/MinerBreastArmorDesc	Text		An airtight zip-up suit for working in deep caverns. The flashy orange makes it official.	Une combinaison hermétique à fermeture éclair pour travailler dans des cavernes profondes. L'orange flashy le rend officiel.
 Items/MinerHelm	Text		Miner's Protective Helm	Heaume protecteur de mineur
 Items/MinerHelmDesc	Text		A handy helm with integrated goggles and a still functioning headlamp.	Un casque pratique avec des lunettes intégrées et une lampe frontale toujours fonctionnelle.
@@ -2724,11 +2724,11 @@ Items/MoldVeinNecklace	Text		Mold Vein Necklace	Collier de veine moisi
 Items/MoldVeinNecklaceDesc	Text		A circle of white organic filaments, it latches onto the skin.	Cercle de filaments organiques blancs, il s'accroche à la peau.
 Items/MoldWell	Text		Mold Well	Puit moisi
 Items/MoldWellDesc	Text		You surely don't want to water your plants with its contents.	Vous ne voulez sûrement pas arroser vos plantes avec son contenu.
-Items/MoldwebBreastArmor	Text		Moldweb Breastplate	Plastron en Moldweb
+Items/MoldwebBreastArmor	Text		Moldweb Breastplate	Plastron moisi
 Items/MoldwebBreastArmorDesc	Text		A chest-piece covered in living mold, hungering for big prey.	Un plastron recouvert de moisissures vivantes, à l'affût de grosses proies.
-Items/MoldwebHelm	Text		Moldweb Helm	Helm en Moldweb
+Items/MoldwebHelm	Text		Moldweb Helm	Heaume moisi
 Items/MoldwebHelmDesc	Text		A head-piece covered in living mold. Its pulse enhances your bodily functions.	Une pièce de tête recouverte de moisissures vivantes. Ses pulsations améliorent vos fonctions corporelles.
-Items/MoldwebPantsArmor	Text		Moldweb Pants	Pantalon en Moldweb
+Items/MoldwebPantsArmor	Text		Moldweb Pants	Jambières moisies
 Items/MoldwebPantsArmorDesc	Text		Legwear covered in living mold. It seems uninterested in feeding on the wearer.	Jambières couvertes de moisissures vivantes. Elle ne semble pas vouloir se nourrir du porteur.
 Items/MoltenButterflyWing	Text		Melting Lava Wing	Aile de lave en fusion
 Items/MoltenButterflyWingDesc	Text		The wing of a lava butterfly, swinging it causes spark to fly off in all directions.	L'aile d'un papillon de lave, en la balançant, fait voler des étincelles dans toutes les directions.
@@ -2849,7 +2849,7 @@ Items/OctopusBossChestDesc	Text		A large, ancient chest crested with gemstones. 
 Items/OctopusBossScanner	Text		Omoroth the Sea Titan Scanner	Scanneur d'Omoroth le titans des mers
 Items/OctopusBossScannerDesc	Text		Scans the world for Omoroth the Sea Titan. Consumed on successful scan.	Scanne le monde à la recherche d'Omoroth le Titan des mers. Consommé en cas d'analyse réussie.
 Items/OctopusBreastArmor	Text		Omoroth's Chestplate	Plastron d'Omoroth
-Items/OctopusBreastArmorDesc	Text		A upper body armor reminiscent of the Sea Titan. There is a sleek cape attached to it.	Une armure du haut du corps rappelant le Sea Titan. Une cape élégante y est attachée.
+Items/OctopusBreastArmorDesc	Text		A upper body armor reminiscent of the Sea Titan. There is a sleek cape attached to it.	Une armure rappelant le Titan des mers. Une cape élégante y est attachée.
 Items/OctopusHelm	Text		Omoroth's Helm	Heaume d'Omoroth
 Items/OctopusHelmDesc	Text		An iron-cast helm with a scary grimace and potruding tentacles. 	Un heaume en fonte avec une grimace effrayante et des tentacules gonflées.
 Items/OctopusPantsArmor	Text		Omoroth's Leg Armor	Jambières d'Omoroth
@@ -2943,7 +2943,7 @@ Items/ParsecPalsDolls	Text		Mysterious Doll Set	Ensemble de poupée mystérieuse
 Items/ParsecPalsDollsDesc	Text		A pair of green dolls wearing clothes, sitting together they look like great pals. 	Une paire de poupées vertes portant des vêtements, assises ensemble, elles ressemblent à de grands amis.
 Items/PearlLantern	Text		Pearl Lantern	Lanterne perlée
 Items/PearlLanternDesc	Text		A shimmering blue pearl in a scallop that illuminates your path above the dark depths of the sea.	Une perle bleue scintillante dans une coquille Saint-Jacques qui illumine votre chemin au-dessus des sombres profondeurs de la mer.
-Items/PeasantBreastArmor	Text		Peasant Chest	Coffre de paysan
+Items/PeasantBreastArmor	Text		Peasant Chest	Tenue de paysan
 Items/PeasantBreastArmorDesc	Text		A simple makeshift armor for the upper body.	Une simple armure de fortune pour le haut du corps.
 Items/PeasantHelm	Text		Peasant Hat	Chapeau de paysan
 Items/PeasantHelmDesc	Text		Simple leather hat, doesn't look that great but does its job.	Chapeau en cuir simple, n'a pas l'air génial mais fait son travail.
@@ -3106,7 +3106,7 @@ Items/PolishedSwiftRingDesc	Text		Wearing this winged ring creates a slight wind
 Items/Portal	Text		Portal	Portail
 Items/PortalDesc	Text		Allows teleporting to other portals that have been placed out. The portal takes 20 minutes to charge up before it can be used once it has been placed.	Permet de se téléporter vers d'autres portails qui ont été placés. Le portail prend 20 minutes à se recharger avant de pouvoir être utilisé une fois qu'il a été placé.
 Items/PotBreastArmor	Text		Pot Tub	Pot en terre
-Items/PotBreastArmorDesc	Text		This brittle clay container is just your size and usually filled with caveling supplies.	Ce récipient en argile friable est à votre taille et est généralement rempli de matériel de caveling.
+Items/PotBreastArmorDesc	Text		This brittle clay container is just your size and usually filled with caveling supplies.	Ce récipient en argile friable est à votre taille et est généralement rempli de matériel de Cavelin.
 Items/PotHelm	Text		Pot Lid	Couvercle de pot en terre
 Items/PotHelmDesc	Text		A heavy clay cover that has partially cracked and doubles down as a funny hat.	A heavy clay cover that has partially cracked and doubles down as a funny hat.
 Items/PottedAlienFlower	Text		Potted Alien Flower	Fleur Alien en pot
@@ -3169,7 +3169,7 @@ Items/RaAkarNecklace	Text		Ra-Akar's Necklace	Collier de Ra-Akar
 Items/RaAkarNecklaceDesc	Text		A necklace of the desert with a strong resemblance of the sand titan. Wearing it grants you additional protection and extra damage.	Un collier du désert avec une forte ressemblance avec le titan des sables. Le porter vous confère une protection supplémentaire et des dégâts supplémentaires.
 Items/RaAkarTrophy	Text		Ra-Akar Figurine	Figurine de Ra-Akar
 Items/RaAkarTrophyDesc	Text		A lifelike representation of Ra-Akar, the Sand Titan.	Une représentation réaliste de Ra-Akar, le Titan des sables.
-Items/RadiationBreastArmor	Text		Hazmat Suit Jacket	Veste de combinaison Hazmat
+Items/RadiationBreastArmor	Text		Hazmat Suit Jacket	Combinaison Hazmat
 Items/RadiationBreastArmorDesc	Text		Whatever the problem is, encountering it behind a protective suit makes it a little less stressful.	Quel que soit le problème, le fait de l'affronter derrière une combinaison de protection le rend un peu moins stressant.
 Items/RadiationCrystal	Text		Radiation Crystal	Cristal radioactifs
 Items/RadiationCrystalDesc	Text		A culmination of radioactive elements that resulted in a glass-like structure.	Une combinaison d'éléments radioactifs qui a donné naissance à une structure semblable à du verre.
@@ -3303,13 +3303,13 @@ Items/SantasLittleHelper	Text		Little Helperling	Petit assistant
 Items/SantasLittleHelperDesc	Text		A fellow caveling that fits in your backpack but wants to be placed down soon because it's eager to work. It will craft presents in exchange for cooked food, give it rare cooked food for higher quality! 	Un camarade cavelin qui tient dans votre sac à dos mais qui veut être déposé bientôt parce qu'il a hâte de travailler. Il fabriquera des cadeaux en échange de plats cuisinés, donnez-lui des plats cuisinés rares pour une meilleure qualité!
 Items/ScarabBossScanner	Text		Ra-Akar the Sand Titan Scanner	Scanneur de Ra-Akar le titans de sable
 Items/ScarabBossScannerDesc	Text		Scans the world for Ra-Akar the Sand Titan. Consumed on successful scan.	Scanne le monde à la recherche de Ra-Akar le Titan des sables. Consommé en cas d'analyse réussie.
-Items/ScarabBreastArmor	Text		Scarab Harness	Harnais Scarabée
-Items/ScarabBreastArmorDesc	Text		A masterfully crafted upper body armor to endure the dangers of the desert.	Une armure du haut du corps magistralement conçue pour endurer les dangers du désert.
-Items/ScarabHelm	Text		Scarab Visor	Visière Scarabée
+Items/ScarabBreastArmor	Text		Scarab Harness	Plastron Scarabée
+Items/ScarabBreastArmorDesc	Text		A masterfully crafted upper body armor to endure the dangers of the desert.	Une armure magistralement conçue pour endurer les dangers du désert.
+Items/ScarabHelm	Text		Scarab Visor	Casque Scarabée
 Items/ScarabHelmDesc	Text		A helm made in the design of Ra-Akar, casting its central eye on your enemies.	Un casque conçu selon le design de Ra-Akar, jetant son œil central sur vos ennemis.
 Items/ScarabMortar	Text		Bomb Scarab Mortar	Bombe Mortier Scarabée
 Items/ScarabMortarDesc	Text		A powerful weapon launching explosive projectiles that resemble the center eye of a bomb scarab.	Une arme puissante lançant des projectiles explosifs qui ressemblent à l'œil central d'un scarabée explosif.
-Items/ScarabPantsArmor	Text		Scarab Legs	Jambières scarabée
+Items/ScarabPantsArmor	Text		Scarab Legs	Jambières Scarabées
 Items/ScarabPantsArmorDesc	Text		A lower body armor mimicking the properties of desert critters.	Une armure inférieure imitant les propriétés des créatures du désert.
 Items/ScarabWingcover	Text		Scarab Wingcover	Couvre-aile de scarabée
 Items/ScarabWingcoverDesc	Text		The wing carapace of a Bomb Scarab resembling half a skull. 	La carapace d'aile d'un scarabée bombe ressemblant à un demi-crâne.
@@ -3350,7 +3350,7 @@ Items/ScarletMiningPickDesc	Text		A great tool for breaking down extremely hard 
 Items/ScarletOre	Text		Scarlet Ore	Minerai de Scarlet
 Items/ScarletOreBoulder	Text		Scarlet Ore Boulder	Bloc de Scarlet
 Items/ScarletOreDesc	Text		Scarlet ore commonly found in grass walls.	Minerai de Scarlet couramment trouvé dans les murs d'herbe.
-Items/ScarletPantsArmor	Text		Scarlet Pants	Pantalon en Scarlet
+Items/ScarletPantsArmor	Text		Scarlet Pants	Jambières en Scarlet
 Items/ScarletPantsArmorDesc	Text		March through your enemies and don't look back.	Traversez vos ennemis et ne regardez pas en arrière.
 Items/ScarletShellBackpack	Text		Scarlet Shell Backpack	Sac à dos carapace en Scarlet
 Items/ScarletShellBackpackDesc	Text		A hard-case backpack with lots of space and additional protection. 	Un sac à dos rigide avec beaucoup d'espace et une protection supplémentaire.
@@ -3436,13 +3436,13 @@ Items/SlimeBossCrystal	Text		Glurch Eye	Oeil de Glurch
 Items/SlimeBossCrystalDesc	Text		A bulbous gemstone that fused many slimes together into a giant one.	Une gemme bulbeuse qui a fusionné de nombreux slimes en un géant.
 Items/SlimeBossSummoningItem	Text		Giant Slime Summoning Idol	Idole d'invocation de Slime géant
 Items/SlimeBossSummoningItemDesc	Text		Crystal idol to reawaken a Giant Slime. Consumed upon placing it on any Giant Slime summoning rune.	Idole de cristal pour réveiller un Giant Slime. Consomme en le plaçant sur n'importe quelle rune d'invocation Giant Slime.
-Items/SlimeBreastArmor	Text		Slime Armor	Armure visqueuse
-Items/SlimeBreastArmorDesc	Text		A gelatinous upper body armor that looks like someone dumped a bucket of goo onto you. 	Une armure gélatineuse pour le haut du corps qui ressemble à quelqu'un qui vous a jeté un seau de glu.
+Items/SlimeBreastArmor	Text		Slime Armor	Armure de Slime
+Items/SlimeBreastArmorDesc	Text		A gelatinous upper body armor that looks like someone dumped a bucket of goo onto you. 	Une armure gélatineuse, on dirait qu'on vous a jeté dessus un seau de glue.
 Items/SlimeDesc	Text		An orange blob of slime. Can be further processed.	Une goutte de slime orange. Peut être traité ultérieurement.
 Items/SlimeDestructLarge	Text		Large Slime Vessel	Grand Récipient de slime
 Items/SlimeDestructMedium	Text		Medium Slime Vessel	Récipient de Slime moyen
 Items/SlimeDestructSmall	Text		Small Slime Vessel	Petit Récipient de slime
-Items/SlimeHelm	Text		Slime Helm	Heaume visqueux
+Items/SlimeHelm	Text		Slime Helm	Heaume de Slime
 Items/SlimeHelmDesc	Text		A gooey, constantly dripping helm that covers half of your face.	Un heaume gluant et constamment dégoulinant qui couvre la moitié de votre visage.
 Items/SlimeMerchant	Text		Bearded Merchant	Marchand barbu
 Items/SlimeOil	Text		Slime Oil	Huile visqueuse
@@ -3562,7 +3562,7 @@ Items/StoneStalagmiteDesc	Text		A stone pillar slowly raised over thousands of y
 Items/StoneskinPotion	Text		Stoneskin Potion	Potion de peau de pierre
 Items/StoneskinPotionDesc	Text		A salty elixir that hardens your skin and makes you more resilient.	Un élixir salé qui durcit votre peau et vous rend plus résistant.
 Items/SuitBreastArmor	Text		Suit Jacket	Veste de costume
-Items/SuitBreastArmorDesc	Text		The elegant jacket has a stuck-on rose and is perfect for a romantic dinner. Remember to show up on time.	La veste élégante a une rose collée et est parfaite pour un dîner romantique. N'oubliez pas de vous présenter à l'heure.
+Items/SuitBreastArmorDesc	Text		The elegant jacket has a stuck-on rose and is perfect for a romantic dinner. Remember to show up on time.	Cette veste élégante a une rose collée et est parfaite pour un dîner romantique. N'oubliez pas de vous présenter à l'heure.
 Items/SuitHelm	Text		Top Hat	Haut-de-forme
 Items/SuitHelmDesc	Text		This hat is worn by everyone who considers themself an admirable adventurer equipped with a captivating charisma.	Ce chapeau est porté par tous ceux qui se considèrent comme un aventurier admirable doté d'un charisme captivant.
 Items/SuitPantsArmor	Text		Suit Pants	Pantalon de costume
@@ -3609,8 +3609,8 @@ Items/TallGrass	Text		Tall Grass	Hautes herbes
 Items/TallGrassDesc	Text		A large patch of tall grass to use as a decorative.	Une grande parcelle d'herbes hautes à utiliser comme décoration.
 Items/TallLandKelp	Text		Tall Land Kelp	Algue des hautes terres
 Items/TallLandKelpDesc	Text		A large type of kelp that can grow outside of water.	Un grand type de varech qui peut pousser hors de l'eau.
-Items/TamerBreastArmor	Text		Wildwarden Pauldrons	plastron du gardien de la nature
-Items/TamerBreastArmorDesc	Text		This wooden chest-piece is wrapped in a bundle of mysteriously unwithering leaves.	Ce coffre en bois est enveloppé d'un paquet de feuilles mystérieuses.
+Items/TamerBreastArmor	Text		Wildwarden Pauldrons	Plastron du Gardien de la nature
+Items/TamerBreastArmorDesc	Text		This wooden chest-piece is wrapped in a bundle of mysteriously unwithering leaves.	Cette armure en bois est enveloppée de feuilles mystérieuses.
 Items/TamerHelm	Text		Wildwarden Mask	Masque du gardien de la nature
 Items/TamerHelmDesc	Text		A wooden mask with decorative leaves and horns attuned to the wildlife.	Un masque en bois avec des feuilles décoratives et des cornes en harmonie avec la faune.
 Items/TamerNecklace	Text		Wildwarden Necklace	Collier du gardien de la nature
@@ -3711,7 +3711,7 @@ Items/TowelBreastArmor	Text		Towel	Serviette
 Items/TowelBreastArmorDesc	Text		A towel is about the most massively useful thing an underground miner can have.	Une serviette est à peu près la chose la plus massivement utile qu'un mineur souterrain puisse avoir.
 Items/TowerShellNecklace	Text		Tower Shell Necklace	Collier en forme de tour de coquillage
 Items/TowerShellNecklaceDesc	Text		A necklace featuring a coiling shell. Its ever turning spiral structure is captivating.	Un collier composé d'un coquillage enroulé. Sa structure en spirale, qui tourne sans cesse, est captivante.
-Items/TrenchcoatBreastArmor	Text		Trenchcoat	Trenchcoat
+Items/TrenchcoatBreastArmor	Text		Trenchcoat	Long manteau
 Items/TrenchcoatBreastArmorDesc	Text		A coat with deep pockets fit for a hoggish, dodgy fancier.	Un manteau avec des poches profondes, digne d'un colombophile hargneux et douteux.
 Items/TriangleTrinket	Text		Triangle Trinket	Bibelot en Triangle
 Items/TriangleTrinketDesc	Text		A strange gold piece vibrating with energy.	Une étrange pièce d'or vibrant d'énergie.
@@ -3870,7 +3870,7 @@ Items/WonkyMinecartDesc	Text		Allows riding the railways.	Permet de rouler sur l
 Items/Wood	Text		Wood	Bois
 Items/WoodBow	Text		Wood Bow	Arc en bois
 Items/WoodBowDesc	Text		A crude bow to shoot foes from afar.	Un arc rudimentaire pour tirer sur les ennemis de loin.
-Items/WoodBreastArmor	Text		Wood Chest	Coffre en bois
+Items/WoodBreastArmor	Text		Wood Chest	Armure en bois
 Items/WoodBreastArmorDesc	Text		Very crude armor for the upper body. Offers minor protection.	Armure très grossière pour le haut du corps. Offre une protection mineure.
 Items/WoodBridge	Text		Wood Bridge	Pont en bois
 Items/WoodBridgeDesc	Text		Used to cross chasms and water but also makes for a nice floor.	Utilisé pour traverser les gouffres et l'eau mais fait aussi un beau sol.
@@ -4533,7 +4533,7 @@ pantsSlot	Text		Pants slot	Emplacement de jambières
 parry	Text		parry	parer
 pauseWorldOptionDesc	Text		Pausing the world will stop creatures and objects from moving or doing any actions. Water spreading is also paused. This can only be toggled by admins.	La mise en pause du monde empêche les créatures et les objets de se déplacer ou d'effectuer des actions. L'épandage d'eau est également mis en pause. Cette fonction ne peut être utilisée que par les Administrateurs.
 paused	Text		Game Paused	Jeu en pause
-permanentWhenEaten	Text	Shown above list of buffs gained from eating food	Permanent when eaten:	Permanente lorsqu'elle est consommée:
+permanentWhenEaten	Text	Shown above list of buffs gained from eating food	Permanent when eaten:	Effet permanent lorsque consommé:
 petCandy	Text		Use: Feed this to your pet to boost its experience by {0}.	Utiliser: Nourrissez votre familier pour augmenter son expérience de {0}.
 petEgg	Text		Hatchable	À faire éclore
 petInfo	Text		Pet info	Informations du familier
