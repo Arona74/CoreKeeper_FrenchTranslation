@@ -122,10 +122,13 @@ AchievementsUnlockedDescription/TalkToBigLarva	Text		Talked to a Big Larva	Vous 
 Advanced	Text		Advanced	Avancé
 AvailableInEarlyAccess	Text		Will be available at Early Access launch	Sera disponible au lancement de l'accès anticipé
 BetaVersion	Text	{0} will be replaced by the version number	{0} Beta Version	{0} Version bêta
-BiomeNames/Crystal	Text		The Shimmering Frontier	La frontière scintillante
-BiomeNames/Desert	Text		The Desert of Beginnings	Le Désert du Commencements
+BiomeNames/Crystal	Text		The Shimmering Frontier	La Frontière Scintillante
+BiomeNames/Desert	Text		The Desert of Beginnings	Le Désert des Origines
+BiomeNames/Great Wall	Text		Great Wall	Grand Mur
 BiomeNames/Larva	Text		The Clay Caves	Les Grottes d'Argile
 BiomeNames/Nature	Text		Azeos' Wilderness	La Forêt d'Azeos
+BiomeNames/None	Text		Unknown	Inconnu
+BiomeNames/Obsidian	Text		Unknown	Inconnu
 BiomeNames/Sea	Text		The Sunken Sea	La Mer Engloutie
 BiomeNames/Slime	Text		The Undergrounds	Les Souterrains
 BiomeNames/Stone	Text		The Forgotten Ruins	Les Ruines Oubliées
@@ -395,14 +398,14 @@ Conditions/StackedCritChance	Text		{0}% critical hit chance	{0}% de chances de c
 Conditions/StarvingDamageDecrease	Text		{0}% reduced damage from starving	{0}% de réduction des dégâts causés car vous etes affamé
 Conditions/StarvingHealthDecrease	Text		{0}% reduced max health from starving	{0}% de réduction de la santé maximale car vous etes affamé
 Conditions/StarvingMovementSpeedDecrease	Text		{0}% movement speed from starving	{0}% de vitesse de déplacement car vous etes affamé
-Conditions/StrongerWellFedBuffs	Text		Well fed buffs are {0}% stronger	Les effets "Bien nourri" sont {0}% plus forts
+Conditions/StrongerWellFedBuffs	Text		Well fed buffs are {0}% stronger	"Les effets ""Bien nourri"" sont {0}% plus forts"
 Conditions/Stunned	Text		Stunned	Étourdi
 Conditions/Suffocating	Text		Suffocating	Suffocant
 Conditions/ThornsDamage	Text		{0} thorns damage	{0} dégâts d'épines
 Conditions/ThornsDamageAddedToMeleeAndRange	Text		Your thorns damage is added to your melee and range damage	Vos dégâts d'épines sont ajoutés à vos dégâts de mêlée et à distance
 Conditions/ToolDurabilityLastsLonger	Text		{0}% chance to not lose durability when using tools and weapons	{0}% de chances de ne pas perdre de durabilité lors de l'utilisation d'outils et d'armes
 Conditions/VisibleOreDistanceIncrease	Text		{0} tiles visible ore distance	Augmentation de la distance de visibilité des minerais de {0} cases
-Conditions/WellFedBuffsThresholdReduction	Text		Well fed buffs are gained at {0}% lower food	Les effets "Bien nourri" sont obtenus avec {0}% de nourriture en moins
+Conditions/WellFedBuffsThresholdReduction	Text		Well fed buffs are gained at {0}% lower food	"Les effets ""Bien nourri"" sont obtenus avec {0}% de nourriture en moins"
 Conditions/WellFedDamageIncrease	Text		{0}% increased damage from being well fed	{0}% d'Augmentation des dégâts due au fait d'être bien nourri
 Conditions/WellFedHealthIncrease	Text		{0}% increased max health from being well fed	{0}% d'augmentation de la santé maximale due au fait d'être bien nourri
 Conditions/WellFedMovementSpeedIncrease	Text		{0}% movement speed from being well fed	{0}% de vitesse de déplacement due au fait d'être bien nourri
@@ -570,6 +573,7 @@ Credits/AssociateProducer	Text		Associate Producer	Associate Producer
 Credits/AssociateProductManager	Text		Associate Product Manager	Associate Product Manager
 Credits/CEO	Text		CEO	CEO
 Credits/COO	Text		COO	COO
+Credits/ChiefAcquisitionsProductionOfficer	Text		Chief Acquisitions & Production Officer	
 Credits/CommunityManager	Text		Community Manager	Gestionnaire de communauté
 Credits/CompatibilityTesting	Text		Compatibility testing	Test de compatibilité
 Credits/CoreKeeper	Text		Core Keeper	Core Keeper
@@ -587,6 +591,7 @@ Credits/HeadofProductMarketing	Text		Head of Product Marketing	Head of Product M
 Credits/LeadAnimator	Text		Lead Animator	Lead Animator
 Credits/LeadAnimators	Text		Lead Animators	Lead Animators
 Credits/LeadArtist	Text		Lead Artist	Lead Artist
+Credits/LeadAssociateProducer	Text		Lead Associate Producer	
 Credits/LeadRenderingProgrammer	Text		Lead Rendering Programmer	Lead Rendering Programmer
 Credits/Localisation	Text		Localisation	Localisation
 Credits/MarketingDirector	Text		Marketing Director	Marketing Director
@@ -602,6 +607,7 @@ Credits/ProductionDirector	Text		Production Director	Production Director
 Credits/ProductionSupport	Text		Production Support	Production Support
 Credits/Programming	Text		Programming	Développement
 Credits/PublishedBy	Text		Published by	Edité par
+Credits/QualityAssuranceCoordinator	Text		Quality Assurance Coordinator	
 Credits/ReleaseManager	Text		Release Manager	Release Manager
 Credits/SFX	Text		SFX	SFX
 Credits/SalesDirector	Text		Sales Director	Sales Director
@@ -615,9 +621,11 @@ Credits/SocialMediaAndCommunityManager	Text		Social Media and Community Manager	
 Credits/SpecialThanks	Text		Special thanks	Remerciements spéciaux
 Credits/TechnicalDirector	Text		Technical Director	Technical Director
 Credits/ThaiFont	Text		Thai font	Thai font
+Credits/ThanksForPlaying	Text		Thanks for playing!	
 Credits/UserTesting	Text		User testing	User testing
 Credits/Writing	Text		Writing	Texte
 CreditsNames/ACE	Text		ACE Agency	ACE Agency
+CreditsNames/AlexanderMa	Text		Alexander Ma	
 CreditsNames/AndreeaSandu	Text		Andreea Sandu	Andreea Sandu
 CreditsNames/AzurDawn	Text		AzurDawn	AzurDawn
 CreditsNames/Beach	Text		Beach	Beach
@@ -654,6 +662,7 @@ CreditsNames/KeywordsIndia	Text		Keywords India	Keywords India
 CreditsNames/Kittco36	Text		Kittco36	Kittco36
 CreditsNames/LeeOni	Text		Lee~ (Oni)	Lee~ (Oni)
 CreditsNames/LetTheBodyFall	Text		LetTheBodyFall	LetTheBodyFall
+CreditsNames/MarianaChagas	Text		Mariana Chagas	
 CreditsNames/MarkInman	Text		Mark Inman	Mark Inman
 CreditsNames/MaxHallden	Text		Max Halldén	Max Halldén
 CreditsNames/MegSpencer	Text		Meg Spencer	Meg Spencer
@@ -670,6 +679,7 @@ CreditsNames/RasmusJarvela	Text		Rasmus Järvelä	Rasmus Järvelä
 CreditsNames/RicardoCruzFarah	Text		Ricardo Cruz Farah	Ricardo Cruz Farah
 CreditsNames/RobinForsstrom	Text		Robin Forsström	Robin Forsström
 CreditsNames/SamMckie	Text		Sam Mckie	Sam Mckie
+CreditsNames/SamuelSekandagu	Text		Samuel Sekandagu	
 CreditsNames/SarahHoeksma	Text		Sarah Hoeksma	Sarah Hoeksma
 CreditsNames/SeanCampbell	Text		Sean Campbell	Sean Campbell
 CreditsNames/SoulWade	Text		Soul Wade	Soul Wade
@@ -726,7 +736,7 @@ Emotes/Questionmark	Text		?	?
 Emotes/ShouldPlaceHandOnWall	Text		I should place my hand on the wall	Je devrais poser ma main sur le mur
 Emotes/StomachFull	Text		My stomach is too full	Mon estomac est trop plein
 Emotes/StopHurtingMe	Text		Stop hurting me!	Arrête de me faire du mal!
-Emotes/TheAncientForge	Text	Quotes around it cause player character is reading it	"""The Ancient Forge"""	"""L'Ancienne Forge"""
+Emotes/TheAncientForge	Text	Quotes around it cause player character is reading it	"""The Ancient Forge"""	"""""L'Ancienne Forge"""""
 Emotes/TheFishArentBiting	Text		The fish aren't biting	Les poissons ne mordent pas
 Emotes/ThisIsNotMyBed	Text		This is not my bed	Ce n'est pas mon lit
 Emotes/ThisWillTakeAWhile	Text		This will take a while...	Cela va prendre un certain temps...
@@ -1097,10 +1107,11 @@ ItemCategory/Other_Recipe	Text		Recipe	Recettes
 ItemCategory/Other_Seed	Text		Seed	Graines
 ItemCategory/Seasonal	Text		Seasonal	Saisonnier
 ItemCategory/Seasonal_Anniversary	Text		Anniversary	Anniversaire
-ItemCategory/Seasonal_CherryBlossom	Text		Cherry blossom	Fleurs de cerisier
+ItemCategory/Seasonal_CherryBlossom	Text		Cherry blossom	Floraison des cerisiers
 ItemCategory/Seasonal_Christmas	Text		Christmas	Noël
 ItemCategory/Seasonal_Easter	Text		Easter	Pâques
 ItemCategory/Seasonal_Halloween	Text		Halloween	Halloween
+ItemCategory/Seasonal_Lunar	Text		Nouvel an lunaire	
 ItemCategory/Seasonal_Valentine	Text		Valentine	Saint-Valentin
 ItemCategory/Technology	Text		Technology	Technologie
 ItemCategory/Technology_Automation	Text		Automation	Automatisation
@@ -1297,11 +1308,11 @@ Items/Bed	Text		Bed	Lit
 Items/BedDesc	Text		A place to sleep. Also allows friendly inhabitants to move in if placed in a room to their liking.	Un endroit pour dormir. Permet également aux habitants amis d'emménager s'ils sont placés dans une pièce à leur goût.
 Items/BentFork	Text		Bent Fork	Fourche tordue
 Items/BentForkDesc	Text		A simple fork that has seen too much use.	Une fourchette simple qui a trop servi.
-Items/BigFloorTileCaveling	Text		"Stone tile ""Cavelings"""	Carrelage en pierre ""Cavelin""
+Items/BigFloorTileCaveling	Text		"Stone tile ""Cavelings"""	"Carrelage en pierre ""Cavelin"""
 Items/BigFloorTileCavelingDesc	Text		A giant stone tile decorated with a deep blue glass. It depicts a gathering of cavelings.	Un carreau de pierre géant orné d'un verre bleu profond. Il représente un rassemblement de cavelin.
-Items/BigFloorTileGemstone	Text		"Stone tile ""Gemstone"""	Carrelage en pierre ""Pierre précieuse""
+Items/BigFloorTileGemstone	Text		"Stone tile ""Gemstone"""	"Carrelage en pierre ""Pierre précieuse"""
 Items/BigFloorTileGemstoneDesc	Text		A giant stone tile decorated with a deep blue glass. It depicts a glowing gemstone.	Un carreau de pierre géant orné d'un verre bleu profond. Il représente une pierre précieuse incandescente.
-Items/BigFloorTileScholar	Text		"Stone tile ""Scholar"""	Carrelage en pierre ""Érudit""
+Items/BigFloorTileScholar	Text		"Stone tile ""Scholar"""	"Carrelage en pierre ""Érudit"""
 Items/BigFloorTileScholarDesc	Text		A giant stone tile decorated with a deep blue glass. It depicts a robed caveling.	Un carreau de pierre géant orné d'un verre bleu profond. Il représente un cavelin en robe.
 Items/BigLarva	Text		Big Larva	Grande Larve
 Items/BigLarvaTrophy	Text		Big Larva Figurine	Figurine de Grande Larve
@@ -1351,7 +1362,7 @@ Items/BlueCaveGuppyDesc	Text		Small, blue fish home to the dirt cave lakes.	Peti
 Items/BlueFireFly	Text		Blue Glowbug	Luciole bleue
 Items/BlueFireFlyDesc	Text		This flying bug always appears in swarms which appear as dancing lights. Its blue glow is biome-specific.	Cet insecte volant apparaît toujours en essaims qui apparaissent comme des lumières dansantes. Sa lueur bleue est spécifique au biome.
 Items/BlueGlassKalimba	Text		Blue Glass Kalimba	Kalimba en verre bleu
-Items/BlueGlassKalimbaDesc	Text		"A delicate instrument that has multiple fractures across its surface, rendering it unusable. There is a signature reading ""Woopsiee"", that has been carved into the glass."	"Un instrument délicat qui présente de multiples fractures sur sa surface, le rendant inutilisable. Il y a une signature indiquant ""Oups"", qui a été gravée dans le verre."
+Items/BlueGlassKalimbaDesc	Text		"A delicate instrument that has multiple fractures across its surface, rendering it unusable. There is a signature reading ""Woopsiee"", that has been carved into the glass."	"""Un instrument délicat qui présente de multiples fractures sur sa surface, le rendant inutilisable. Il y a une signature indiquant ""Oups"", qui a été gravée dans le verre."""
 Items/BlueGlassShard	Text		Blue Glass Shard	Éclat de verre bleu
 Items/BlueGlassShardDesc	Text		A piece of deep blue glass, it appears to be a fusion of molten sand and ancient gemstones. 	Un morceau de verre bleu profond, il semble être une fusion de sable en fusion et de pierres précieuses anciennes.
 Items/BlueKelp	Text		Blue Kelp	Algue bleu
@@ -1555,6 +1566,16 @@ Items/ChemicalRation	Text		Chemical Ration	Ration chimique
 Items/ChemicalRationDesc	Text		This box contains a strange, synthetic food source that doesn't appear safe for human consumption.	Cette boîte contient une étrange source alimentaire synthétique qui ne semble pas sûre pour la consommation humaine.
 Items/ChewyConeCandy	Text		Chewy Cone Candy	Bonbons à mâcher
 Items/ChewyConeCandyDesc	Text		A super sweet candy that ends up in the gap of your teeth. And it's there to stay.	Un bonbon super sucré qui se retrouve dans l'espace de vos dents. Et il est là pour rester.
+Items/ChineseCoin	Text		Lucky Coin	Pièce porte-bonheur
+Items/ChineseCoinDesc	Text		While this golden coin holds many favorable meanings, the most important one is that it can be spent at a certain merchant.	Bien que cette pièce d'or ait de nombreuses significations favorables, la plus importante est qu'elle peut être dépensée chez un certain marchand.
+Items/ChineseGuardianLion	Text		Guardian Beast Statue	Statue de la bête gardienne
+Items/ChineseGuardianLionDesc	Text		An imposing monument to be placed in front of entrances, meant to keep figures with ill intent away.	Un monument imposant à placer devant les entrées, destiné à éloigner les personnes mal intentionnées.
+Items/ChineseKnot	Text		Mystic Knot Tassel	Charme porte-bonheur
+Items/ChineseKnotDesc	Text		Woven from woolen string, this decoration symbolizes good luck, prosperity and abundance.	Tissé à partir d'un fil de laine, cette décoration symbolise la chance, la prospérité et l'abondance.
+Items/ChineseLantern	Text		Paper Lantern	Lanterne en papier
+Items/ChineseLanternDesc	Text		A cozy light that can create a warm atmosphere in any room. It even comes in different colors.	Une lampe qui peut créer une atmosphère chaleureuse dans n'importe quelle pièce. Elle existe même en différentes couleurs.
+Items/ChineseWallLantern	Text		Wall Paper Lantern	Décoration murale lanternes en papier
+Items/ChineseWallLanternDesc	Text		A set of small lanterns that go nicely on the walls. Just like their bigger counterparts, they exist in many different colors.	Ensemble de petites lanternes murales. Elles existent aussi en différentes couleurs.
 Items/ChippedPlate	Text		Chipped Plate	Assiette ébréchée
 Items/ChippedPlateDesc	Text		An old stone plate. What kind of food has been served on it?	Une ancienne assiette en pierre. Quel type de nourriture y a-t-il servi?
 Items/ChristmasBruteTrophy	Text		Bakery Brute Figurine	Figurine de brute boulanger
@@ -1867,6 +1888,8 @@ Items/DiverRing	Text		Goldfish Ring	Anneau de poisson rouge
 Items/DiverRingDesc	Text		A quite lively little ring that tries to swim off of your finger. By the time it realizes it's merely a ring it has already forgot about it again.	Une petite bague très vivante qui essaie de se détacher de votre doigt en nageant. Le temps qu'elle se rende compte que ce n'est qu'une bague, elle l'a déjà oubliée.
 Items/DoubleRing	Text		Double Ring	Double Anneau
 Items/DoubleRingDesc	Text		This ring is made to be put an two fingers at the same time. Revolutionary.	Cette bague est faite pour être posée sur deux doigts en même temps. Révolutionnaire.
+Items/DragonMaskHelm	Text		Dragon Mask	Masque de dragon
+Items/DragonMaskHelmDesc	Text		An intimidating but well-meaning mask that invokes the spirit of mythological dragons.	Un masque intimidant qui apporte force et bonne fortune. Il évoque l'esprit des dragons mythologiques.
 Items/Dresser	Text		Dresser	Commode
 Items/DresserDesc	Text		Allows changing the equipment shown on your character.	Permet de changer l'équipement affiché sur votre personnage.
 Items/DriftwoodStool	Text		Driftwood Stool	Tabouret en bois flotté
@@ -2138,7 +2161,7 @@ Items/GlassFloor	Text		Glass Floor	Sol en verre
 Items/GlassFloorDesc	Text		A see-through tile to provide a crystal-clear vision of the ground underneath.	Une dalle transparente qui offre une vision cristalline du sol sous-jacent.
 Items/GlassSmelter	Text		Glass Smelter	Four à verre
 Items/GlassSmelterDesc	Text		This handy furnace can turn any sand block into useful glass. 	Ce four pratique permet de transformer n'importe quel bloc de sable en verre.
-Items/GlassStatuePrism	Text		"Glass Statue ""Octahedron"""	Statue en verre ""Octaèdre""
+Items/GlassStatuePrism	Text		"Glass Statue ""Octahedron"""	"Statue en verre ""Octaèdre"""
 Items/GlassStatuePrismDesc	Text		This bold statue serves as an art piece that puts the shiny properties of glass on display.	Cette statue audacieuse est une œuvre d'art qui met en valeur les propriétés brillantes du verre.
 Items/GlassWorkbench	Text		Glass Workbench	Établi en verre
 Items/GlassWorkbenchDesc	Text		This workbench makes it possible to form glass into more advanced objects to add to your base. 	Cet établi permet de façonner le verre pour en faire des objets plus évolués à ajouter à votre base.
@@ -2874,23 +2897,23 @@ Items/OmorothTrophy	Text		Omoroth Figurine	Figurine d'Omoroth
 Items/OmorothTrophyDesc	Text		A lifelike representation of Omoroth, the Sea Titan.	Une représentation réaliste d'Omoroth, le Titan des mers.
 Items/OpabiniaFossil	Text		Opabinia Fossil	Fossile Opabinia
 Items/OpabiniaFossilDesc	Text		The petrified body of an prehistoric sea critter. They were one of the first apex predators to appear in the ancient oceans of earth.	Le corps pétrifié d'une créature marine préhistorique. Ils ont été l'un des premiers prédateurs au sommet à apparaître dans les anciens océans de la terre.
-Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	Carte de l'Oracle "Éclat"
+Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	"Carte de l'Oracle ""Éclat"""
 Items/OracleCardAzeosDesc	Text		A scratched card with golden borders and an image of the sky titan. Looks like it's part of a set.	Une carte abîmée avec des bordures dorées et une image du titan du ciel. On dirait qu'elle fait partie d'un ensemble.
-Items/OracleCardCity	Text		"Oracle Card ""Metropolis"""	Carte de l'Oracle "Métropole"
+Items/OracleCardCity	Text		"Oracle Card ""Metropolis"""	"Carte de l'Oracle ""Métropole"""
 Items/OracleCardCityDesc	Text		A card in mint condition with golden borders and an image of an ancient city. Looks like it's part of a set.	Une carte en parfait état avec des bordures dorées et une image d'une ville antique. On dirait qu'elle fait partie d'un ensemble.
-Items/OracleCardCore	Text		"Oracle Card ""Entity"""	Carte de l'Oracle "Entité"
+Items/OracleCardCore	Text		"Oracle Card ""Entity"""	"Carte de l'Oracle ""Entité"""
 Items/OracleCardCoreDesc	Text		A bent card with golden borders and an image of the core. Looks like it's part of a set.	Une carte pliée avec des bordures dorées et une image du noyau. On dirait qu'elle fait partie d'un ensemble.
-Items/OracleCardFlower	Text		"Oracle Card ""Brilliance"""	Carte de l'Oracle "Brillance"
+Items/OracleCardFlower	Text		"Oracle Card ""Brilliance"""	"Carte de l'Oracle ""Brillance"""
 Items/OracleCardFlowerDesc	Text		A charred card with golden borders and an image of a Glow Tulip. Looks like it's part of a set.	Une carte carbonisée avec des bordures dorées et une image d'une tulipe lumineuse. On dirait qu'elle fait partie d'un ensemble.
-Items/OracleCardGem	Text		"Oracle Card ""Aura"""	Carte de l'Oracle "Aura"
+Items/OracleCardGem	Text		"Oracle Card ""Aura"""	"Carte de l'Oracle ""Aura"""
 Items/OracleCardGemDesc	Text		A ripped card with golden borders and an image of an ancient gemstone. Looks like it's part of a set.	Une carte déchirée avec des bordures dorées et une image d'une pierre précieuse ancienne. On dirait qu'elle fait partie d'un ensemble.
-Items/OracleCardLeader	Text		"Oracle Card ""Inspiration"""	Carte de l'Oracle "Inspiration"
+Items/OracleCardLeader	Text		"Oracle Card ""Inspiration"""	"Carte de l'Oracle ""Inspiration"""
 Items/OracleCardLeaderDesc	Text		Half of a card with golden borders and an image of a golden mask. Looks like it's part of a set.	La moitié d'une carte avec des bordures dorées et une image d'un masque doré. On dirait qu'elle fait partie d'un ensemble.
-Items/OracleCardOmoroth	Text		"Oracle Card ""Temperance"""	Carte de l'Oracle "Tempérance"
+Items/OracleCardOmoroth	Text		"Oracle Card ""Temperance"""	"Carte de l'Oracle ""Tempérance"""
 Items/OracleCardOmorothDesc	Text		A faded card with golden borders and an image of the sea titan. Looks like it's part of a set.	Une carte délavée avec des bordures dorées et une image du titan des mers. On dirait qu'elle fait partie d'un ensemble.
-Items/OracleCardRaAkar	Text		"Oracle Card ""Endurance"""	Carte de l'Oracle "Endurance"
+Items/OracleCardRaAkar	Text		"Oracle Card ""Endurance"""	"Carte de l'Oracle ""Endurance"""
 Items/OracleCardRaAkarDesc	Text		A crumbling card with golden borders and an image of the sand titan. Looks like it's part of a set.	Une carte en ruine avec des bordures dorées et une image du titan des sables. On dirait qu'elle fait partie d'un ensemble.
-Items/OracleCardScholar	Text		"Oracle Card ""Wisdom"""	Carte de l'Oracle "Sagesse"
+Items/OracleCardScholar	Text		"Oracle Card ""Wisdom"""	"Carte de l'Oracle ""Sagesse"""
 Items/OracleCardScholarDesc	Text		A soaked card with golden borders and an image of a caveling scholar. Looks like it's part of a set.	Une carte imbibée avec des bordures dorées et une image d'un érudit cavelin. On dirait qu'elle fait partie d'un ensemble.
 Items/OracleDeck	Text		Oracle Deck	Deck de l'Oracle
 Items/OracleDeckDesc	Text		The complete set of oracle cards. Bringing them together strangely restored the cards to perfect condition and now they emit a powerful, enlightening aura.	Le jeu complet des cartes de l'Oracle. Le fait de les réunir a étrangement remis les cartes en parfait état et elles émettent désormais une aura puissante et éclairante.
@@ -3040,7 +3063,7 @@ Items/PinegrappleSeedDesc	Text		Grows into a refreshing sour and sweet fruit whe
 Items/PinkCherryFlower	Text		Pink Cherry Blossom	Fleur de cerisier rose
 Items/PinkCherryFlowerDesc	Text		A vibrant pink blossom that fell from a „weeping“ tree. Its short-lived blooming period reminds one of the transcience of life.	Une fleur rose vibrante qui est tombée d'un arbre pleureur. Sa courte période de floraison rappelle la transscience de la vie. 
 Items/PinkCherryTree	Text		Pink Cherry Tree	Cerisier rose
-Items/PinkCherryTreeDesc	Text		This „weeping“ tree holds its branches low, letting the blossoms droop towards the ground. It is said that brave warriors took depictions of those trees with them into their final battle.	Cet arbre "pleureur" tient ses branches basses, laissant tomber les fleurs vers le sol. On raconte que de braves guerriers ont emporté avec eux des représentations de ces arbres dans leur bataille finale.
+Items/PinkCherryTreeDesc	Text		This „weeping“ tree holds its branches low, letting the blossoms droop towards the ground. It is said that brave warriors took depictions of those trees with them into their final battle.	"Cet arbre ""pleureur"" tient ses branches basses, laissant tomber les fleurs vers le sol. On raconte que de braves guerriers ont emporté avec eux des représentations de ces arbres dans leur bataille finale."
 Items/PinkCoralotl	Text		Pink Coralotl	Corail rose
 Items/PinkCoralotlDesc	Text		A small pink amphibian with outward-protruding gills that look like corals. It also uses them to draw nutrients out of the waters of the Sunken Sea.	Un petit amphibien rose avec des branchies saillantes qui ressemblent à des coraux. Il les utilise également pour puiser des nutriments dans les eaux de la mer submergée.
 Items/PinkPalaceFish	Text		Pink Palace Fish	Poisson du palais rose
@@ -3208,6 +3231,8 @@ Items/RazorFlake	Text		Ricochet Shuriken	Shuriken à ricochet
 Items/RazorFlakeDesc	Text		A four-bladed throwing weapon that bounces back and forth across the room. Slicing any enemy in its path.	Une arme de jet à quatre lames qui rebondit d'un côté à l'autre de la pièce. Elle tranche tous les ennemis sur son passage.
 Items/RecallIdol	Text		Recall Idol	Rappeler d'idole
 Items/RecallIdolDesc	Text		Teleports you back to the core, consumed in the process.	Vous téléporte vers le noyau, consommé dans le processus.
+Items/RedEnvelope	Text		Red Envelope	Enveloppe rouge
+Items/RedEnvelopeDesc	Text		A gift to symbolize good wishes and luck for the year ahead. Someone left it for you to open.	Un cadeau pour souhaiter les meilleurs vœux pour l'année à venir. Quelqu'un l'a-t-il laissé pour vous?
 Items/RedFireFly	Text		Red Glowbug	Glowbug rouge
 Items/RedFireFlyDesc	Text		This flying bug always appears in swarms which appear as dancing lights. Its red glow is biome-specific.	Cet insecte volant apparaît toujours en essaims qui apparaissent comme des lumières dansantes. Sa lueur rouge est spécifique au biome.
 Items/RedKelp	Text		Red Kelp	Algue rouge
@@ -3406,8 +3431,8 @@ Items/SignArrow	Text		Arrow Sign	Panneau flèche directionnelle
 Items/SignArrowDesc	Text		Don’t know where to go? Just look at it!	Vous ne savez pas où aller? Regardez!
 Items/SignBrute	Text		Brute Sign	Panneau brut
 Items/SignBruteDesc	Text		"Someone put all their artistic efforts into painting this sign and left it as a warning.
-Caveling Brutes or worse ahead."	"Quelqu'un a déployé tous ses efforts artistiques pour peindre ce panneau et l'a laissé en guise d'avertissement.
-Brutes Cavelin ou pire."
+Caveling Brutes or worse ahead."	"""Quelqu'un a déployé tous ses efforts artistiques pour peindre ce panneau et l'a laissé en guise d'avertissement.
+Brutes Cavelin ou pire."""
 Items/SignSkull	Text		Skull Effigy	Totem Crâne
 Items/SignSkullDesc	Text		There is no clearer warning than a skull on a stake. Better keep out.	Il n’y a pas d’avertissement plus clair qu’un crâne sur un pieu. Mieux vaut ne pas s'en approcher.
 Items/SignText	Text		Sign	Panneau
@@ -3420,7 +3445,7 @@ Items/SingingCrystal	Text		Singing Crystal	Cristal chantant
 Items/SingingCrystalDesc	Text		Due to its shape, this naturally formed crystal rings with a harmonic frequency when struck.	En raison de sa forme, ce cristal naturel sonne avec une fréquence harmonique lorsqu'il est frappé.
 Items/SkeletonPedestal	Text		Deceased Explorer	Explorateur décédé
 Items/SkeletonPedestal2	Text		Skeleton Decor	Squelette décoratif
-Items/SkeletonPedestal2Desc	Text		A spooky scary skeleton made from cheap plastic. Perfect to "liven" up any room.	Un squelette effrayant en plastique bon marché. Parfait pour "égayer" n’importe quelle pièce.
+Items/SkeletonPedestal2Desc	Text		"A spooky scary skeleton made from cheap plastic. Perfect to ""liven"" up any room."	"Un squelette effrayant en plastique bon marché. Parfait pour ""égayer"" n’importe quelle pièce."
 Items/SkeletonPedestalDesc	Text		The remains of a fellow explorer who wasn't as lucky as you. Funnily enough he can still fit hats onto his pale skull, that's at least something.	Les restes d'un explorateur qui n'a pas eu la même chance que vous. Il est amusant de constater qu'il peut encore enfiler des chapeaux sur son crâne pâle, c'est déjà ça.
 Items/SkirmisherHelm	Text		Skirmisher Cap	Casquette de tirailleur
 Items/SkirmisherHelmDesc	Text		A headpiece worn by caveling skirmishers which has been cobbled together with larvaskin, leaves and dirty cloth.	Un couvre-chef porté par les tirailleurs cavelin qui a été bricolé avec de la peau de larve, des feuilles et du tissu sale.
@@ -3754,7 +3779,7 @@ Items/ValentinePresentDesc	Text		This rose and silver-colored gift is packed wit
 Items/ValentineRing	Text		Valentine Ring	Anneau de la Saint-Valentin
 Items/ValentineRingDesc	Text		A golden ring featuring a candy-colored heart. The perfect gift to give to someone you like.	Une bague dorée ornée d'un cœur couleur bonbon. Le cadeau parfait à offrir à quelqu'un que vous aimez.
 Items/ValentineRug	Text		Heart-shaped Rug	Tapis en forme de coeur
-Items/ValentineRugDesc	Text		"Nothing speaks ""love"" like a big fuzzy heart on the floor. It smells like wool and lavender. "	Rien ne parle "d'amour" comme un gros cœur flou sur le sol. Ça sent la laine et la lavande.
+Items/ValentineRugDesc	Text		"Nothing speaks ""love"" like a big fuzzy heart on the floor. It smells like wool and lavender. "	"Rien ne parle ""d'amour"" comme un gros cœur flou sur le sol. Ça sent la laine et la lavande."
 Items/ValentineWallHearts	Text		Wall Hearts	Coeurs muraux
 Items/ValentineWallHeartsDesc	Text		An assortment of hearts cut from paper, they look great on walls and make a base just a little bit more lovely.	Un assortiment de cœurs découpés dans du papier, ils ont fière allure sur les murs et font une base un peu plus jolie.
 Items/ValentineWorkbench	Text		Valentine Crafting Table	Table d'artisanat de la Saint-Valentin
@@ -3779,6 +3804,8 @@ Items/WallCoralBlock	Text		Coral Wall	Mur de corail
 Items/WallCoralBlockDesc	Text		A pinkish tiled wall section.	Un pan de mur carrelé rosé.
 Items/WallCrystalBlock	Text		Crystal Wall	Mur de cristal
 Items/WallCrystalBlockDesc	Text		A blue, glossy wall section.	Un pan de mur bleu et brillant.
+Items/WallDarkStoneBlock	Text		Dark Stone Block	Mur de pierre sombre
+Items/WallDarkStoneBlockDesc	Text		A sturdy dark piece of stone.	Un solide morceau de pierre sombre.
 Items/WallDesertBlock	Text		Sandstone Wall	Mur de grès
 Items/WallDesertBlockDesc	Text		A rocky wall section with a wavy pattern.	Une section de paroi rocheuse avec un motif ondulé.
 Items/WallDesertTempleBlock	Text		Temple Wall	Mur du temple
@@ -3913,9 +3940,9 @@ Items/WoodenDestructible	Text		Wooden Crate	Caisse en bois
 Items/WoodenDestructibleDesc	Text		A wooden box used by someone to store random goods.	Une boîte en bois utilisée par quelqu'un pour stocker des marchandises aléatoires.
 Items/WoodenRing	Text		Wooden Ring	Anneau en bois
 Items/WoodenRingDesc	Text		A simple wooden ring, nothing more, nothing less.	Un simple anneau en bois, rien de plus, rien de moins.
-Items/WoodenSign1	Text		"Wooden Sign ""Core"""	Panneau en bois "Noyau"
+Items/WoodenSign1	Text		"Wooden Sign ""Core"""	"Panneau en bois ""Noyau"""
 Items/WoodenSign1Desc	Text		Driftwood with patterns and carvings showing the Core.	Bois flotté avec motifs et sculptures montrant le noyau.
-Items/WoodenSign2	Text		"Wooden Sign ""Tulip"""	Panneau en bois "Tulipe"
+Items/WoodenSign2	Text		"Wooden Sign ""Tulip"""	"Panneau en bois ""Tulipe"""
 Items/WoodenSign2Desc	Text		Driftwood with patterns and carvings showing a Glow Tulip.	Bois flotté avec motifs et sculptures montrant une tulipe lumineuse.
 Items/WoodenThornRing	Text		Wooden Thorn Ring	Anneau d'épine en bois
 Items/WoodenThornRingDesc	Text		A circular, brambly root with sharp thorns pointing outward.	Une racine circulaire et ronceuse avec des épines acérées pointant vers l'extérieur.
@@ -3982,6 +4009,7 @@ Menu/GiveFeedback	Text		Report bugs / feedback	Signaler des bugs / commentaires
 Menu/GraphicsOptions	Text		Graphics settings	Paramètres graphiques
 Menu/Hardcore	Text		Hardcore	Hardcore
 Menu/HardcoreDesc	Text		Hardcore characters are permanently lost when they die and cannot be revived.	Les personnages en hardcore sont définitivement perdus lorsqu'ils meurent et ne peuvent pas être réanimés.
+Menu/HideGameID	Text		Hide game ID	Cacher l'Identifiant de la partie
 Menu/JoinGame	Text		Join Game	Rejoindre une partie
 Menu/LightQuality	Text		Light quality	Qualité de la lumière
 Menu/LocalModMissingClientDialogue	Text		Required mod {0} is missing.	Le mod requis {0} est manquant.
@@ -3994,10 +4022,10 @@ Menu/Mods	Text		Mods	Mods
 Menu/ModsAddedWithEnhancedAccess	Text		"Caution: 'Elevated Access' mods have increased access to resources outside the game like user files and internet. For the best experience, install only from reputable sources.
 
 Mods with Elevated Access:
-{0}"	"Attention: Les mods ayant un ""Accès Élévé"" ont des accès supplémentaires sur les fichiers locaux et internet. Pour une meilleure expérience, installez uniquement depuis des sources réputées.
+{0}"	"""Attention: Les mods ayant un ""Accès Élévé"" ont des accès supplémentaires sur les fichiers locaux et internet. Pour une meilleure expérience, installez uniquement depuis des sources réputées.
 
 Mods avec Accès Élevé:
-{0}"
+{0}"""
 Menu/ModsLoaded	Text		{0} Mods Loaded	{0} Mods chargés
 Menu/MoreInfo	Text		More info	Plus d'informations
 Menu/NoAdminsOnline	Text		There are no admins online.	Il n'y a pas d'administrateurs en ligne.
@@ -4012,6 +4040,7 @@ Menu/PerformanceOptions	Text		Performance settings	Paramètres de performances
 Menu/Ping	Text	Ping to server, shown in pause menu	Ping: {0} ms	Ping: {0} ms
 Menu/Quit	Text		Quit	Quitter
 Menu/Reflections	Text		Reflections	Reflets
+Menu/RefreshGameID	Text		Refresh game ID	Regénérer l'Identifiant de la partie
 Menu/RestartPendingModChanges	Text		Restarting to install necessary mods.	Redémarrage pour installer les mods nécessaires.
 Menu/RestartToApplyModChanges	Text		Pending mod changes requires a restart, do you want to restart now?	Les changements de mods en cours nécessitent un redémarrage, voulez-vous redémarrer maintenant?
 Menu/SelectCharacterType	Text		Select character type	Sélectionnez le type de caractère
@@ -4024,6 +4053,7 @@ Menu/SettingsNotAvailableNote	Text		Some settings can only be changed in main me
 Menu/ShadowQuality	Text		Shadow quality	La qualité de l'ombre
 Menu/ShowCharacterNames	Text		Show character names	Afficher les noms des personnages
 Menu/ShowDamageNumbers	Text		Show damage numbers	Afficher les nombres de dégâts
+Menu/ShowGameID	Text	 [new]	Show game ID	Afficher l'Identifiant de la partie
 Menu/ShowInGameUI	Text		Show in-game UI	Afficher Interface Utilisateur
 Menu/ShowKeyHints	Text		Show key hints	Afficher les conseils clés
 Menu/ShowMinimap	Text		Show minimap	Afficher la mini-carte
@@ -4152,6 +4182,21 @@ ReinforceButtonDesc	Text		Toggle to reinforce tools, weapons and equipment. Rein
 ReinforceButtonTitle	Text		Reinforce	Renforcer
 RepairButtonDesc	Text		Toggle to repair tools, weapons and equipment.	Utiliser pour réparer les outils, les armes et l'équipement.
 RepairButtonTitle	Text		Repair	Réparer
+RichPresence/InBiomeDesert	Text		in the Desert of Beginnings	dans le Désert des Origines
+RichPresence/InBiomeGreatWall	Text		at the Great Wall	au Grand Mur
+RichPresence/InBiomeLarva	Text		in the Clay Caves	dans les Grottes d'Argile
+RichPresence/InBiomeNature	Text		in Azeos' Wilderness	dans la Fôret d'Azeos
+RichPresence/InBiomeNone	Text		in the unknown	dans l'Inconnu
+RichPresence/InBiomeSea	Text		in the Sunken Sea	dans la Mer Engloutie
+RichPresence/InBiomeSlime	Text		in the Undergrounds	dans les Souterrains
+RichPresence/InBiomeStone	Text		in the Forgotten Ruins	dans les Ruines Oubliées
+RichPresence/InGame	Text		In game	En jeu
+RichPresence/InMainMenu	Text		In the main menu	Dans le menu principal
+RichPresence/TaskDying	Text		Dying	Meurt
+RichPresence/TaskExploring	Text		Exploring	Explore
+RichPresence/TaskFishing	Text		Fishing	Pêche
+RichPresence/TaskIdle	Text		Chilling	Se détend
+RichPresence/TaskSleeping	Text		Sleeping	Dort
 Roles/Chef	Text		Chef	Chef
 Roles/ChefDesc	Text		A culinary expert preparing food for anyone in need.	Un expert culinaire préparant de la nourriture pour toute personne dans le besoin.
 Roles/Explorer	Text		Explorer	Explorateur
@@ -4178,6 +4223,7 @@ Seasons/CherryBlossom	Text		Cherry blossom	Fleur de cerisier
 Seasons/Christmas	Text		Christmas	Noël
 Seasons/Easter	Text		Easter	Pâques
 Seasons/Halloween	Text		Halloween	Halloween
+Seasons/LunarNewYear	Text	 [new]	Lunar New Year	
 Seasons/None	Text		None	Aucun
 Seasons/Valentine	Text		Valentine	Valentin
 Simple	Text		Simple	Simple
