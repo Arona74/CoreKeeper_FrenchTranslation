@@ -1073,7 +1073,7 @@ ItemCategory/Environment_LavaBiome	Text		Lava biome	Biome de lave
 ItemCategory/Environment_MeadowBiome	Text		Meadow biome	Biome des prairies
 ItemCategory/Environment_MoldBiome	Text		Mold biome	Biome des moisissures
 ItemCategory/Environment_NatureBiome	Text		Nature biome	Biome de la nature
-ItemCategory/Environment_OreBoulder	Text		Ore boulder	Bloc de minerais
+ItemCategory/Environment_OreBoulder	Text		Ore boulder	Gisement de minerais
 ItemCategory/Environment_PitObject	Text		Pit object	Objet de la fosse
 ItemCategory/Environment_SeaBiome	Text		Sea biome	Biome marin
 ItemCategory/Environment_SlimeBiome	Text		Slime biome	Biome de Slime
@@ -1695,7 +1695,7 @@ Items/CopperKeyDesc	Text		A crude key cast in copper. There should be a lock som
 Items/CopperMiningPick	Text		Copper Pickaxe	Pioche en cuivre
 Items/CopperMiningPickDesc	Text		A sturdy tool, well-suited for breaking down walls effortlessly.	Un outil robuste et bien adapté pour abattre les murs sans effort.
 Items/CopperOre	Text		Copper Ore	Minerai de cuivre
-Items/CopperOreBoulder	Text		Copper Ore Boulder	Bloc de cuivre
+Items/CopperOreBoulder	Text		Copper Ore Boulder	Gisement de cuivre
 Items/CopperOreDesc	Text		Commonly found in dirt walls.	Communément trouvé dans les murs en terre.
 Items/CopperPantsArmor	Text		Copper Pants	Jambières en cuivre
 Items/CopperPantsArmorDesc	Text		Protects the shins with ease.	Protège facilement les tibias.
@@ -1897,7 +1897,7 @@ Items/DriftwoodStoolDesc	Text		A simple stool made with beach materials.	Un tabo
 Items/DriftwoodTable	Text		Driftwood Table	Table en bois flotté
 Items/DriftwoodTableDesc	Text		Someone made this from materials floating in the water.	Quelqu'un l'a fabriqué à partir de matériaux flottant dans l'eau.
 Items/Drill	Text		Drill	Foreuse
-Items/DrillDesc	Text		Can slowly drill through tougher materials such as ore boulders when powered with electricity.	Peut forer lentement à travers des matériaux plus durs tels que des blocs de minerai lorsqu'il est alimenté en électricité.
+Items/DrillDesc	Text		Can slowly drill through tougher materials such as ore boulders when powered with electricity.	Peut forer lentement à travers des matériaux plus durs tels que des gisements de minerai lorsqu'il est alimenté en électricité.
 Items/DrillTool	Text		Hand Drill	Foreuse manuelle
 Items/DrillToolDesc	Text		A powerfull tool to cut through weaker walls like butter.	Un outil puissant pour couper les murs les plus faibles comme du beurre.
 Items/DrillToolScarlet	Text		Scarlet Hand Drill	Foreuse manuelle en Cramoisite 
@@ -2101,7 +2101,7 @@ Items/GalaxiteKeyDesc	Text		An indestructible key cast in galaxite. There should
 Items/GalaxiteMiningPick	Text		Galaxite Pickaxe	Pioche en Galaxite
 Items/GalaxiteMiningPickDesc	Text		An otherwordly tool for breaking down exceptionally hard walls.	Un autre outil pour abattre des murs exceptionnellement durs.
 Items/GalaxiteOre	Text		Galaxite Ore	Minerai de Galaxite
-Items/GalaxiteOreBoulder	Text		Galaxite Ore Boulder	Bloc de Galaxite
+Items/GalaxiteOreBoulder	Text		Galaxite Ore Boulder	Gisement de Galaxite
 Items/GalaxiteOreDesc	Text		Otherwordly ore commonly found in sandstone walls.	Minerai d'autres monde que l'on trouve couramment dans les murs de grès.
 Items/GalaxitePantsArmor	Text		Galaxite Pants	Jambières en Galaxite
 Items/GalaxitePantsArmorDesc	Text		A futuristic armor for the lower body. It makes you feel like every small step you take is a giant leap for mankind.	Une pièce d'armure futuriste pour le bas du corps. Cela vous donne l'impression que chaque petit pas que vous faites est un pas de géant pour l'humanité.
@@ -2216,7 +2216,7 @@ Items/GoldCrystalNecklaceDesc	Text		A shiny trinket combining the most valuable 
 Items/GoldCrystalRing	Text		Gold Crystal Ring	Bague en cristal d'or
 Items/GoldCrystalRingDesc	Text		A precious ring featuring ancient gemstones.	Une bague précieuse ornée de pierres précieuses anciennes.
 Items/GoldOre	Text		Gold Ore	Minerai d'or
-Items/GoldOreBoulder	Text		Gold Ore Boulder	Bloc d'or
+Items/GoldOreBoulder	Text		Gold Ore Boulder	Gisement d'or
 Items/GoldOreDesc	Text		Rarely found in clay and stone walls.	Rarement trouvé dans les murs d'argile et de pierre.
 Items/GoldenAngleFish	Text		Jasper Angle Fish	Poisson d'angle Jasper
 Items/GoldenAngleFishDesc	Text		This sun-golden fish seemed to have had a normal body once, but the water of the Shimmering Frontier corrupted it to be crystalline through and through.	Ce poisson doré par le soleil semblait avoir eu un corps normal, mais l'eau de la Frontière miroitante l'avait corrompu pour le rendre cristallin de part en part.
@@ -2471,7 +2471,7 @@ Items/IronKeyDesc	Text		An old key cast in iron. There should be a lock somewher
 Items/IronMiningPick	Text		Iron Pickaxe	Pioche en fer
 Items/IronMiningPickDesc	Text		A strong tool, excellent for breaking down harder walls.	Un outil puissant, excellent pour abattre des murs plus durs.
 Items/IronOre	Text		Iron Ore	Minerai de fer
-Items/IronOreBoulder	Text		Iron Ore Boulder	Bloc de fer
+Items/IronOreBoulder	Text		Iron Ore Boulder	Gisement de fer
 Items/IronOreDesc	Text		Commonly found in stone walls.	Communément trouvé dans les murs en pierre.
 Items/IronPantsArmor	Text		Iron Pants	Pantalon en fer
 Items/IronPantsArmorDesc	Text		You've got knees of steel!	Vous avez des genoux d'acier!
@@ -2844,26 +2844,26 @@ Items/OctarineFishingRod	Text		Octarine Fishing Rod	Canne à pêche en octarine
 Items/OctarineFishingRodDesc	Text		An extraordinary tool for pulling up deep sea fish.	Un outil extraordinaire pour remonter les poissons de haute mer.
 Items/OctarineHelm	Text		Octarine Helm	Heaume en octarien
 Items/OctarineHelmDesc	Text		A strange headgear with no visor. For some reason you can still see clearly when putting it on.	Un étrange couvre-chef sans visière. Pour une raison quelconque, vous pouvez toujours voir clairement lorsque vous le mettez.
-Items/OctarineKey	Text		Octarine Key	Clé en octarine
-Items/OctarineKeyDesc	Text		A clunky key cast in octarine. There should be a lock somewhere that it fits into.	Une clé maladroite moulée en octarine. Il devrait y avoir un verrou quelque part dans lequel elle s'insère.
-Items/OctarineMiningPick	Text		Octarine Pickaxe	Pioche en octarine
+Items/OctarineKey	Text		Octarine Key	Clé en Octarine
+Items/OctarineKeyDesc	Text		A clunky key cast in octarine. There should be a lock somewhere that it fits into.	Une clé maladroite moulée en Octarine. Il devrait y avoir un verrou quelque part dans lequel elle s'insère.
+Items/OctarineMiningPick	Text		Octarine Pickaxe	Pioche en Octarine
 Items/OctarineMiningPickDesc	Text		An extraordinary tool for breaking down compact walls.	Un outil extraordinaire pour briser les murs compacts.
 Items/OctarineNecklace	Text		Octarine Necklace	Collier en Octarine
 Items/OctarineNecklaceDesc	Text		A necklace made from pure octarine filled with magic energy.	Un collier en octarine pure rempli d'énergie magique.
-Items/OctarineOre	Text		Octarine Ore	Minerai d'octarine
-Items/OctarineOreBoulder	Text		Octarine Ore Boulder	Bloc d'octarine
+Items/OctarineOre	Text		Octarine Ore	Minerai d'Octarine
+Items/OctarineOreBoulder	Text		Octarine Ore Boulder	Gisement d'Octarine
 Items/OctarineOreDesc	Text		Mysterious ore commonly found in limestone walls.	Minerai mystérieux que l'on trouve couramment dans les parois calcareuses.
 Items/OctarinePantsArmor	Text		Octarine Pants	Pantalon en Octarine
 Items/OctarinePantsArmorDesc	Text		This peculiar leg protection phases energy through your whole body.	Cette protection particulière des jambes répartit l'énergie dans tout votre corps.
 Items/OctarineRing	Text		Octarine Ring	Bague en octarine
 Items/OctarineRingDesc	Text		A ring made from pure octarine enhanced with magic properties.	Une bague en octarine pure rehaussée de propriétés magiques.
-Items/OctarineShield	Text		Octarine Shield	Bouclier en octarine
+Items/OctarineShield	Text		Octarine Shield	Bouclier en Octarine
 Items/OctarineShieldDesc	Text		An extremely durable shield infused with energy that increases health while holding it.	Un bouclier extrêmement durable infusé d'énergie qui augmente la santé tout en le tenant.
-Items/OctarineShovel	Text		Octarine Shovel	Pelle en octarine
+Items/OctarineShovel	Text		Octarine Shovel	Pelle en Octarine
 Items/OctarineShovelDesc	Text		An incredibly versatile shovel, unmatched at digging up ground.	Une pelle incroyablement polyvalente, inégalée pour creuser le sol.
 Items/OctarineSledge	Text		Octarine Sledge Hammer	Marteau de forgeron Octarine
 Items/OctarineSledgeDesc	Text		An extraordinary weapon for smashing foes and walls.	Une arme extraordinaire pour frapper les ennemis et les murs.
-Items/OctarineSword	Text		Octarine Sword	Épée en octarine
+Items/OctarineSword	Text		Octarine Sword	Épée en Octarine
 Items/OctarineSwordDesc	Text		An extraordinary weapon for slaying foes.	Une arme extraordinaire pour tuer les ennemis.
 Items/OctarineWorkbench	Text		Octarine Workbench	Établi en Octarine
 Items/OctarineWorkbenchDesc	Text		Mystical workbench for creating extraordinary gear.	Établi mystique pour créer des équipements extraordinaires.
@@ -3373,7 +3373,7 @@ Items/ScarletKeyDesc	Text		A sturdy key cast in scarlet. There should be a lock 
 Items/ScarletMiningPick	Text		Scarlet Pickaxe	Pioche en Cramoisite
 Items/ScarletMiningPickDesc	Text		A great tool for breaking down extremely hard walls.	Un excellent outil pour abattre des murs extrêmement durs.
 Items/ScarletOre	Text		Scarlet Ore	Minerai de Cramoisite
-Items/ScarletOreBoulder	Text		Scarlet Ore Boulder	Bloc de Cramoisite
+Items/ScarletOreBoulder	Text		Scarlet Ore Boulder	Gisement de Cramoisite
 Items/ScarletOreDesc	Text		Scarlet ore commonly found in grass walls.	Minerai de Cramoisite couramment trouvé dans les murs d'herbe.
 Items/ScarletPantsArmor	Text		Scarlet Pants	Jambières en Cramoisite
 Items/ScarletPantsArmorDesc	Text		March through your enemies and don't look back.	Traversez vos ennemis et ne regardez pas en arrière.
@@ -3534,11 +3534,11 @@ Items/SolariteKeyDesc	Text		A shimmering key cast in solarite. There should be a
 Items/SolariteMiningPick	Text		Solarite Pickaxe	Pioche en solarite
 Items/SolariteMiningPickDesc	Text		A superior tool for breaking down perplexingly hard walls.	Un outil de premier ordre pour abattre les murs qui laissent perplexe.
 Items/SolariteOre	Text		Solarite Ore	Minerai de solarite
-Items/SolariteOreBoulder	Text		Solarite Ore Boulder	Bloc de solarite
+Items/SolariteOreBoulder	Text		Solarite Ore Boulder	Gisement de Solarite
 Items/SolariteOreDesc	Text		An ore that fused with Ancient Gemstones. It can sometimes be found in crystalline walls.	Un minerai qui fusionne avec les pierres précieuses anciennes. On le trouve parfois dans des murs cristallins.
 Items/SolariteSword	Text		Solarite Sword	Épée en solarite
 Items/SolariteSwordDesc	Text		A superior weapon for obliterating foes.	Une arme supérieure pour anéantir les ennemis.
-Items/SolariteWorkbench	Text		Solarite Workbench	Établi en solarite
+Items/SolariteWorkbench	Text		Solarite Workbench	Établi en Solarite
 Items/SolariteWorkbenchDesc	Text		A superior workbench to be prepared for dire trials.	Un établi de qualité supérieure à préparer pour les procès directs.
 Items/SolidSpikeback	Text		Solid Spikeback	Épine dorsale solide
 Items/SolidSpikebackDesc	Text		A very defensive fish with rock-hard skin and sharp spikes potruding out.	Un poisson très défensif avec une peau dure comme le roc et des pointes pointues qui sortent.
@@ -3711,7 +3711,7 @@ Items/TinHoeDesc	Text		A durable tool to prepare ground for farming.	Un outil du
 Items/TinMiningPick	Text		Tin Pickaxe	Pioche en étain
 Items/TinMiningPickDesc	Text		A durable tool, good for breaking down walls more easily.	Un outil durable, bon pour abattre les murs plus facilement.
 Items/TinOre	Text		Tin Ore	Minerai d'étain
-Items/TinOreBoulder	Text		Tin Ore Boulder	Bloc d'étain
+Items/TinOreBoulder	Text		Tin Ore Boulder	Gisement d'étain
 Items/TinOreDesc	Text		Commonly found in clay walls.	Communément trouvé dans les murs d'argile.
 Items/TinPantsArmor	Text		Tin Pants	Pantalon en étain
 Items/TinPantsArmorDesc	Text		Some tin for the shin.	Un peu d'étain pour le tibia.
