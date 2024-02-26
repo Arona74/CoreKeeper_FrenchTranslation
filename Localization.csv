@@ -33,7 +33,7 @@ Achievements/MaxedOutRange	Text		Robin Hood	Robin des Bois
 Achievements/MaxedOutRunning	Text		Float like a butterfly...	Flotte comme un papillon...
 Achievements/MaxedOutVitality	Text		Health Conscious	Soucieux de leur santé
 Achievements/ObtainPhantomSpark	Text		The Phantom Spark	L'étincelle fantôme
-Achievements/ObtainRuneSong	Text		The Rune Song	La chanson runique
+Achievements/ObtainRuneSong	Text		The Rune Song	Le Chant runique
 Achievements/ObtainSoulSeeker	Text		The Soul Seeker	La Chercheuse d'Âme
 Achievements/ObtainTheOracleDeck	Text		The Heart of the Cards	L’âme des cartes
 Achievements/PetColors	Text		Gotta catch 'em all!	Attrapez-les tous!
@@ -100,20 +100,20 @@ AchievementsUnlockedDescription/FirstPet	Text		Hatched your first pet from an eg
 AchievementsUnlockedDescription/GainOver200MovementSpeed	Text		Gained over 200% movement speed	Vous avez eu plus de 200% de vitesse de déplacement
 AchievementsUnlockedDescription/HarvestGoldenIngredient	Text		Harvested a golden plant	Vous avez récolté une plante dorée
 AchievementsUnlockedDescription/KeyArtCharacter	Text		Dressed like a character from the official illustrations	Vous vous êtes habillé comme un personnage des illustrations officielles
-AchievementsUnlockedDescription/MaxedOutCooking	Text		Gained 100 skill points in cooking	Vous avez obtenu 100 points de compétence en cuisine
-AchievementsUnlockedDescription/MaxedOutCrafting	Text		Gained 100 skill points in crafting	Vous avez obtenu 100 points de compétence en artisanat
-AchievementsUnlockedDescription/MaxedOutFishing	Text		Gained 100 skill points in fishing	Vous avez obtenu 100 points de compétence en pêche
-AchievementsUnlockedDescription/MaxedOutGardening	Text		Gained 100 skill points in gardening	Vous avez obtenu 100 points de compétence en jardinage
-AchievementsUnlockedDescription/MaxedOutMelee	Text		Gained 100 skill points in melee	Vous avez obtenu 100 points de compétence en mêlée
-AchievementsUnlockedDescription/MaxedOutMining	Text		Gained 100 skill points in mining	Vous avez obtenu 100 points de compétence en minage
-AchievementsUnlockedDescription/MaxedOutRange	Text		Gained 100 skill points in range	Vous avez obtenu 100 points de compétence à portée
-AchievementsUnlockedDescription/MaxedOutRunning	Text		Gained 100 skill points in running	Vous avez obtenu obtenu 100 points de compétence en course à pied
-AchievementsUnlockedDescription/MaxedOutVitality	Text		Gained 100 skill points in vitality	Vous avez obtenu 100 points de compétence en vitalité
+AchievementsUnlockedDescription/MaxedOutCooking	Text		Gained 100 skill points in cooking	Vous avez atteint le niveau 100 en cuisine
+AchievementsUnlockedDescription/MaxedOutCrafting	Text		Gained 100 skill points in crafting	Vous avez atteint le niveau 100 en artisanat
+AchievementsUnlockedDescription/MaxedOutFishing	Text		Gained 100 skill points in fishing	Vous avez atteint le niveau 100 en pêche
+AchievementsUnlockedDescription/MaxedOutGardening	Text		Gained 100 skill points in gardening	Vous avez atteint le niveau 100 en jardinage
+AchievementsUnlockedDescription/MaxedOutMelee	Text		Gained 100 skill points in melee	Vous avez atteint le niveau 100 en combat de mêlée
+AchievementsUnlockedDescription/MaxedOutMining	Text		Gained 100 skill points in mining	Vous avez atteint le niveau 100 en minage
+AchievementsUnlockedDescription/MaxedOutRange	Text		Gained 100 skill points in range	Vous avez atteint le niveau 100 en combat à distance
+AchievementsUnlockedDescription/MaxedOutRunning	Text		Gained 100 skill points in running	Vous avez atteint le niveau 100 en course à pied
+AchievementsUnlockedDescription/MaxedOutVitality	Text		Gained 100 skill points in vitality	Vous avez atteint le niveau 100 en vitalité
 AchievementsUnlockedDescription/ObtainPhantomSpark	Text		Obtained Phantom Spark	Vous avez obtenu l'Étincelle Fantôme
-AchievementsUnlockedDescription/ObtainRuneSong	Text		Obtained Rune Song	Vous avez obtenu la Chanson Runique
+AchievementsUnlockedDescription/ObtainRuneSong	Text		Obtained Rune Song	Vous avez obtenu le Chant runique
 AchievementsUnlockedDescription/ObtainSoulSeeker	Text		Obtained Soul Seeker	Vous avez obtenu la Chercheuse d'Âme
 AchievementsUnlockedDescription/ObtainTheOracleDeck	Text		Obtained the Oracle Card deck	Vous avez obtenu le jeu de cartes de l'Oracle
-AchievementsUnlockedDescription/PetColors	Text		Stored all color variations of one pet type in a chest	Stockage de toutes les variations de couleur d'un type de familier dans un coffre
+AchievementsUnlockedDescription/PetColors	Text		Stored all color variations of one pet type in a chest	Stocker toutes les variations de couleur d'un type de familier dans un coffre
 AchievementsUnlockedDescription/PetMaxLevel	Text		Reached max level on a pet	Un familier à atteint le niveau maximum
 AchievementsUnlockedDescription/PlantCherryTree	Text		Planted 10 Cherry Trees	Vous avez planté 10 cerisiers
 AchievementsUnlockedDescription/SitOnCavelingToiletWithACrown	Text		Sat on a Caveling Toilet while wearing a crown	Vous vous êtes assis sur des toilettes cavelin tout en portant une couronne
@@ -135,7 +135,7 @@ BiomeNames/Stone	Text		The Forgotten Ruins	Les Ruines Oubliées
 BreastVanitySlot	Text		Chest vanity slot	Emplacement cosmétique pour armure
 CageCattle	Text		Capture a cattle	Capture du bétail
 CanBePutIntoEnemySpawnerPlatform	Text		Figurine slot	Emplacement pour figurine
-CanBePutIntoEnemySpawnerPlatformDesc	Text		Putting a non-boss figurine in the slot and powering the Materializer with electricity will create a clone of the enemy represented by the figurine.	En plaçant une figurine qui n'est pas un boss dans l'emplacement et en alimentant le matérialiseur en électricité, vous créerez un clone de l'ennemi représenté par la figurine.
+CanBePutIntoEnemySpawnerPlatformDesc	Text		Putting a non-boss figurine in the slot and powering the Materializer with electricity will create a clone of the enemy represented by the figurine.	En plaçant une figurine dans l'emplacement et en alimentant le matérialiseur en électricité, vous créerez un clone de l'ennemi représenté par la figurine. Ne fonctionne pas avec les boss
 CardinalDirections/East	Text		east	est
 CardinalDirections/North	Text		north	nord
 CardinalDirections/NorthEast	Text		north east	nord-est
@@ -146,7 +146,7 @@ CardinalDirections/SouthWest	Text		south west	sud-ouest
 CardinalDirections/Undefined	Text		undefined	indéfini
 CardinalDirections/West	Text		west	ouest
 CasualMode	Text		Casual	Casual
-CasualModeDesc	Text		Encounter gentler monsters in a relaxed, enjoyable setting.	Rencontrez des monstres plus doux dans un cadre détendu et agréable.
+CasualModeDesc	Text		Encounter gentler monsters in a relaxed, enjoyable setting.	Rencontrez des monstres moins aggressifs et profitez d'une expérience de jeu sans dérangement.
 CattleStatus/Full	Text		The animal is very happy, full and producing.	L'animal est très heureux, rassasié et productif.
 CattleStatus/FullBaby	Text		The young animal is very happy, full and producing.	Le jeune animal est très heureux, rassasié et productif.
 CattleStatus/HungryCattleKelpFood	Text		The animal is hungry for kelp.	L'animal a faim de d'algues.
@@ -163,16 +163,16 @@ CattleStatus/NameMediumHungry	Text		{0} is happy, fairly full and producing.	{0}
 CattleStatus/NameMediumHungryBaby	Text		{0} is happy, fairly full and producing.	{0} est heureux, rassasié et productif.
 CombineMaterials	Text		Combine the materials	Combinez les matériaux
 ConditionEffect/ApplyBurning	Text		{0} burn damage	{0} dégâts de brûlure
-ConditionEffect/ApplyDamageEverySecond	Text		{0} damage every sec	{0} dégâts toutes les secondes
+ConditionEffect/ApplyDamageEverySecond	Text		{0} damage every sec	{0} dégâts par seconde
 ConditionEffect/ApplyPoisoned	Text		Poisonous, reduces healing received by 75%	Toxique
-ConditionEffect/ApplySlowedBySlime	Text		Slows down targets movement speed by {0}% for 4 sec	Ralentit la vitesse de déplacement des cibles de {0}% pendant 4 s
+ConditionEffect/ApplySlowedBySlime	Text		Slows down targets movement speed by {0}% for 4 sec	Réduit la vitesse de déplacement des cibles de {0}% pendant 4 s
 ConditionEffect/Armor	Text		{0} armor	{0} armure
 ConditionEffect/ArmorPercentage	Text		{0}% armor	{0}% d'armure
 ConditionEffect/ChanceOnHitToKnockback	Text		{0}% knockback chance	{0}% de chances de recul
 ConditionEffect/ChanceToGainExtraCookedFood	Text		{0}% extra cooked food chance	{0}% de chances supplémentaires d'aliments cuits
 ConditionEffect/CritChance	Text		{0}% critical hit chance	{0}% de chances de coup critique
 ConditionEffect/CriticalDamagePercentage	Text		{0}% critical hit damage	{0}% de dégâts critiques
-ConditionEffect/DamageEverySecond	Text		{0} damage every sec	{0} dégâts toutes les secondes
+ConditionEffect/DamageEverySecond	Text		{0} damage every sec	{0} dégâts par secondes
 ConditionEffect/DamageEveryThirdSecond	Text		{0} damage every third sec	{0} dégâts toutes les trois secondes
 ConditionEffect/DodgeChance	Text		{0}% dodge chance	{0}% de chances d'esquiver
 ConditionEffect/ExplosivesDamage	Text		{0}% explosives damage	{0}% de dégâts d'explosion
@@ -183,25 +183,25 @@ ConditionEffect/HealOverTime	Text		{0} health every sec	{0} points de vie par se
 ConditionEffect/Health	Text		{0} health	{0} santé
 ConditionEffect/Hunger	Text		{0} food	{0} nourriture
 ConditionEffect/ImmuneToSlimeSlow	Text		Immune to being slowed by slime	Immunisé contre le ralentissement par le slime
-ConditionEffect/LifeOnHit	Text		{0} life on melee hit	{0} vie en cas de coup mêlée
+ConditionEffect/LifeOnHit	Text		{0} life on melee hit	{0} vol de vie en cas de coup mêlée
 ConditionEffect/MaxHealth	Text		{0} max health	{0} santé maximale
-ConditionEffect/MeleeAttackSpeed	Text		{0}% melee speed	{0}% de vitesse de mêlée
+ConditionEffect/MeleeAttackSpeed	Text		{0}% melee speed	{0}% de vitesse d'attaque en mêlée
 ConditionEffect/MeleeDamage	Text		{0}% melee damage	{0}% de dégâts de mêlée
-ConditionEffect/Mining	Text		{0} mining damage	{0} dégâts de minage
+ConditionEffect/Mining	Text		{0} mining damage	{0} dégâts d'extraction
 ConditionEffect/MiningSpeed	Text		{0}% mining speed	{0}% de vitesse de minage
 ConditionEffect/MovementSpeed	Text		{0}% movement speed	{0}% de vitesse de déplacement
 ConditionEffect/Poisoned	Text		75% reduced healing received	75% de réduction des soins reçus
 ConditionEffect/RangeAttackSpeed	Text		{0}% range speed	{0}% de vitesse d'attaque à distance
 ConditionEffect/RangeDamage	Text		{0}% range damage	{0}% de dégâts à distance
-ConditionEffect/ReducedDamageFromBosses	Text		{0}% boss damage reduction	{0}% de réduction des dégâts des boss
+ConditionEffect/ReducedDamageFromBosses	Text		{0}% boss damage reduction	{0}% de réduction des dégâts subit par les boss
 ConditionEffect/ThornsDamage	Text		{0} thorns damage	{0} dégâts d'épines
-ConditionEffectDesc/ApplyBurning	Text		Applies burning to enemies you deal damage to. The burning effect damages the enemy every other second for {0} damage.	Applique Brûlure aux ennemis auxquels vous infligez des dégâts. L'effet de brûlure endommage l'ennemi toutes les deux secondes pour {0} points de dégâts.
+ConditionEffectDesc/ApplyBurning	Text		Applies burning to enemies you deal damage to. The burning effect damages the enemy every other second for {0} damage.	Applique Brûlure aux ennemis auxquels vous infligez des dégâts. L'effet de brûlure inflige {0} points de dégâts aux ennemis
 ConditionEffectDesc/Armor	Text		Reduces damage taken up to a maximum of {0} damage. Enemies always deal a minimum 25% of their damage.	Réduit les dégâts subis jusqu'à un maximum de {0} dégâts. Les ennemis infligent toujours au moins 25 % de leurs dégâts.
 ConditionEffectDesc/ChanceOnHitToKnockback	Text		Melee attacks have a {0}% chance to knockback enemies.	Les attaques de mêlée ont {0}% de chances de repousser les ennemis.
-ConditionEffectDesc/ChanceToGainExtraCookedFood	Text		Grabbing cooked food from the cooking pot has a {0}% chance to gain an additional cooked food per cooked food grabbed.	Rammasser des aliments cuits dans la marmite a {0}% par aliment d'en donner un de plus.
+ConditionEffectDesc/ChanceToGainExtraCookedFood	Text		Grabbing cooked food from the cooking pot has a {0}% chance to gain an additional cooked food per cooked food grabbed.	Rammasser des aliments cuits dans la marmite a {0}% par aliment d'en donner un supplémentaire.
 ConditionEffectDesc/CritChance	Text		Attacks have a {0}% chance to deal 50% extra damage.	Les attaques ont {0}% de chances d'infliger 50 % de dégâts supplémentaires.
-ConditionEffectDesc/CriticalDamagePercentage	Text		Deal {0}% more damage on critical hits. Base critical hit damage is 50%.	Inflige {0}% de dégâts supplémentaires en coups critiques. Les dégâts de base des coups critiques sont de 50 %.
-ConditionEffectDesc/DodgeChance	Text		{0}% chance to dodge any attack. Maximum dodge chance is 90%.	{0}% de chances d'esquiver n'importe quelle attaque. Les chances d'esquiver maximales sont de 90 %.
+ConditionEffectDesc/CriticalDamagePercentage	Text		Deal {0}% more damage on critical hits. Base critical hit damage is 50%.	Inflige {0}% de dégâts supplémentaires en cas de coups critiques. Les dégâts de base des coups critiques sont de 50 %.
+ConditionEffectDesc/DodgeChance	Text		{0}% chance to dodge any attack. Maximum dodge chance is 90%.	{0}% de chances d'esquiver n'importe quelle attaque. Les chances d'esquiver une attaque ne peuvent dépasser 90 %.
 ConditionEffectDesc/ExplosivesDamage	Text		Explosives deal {0}% more damage.	Les explosifs infligent {0}% de dégâts supplémentaires.
 ConditionEffectDesc/Fishing	Text		A higher fishing allows catching fish in higher level areas while also making fish easier to catch.	Une pêche plus élevée permet d'attraper du poisson dans des zones de niveau supérieur tout en facilitant la capture du poisson.
 ConditionEffectDesc/Glowing	Text		Produces a glow reaching up to {0} tiles away.	Produit une lueur atteignant jusqu'à {0} tuiles.
@@ -229,7 +229,7 @@ Conditions/ApplyPetBuffsIncrease	Text		{0}% effectiveness of your pets talent ef
 Conditions/ApplyPetCritChanceIncrease	Text		{0}% critical hit chance for your pet	{0}% de chances de coup critique pour votre familier
 Conditions/ApplyPetCritDamageIncrease	Text		{0}% critical hit damage for your pet	{0}% de dégâts sur les coups critiques pour votre familier
 Conditions/ApplyPetDamageIncrease	Text		{0}% damage dealt by your pet	{0}% des dégâts infligés par votre familier
-Conditions/ApplySlipperyMovementWhenHit	Text		Melee attackers become slippery when attacking you	Les attaquants de mêlée deviennent glissants lorsqu'ils vous attaquent
+Conditions/ApplySlipperyMovementWhenHit	Text		Melee attackers become slippery when attacking you	Les attaquants de mêlée commencent à glisser lorsqu'ils vous attaquent
 Conditions/ApplySlowedBySlime	Text		Slows down targets movement speed by {0}% for 4 sec	Ralentit la vitesse de déplacement des cibles de {0}% pendant 4 s
 Conditions/ApplySnare	Text		Ensnare	Enserrer
 Conditions/ArmorIncrease	Text	"Text shown on gear stat or buff, for example ""+45 armor"" where {0} is replaced with the number"	{0} armor	{0} armure
@@ -363,8 +363,8 @@ Conditions/LookLikeGhost	Text		You look like a ghost	Tu ressembles à un fantôm
 Conditions/Love	Text		Gives you a  heart-warming feeling	Vous donne une sensation réconfortante
 Conditions/MeleeAttackSpeedIncrease	Text		{0}% melee attack speed	{0}% de vitesse d'attaque en mêlée
 Conditions/MeleeDamageIncrease	Text	{0} will be replaced by +10 for example so it says +10 damage which can appear on an item description	{0}% melee damage	{0}% de dégâts de mêlée
-Conditions/MiningIncrease	Text		{0} mining damage	{0} dégâts de minage
-Conditions/MiningPercentageIncrease	Text		{0}% mining damage	{0}% dégâts de minage
+Conditions/MiningIncrease	Text		{0} mining damage	{0} dégâts d'extraction
+Conditions/MiningPercentageIncrease	Text		{0}% mining damage	{0}% dégâts d'extraction
 Conditions/MiningSpeedIncrease	Text		{0}% mining speed	{0}% de vitesse de minage
 Conditions/MovementSpeedBoostAfterDodge	Text		{0}% movement speed boost for a short duration after dodging an attack	Augmentation de {0}% de la vitesse de déplacement pendant une courte durée après avoir esquivé une attaque
 Conditions/MovementSpeedBoostAfterMining	Text		{0}% movement speed boost for a short duration after mining a wall	Augmentation de {0}% de la vitesse de déplacement pendant une courte durée après avoir miné un mur
@@ -373,7 +373,7 @@ Conditions/MovementSpeedIncrease	Text		{0}% movement speed	{0}% de vitesse de d�
 Conditions/MovementSpeedIncreaseFromRunningConsistently	Text		{0} movement speed from consistent running	{0} vitesse de déplacement grâce à une course constante
 Conditions/OrangeGlow	Text		{0} glow	{0} lueur
 Conditions/PercentageOfFishingAsRange	Text		{0}% of fishing added as range damage	{0}% de pêche ajoutés en tant que dégâts distance
-Conditions/PercentageOfMiningAsMelee	Text		{0}% of mining damage added as melee damage	{0}% des dégâts de minage ajoutés en tant que dégâts de mêlée
+Conditions/PercentageOfMiningAsMelee	Text		{0}% of mining damage added as melee damage	{0}% des dégâts d'extraction ajoutés en tant que dégâts de mêlée
 Conditions/PiercingProjectiles	Text		{0} target(s) pierced by projectiles	Tuer un ennemi augmente les chances de coup critique de 3%, cumulable jusqu'à 5 fois.
 Conditions/PinkGlow	Text		{0} pink glow	{0} lueur rose
 Conditions/Poisoned	Text		75% reduced healing received	75% de réduction des soins reçus
@@ -717,9 +717,9 @@ Emotes/LarvaEmote1	Text	Something the bigger larvas say when interacting with th
 Emotes/LarvaEmote2	Text		Squeek	Cri
 Emotes/LarvaEmote3	Text		Must dig	Doit creuser
 Emotes/LooksLikeItNeedsEnergy	Text	Energy refers to a building needing ancient electricity	Looks like it needs energy	On dirait qu'il a besoin d'énergie
-Emotes/MiningSkillTooLow	Text		My mining damage is too low	Mes dégâts de minage sont trop bas
+Emotes/MiningSkillTooLow	Text		My mining damage is too low	Mes dégâts d'extraction sont trop bas
 Emotes/NeedAncientForge	Text		I must be at the Ancient Forge	Je dois être à l'Ancienne Forge
-Emotes/NeedHigherMiningSkill	Text		I need higher mining damage	J'ai besoin de plus de dégâts de minage
+Emotes/NeedHigherMiningSkill	Text		I need higher mining damage	J'ai besoin de plus de dégâts d'extraction
 Emotes/NoNearbyGroundToStandOn	Text		There's no nearby ground to stand on	Il n'y a pas de terrain à proximité sur lequel se tenir
 Emotes/NoOtherPortals	Text	Shown when there are no other portals to teleport to	No other portals to teleport to	Aucun autre portail vers lequel se téléporter
 Emotes/NotFullyCharged	Text	Shown when player tries to interact with a portal that is still charging up	It is not fully charged yet	Il n'est pas encore complètement chargé
@@ -1206,7 +1206,7 @@ Items/AncientGemPlate	Text		Ancient Gem Plate	Plaque de gemme antique
 Items/AncientGemPlateDesc	Text		This shimmering plate has intricate engravings, it looks like a key to something.	Cette plaque scintillante a des gravures complexes, elle ressemble à une clé de quelque chose.
 Items/AncientGemRing	Text		Ancient Gem Ring	Anneau de gemme antique
 Items/AncientGemRingDesc	Text		This mysterious ring is entirely made out of ancient gemstones, featuring a super rare white one.	Cette bague mystérieuse est entièrement composée de pierres précieuses anciennes, dont une blanche très rare.
-Items/AncientGemstone	Text		Ancient Gemstone	Pierre précieuse ancienne
+Items/AncientGemstone	Text		Ancient Gemstone	Gemme ancienne
 Items/AncientGemstoneBreastArmor	Text		Gemstone Garment	Vêtement en pierre précieuse
 Items/AncientGemstoneBreastArmorDesc	Text		This noble robe covers the body in a cascading, silk-like fabric. The woven in ancient gemstone enhance spiritual capabilities.	Cette noble robe couvre le corps d'un tissu en cascade, semblable à de la soie. Les pierres précieuses anciennes qui y sont tissées renforcent les capacités spirituelles.
 Items/AncientGemstoneDesc	Text		Strange, blue gemstone emitting waves of energy.	Étrange pierre précieuse bleue émettant des vagues d'énergie.
@@ -1231,7 +1231,7 @@ Items/AncientWire	Text		Ancient Wire	Fil antique
 Items/AngleFish	Text		Beryll Angle Fish	Poisson d'angle Beryll
 Items/AngleFishDesc	Text		This moon-blue fish seemed to have had a normal body once, but the water of the Shimmering Frontier corrupted it to be crystalline through and through.	Ce poisson bleu lune semblait avoir eu un corps normal, mais l'eau de la Frontière miroitante l'avait corrompu pour le rendre cristallin de part en part.
 Items/AnniversaryCake	Text		Anniversary Cake	Gâteau d'Anniversaire
-Items/AnniversaryCakeDesc	Text		Drenched in blue glaze and stuck with candles, this glow tulip chocolate cake marks a special anniversary.	Trempé de glaçage bleu et collé de bougies, ce gâteau au chocolat aux tulipes lumineuses marque un anniversaire spécial.
+Items/AnniversaryCakeDesc	Text		Drenched in blue glaze and stuck with candles, this glow tulip chocolate cake marks a special anniversary.	Trempé de glaçage bleu et piqué par quelques bougies, ce gâteau au chocolat aux tulipes lumineuses marque un anniversaire spécial.
 Items/AnniversaryPartyHatBlue	Text		Blue Party Hat	Chapeau de fête bleu
 Items/AnniversaryPartyHatBlueDesc	Text		This blazing blue party hat can be worn to celebrate a special anniversary. 	Ce chapeau de fête bleu flamboyant peut être porté pour célébrer un anniversaire spécial.
 Items/AnniversaryPartyHatGreen	Text		Green Party Hat	Chapeau de fête vert
@@ -1371,27 +1371,27 @@ Items/BlueSlimeTrophy	Text		Blue Slime Figurine	Figurine de Slime Bleu
 Items/BlueSlimeTrophyDesc	Text		A lifelike representation of a slippery Blue Slime.	Une représentation réaliste d'un Blue Slime glissant.
 Items/Boat	Text		Boat	Bateau
 Items/BoatDesc	Text		Allows travelling over water.	Permet de voyager sur l'eau.
-Items/BoatWorkbench	Text		Boat Workbench	Établi de bateau
+Items/BoatWorkbench	Text		Boat Workbench	Établi naval
 Items/BoatWorkbenchDesc	Text		This wide workstation allows the construction of different boats. Ahoy!	Ce large poste de travail permet la construction de différents bateaux. Ohé!
 Items/Bomb	Text		Bomb	Bombe
 Items/BombDesc	Text		A stronger explosive for crowd control and facing giant enemies.	Un explosif plus puissant pour contrôler les foules et affronter des ennemis géants.
-Items/BombPepper	Text		Bomb Pepper	Piment bombe
+Items/BombPepper	Text		Bomb Pepper	Poivrombe
 Items/BombPepperDesc	Text		A fierce vegetable for spicing up foods.	Un légume féroce pour relever les plats.
-Items/BombPepperRare	Text		Golden Bomb Pepper	Piment Bombe Dorée
-Items/BombPepperRareDesc	Text		A very rare variant of the common bomb pepper.	Une variante très rare du piment bombe commun.
-Items/BombPepperSeed	Text		Bomb Pepper Seed	Graine de piment bombe
+Items/BombPepperRare	Text		Golden Bomb Pepper	Poivrombe Dorée
+Items/BombPepperRareDesc	Text		A very rare variant of the common bomb pepper.	Une variante très rare du Poivrombe commun.
+Items/BombPepperSeed	Text		Bomb Pepper Seed	Graine de Poivrombe
 Items/BombPepperSeedDesc	Text		Grows into a spicy vegetable when planted.	Devient un légume épicé lorsqu'il est planté.
 Items/BombRing	Text		Bomb Ring	Anneau de bombardement
 Items/BombRingDesc	Text		A ring crowned with a little bomb idol. Handling explosives while wearing it results in an even stronger blast.	Une bague couronnée d'une petite idole en forme de bombe. Si vous manipulez des explosifs en la portant, l'explosion est encore plus forte.
-Items/BombScarab	Text		Bomb Scarab	Scarabée Bombe
-Items/BombScarabTrophy	Text		Bomb Scarab Figurine	Figurine Scarabée Bombe
-Items/BombScarabTrophyDesc	Text		A lifelike representation of a Bomb Scarab.	Une représentation réaliste d'un scarabée bombe.
+Items/BombScarab	Text		Bomb Scarab	Scarabombe
+Items/BombScarabTrophy	Text		Bomb Scarab Figurine	Figurine Scarabombe
+Items/BombScarabTrophyDesc	Text		A lifelike representation of a Bomb Scarab.	Une représentation réaliste d'un Scarabombe.
 Items/BoneCreole	Text		Bone Creole	Créole d'os
 Items/BoneCreoleDesc	Text		A crude piece of jewelry carved from bone.	Un bijou grossier taillé dans l'os.
 Items/BoneNecklace	Text		Bone Necklace	Collier en os
 Items/BoneNecklaceDesc	Text		A primitive piece of jewelry made from small bones. Early humans have also made these for many different reasons.	Un bijou primitif fait de petits os. Les premiers humains les ont également fabriqués pour de nombreuses raisons différentes.
 Items/BoneRing	Text		Bone Ring	Anneau d'os
-Items/BoneRingDesc	Text		A prehistoric, crude ring made from bone. Rings like these have been discovered in early human graves.	Un anneau préhistorique et brut fait d'os. Des anneaux comme ceux-ci ont été découverts dans les premières tombes humaines.
+Items/BoneRingDesc	Text		A prehistoric, crude ring made from bone. Rings like these have been discovered in early human graves.	Un anneau préhistorique et rudimentaire fait d'os. Des anneaux similaires ont été découverts dans les premières tombes humaines.
 Items/BossChest	Text		Titan's Chest	Coffre de Titan
 Items/BossChestDesc	Text		A large, ancient chest crested with gemstones.	Un grand coffre ancien orné de pierres précieuses.
 Items/BottomTracer	Text		Bottom Tracer	Traceur des fonds
@@ -1469,7 +1469,7 @@ Items/CarrockSeedDesc	Text		A tough seed that only grows in stone.	Une graine du
 Items/CartographyTable	Text		Cartography Table	Tableau de cartographie
 Items/CartographyTableDesc	Text		A table to share your map discoveries with other explorers.	Une table pour partager vos découvertes cartographiques avec d'autres explorateurs.
 Items/CatalystGemstone	Text		Catalyst Gemstone	Pierre précieuse catalyseur
-Items/CatalystGemstoneDesc	Text		It looks like an Ancient Gemstone but seems to be extremely dense with energy. Has it been used to grow the Shimmering Frontier?	Elle ressemble à une pierre précieuse ancienne, mais elle semble extrêmement dense en énergie. A-t-elle été utilisée pour faire croître la Frontière scintillante?
+Items/CatalystGemstoneDesc	Text		It looks like an Ancient Gemstone but seems to be extremely dense with energy. Has it been used to grow the Shimmering Frontier?	Elle ressemble à une gemme ancienne, mais elle semble extrêmement dense en énergie. A-t-elle été utilisée pour faire croître la Frontière scintillante?
 Items/CattleCage	Text		Cattle Transport Box	Boîte de transport de bétail
 Items/CattleCageDesc	Text		Useful, handy and secure: the box. One that cattle will feel comfortable to be carried around in and delivered right onto the doorstep of your next farm. Can only be used once.	Utile, pratique et sûre: LA boîte. Une boîte dans laquelle le bétail se sentira à l'aise pour être transporté et livré directement sur le pas de la porte de votre prochaine ferme. Elle ne peut être utilisée qu'une seule fois.
 Items/CattleFeedTray	Text		Feeding Tray	Mangeoire
@@ -1518,7 +1518,7 @@ Items/CavelingHunter	Text		Caveling Hunter	Chasseur Cavelin
 Items/CavelingHunterTrophy	Text		Caveling Hunter Figurine	Figurine de Chasseur Cavelin
 Items/CavelingHunterTrophyDesc	Text		A lifelike representation of a Caveling Hunter.	Une représentation réaliste d'un chasseur cavelin.
 Items/CavelingID	Text		Caveling ID	ID de cavelin
-Items/CavelingIDDesc	Text		A sturdy card that once belonged to a citizen of the forlorn metropolis. It's thousand of years old but the excellent print hasn't faded.	Une carte d'identité solide qui a appartenu à un citoyen de la métropole malheureuse. Elle a des milliers d'années mais l'excellente impression ne s'est pas estompée.
+Items/CavelingIDDesc	Text		A sturdy card that once belonged to a citizen of the forlorn metropolis. It's thousand of years old but the excellent print hasn't faded.	Une carte d'identité solide qui a appartenu à un citoyen de la cité oubliée. Elle a des milliers d'années mais l'excellente impression ne s'est pas estompée.
 Items/CavelingInfectedTrophy	Text		Infected Caveling Figurine	Figurine de cavelin infectée
 Items/CavelingInfectedTrophyDesc	Text		A lifelike representation of a Infected Caveling.	Une représentation réaliste d'un Cavelin infecté.
 Items/CavelingMedal	Text		Caveling Medal	Médaille de cavelin
@@ -1577,9 +1577,9 @@ Items/ChineseLanternDesc	Text		A cozy light that can create a warm atmosphere in
 Items/ChineseWallLantern	Text		Wall Paper Lantern	Décoration murale lanternes en papier
 Items/ChineseWallLanternDesc	Text		A set of small lanterns that go nicely on the walls. Just like their bigger counterparts, they exist in many different colors.	Ensemble de petites lanternes murales. Elles existent aussi en différentes couleurs.
 Items/ChippedPlate	Text		Chipped Plate	Assiette ébréchée
-Items/ChippedPlateDesc	Text		An old stone plate. What kind of food has been served on it?	Une ancienne assiette en pierre. Quel type de nourriture y a-t-il servi?
+Items/ChippedPlateDesc	Text		An old stone plate. What kind of food has been served on it?	Une ancienne assiette en pierre. Quel type de nourriture a-t-elle servie ?
 Items/ChristmasBruteTrophy	Text		Bakery Brute Figurine	Figurine de brute boulanger
-Items/ChristmasBruteTrophyDesc	Text		A lifelike representation of a Bakery Brute.	Une représentation réaliste d'une Bakery boulanger.
+Items/ChristmasBruteTrophyDesc	Text		A lifelike representation of a Bakery Brute.	Une représentation réaliste d'une brute boulanger.
 Items/ChristmasCavelingTrophy	Text		Gingerbreadling Figurine	Figurine d'un pain d'épice
 Items/ChristmasCavelingTrophyDesc	Text		A lifelike representation of a Gingerbreadling.	Une représentation réaliste d'un pain d'épice.
 Items/ChristmasFireplace	Text		Festive Fireplace	Cheminée festive
@@ -1588,7 +1588,7 @@ Items/ChristmasLightDecorationMix	Text		Festive Wall Lights	Appliques murales fe
 Items/ChristmasLightDecorationMixDesc	Text		A mix of colorful lights to decorate the walls with.	Un mélange de lumières colorées pour décorer les murs.
 Items/ChristmasLightDecorationPaintable	Text		Paintable Festive Wall Lights	Appliques murales festives à peindre
 Items/ChristmasLightDecorationPaintableDesc	Text		Small colorful lights to decorate the walls with.	Petites lumières colorées pour décorer les murs.
-Items/ChristmasLuxuryPresent	Text		Luxury Winter Present	Cadeau d'hiver de luxe
+Items/ChristmasLuxuryPresent	Text		Luxury Winter Present	Cadeau d'hiver luxueux
 Items/ChristmasLuxuryPresentDesc	Text		A mysterious golden gift with unknown contents. Rip it open and peek inside!	Un mystérieux cadeau en or au contenu inconnu. Déchirez-le et jetez un coup d'œil à l'intérieur!
 Items/ChristmasPresent	Text		Winter Present	Cadeau d'hiver
 Items/ChristmasPresentDesc	Text		A mysterious gift with unknown contents. Rip it open and peek inside!	Un cadeau mystérieux au contenu inconnu. Déchirez-le et jetez un coup d'œil à l'intérieur!
@@ -1599,21 +1599,21 @@ Items/ChristmasShroomanTrophyDesc	Text		A lifelike representation of a Santa Shr
 Items/ChristmasSlimeTrophy	Text		Snowhead Slime Figurine	Figurine Slime bonhomme de neige
 Items/ChristmasSlimeTrophyDesc	Text		A lifelike representation of a Snowhead Slime.	Une représentation réaliste d'un Slime bonhomme de neige.
 Items/ChristmasSnowman	Text		Snowman	Bonhomme de neige
-Items/ChristmasSnowmanDesc	Text		A cold fellow that came into existence by stacking large snowballs together. Keep it around to not feel as lonely anymore.	Un être froid qui est né de l'empilement de grosses boules de neige. Gardez-le autour de vous pour ne plus vous sentir aussi seul.
+Items/ChristmasSnowmanDesc	Text		A cold fellow that came into existence by stacking large snowballs together. Keep it around to not feel as lonely anymore.	Un être froid né de l'empilement de grosses boules de neige. Gardez-le autour de vous pour ne plus vous sentir aussi seul.
 Items/ChristmasSpikedSlimeTrophy	Text		Carrot Slime Figurine	Figurine Slime carotte
 Items/ChristmasSpikedSlimeTrophyDesc	Text		A lifelike representation of a Carrot Slime.	Une représentation réaliste d'un Slime carrote.
 Items/ChristmasStool	Text		Festive Stool	Tabouret de fête
-Items/ChristmasStoolDesc	Text		A nice little stool that goes well with a richly decorated table. It's hard to sit still on it when opening presents is due.	Un joli petit tabouret qui se marie bien avec une table richement décorée. Il est difficile de rester assis dessus lorsque l'ouverture des cadeaux est due.
+Items/ChristmasStoolDesc	Text		A nice little stool that goes well with a richly decorated table. It's hard to sit still on it when opening presents is due.	Un joli petit tabouret qui se marie bien avec une table richement décorée. Il est difficile de rester assis dessus lorsque l'ouverture des cadeaux approche.
 Items/ChristmasTable	Text		Festive Table	Table de fête
 Items/ChristmasTableDesc	Text		This big table serves as a nice basis to set up a great dinner and bring the family together.	Cette grande table sert de base agréable pour organiser un bon dîner et réunir la famille.
 Items/ChristmasTree	Text		Decorated Winter Tree	Arbre d'hiver décoré
 Items/ChristmasTreeDesc	Text		Celebrating the cold season is not complete without setting up one of these. The centerpoint of every well-decorated lawn or living room.	Célébrer la saison d'hiver n'est pas complet sans en installer un. Le point central de chaque pelouse ou salon bien décoré.
 Items/ChristmasWallDecorationA	Text		Winter Wreath Wall Decoration	Décoration murale guirlande d'hiver
-Items/ChristmasWallDecorationADesc	Text		This simple wreath will do nicely on any wall and show visitors that its finally holiday.	Cette couronne simple ira bien sur n'importe quel mur et montrera aux visiteurs que c'est enfin les vacances.
+Items/ChristmasWallDecorationADesc	Text		This simple wreath will do nicely on any wall and show visitors that its finally holiday.	Cette guirlande simple ira bien sur n'importe quel mur et montrera aux visiteurs que c'est enfin les vacances.
 Items/ChristmasWallDecorationB	Text		Holiday Sock Wall Decoration	Décoration murale de chaussettes de noel
 Items/ChristmasWallDecorationBDesc	Text		A cozy sock to put on the wall. By tradition these were filled with small trinkets and candy.	Une chaussette douillette à mettre au mur. Par tradition, ceux-ci étaient remplis de petits bibelots et de bonbons.
 Items/ChristmasWallDecorationC	Text		Candy Cane Wall Decoration	Décoration murale canne à sucre
-Items/ChristmasWallDecorationCDesc	Text		Two crossed candy canes that are rather for decoration, not consumption. Put them on the wall for a nice winter flair.	Deux canne à sucre croisées qui sont plutôt pour la décoration, pas pour la consommation. Mettez-les sur le mur pour un joli flair d'hiver.
+Items/ChristmasWallDecorationCDesc	Text		Two crossed candy canes that are rather for decoration, not consumption. Put them on the wall for a nice winter flair.	Deux cannes à sucre croisées décoratives, non comestibles. Mettez-les sur le mur pour égayer vos fêtes.
 Items/ChristmasWallDecorationD	Text		Winter Candle Wall Decoration	Décoration murale bougie d'hiver
 Items/ChristmasWallDecorationDDesc	Text		Two wintry candles sitting on a candle dish, made to be put on the wall. Careful with the fire, though.	Deux bougies hivernales posées sur un plat à bougies, conçues pour être accrochées au mur. Attention cependant au feu.
 Items/ChristmasWallDecorationE	Text		Snowflake Wall Decoration	Décoration murale flocon de neige
@@ -1621,13 +1621,13 @@ Items/ChristmasWallDecorationEDesc	Text		A delicate snowflake that will look gre
 Items/ChristmasWorkbench	Text		Festive Workbench	Établi festif
 Items/ChristmasWorkbenchDesc	Text		This crafting table is perfect to create holiday decorations for the cold season.	Cette table de bricolage est parfaite pour créer des décorations de vacances pour la saison d'hiver.
 Items/Chrysalis	Text		Chrysalis	Chrysalide
-Items/ChrysalisDesc	Text		Icky groundcover that feels strange to walk across. Larvas will infest chrysalis-covered areas over time.	Couvre-sol glauque qui semble étrange à traverser. Les larves infesteront les zones couvertes de chrysalide au fil du temps.
+Items/ChrysalisDesc	Text		Icky groundcover that feels strange to walk across. Larvas will infest chrysalis-covered areas over time.	Amas glauque et étrange à traverser. Les larves infesteront les zones couvertes de chrysalide au fil du temps.
 Items/CityCavelingMoss	Text		Urban Moss	Mousse urbaine
-Items/CityCavelingMossDesc	Text		Ground plants found in the forlorn metropolis. They grow tiny berries that attract cavelings of the corresponding area.	Plantes terrestres trouvées dans la métropole désespérée. Ils poussent de minuscules baies qui attirent les cavelin de la zone correspondante.
-Items/CityDestructible	Text		Metropolis Crate	Caisse Métropolis
+Items/CityCavelingMossDesc	Text		Ground plants found in the forlorn metropolis. They grow tiny berries that attract cavelings of the corresponding area.	Plantes terrestres trouvées dans la cité oubliée. Ils poussent de minuscules baies qui attirent les cavelin de la zone correspondante.
+Items/CityDestructible	Text		Metropolis Crate	Caisse de la cité oubliée
 Items/CityDestructibleDesc	Text		This precious container holds useful items that have been used by citizens of the ancient city.	Ce précieux conteneur contient des objets utiles qui ont été utilisés par les citoyens de l'ancienne ville.
-Items/CityPitPillar	Text		Metropolis Pit Pillar	Pilier de la fosse de Metropolis
-Items/CityPitPillarDesc	Text		A load-bearing pillar which holds up the foundation of the forlorn Metropolis.	Un pilier porteur qui soutient les fondations de la Métropole désolée.
+Items/CityPitPillar	Text		Metropolis Pit Pillar	Pilier de la fosse de la cité oubliée
+Items/CityPitPillarDesc	Text		A load-bearing pillar which holds up the foundation of the forlorn Metropolis.	Un pilier porteur qui soutient les fondations de la cité oubliée.
 Items/ClayCavelingMoss	Text		Clay Moss	Mousse d'argile
 Items/ClayCavelingMossDesc	Text		Ground plants found in the Clay Caves. They grow aromatic berries that attract cavelings of the corresponding area.	Plantes terrestres trouvées dans les grottes d'argile. Ils font pousser des baies aromatiques qui attirent les cavelin de la zone correspondante.
 Items/ClayPot	Text		Clay Pot	Pot en terre cuite
@@ -1669,7 +1669,7 @@ Items/CookedSteak	Text		Steak	Steak
 Items/CookedSushi	Text		Sushi	Sushi
 Items/CookedWrap	Text		Wrap	Wrap
 Items/CookiesAndMilk	Text		Cookies & Milk	Biscuits et Lait
-Items/CookiesAndMilkDesc	Text		To trade with the one that decides who is naughty and who is nice.	Échanger avec celui qui décide qui est méchant et qui est gentil.
+Items/CookiesAndMilkDesc	Text		To trade with the one that decides who is naughty and who is nice.	A échanger avec celui qui décide de qui est méchant et qui est gentil.
 Items/CookingPot	Text		Cooking Pot	Marmite
 Items/CookingPotBreastArmor	Text		Cooking Pot Tub	Armure Marmite
 Items/CookingPotBreastArmorDesc	Text		Only the ones really passionate about cooking dare to become the pot itself.	Seuls les vrais passionnés de cuisine osent devenir la marmite elle-même.
@@ -1677,38 +1677,38 @@ Items/CookingPotDesc	Text		Cooking ingredients brings out their full potential. 
 Items/CookingPotHelm	Text		Cooking Pot Lid	Couvercle de marmite
 Items/CookingPotHelmDesc	Text		A shiny metal cover that suppresses your boiling point.	Un couvercle en métal brillant qui supprime votre point d'ébullition.
 Items/CopperAnvil	Text		Copper Anvil	Enclume en cuivre
-Items/CopperAnvilDesc	Text		Get started with creating armor for looks and combat.	Commencez à créer des armures pour l'apparence et le combat.
+Items/CopperAnvilDesc	Text		Get started with creating armor for looks and combat.	Créez des armures pour le combat, et pour le style.
 Items/CopperBar	Text		Copper Bar	Lingot de cuivre
 Items/CopperBarDesc	Text		A simple metal ingot for blacksmithing.	Un simple lingot de métal pour la forge.
 Items/CopperBreastArmor	Text		Copper Breastplate	Cuirasse en cuivre
-Items/CopperBreastArmorDesc	Text		Got no sixpack? Just craft one!	Vous n'avez pas d'abdos? Maintenant si!
+Items/CopperBreastArmorDesc	Text		Got no sixpack? Just craft one!	Vous n'avez pas d'abdos? Fabriquez-en!
 Items/CopperChest	Text		Copper Chest	Coffre en cuivre
-Items/CopperChestDesc	Text		An crude chest made from copper. It is not locked anymore.	Un coffre brut en cuivre. Il n'est plus verrouillé.
+Items/CopperChestDesc	Text		An crude chest made from copper. It is not locked anymore.	Un coffre en cuivre. Il n'est plus verrouillé à présent.
 Items/CopperCrossNecklace	Text		Copper Cross Necklace	Collier en cuivre avec croix
 Items/CopperCrossNecklaceDesc	Text		This pendant sharpens the focus, allowing for more precise hits.	Ce pendentif affine la mise au point, permettant des frappes plus précises.
 Items/CopperHelm	Text		Copper Helm	Heaume en cuivre
-Items/CopperHelmDesc	Text		Resembles more of a bucket but repels strong blows to the head.	Ressemble plus à un seau mais repousse les coups violents à la tête.
+Items/CopperHelmDesc	Text		Resembles more of a bucket but repels strong blows to the head.	Ressemble plus à un seau qu'à un casque, mais reste une protection efficace.
 Items/CopperHoe	Text		Copper Hoe	Houe en cuivre
 Items/CopperHoeDesc	Text		A sturdy tool to prepare ground for farming.	Un outil robuste pour préparer le terrain pour l'agriculture.
 Items/CopperKey	Text		Copper Key	Clé en cuivre
-Items/CopperKeyDesc	Text		A crude key cast in copper. There should be a lock somewhere that it fits into.	Une clé brute moulée en cuivre. Il devrait y avoir un verrou quelque part dans lequel elle s'insère.
+Items/CopperKeyDesc	Text		A crude key cast in copper. There should be a lock somewhere that it fits into.	Une clé brute moulée en cuivre. Elle devrait être capable de déverrouiller quelque chose.
 Items/CopperMiningPick	Text		Copper Pickaxe	Pioche en cuivre
-Items/CopperMiningPickDesc	Text		A sturdy tool, well-suited for breaking down walls effortlessly.	Un outil robuste, bien adapté pour abattre les murs sans effort.
+Items/CopperMiningPickDesc	Text		A sturdy tool, well-suited for breaking down walls effortlessly.	Un outil robuste et bien adapté pour abattre les murs sans effort.
 Items/CopperOre	Text		Copper Ore	Minerai de cuivre
 Items/CopperOreBoulder	Text		Copper Ore Boulder	Bloc de cuivre
-Items/CopperOreDesc	Text		Commonly found in dirt walls.	Communément trouvé dans les murs en terre battue.
+Items/CopperOreDesc	Text		Commonly found in dirt walls.	Communément trouvé dans les murs en terre.
 Items/CopperPantsArmor	Text		Copper Pants	Jambières en cuivre
 Items/CopperPantsArmorDesc	Text		Protects the shins with ease.	Protège facilement les tibias.
 Items/CopperShovel	Text		Copper Shovel	Pelle en cuivre
 Items/CopperShovelDesc	Text		A sturdy shovel, good for digging up ground.	Une pelle robuste, idéale pour creuser le sol.
-Items/CopperSledge	Text		Copper Sledge Hammer	Marteau de forgeron en cuivre
+Items/CopperSledge	Text		Copper Sledge Hammer	Marteau en cuivre
 Items/CopperSledgeDesc	Text		A good weapon for smashing foes and walls.	Une bonne arme pour frapper les ennemis et les murs.
 Items/CopperSword	Text		Copper Sword	Épée en cuivre
 Items/CopperSwordDesc	Text		A good weapon for slaying foes.	Une bonne arme pour tuer les ennemis.
 Items/CopperWorkbench	Text		Copper Workbench	Établi en cuivre
 Items/CopperWorkbenchDesc	Text		A versatile workbench to prepare you for the underground world.	Un établi polyvalent pour vous préparer au monde souterrain.
 Items/CoralAmulet	Text		Coral Amulet	Amulette de corail
-Items/CoralAmuletDesc	Text		A necklace made with a pretty coral badge and white pebbles.	Un collier composé d'un joli écusson corail et de galets blancs.
+Items/CoralAmuletDesc	Text		A necklace made with a pretty coral badge and white pebbles.	Un collier composé d'un joli écusson rose corail et de galets blancs.
 Items/CoralBridge	Text		Coral Bridge	Pont de corail
 Items/CoralBridgeDesc	Text		A shimmering bridge supported by coral pillars that are reaching down into the sea ground.	Un pont scintillant soutenu par des piliers de corail qui descendent dans le sol marin.
 Items/CoralFence	Text		Coral Fence	Clôture de corail
@@ -1718,7 +1718,7 @@ Items/CoralFenceGateDesc	Text		A fitting gate for the coral fence.	Une porte app
 Items/CoralFloor	Text		Coral Floor	Plancher de corail
 Items/CoralFloorDesc	Text		A floor made from little organic tiles and differently colored sea floor pebbles.	Un sol composé de petits carreaux organiques et de galets de fonds marins de différentes couleurs.
 Items/CoralPlank	Text		Coral plank	Planche de corail
-Items/CoralPlankDesc	Text		Coral wood slate for more precise carpentry work.	Ardoise en bois de corail pour des travaux de menuiserie plus précis.
+Items/CoralPlankDesc	Text		Coral wood slate for more precise carpentry work.	Planche de corail pour des travaux de menuiserie plus exigeants.
 Items/CoralRing	Text		Coral Ring	Anneau de corail
 Items/CoralRingDesc	Text		An intricate ring naturally grown from pink, branchy corals.	Un anneau complexe naturellement issu de coraux roses branchus.
 Items/CoralRootSeed	Text		Coral Seed	Graine de corail
@@ -1797,9 +1797,9 @@ Items/CrystalMerchant	Text		Brave Merchant	Commerçant courageux
 Items/CrystalMerchantSpawnItem	Text		Nuclear Battery	Batterie nucléaire
 Items/CrystalMerchantSpawnItemDesc	Text		A highly advanced piece of technology that stores nuclear energy. When placed in a habitable room, it will attract a bold traveler of the Shimmering Frontier.	Une pièce de technologie très avancée qui stocke l'énergie nucléaire. Placée dans une pièce habitable, elle attirera un voyageur audacieux de la Frontière scintillante.
 Items/CrystalMeteorShard	Text		Crystal Meteor Shard	Éclat de météore de cristal
-Items/CrystalMeteorShardDesc	Text		This piece is merely a fraction of an enormous ancient gemstone.	Cette pièce n'est qu'une fraction d'une énorme pierre précieuse ancienne.
+Items/CrystalMeteorShardDesc	Text		This piece is merely a fraction of an enormous ancient gemstone.	Cette pièce n'est qu'une fraction d'une énorme gemme ancienne.
 Items/CrystalMeteorShardOffhand	Text		Crystal Meteor Chunk	Morceau de météore de cristal
-Items/CrystalMeteorShardOffhandDesc	Text		A very big ancient gemstone fused from smaller shards. It emits a strange energy that makes you feel nauseous and feverish.	Une très grosse pierre précieuse ancienne fusionnée à partir d'éclats plus petits. Il dégage une énergie étrange qui vous donne des nausées et de la fièvre.
+Items/CrystalMeteorShardOffhandDesc	Text		A very big ancient gemstone fused from smaller shards. It emits a strange energy that makes you feel nauseous and feverish.	Une très grosse gemme ancienne fusionnée à partir d'éclats plus petits. Il dégage une énergie étrange qui vous donne des nausées et de la fièvre.
 Items/CrystalNecklace	Text		Glass Bead Necklace	Collier de perles de verre
 Items/CrystalNecklaceDesc	Text		A captivating necklace that catches your enemies off-guard so that they lower their defense. Unfortunately it has the same effect on you.	Un collier captivant qui surprend vos ennemis afin qu'ils réduisent leur défense. Malheureusement, il a le même effet sur vous.
 Items/CrystalPantsArmor	Text		Solarite Tassets	Glands en solarite
@@ -1807,9 +1807,9 @@ Items/CrystalPantsArmorDesc	Text		Heavy hip protection made from miraculous mate
 Items/CrystalRing	Text		Glass Bead Ring	Bague en perles de verre
 Items/CrystalRingDesc	Text		A captivating ring that catches your enemies off-guard so that they lower their defense. Unfortunately it has the same effect on you.	Un anneau captivant qui prend vos ennemis au dépourvu afin qu'ils réduisent leur défense. Malheureusement, il a le même effet sur vous.
 Items/CrystalSpearhead	Text		Crystal Spearhead	Fer de lance de cristal
-Items/CrystalSpearheadDesc	Text		The leftovers of a crude prehistoric weapon made with an ancient gemstone. It may have helped early humans to hunt more effectively.	Les restes d'une arme préhistorique brute fabriquée avec une pierre précieuse ancienne. Cela a peut-être aidé les premiers humains à chasser plus efficacement.
+Items/CrystalSpearheadDesc	Text		The leftovers of a crude prehistoric weapon made with an ancient gemstone. It may have helped early humans to hunt more effectively.	Les restes d'une arme préhistorique brute fabriquée avec une gemme ancienne. Cela a peut-être aidé les premiers humains à chasser plus efficacement.
 Items/CrystalSphere	Text		Crystal Sphere	Sphère de cristal
-Items/CrystalSphereDesc	Text		A small orb made from deep-blue glass. Its purpose is unknown.	Un petit orbe en verre bleu foncé. Son but est inconnu.
+Items/CrystalSphereDesc	Text		A small orb made from deep-blue glass. Its purpose is unknown.	Un petit orbe en verre bleu foncé. Son utilité reste un mystère.
 Items/CrystalStalagmite	Text		Crystal Stalagmite	Stalagmite en cristal
 Items/CrystalStalagmiteDesc	Text		A naturally-grown pillar that rises up from the crystalline depths of the Shimmering Frontier.	Un pilier naturel qui s'élève des profondeurs cristallines de la Frontière scintillante.
 Items/CrystalStar	Text		Crystal Star	Étoile de cristal
@@ -2051,7 +2051,7 @@ Items/FoodRation	Text		Food Ration	Ration alimentaire
 Items/FoodRationDesc	Text		Canned meal made to last for years. You should look for better food options soon.	Repas en conserve fait pour durer des années. Vous devriez bientôt chercher de meilleures options alimentaires.
 Items/FoodRationPlural	Text		Food Rations	Rations alimentaires
 Items/ForkedCoral	Text		Forked Coral	Corail fourchu
-Items/ForkedCoralDesc	Text		A trident-shaped coral, not very valuable but nice to look at.	Un corail en forme de trident, peu précieux mais agréable à regarder.
+Items/ForkedCoralDesc	Text		A trident-shaped coral, not very valuable but nice to look at.	Un corail en forme de trident, n'a pas vraiment de valeur, mais est agréable à regarder.
 Items/FrankensteinCavelingBruteTrophy	Text		Frankenbrute Figurine	Figurine Frankenbrute
 Items/FrankensteinCavelingBruteTrophyDesc	Text		A lifelike representation of a Frankenbrute.	Une représentation réaliste d'une Frankenbrute.
 Items/FrankensteinHelm	Text		Frankenbrute Head	Tête de Frankenbrute
@@ -2329,8 +2329,8 @@ Items/GrubEggNecklaceDesc	Text		This odd necklace seems to have a life of its ow
 Items/GrubKapokSeed	Text		Grub Kapok Seed	Graine Grub Kapok
 Items/GrubKapokSeedDesc	Text		Turns into a plant that gives fiber when harvested.	Se transforme en une plante qui donne des fibres lors de la récolte.
 Items/GrubKnot	Text		Grub Knot	Noeud de ver
-Items/GrubKnotDesc	Text		A mutated lump of small grubs. Disgusting.	Un morceau muté de petites larves. Dégoûtant.
-Items/GrubPearl	Text		Grub Pearl	Perle de Grub
+Items/GrubKnotDesc	Text		A mutated lump of small grubs. Disgusting.	Un amas de larves entrelacées. Dégoûtant.
+Items/GrubPearl	Text		Grub Pearl	Perle de larve
 Items/GrubPearlDesc	Text		Is it a grub-shaped pearl or a pearl-like grub? 	Est-ce une perle en forme de larve ou une larve ressemblant à une perle?
 Items/Grubzooka	Text		Grubzooka	Grubzooka
 Items/GrubzookaDesc	Text		The heavy shots from the Grubzooka also tear down any dirt, sand and turf walls in its path.	Les tirs lourds du Grubzooka abattent également tous les murs de terre, de sable et de gazon sur son passage.
@@ -2349,9 +2349,9 @@ Items/HalloweenWorkbenchDesc	Text		A coffin-shaped workbench that aids the creat
 Items/HandMortar	Text		Hand Mortar	Mortier à main
 Items/HandMortarDesc	Text		Problems that can't be solved can usually be blasted away.	Les problèmes qui ne peuvent pas être résolus peuvent généralement être éliminés.
 Items/HardThorn	Text		Hard Thorn	Épine dure
-Items/HardThornDesc	Text		A sturdy wooden thorn, someone may have a use for it.	Une épine en bois solide, quelqu'un peut en avoir l'utilité.
+Items/HardThornDesc	Text		A sturdy wooden thorn, someone may have a use for it.	Une épine en bois solide, quelqu'un saura peut-être quoi en faire.
 Items/HealingPotion	Text		Healing Potion	Potion de soin
-Items/HealingPotionDesc	Text		A healthy elixir that heals instantly. Also tastes good.	Un élixir sain qui guérit instantanément. Bon goût aussi.
+Items/HealingPotionDesc	Text		A healthy elixir that heals instantly. Also tastes good.	Un élixir sain au goût agréable qui guérit instantanément.
 Items/HeartBerry	Text		Heart Berry	Baie de Coeur
 Items/HeartBerryDesc	Text		A sweet, juicy berry that refreshes the body.	Une baie sucrée et juteuse qui rafraîchit le corps.
 Items/HeartBerryNecklace	Text		Heart Berry Necklace	Collier Baie de Coeur
@@ -2375,7 +2375,7 @@ Items/HiveBoneHelmDesc	Text		A helm crowned with erratic fangs and thorns akin t
 Items/HiveBonePantsArmor	Text		Hivebone Pants	Pantalon de la ruche
 Items/HiveBonePantsArmorDesc	Text		Legwear of haphazard pillows of thick hide that wrap around the legs as defensive folds.	Les jambières sont constituées de coussins de peau épaisse qui s'enroulent autour des jambes comme des plis défensifs.
 Items/HiveBossCrystal	Text		Heart of the Hive Mother	Cœur de la Ruche-Mère
-Items/HiveBossCrystalDesc	Text		A giant ancient gemstone that mutated its holder into a monstrosity.	Une pierre précieuse ancienne géante qui a muté son détenteur en une monstruosité.
+Items/HiveBossCrystalDesc	Text		A giant ancient gemstone that mutated its holder into a monstrosity.	Une gemme ancienne géante qui a muté son détenteur en une monstruosité.
 Items/HiveBossSummoningItem	Text		Hive Mother Summoning Idol	Idole d'invocation de la Ruche-Mère
 Items/HiveBossSummoningItemDesc	Text		Crystal idol to reawaken the Hive Mother. Consumed upon placing it on the Hive Mother's summoning rune.	Idole de cristal pour réveiller la Ruche-Mère. Consomme en le plaçant sur la rune d'invocation de la Ruche-Mère.
 Items/HiveDestructible	Text		Hive Growth	Croissance de la ruche
@@ -2397,7 +2397,7 @@ Items/HivemotherHalloweenChest	Text		Haunted Hive Mother Chest	Coffre de Ruche-M
 Items/HivemotherHalloweenChestDesc	Text		This chest is pulsating as if it is alive, a leftover of the Haunted Hive Mother.	Ce coffre palpite comme s'il était vivant, un reste de la Ruche-Mère hantée.
 Items/HivemotherTrophy	Text		Hive Mother Figurine	Figurine Ruche-Mère
 Items/HivemotherTrophyDesc	Text		A lifelike representation of the Hive Mother.	Une représentation réaliste de la Ruche-Mère.
-Items/HomeworldReminiscence	Text		Homeworld Reminiscence	Souvenirs de Homeworld
+Items/HomeworldReminiscence	Text		Homeworld Reminiscence	Souvenirs d'une autre planète
 Items/HomeworldReminiscenceDesc	Text		The replica of a blue, glistening planet, orbited by what seems to be three suns. Is this a model of a solar system?	La réplique d'une planète bleue, scintillante, en orbite autour de ce qui semble être trois soleils. S'agit-il d'une maquette de système solaire?
 Items/HotChocolate	Text		Hot Chocolate	Chocolat chaud
 Items/HotChocolateDesc	Text		A mug full of creamy, hot chocolate milk with small marshmallows on top. Drinking it feels like being a kid again.	Une tasse pleine de lait au chocolat chaud et crémeux avec de petites guimauves sur le dessus. Boire, c'est comme redevenir un enfant.
@@ -2537,7 +2537,7 @@ Items/LargeAlienTechDestructible	Text		Large Alien Tech Destructible	Grande cais
 Items/LargeAncientDestructible	Text		Large Ancient Crate	Grande caisse ancienne
 Items/LargeBomb	Text		Large Bomb	Grosse bombe
 Items/LargeBombDesc	Text		A very strong explosive for massive destruction.	Un explosif très puissant pour une destruction massive.
-Items/LargeCityDestructible	Text		Large Metropolis Crate	Grande caisse Metropolis
+Items/LargeCityDestructible	Text		Large Metropolis Crate	Grande caisse de la cité oubliée
 Items/LargeCrystalDestructible	Text		Large Sun Crystal	Grand cristal solaire
 Items/LargeDesertDestructible	Text		Large Desert Flower Vessel	Grand vase à fleurs du désert
 Items/LargeDesertTempleDestructible	Text		Large Temple Crate	Grande caisse du Temple
@@ -2625,7 +2625,7 @@ Items/LegendaryBowDesc	Text		A legendary, masterfully crafted bow that shoots pu
 Items/LegendaryBowParchment	Text		Glyph Parchment	Parchemin de glyphe
 Items/LegendaryBowParchmentDesc	Text		A unusually well preserved piece of ancient paper. There are glyphs and images on it that show how to forge a powerful ancient weapon.	Un morceau de papier ancien exceptionnellement bien conservé. Il y a des glyphes et des images dessus qui montrent comment forger une puissante arme ancienne.
 Items/LegendaryBowPart1	Text		Channeling Gemstone	Pierre précieuse de canalisation
-Items/LegendaryBowPart1Desc	Text		A specially carved ancient gemstone that focusses energy at it's tip. It seems to be the center piece of an ancient powerful weapon.	Une pierre précieuse ancienne spécialement sculptée qui concentre l'énergie à sa pointe. Il semble être la pièce maîtresse d'une ancienne arme puissante.
+Items/LegendaryBowPart1Desc	Text		A specially carved ancient gemstone that focusses energy at it's tip. It seems to be the center piece of an ancient powerful weapon.	Une gemme ancienne spécialement sculptée qui concentre l'énergie à sa pointe. Il semble être la pièce maîtresse d'une ancienne arme puissante.
 Items/LegendaryBowPart2	Text		Fractured Limbs	Membres fracturés
 Items/LegendaryBowPart2Desc	Text		Golden pieces that once seemed to be fused together to endure great pressure. Something inherently powerful must have broken them apart.	Des pièces dorées qui semblaient autrefois fusionnées pour supporter une grande pression. Quelque chose d'intrinsèquement puissant a dû les séparer.
 Items/LegendaryBowPart3	Text		Energy String	Chaîne d'énergie
@@ -2774,23 +2774,23 @@ Items/MushroomHelm	Text		Shrooman Cap	Capuchon de shrooman
 Items/MushroomHelmDesc	Text		It grows on your head. You can feel your wounds growing shut along with it.	Il pousse sur votre tête. Tu peux sentir tes blessures se refermer en même temps que lui.
 Items/MushroomPlural	Text		Mushrooms	Champignons
 Items/MusicBowl	Text		Music Bowl	Bol à musique
-Items/MusicBowlDesc	Text		A precious bowl holding a golden cylinder that once seemed to have played a melancholic melody. But it stopped working.	Un précieux bol contenant un cylindre d'or qui semblait autrefois avoir joué une mélodie mélancolique. Mais il a cessé de fonctionner.
+Items/MusicBowlDesc	Text		A precious bowl holding a golden cylinder that once seemed to have played a melancholic melody. But it stopped working.	Un précieux bol contenant un cylindre d'or qui semblait autrefois jouer de nombreuses mélodies mélancoliques. Mais il ne fonctionne plus à présent.
 Items/MusicSheetCookServeDelicious3ItsDangerousToGoAlone	Text		CSD!3!? – It's Dangerous To Go Alone	CDD!3!? - It's Dangerous To Go Alone
-Items/MusicSheetCookServeDelicious3ItsDangerousToGoAloneDesc	Text		A composition containing a motivating melody. Putting it on a music sheet stand lets one play the melody with an instrument.	Une composition contenant une mélodie motivante. La poser sur un pupitre permet de jouer la mélodie avec un instrument.
+Items/MusicSheetCookServeDelicious3ItsDangerousToGoAloneDesc	Text		A composition containing a motivating melody. Putting it on a music sheet stand lets one play the melody with an instrument.	Une composition contenant une mélodie motivante. En la plaçant sur un pupitre, on peut y jouer la mélodie correspondante.
 Items/MusicSheetCoreKeeperBaseTheme	Text		Core Keeper - Base Theme	Core Keeper - Thème de base
-Items/MusicSheetCoreKeeperBaseThemeDesc	Text		A composition containing a homely melody. Putting it on a music sheet stand lets one play the melody with an instrument.	Une composition contenant une mélodie familiale. La poser sur un pupitre permet de jouer la mélodie avec un instrument.
+Items/MusicSheetCoreKeeperBaseThemeDesc	Text		A composition containing a homely melody. Putting it on a music sheet stand lets one play the melody with an instrument.	Une composition contenant une mélodie familiale. En la plaçant sur un pupitre, on peut y jouer la mélodie correspondante.
 Items/MusicSheetHappyBirthday	Text		Happy Birthday To You	Joyeux anniversaire
-Items/MusicSheetHappyBirthdayDesc	Text		A composition containing a celebrative birthday melody. Putting it on a music sheet stand lets one play the melody with an instrument.	Une composition contenant une mélodie d'anniversaire. La poser sur un pupitre permet de jouer la mélodie avec un instrument.
+Items/MusicSheetHappyBirthdayDesc	Text		A composition containing a celebrative birthday melody. Putting it on a music sheet stand lets one play the melody with an instrument.	Une composition contenant une mélodie d'anniversaire. En la plaçant sur un pupitre, on peut y jouer la mélodie correspondante.
 Items/MusicSheetOwlBoyMainTheme	Text		Owlboy - Main Title	Owlboy - Theme principal
 Items/MusicSheetOwlBoyMainThemeDesc	Text		A composition containing an uplifting melody. Putting it on a music sheet stand lets one play the melody with an instrument.	Une composition contenant une mélodie édifiante. Le poser sur un pupitre permet de jouer la mélodie avec un instrument.
 Items/MusicSheetStand	Text		Music Sheet Stand	Pupitre
-Items/MusicSheetStandDesc	Text		A useful piece of furniture to prop up music sheets. When a music sheet is inserted, one can play the melody it contains with an instrument.	Un meuble utile pour caler les partitions. Lorsqu'une partition est insérée, on peut jouer la mélodie qu'elle contient avec un instrument.
+Items/MusicSheetStandDesc	Text		A useful piece of furniture to prop up music sheets. When a music sheet is inserted, one can play the melody it contains with an instrument.	Un meuble utile pour caler les partitions. Lorsqu'une partition est insérée, avec un instrument, on peut y jouer la mélodie qu'elle contient.
 Items/MusicSheetStardewValleyItsABigWorldOutside	Text		Stardew Valley - Spring (It's a Big World Outside)	Stardew Valley - Printemps (It's a Big World Outside)
-Items/MusicSheetStardewValleyItsABigWorldOutsideDesc	Text		A composition containing a relaxing melody. Putting it on a music sheet stand lets one play the melody with an instrument.	Composition contenant une mélodie relaxante. En la plaçant sur un pupitre, on peut jouer la mélodie avec un instrument.
+Items/MusicSheetStardewValleyItsABigWorldOutsideDesc	Text		A composition containing a relaxing melody. Putting it on a music sheet stand lets one play the melody with an instrument.	Composition contenant une mélodie relaxante. En la plaçant sur un pupitre, on peut y jouer la mélodie correspondante.
 Items/MusicSheetTerrariaJourneysBeginning	Text		Terraria - Journey's Beginning	Terraria - Journey's Beginning
-Items/MusicSheetTerrariaJourneysBeginningDesc	Text		A composition containing an adventurous melody. Putting it on a music sheet stand lets one play the melody with an instrument.	Une composition contenant une mélodie aventureuse. Le poser sur un pupitre permet de jouer la mélodie avec un instrument.
+Items/MusicSheetTerrariaJourneysBeginningDesc	Text		A composition containing an adventurous melody. Putting it on a music sheet stand lets one play the melody with an instrument.	Une composition contenant une mélodie aventureuse. En la plaçant sur un pupitre, on peut y jouer la mélodie correspondante.
 Items/MusicSheetValheimMeadows	Text		Valheim - Meadows	Valheim - Les prairies
-Items/MusicSheetValheimMeadowsDesc	Text		A composition containing a peaceful melody. Putting it on a music sheet stand lets one play the melody with an instrument.	Composition contenant une mélodie paisible. En la plaçant sur un pupitre, on peut jouer la mélodie avec un instrument.
+Items/MusicSheetValheimMeadowsDesc	Text		A composition containing a peaceful melody. Putting it on a music sheet stand lets one play the melody with an instrument.	Composition contenant une mélodie paisible. En la plaçant sur un pupitre, on peut y jouer la mélodie correspondante.
 Items/MusicWorkbench	Text		Music Workbench	Établi de musique
 Items/MusicWorkbenchDesc	Text		This writers' table sparks the inspiration for tools and compositions used to conduct music.	Cette table d'écrivains suscite l'inspiration pour les outils et les compositions utilisés pour diriger la musique.
 Items/MysteriousIdol	Text		Mysterious Idol	Idole mystérieuse
@@ -2803,7 +2803,7 @@ Items/NatureDestructibleDesc	Text		A yellow plant containing organic loot.	Une p
 Items/NatureGemstone	Text		Jungle Emerald	Émeraude de la jungle
 Items/NatureGemstoneDesc	Text		A verdant gemstone rarely found in lush regions. Its special properties allow it to be used for higher quality crafting.	Une pierre précieuse verdoyante que l'on trouve rarement dans les régions luxuriantes. Ses propriétés particulières lui permettent d'être utilisée pour des travaux d'artisanat de qualité supérieure.
 Items/NatureWoodenDestructible	Text		Overgrown Wooden Crate	Caisse en bois moussu
-Items/NatureWoodenDestructibleDesc	Text		A box that has been partially reclaimed by nature. It's containing useful goods.	Une boîte qui a été partiellement récupérée par la nature. Il contient des biens utiles.
+Items/NatureWoodenDestructibleDesc	Text		A box that has been partially reclaimed by nature. It's containing useful goods.	Une boîte qui a été partiellement usée par le temps. Elle contient des biens utiles.
 Items/NilipedeTrophy	Text		Nilipede Figurine	Figurine de Nilipede
 Items/NilipedeTrophyDesc	Text		A lifelike representation of a Nilipede.	Une représentation réaliste d'un Nilipede.
 Items/NinjaBreastArmor	Text		Ninja Garments	Tenue de Ninja
@@ -2813,19 +2813,19 @@ Items/NinjaHelmDesc	Text		Hidden by the dark.	Caché par l'obscurité.
 Items/NinjaPantsArmor	Text		Ninja Leggings	Leggings de Ninja
 Items/NinjaPantsArmorDesc	Text		Gone without a sound.	Disparu sans un bruit.
 Items/NobleRing	Text		Noble Ring	Anneau Noble
-Items/NobleRingDesc	Text		An expensive looking ring featuring a ruby. It must have belonged to someone wealthy.	Une bague d'aspect cher avec un rubis. Il devait appartenir à quelqu'un de riche.
+Items/NobleRingDesc	Text		An expensive looking ring featuring a ruby. It must have belonged to someone wealthy.	Une bague à l'aspect noble ornée d'un rubis. Elle appartenait probablement à quelqu'un de riche.
 Items/NomadNecklace	Text		Nomad Necklace	Collier de Nomade
-Items/NomadNecklaceDesc	Text		Made from ragged cloth and metal badges this witness of the desert gives you a keen advantage on attacks.	Fabriqué à partir de tissu en lambeaux et d'insignes métalliques, ce témoin du désert vous donne un net avantage sur les attaques.
+Items/NomadNecklaceDesc	Text		Made from ragged cloth and metal badges this witness of the desert gives you a keen advantage on attacks.	Fabriqué à partir de tissu en lambeaux et d'insignes métalliques, ce témoin du désert vous donne un net avantage en combat.
 Items/NomadRing	Text		Nomad Ring	Anneau de Nomade
-Items/NomadRingDesc	Text		This small finger band is made from ragged cloth to keep it from heating up in the scorching desert valleys.	Ce petit bandeau est fabriqué à partir de tissu en lambeaux pour l'empêcher de chauffer dans les vallées désertiques brûlantes.
+Items/NomadRingDesc	Text		This small finger band is made from ragged cloth to keep it from heating up in the scorching desert valleys.	Ce petit anneau est fabriqué à partir de tissu en lambeaux pour l'empêcher de chauffer dans les vallées désertiques.
 Items/ObeliskSmall	Text		Small Obelisk	Petit obélisque
-Items/ObeliskSmallDesc	Text		A descriptive stele, carved into stone. The runes on it are indecipherable.	Une stèle descriptive, gravée dans la pierre. Les runes qu'elle contient sont indéchiffrables.
+Items/ObeliskSmallDesc	Text		A descriptive stele, carved into stone. The runes on it are indecipherable.	Une stèle gravée dans la pierre. Les runes qui y sont inscrites sont indéchiffrables, Peut-être qu'elle témoigne d'une histoire ancienne ?
 Items/ObeliskTall	Text		Tall Obelisk	Grand obélisque
-Items/ObeliskTallDesc	Text		A large descriptive stele, carved into stone. The runes on it are indecipherable.	Une grande stèle descriptive, gravée dans la pierre. Les runes qu'elle contient sont indéchiffrables.
+Items/ObeliskTallDesc	Text		A large descriptive stele, carved into stone. The runes on it are indecipherable.	Une grande stèle gravée dans la pierre. Les runes qu'elle contient sont indéchiffrables. Peut-être qu'elle témoigne d'une histoire ancienne ?
 Items/Ocarina	Text		Ocarina	Ocarina
 Items/OcarinaDesc	Text		A timeless instrument.	Un instrument intemporel.
-Items/OceanHeartNecklace	Text		Oceanheart Necklace	Collier Cœur d'Océan
-Items/OceanHeartNecklaceDesc	Text		A big blue diamond is the centerpiece of this extraordinary treasure. You feel loved when holding it up to your chest. 	Un gros diamant bleu est la pièce maîtresse de cet extraordinaire trésor. Vous vous sentez aimé lorsque vous le tenez contre votre poitrine.
+Items/OceanHeartNecklace	Text		Oceanheart Necklace	Le Cœur de l'Océan
+Items/OceanHeartNecklaceDesc	Text		A big blue diamond is the centerpiece of this extraordinary treasure. You feel loved when holding it up to your chest. 	Un gros diamant bleu est la pièce maîtresse de cet extraordinaire trésor. Vous vous sentez rassuré lorsque vous le tenez contre votre poitrine.
 Items/OctarineAnvil	Text		Octarine Anvil	Enclume en octarine
 Items/OctarineAnvilDesc	Text		A strange anvil for creating extraordinary equipment.	Une étrange enclume pour créer des équipements extraordinaires.
 Items/OctarineAxe	Text		Octarine Axe	Hache en octarine
@@ -2852,7 +2852,7 @@ Items/OctarineNecklace	Text		Octarine Necklace	Collier en Octarine
 Items/OctarineNecklaceDesc	Text		A necklace made from pure octarine filled with magic energy.	Un collier en octarine pure rempli d'énergie magique.
 Items/OctarineOre	Text		Octarine Ore	Minerai d'octarine
 Items/OctarineOreBoulder	Text		Octarine Ore Boulder	Bloc d'octarine
-Items/OctarineOreDesc	Text		Mysterious ore commonly found in limestone walls.	Minerai mystérieux que l'on trouve couramment dans les parois calcaires.
+Items/OctarineOreDesc	Text		Mysterious ore commonly found in limestone walls.	Minerai mystérieux que l'on trouve couramment dans les parois calcareuses.
 Items/OctarinePantsArmor	Text		Octarine Pants	Pantalon en Octarine
 Items/OctarinePantsArmorDesc	Text		This peculiar leg protection phases energy through your whole body.	Cette protection particulière des jambes répartit l'énergie dans tout votre corps.
 Items/OctarineRing	Text		Octarine Ring	Bague en octarine
@@ -2876,37 +2876,37 @@ Items/OctopusBreastArmorDesc	Text		A upper body armor reminiscent of the Sea Tit
 Items/OctopusHelm	Text		Omoroth's Helm	Heaume d'Omoroth
 Items/OctopusHelmDesc	Text		An iron-cast helm with a scary grimace and potruding tentacles. 	Un heaume en fonte avec une grimace effrayante et des tentacules gonflées.
 Items/OctopusPantsArmor	Text		Omoroth's Leg Armor	Jambières d'Omoroth
-Items/OctopusPantsArmorDesc	Text		Delicately decorated leg protection that's constantly wet. Looks cool but is very uncomfortable to wear.	Jambières délicatement décoré et constamment mouillé. A l'air cool mais très inconfortable à porter.
+Items/OctopusPantsArmorDesc	Text		Delicately decorated leg protection that's constantly wet. Looks cool but is very uncomfortable to wear.	Des jambières délicatement décorées et constamment mouillées. A l'air cool mais très inconfortable à porter.
 Items/OffspringCapsule	Text		Offspring Capsule	Capsule de la progéniture
-Items/OffspringCapsuleDesc	Text		A glass container containing an embryo suspended in nutricious liquid. It's blue with pointy ears but doesn't seem to be a caveling.	Un récipient en verre contenant un embryon en suspension dans un liquide nutritif. Il est bleu avec des oreilles pointues mais ne semble pas être un caveling.
+Items/OffspringCapsuleDesc	Text		A glass container containing an embryo suspended in nutricious liquid. It's blue with pointy ears but doesn't seem to be a caveling.	Un récipient en verre contenant un embryon en suspension dans un liquide nutritif. Il est bleu avec des oreilles pointues mais ne semble pas être un cavelin.
 Items/OldAmulet	Text		Old Amulet	Vieille amulette
 Items/OldAmuletDesc	Text		Brittle stone jewelry. Too small to be worn by a human.	Bijoux en pierre cassante. Trop petit pour être porté par un humain.
 Items/OldJournal	Text		Old Journal	Journal ancien
 Items/OldJournalDesc	Text		A leather-bound book with crumbly pages. It is written in familiar letters but a language you don't know.	Un livre relié en cuir avec des pages friables. Il est écrit en lettres familières mais dans une langue que vous ne connaissez pas.
 Items/OldSporeMask	Text		Old Spore Mask	Vieux Masque à gaz
-Items/OldSporeMaskDesc	Text		An old mask protecting against air-borne spores. It's broken but may still fetch a good price.	Un vieux masque protégeant contre les gaz en suspension dans l'air. Il est cassé mais peut encore atteindre un bon prix.
+Items/OldSporeMaskDesc	Text		An old mask protecting against air-borne spores. It's broken but may still fetch a good price.	Un vieux masque protégeant contre les gaz en suspension dans l'air. Il est cassé mais peut encore se vendre à bon prix.
 Items/OmorothBeak	Text		Omoroth's Beak	Bec d'Omoroth
-Items/OmorothBeakDesc	Text		The sharp mouth piece of Omoroth, the Sea Titan. It seems to be able to crush every material. 	L'embout buccal pointu d'Omoroth, le Titan des mers. Il semble être capable d'écraser tous les matériaux.
+Items/OmorothBeakDesc	Text		The sharp mouth piece of Omoroth, the Sea Titan. It seems to be able to crush every material. 	L'embout buccal pointu d'Omoroth, le Titan des mers. Il semble être capable d'écraser n'importe quoi.
 Items/OmorothCompass	Text		Omoroth Compass	Boussole d'Omoroth
 Items/OmorothCompassDesc	Text		A splendid tool for seafaring created in honor of Omoroth, anyone possessing it will never feel lost at sea. A gift worthy of a king.	Un splendide outil de navigation créé en l'honneur d'Omoroth, quiconque le possède ne se sentira jamais perdu en mer. Un cadeau digne d'un roi.
 Items/OmorothNecklace	Text		Omoroth's Necklace	Collier d'Omoroth
 Items/OmorothNecklaceDesc	Text		A piece of jewelry with a striking likeness to the sea titan. Wearing it you feel like in tune with the Sunken Sea, enhancing your body in multiple ways.	Un bijou avec une ressemblance frappante avec le titan des mers. En le portant, vous vous sentez en harmonie avec la mer submergée, améliorant votre corps de multiples façons.
 Items/OmorothRing	Text		Omoroth's Ring	Anneau d'Omoroth
-Items/OmorothRingDesc	Text		A plated looping tentacle that wraps around your finger. Stemming from a titan, it enhances your might in fighting these giant monsters.	Un tentacule en boucle plaqué qui s'enroule autour de votre doigt. Issu d'un titan, il améliore votre puissance dans la lutte contre ces monstres géants.
+Items/OmorothRingDesc	Text		A plated looping tentacle that wraps around your finger. Stemming from a titan, it enhances your might in fighting these giant monsters.	Un tentacule qui s'enroule autour de votre doigt. Issu d'un titan, il améliore votre puissance dans la lutte contre ces monstres géants.
 Items/OmorothTrophy	Text		Omoroth Figurine	Figurine d'Omoroth
 Items/OmorothTrophyDesc	Text		A lifelike representation of Omoroth, the Sea Titan.	Une représentation réaliste d'Omoroth, le Titan des mers.
 Items/OpabiniaFossil	Text		Opabinia Fossil	Fossile Opabinia
-Items/OpabiniaFossilDesc	Text		The petrified body of an prehistoric sea critter. They were one of the first apex predators to appear in the ancient oceans of earth.	Le corps pétrifié d'une créature marine préhistorique. Ils ont été l'un des premiers prédateurs au sommet à apparaître dans les anciens océans de la terre.
+Items/OpabiniaFossilDesc	Text		The petrified body of an prehistoric sea critter. They were one of the first apex predators to appear in the ancient oceans of earth.	Le corps pétrifié d'une créature marine préhistorique. Ils ont été l'un des premiers prédateurs au sommet à apparaître dans les anciens océans sur terre.
 Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	"Carte de l'Oracle ""Éclat"""
 Items/OracleCardAzeosDesc	Text		A scratched card with golden borders and an image of the sky titan. Looks like it's part of a set.	Une carte abîmée avec des bordures dorées et une image du titan du ciel. On dirait qu'elle fait partie d'un ensemble.
-Items/OracleCardCity	Text		"Oracle Card ""Metropolis"""	"Carte de l'Oracle ""Métropole"""
-Items/OracleCardCityDesc	Text		A card in mint condition with golden borders and an image of an ancient city. Looks like it's part of a set.	Une carte en parfait état avec des bordures dorées et une image d'une ville antique. On dirait qu'elle fait partie d'un ensemble.
+Items/OracleCardCity	Text		"Oracle Card ""Metropolis"""	"Carte de l'Oracle ""Cité oubliée"""
+Items/OracleCardCityDesc	Text		A card in mint condition with golden borders and an image of an ancient city. Looks like it's part of a set.	Une carte en parfait état avec des bordures dorées et l'image d'une ville antique. On dirait qu'elle fait partie d'un ensemble.
 Items/OracleCardCore	Text		"Oracle Card ""Entity"""	"Carte de l'Oracle ""Entité"""
 Items/OracleCardCoreDesc	Text		A bent card with golden borders and an image of the core. Looks like it's part of a set.	Une carte pliée avec des bordures dorées et une image du noyau. On dirait qu'elle fait partie d'un ensemble.
 Items/OracleCardFlower	Text		"Oracle Card ""Brilliance"""	"Carte de l'Oracle ""Brillance"""
 Items/OracleCardFlowerDesc	Text		A charred card with golden borders and an image of a Glow Tulip. Looks like it's part of a set.	Une carte carbonisée avec des bordures dorées et une image d'une tulipe lumineuse. On dirait qu'elle fait partie d'un ensemble.
 Items/OracleCardGem	Text		"Oracle Card ""Aura"""	"Carte de l'Oracle ""Aura"""
-Items/OracleCardGemDesc	Text		A ripped card with golden borders and an image of an ancient gemstone. Looks like it's part of a set.	Une carte déchirée avec des bordures dorées et une image d'une pierre précieuse ancienne. On dirait qu'elle fait partie d'un ensemble.
+Items/OracleCardGemDesc	Text		A ripped card with golden borders and an image of an ancient gemstone. Looks like it's part of a set.	Une carte déchirée avec des bordures dorées et une image d'une gemme ancienne. On dirait qu'elle fait partie d'un ensemble.
 Items/OracleCardLeader	Text		"Oracle Card ""Inspiration"""	"Carte de l'Oracle ""Inspiration"""
 Items/OracleCardLeaderDesc	Text		Half of a card with golden borders and an image of a golden mask. Looks like it's part of a set.	La moitié d'une carte avec des bordures dorées et une image d'un masque doré. On dirait qu'elle fait partie d'un ensemble.
 Items/OracleCardOmoroth	Text		"Oracle Card ""Temperance"""	"Carte de l'Oracle ""Tempérance"""
@@ -2975,7 +2975,7 @@ Items/Pedestal	Text		Pedestal	Piédestal
 Items/PedestalDesc	Text		Showcase your findings!	Exposez vos trouvailles!
 Items/PepperSoup	Text		Pepper Soup	Soupe aux poivrons
 Items/PetBird	Text		Owlux	Owlux
-Items/PetBirdDesc	Text		A swift, beaked ally. While too shy to partake in battle, it still has your back!	Un allié rapide à bec. Bien que trop timide pour participer au combat, il est toujours là pour vous!
+Items/PetBirdDesc	Text		A swift, beaked ally. While too shy to partake in battle, it still has your back!	Un allié rapide à bec. Bien que trop timide pour participer au combat, il est toujours là pour vous soutenir!
 Items/PetBirdEgg	Text		Lively Egg	Oeuf vif
 Items/PetBirdEggCracked	Text		Cracked Lively Egg	Oeuf vif craquelé
 Items/PetBirdEggCrackedDesc	Text		A mysterious, feathered egg that is about to hatch.	Un mystérieux oeuf à plumes qui est sur le point d'éclore.
@@ -3043,7 +3043,7 @@ Items/PetrifiedCoralDesc	Text		Grey and porous piece of a giant eco system. The 
 Items/PetrifiedEgg	Text		Petrified Egg	Oeuf pétrifié
 Items/PetrifiedEggDesc	Text		Fossilized egg shell, it feels light and brittle.	Coquille d'œuf fossilisée, elle est légère et cassante.
 Items/PetrifiedTrilobite	Text		Petrified Trilobite	Trilobite pétrifié
-Items/PetrifiedTrilobiteDesc	Text		The fossil of a long gone critter species. They are ancestors of a big variety of lifeforms.	Le fossile d'une espèce de bestiole disparue depuis longtemps. Ils sont les ancêtres d'une grande variété de formes de vie.
+Items/PetrifiedTrilobiteDesc	Text		The fossil of a long gone critter species. They are ancestors of a big variety of lifeforms.	Le fossile d'une espèce disparue depuis longtemps. Ils sont les ancêtres d'une grande variété de formes de vie.
 Items/Pewpaya	Text		Pewpaya	Pewpaya
 Items/PewpayaDesc	Text		A juicy, sweet fruit that clears your mind and raises focus.	Un fruit juteux et sucré qui clarifie votre esprit et augmente votre concentration.
 Items/PewpayaRare	Text		Golden Pewpaya	Pewpaya doré
@@ -3053,7 +3053,7 @@ Items/PewpayaSeedDesc	Text		Grows into a juicy fruit when planted in beach sand.
 Items/PickaxeHead	Text		Pickaxe Head	Tête de pioche
 Items/PickaxeHeadDesc	Text		The top part of an iron pickaxe that is partially molten. It must have been broken while working under extreme conditions.	Partie supérieure d'une pioche en fer partiellement fondue. Il a dû être cassé en travaillant dans des conditions extrêmes.
 Items/PileOfChum	Text		Pile of chum	Pile d'appâts
-Items/PileOfChumDesc	Text		Undigested remains of prey that could double down as food for fish. Place it in a habitable room and a character interested in fishing may move in.	Restes de proies non digérés qui pourraient servir de nourriture aux poissons. Placez-le dans une pièce habitable et un personnage intéressé par la pêche pourra emménager.
+Items/PileOfChumDesc	Text		Undigested remains of prey that could double down as food for fish. Place it in a habitable room and a character interested in fishing may move in.	Restes de proies non digérés qui pourraient servir de nourriture aux poissons. Placez-le dans une pièce habitable et un personnage pourra emménager.
 Items/Pinegrapple	Text		Pinegrapple	Pinegrapple
 Items/PinegrappleDesc	Text		An intensely tasty fruit that has you clench your weapons tightly.	Un fruit intensément savoureux qui vous fait serrer les armes.
 Items/PinegrappleRare	Text		Golden Pinegrapple	Pinegrapple doré
@@ -3077,15 +3077,15 @@ Items/PlankDesc	Text		Wooden slate made for more precise carpentry work.	Ardoise
 Items/PlanterBox	Text		Planter Box	Jardinière
 Items/PlanterBoxDesc	Text		This wide, stone-hewn box holds up three plants for decoration.	Cette large boîte taillée dans la pierre contient trois plantes pour la décoration.
 Items/PlayerGrave	Text		Tombstone	Pierre tombale
-Items/PlayerGraveDesc	Text		Now that the worst is over, use it to decorate!	Maintenant que le pire est passé, utilisez-le pour décorer!
+Items/PlayerGraveDesc	Text		Now that the worst is over, use it to decorate!	Maintenant que le pire est passé, utilisez-la pour décorer!
 Items/PlayingDice	Text		Playing Dice	Dés à jouer
-Items/PlayingDiceDesc	Text		A playing dice with unique symbols on each face. It's probably been used in sets and for multiple different games.	Un jeu de dés avec des symboles uniques sur chaque face. Il a probablement été utilisé dans des sets et pour plusieurs jeux différents.
+Items/PlayingDiceDesc	Text		A playing dice with unique symbols on each face. It's probably been used in sets and for multiple different games.	Un jeu de dés avec des symboles uniques sur chaque face. Il a probablement été utilisé pour plusieurs jeux différents.
 Items/PlumeBall	Text		Plume Ball	Boule de Plume
 Items/PlumeBallDesc	Text		A bundle of leaves that grows on plume trees.	Un paquet de feuilles qui pousse sur les arbres à plumes.
 Items/PlumeTree	Text		Plume Tree	Arbre à panaches
 Items/PlumeTreeDesc	Text		This tree has rock-hard bark and deep roots to gain and hold water from the desert grounds. Its leaves grow in puffy bundles.	Cet arbre a une écorce dure comme le roc et des racines profondes pour puiser et retenir l'eau du désert. Ses feuilles poussent en touffes gonflées.
 Items/PoisonAidPotion	Text		Poison Aid Potion	Potion anti-poison
-Items/PoisonAidPotionDesc	Text		A purple, mucky liquid that tastes horrible but cures any poison.	Un liquide violet et boueux qui a un goût horrible mais qui guérit tout poison.
+Items/PoisonAidPotionDesc	Text		A purple, mucky liquid that tastes horrible but cures any poison.	Un liquide violet et boueux au goût horrible mais qui guérit tout type de poison.
 Items/PoisonSlime	Text		Poison Slime	Slime empoisonnée
 Items/PoisonSlimeBlob	Text		Purple Slime	Slime pourpre
 Items/PoisonSlimeBossScanner	Text		Ivy the Poisonous Mass Scanner	Scanneur d'Ivy la de masse toxique
@@ -3103,35 +3103,35 @@ Items/PoisonousSickleDesc	Text		Farming tool that turned into a weapon when a gr
 Items/PolishedCopperCrossNecklace	Text		Polished Copper Cross Necklace	Collier croix en cuivre poli
 Items/PolishedCopperCrossNecklaceDesc	Text		This pendant sharpens the focus, allowing for more precise hits.	Ce pendentif affine la mise au point, permettant des frappes plus précises.
 Items/PolishedCoralAmulet	Text		Polished Coral Amulet	Amulette de corail poli
-Items/PolishedCoralAmuletDesc	Text		A necklace made with a pretty coral badge and white pebbles.	Un collier composé d'un joli écusson corail et de galets blancs.
+Items/PolishedCoralAmuletDesc	Text		A necklace made with a pretty coral badge and white pebbles.	Un collier composé d'un joli écusson en forme de corail ainsi que de galets blancs.
 Items/PolishedGlowTulipRing	Text		Polished Glow Tulip Ring	Bague polie de tulipe lumineuse
 Items/PolishedGlowTulipRingDesc	Text		A luminous ring that holds the essence of glow tulips.	Un anneau lumineux qui contient l'essence des tulipes lumineuses.
 Items/PolishedGoldCrystalNecklace	Text		Polished Gold Crystal Necklace	Collier en cristal d'or poli
 Items/PolishedGoldCrystalNecklaceDesc	Text		A shiny trinket combining the most valuable of materials.	Un bijou brillant combinant les matériaux les plus précieux.
 Items/PolishedGoldCrystalRing	Text		Polished Gold Crystal Ring	Bague en cristal d'or poli
-Items/PolishedGoldCrystalRingDesc	Text		A precious ring featuring an ancient gemstone.	Une bague précieuse ornée d'une pierre précieuse ancienne.
+Items/PolishedGoldCrystalRingDesc	Text		A precious ring featuring an ancient gemstone.	Une bague précieuse ornée d'une gemme ancienne.
 Items/PolishedGoldenSpikeRing	Text		Polished Golden Spike Ring	Bague à pointes d'or polies
-Items/PolishedGoldenSpikeRingDesc	Text		This golden ring is very uncomfortable to wear but it looks really cool.	Cette bague dorée est très inconfortable à porter mais elle a l'air vraiment cool.
+Items/PolishedGoldenSpikeRingDesc	Text		This golden ring is very uncomfortable to wear but it looks really cool.	Cette bague dorée est très inconfortable à porter mais a l'air vraiment cool.
 Items/PolishedIronChunkNecklace	Text		Polished Iron Chunk Necklace	Collier en morceaux de fer poli
 Items/PolishedIronChunkNecklaceDesc	Text		A heavy piece of jewelry that increases defence.	Un bijou lourd qui augmente la défense.
 Items/PolishedMagneticRing	Text		Polished Magnetic Ring	Anneau magnétique poli
-Items/PolishedMagneticRingDesc	Text		A strange ring that pulls in loot around you in a higher radius. Magnets, how do they work?	Un anneau étrange qui attire le butin autour de vous dans un rayon plus élevé. Les aimants, comment ça marche?
+Items/PolishedMagneticRingDesc	Text		A strange ring that pulls in loot around you in a higher radius. Magnets, how do they work?	Un anneau étrange qui attire le butin autour de vous dans un rayon plus élevé.
 Items/PolishedOctarineNecklace	Text		Polished Octarine Necklace	Collier en octarine poli
 Items/PolishedOctarineNecklaceDesc	Text		A necklace made from pure octarine filled with magic energy.	Un collier en octarine pure rempli d'énergie magique.
 Items/PolishedOctarineRing	Text		Polished Octarine Ring	Bague en octarine polie
 Items/PolishedOctarineRingDesc	Text		A ring made from pure octarine enhanced with magic properties.	Une bague en octarine pure rehaussée de propriétés magiques.
 Items/PolishedScarletChunkNecklace	Text		Polished Scarlet Chunk Necklace	Collier en Morceau Scarlet Poli
-Items/PolishedScarletChunkNecklaceDesc	Text		The scarlet variant of an iron chunk necklace. It raises your defense even more and gives additional benefits.	La variante Scarlet d'un collier en morceaux de fer. Cela augmente encore plus votre défense et vous donne des avantages supplémentaires.
+Items/PolishedScarletChunkNecklaceDesc	Text		The scarlet variant of an iron chunk necklace. It raises your defense even more and gives additional benefits.	La variante en Scarlet d'un collier en morceaux de fer. Cela augmente encore plus votre défense et vous donne des bienfaits supplémentaires.
 Items/PolishedShell	Text		Polished Shell	Coquille polie
 Items/PolishedShellDesc	Text		A mirror-like smooth shell that was ground down by currents and swirling sand from the sea ground.	Une coquille lisse semblable à un miroir qui a été broyée par les courants et le sable tourbillonnant du fond de la mer.
 Items/PolishedSwiftRing	Text		Polished Swift Ring	Anneau de vitesse poli
-Items/PolishedSwiftRingDesc	Text		Wearing this winged ring creates a slight wind that pushes you forward.	Le port de cette bague ailée crée un léger vent qui vous pousse vers l'avant.
+Items/PolishedSwiftRingDesc	Text		Wearing this winged ring creates a slight wind that pushes you forward.	Le port de cette bague ailée crée une légère brise qui vous pousse vers l'avant.
 Items/Portal	Text		Portal	Portail
 Items/PortalDesc	Text		Allows teleporting to other portals that have been placed out. The portal takes 20 minutes to charge up before it can be used once it has been placed.	Permet de se téléporter vers d'autres portails qui ont été placés. Le portail prend 20 minutes à se recharger avant de pouvoir être utilisé une fois qu'il a été placé.
 Items/PotBreastArmor	Text		Pot Tub	Pot en terre
 Items/PotBreastArmorDesc	Text		This brittle clay container is just your size and usually filled with caveling supplies.	Ce récipient en argile friable est à votre taille et est généralement rempli de matériel de Cavelin.
-Items/PotHelm	Text		Pot Lid	Couvercle de pot en terre
-Items/PotHelmDesc	Text		A heavy clay cover that has partially cracked and doubles down as a funny hat.	A heavy clay cover that has partially cracked and doubles down as a funny hat.
+Items/PotHelm	Text		Pot Lid	Couvercle de pot en argile
+Items/PotHelmDesc	Text		A heavy clay cover that has partially cracked and doubles down as a funny hat.	Un lourd couvre-chef en partie brisé. Peut potentiellement impressionner vos amis en tant que casque.
 Items/PottedAlienFlower	Text		Potted Alien Flower	Fleur Alien en pot
 Items/PottedAlienFlowerDesc	Text		It is not an actual flower but a hologram of one. Is it proof of a dying world where nothing grew anymore?	Il ne s'agit pas d'une véritable fleur, mais d'un hologramme. Est-ce la preuve d'un monde en voie de disparition où plus rien ne pousse?
 Items/PottedCherryTree	Text		Potted Cherry Tree	Cerisier en pot
@@ -3151,7 +3151,7 @@ Items/PottedLushBushDesc	Text		A tree that grows in the chasms of Azeos Wilderne
 Items/PottedLushTree	Text		Potted Lush Tree	Arbre luxuriant en pot
 Items/PottedLushTreeDesc	Text		A shrub of the common Lush Tree, planted in a makeshift stone pot.	Un arbuste de l'arbre commun Lush Tree, planté dans un pot de pierre improvisé.
 Items/PottedMagmaTulip	Text		Potted Magma Tulip	Tulipe Magma en pot
-Items/PottedMagmaTulipDesc	Text		A rare, decorative strain of a Glow Tulip, that can withstand tremendous heat.	Une variété rare et décorative de tulipe lumineuse, qui peut résister à une chaleur intense.
+Items/PottedMagmaTulipDesc	Text		A rare, decorative strain of a Glow Tulip, that can withstand tremendous heat.	Une variété rare de tulipe lumineuse, qui peut résister à une chaleur intense.
 Items/PottedPlumeTree	Text		Potted Plume Tree	Arbre à plumes en pot
 Items/PottedPlumeTreeDesc	Text		A bonsai-sized offshoot of the common plume tree, planted in an ancient pot.	Une ramification de la taille d’un bonsaï du panache commun, planté dans un pot ancien.
 Items/PottedPuffSticks	Text		Potted Mold Pompom	Pompon moisi en pot
@@ -3159,15 +3159,15 @@ Items/PottedPuffSticksDesc	Text		An oversized, puffy flower that has been infest
 Items/PreciousUrn	Text		Precious Urn	Urne Précieuse
 Items/PreciousUrnDesc	Text		A pretty decorative without any cracks and blemishes but its original contents are long gone.	Une jolie décoration sans fissures ni imperfections mais son contenu d'origine a disparu depuis longtemps.
 Items/PressurePlate	Text		Pressure Plate	Plaque de pression
-Items/PressurePlateDesc	Text		Generates a low amount of electricity when stepped on by the player.	Génère une faible quantité d'électricité lorsqu'il est piétiné par le joueur.
+Items/PressurePlateDesc	Text		Generates a low amount of electricity when stepped on by the player.	Génère une faible quantité d'électricité lorsqu'il est activé par le joueur.
 Items/PrimitiveGoKart	Text		Primitive Go-kart	Kart primitif
-Items/PrimitiveGoKartDesc	Text		An ancient vehicle built by the lost civilization, seemingly for pure fun. It provides only a fraction of the speed it once was capable of.	Un ancien véhicule construit par la civilisation perdue, apparemment pour le pur plaisir. Il ne fournit qu'une fraction de la vitesse dont il était autrefois capable.
+Items/PrimitiveGoKartDesc	Text		An ancient vehicle built by the lost civilization, seemingly for pure fun. It provides only a fraction of the speed it once was capable of.	Un ancien véhicule construit par une civilisation perdue, apparemment pour le pur plaisir. Il ne fournit qu'une fraction de la vitesse dont il était autrefois capable.
 Items/ProcessorChip	Text		Processor Chip	Puce du processeur
 Items/ProcessorChipDesc	Text		This intricate, golden chip seems technically very advanced and must have computed complex calculations.	Cette puce dorée complexe semble techniquement très avancée et doit avoir effectué des calculs complexes.
 Items/ProtocolSlate	Text		Empty Crystal	Cristal vide
-Items/ProtocolSlateDesc	Text		A rhombus-shaped crystal made from glass that has complex circuits embedded. It seems powered down, maybe it could be fed data to activate it again?	Un cristal en forme de losange fabriqué à partir de verre qui intègre des circuits complexes. Il semble éteint, peut-être pourrait-il être alimenté en données pour le réactiver?
+Items/ProtocolSlateDesc	Text		A rhombus-shaped crystal made from glass that has complex circuits embedded. It seems powered down, maybe it could be fed data to activate it again?	Un cristal en forme de losange fabriqué à partir de verre qui intègre des circuits complexes. Il semble éteint, peut-être pourrait-il être alimenté pour le réactiver?
 Items/ProtocolSlateKey	Text		Admin Key	Clé administrateur
-Items/ProtocolSlateKeyDesc	Text		A reactivated key belonging to a wise leader. It may open the door to something very valuable.	Une clé réactivée appartenant à un chef avisé. Cela peut ouvrir la porte de quelque chose de très précieux.
+Items/ProtocolSlateKeyDesc	Text		A reactivated key belonging to a wise leader. It may open the door to something very valuable.	Une clé réactivée ayant appartenue à un chef avisé. Cela peut ouvrir la porte de quelque chose de très précieux.
 Items/Puffungi	Text		Puffungi	Puffungi
 Items/PuffungiDesc	Text		A moldy fungus fit for gourmets.	Un champignon moisi digne des gourmets.
 Items/PuffungiRare	Text		Golden Puffungi	Poufungi doré
@@ -3181,13 +3181,13 @@ Items/PumpkinCoinDesc	Text		A mischievous-looking coin that can be traded for va
 Items/PumpkinHeadCavelingShamanTrophy	Text		Pumpking Caveling Figurine	Figurine de cavelin à tête de citrouille
 Items/PumpkinHeadCavelingShamanTrophyDesc	Text		A lifelike representation of a Pumpking Caveling.	Une représentation réaliste d'un Pumpking Cavelin.
 Items/PumpkinHelm	Text		Pumpkin Head	Tête de citrouille
-Items/PumpkinHelmDesc	Text		A vegetable head with a carved-in face. For how disgusting it feels from the inside, it looks pretty cool on the outside.	Une tête végétale avec un visage sculpté. Pour la façon dont il se sent dégoûtant de l'intérieur, il a l'air plutôt cool à l'extérieur.
+Items/PumpkinHelmDesc	Text		A vegetable head with a carved-in face. For how disgusting it feels from the inside, it looks pretty cool on the outside.	Une tête végétale avec un visage sculpté. Malgré qu'il soit plutôt dégoutant à l'intérieur, il a l'air plutôt cool à l'extérieur.
 Items/PumpkinLantern	Text		Pumpkin Lantern	Lanterne Citrouille
 Items/PumpkinLanternDesc	Text		A scary, yet cozy lantern carved from a vegetable. Don't smash it, it brings bad luck.	Une lanterne effrayante mais confortable sculptée dans un légume. Ne le cassez pas, cela porte malheur.
 Items/PurpleSlimeTrophy	Text		Purple Slime Figurine	Figurine de Slime violet
 Items/PurpleSlimeTrophyDesc	Text		A lifelike representation of a poisonous Purple Slime.	Une représentation réaliste d'un Slime violet toxique.
 Items/RaAkarAutomaton	Text		Ra-Akar Automaton	Automate Ra-Akar
-Items/RaAkarAutomatonDesc	Text		A complex wind-up machine created in honor of Ra-Akar that seems to have a mind of its own. A gift worthy of a young prince.	Un otomatecomplexe créée en l'honneur de Ra-Akar qui semble avoir son propre esprit. Un cadeau digne d'un jeune prince.
+Items/RaAkarAutomatonDesc	Text		A complex wind-up machine created in honor of Ra-Akar that seems to have a mind of its own. A gift worthy of a young prince.	Un automate complexe créé en l'honneur de Ra-Akar qui semble avoir son propre esprit. Un cadeau digne d'un jeune prince.
 Items/RaAkarNecklace	Text		Ra-Akar's Necklace	Collier de Ra-Akar
 Items/RaAkarNecklaceDesc	Text		A necklace of the desert with a strong resemblance of the sand titan. Wearing it grants you additional protection and extra damage.	Un collier du désert avec une forte ressemblance avec le titan des sables. Le porter vous confère une protection supplémentaire et des dégâts supplémentaires.
 Items/RaAkarTrophy	Text		Ra-Akar Figurine	Figurine de Ra-Akar
@@ -3199,18 +3199,10 @@ Items/RadiationCrystalDesc	Text		A culmination of radioactive elements that resu
 Items/RadiationHelm	Text		Hazmat Helm	Casque Hazmat
 Items/RadiationHelmDesc	Text		Need to handle strange materials that emit even stranger radiation? Ask no more!	Vous devez manipuler des matériaux étranges qui émettent des radiations encore plus étranges? Ne cherchez plus!
 Items/RadiationPantsArmor	Text		Hazmat Suit Pants	Pantalon de combinaison Hazmat
-Items/RadiationPantsArmorDesc	Text		A protective suit is not complete without some boots that save the feet.	Une combinaison de protection n'est pas complète sans des bottes qui protègent les pieds.
-Items/RadicalRabbitEars	Text		Radical Rabbit Ears	Oreilles de lapin radicales
-Items/RadicalRabbitEarsDesc	Text		A cute hood featuring white rabbit ears. You feel quite cheeky and swift wearing it.	Une jolie capuche avec des oreilles de lapin blanches. Vous vous sentez assez effronté et rapide en le portant.
-Items/RadicalRabbitEarsDiadem	Text		Radical Rabbit Headband	Bandeau de lapin radical
-Items/RadicalRabbitEarsDiademDesc	Text		A cute headband featuring white rabbit ears. You feel quite cheeky and swift wearing it.	Un joli bandeau avec des oreilles de lapin blanc. Il vous donne l'impression d'être effronté et rapide.
-Items/Rail	Text		Rail	Rail
-Items/RailDesc	Text		Traverse the underground world much faster.	Traversez le monde souterrain beaucoup plus rapidement.
-Items/RailwayForge	Text		Railway Forge	Forge ferroviaire
 Items/RailwayForgeDesc	Text		Advanced forge to create underground rail systems.	Forge avancée pour créer des systèmes ferroviaires souterrains.
 Items/RailywayForge	Text		Railway Forge	Forge ferroviaire
 Items/RainBreastArmor	Text		Rain Coat	Manteau de pluie
-Items/RainBreastArmorDesc	Text		Sticky things slide right off from this glossy elastic coat. The bright yellow is just a nice touch.	Les objets collants glissent tout de suite sur cette couche élastique et brillante. Le jaune vif n'est qu'une touche agréable.
+Items/RainBreastArmorDesc	Text		Sticky things slide right off from this glossy elastic coat. The bright yellow is just a nice touch.	Les objets collants glissent tout de suite sur cette couche élastique et brillante. Le jaune vif n'est qu'un détail.
 Items/RainPantsArmor	Text		Rubber Boots	Bottes en caoutchouc
 Items/RainPantsArmorDesc	Text		Smooth slime-proof boots that keep your feet dry and agile. Also great for jumping into puddles.	Des bottes lisses et imperméables qui gardent vos pieds au sec et agiles. Idéales pour sauter dans les flaques d'eau.
 Items/RainbowKelp	Text		Rainbow Kelp	Algue arc-en-ciel
@@ -3219,6 +3211,14 @@ Items/RamboBreastArmor	Text		Mercenary Tank Top	Débardeur de Mercenaire
 Items/RamboBreastArmorDesc	Text		Green and full of sweat this piece of clothing is perfect for emerging from the shadows guns blazing.	Vert et plein de sueur, ce vêtement est parfait pour sortir de l'ombre, armes à la main.
 Items/RamboHelm	Text		Mercenary Headband	Bandeau de mercenaire
 Items/RamboHelmDesc	Text		The only thing you need to put on when you want to rush through the jungle as a one-man-army…wait, that was something else.	La seule chose qu'il faut mettre quand on veut se précipiter dans la jungle comme un seul homme d'armée... attendez, c'était autre chose.
+Items/RadiationPantsArmorDesc	Text		A protective suit is not complete without some boots that save the feet.	Une combinaison de protection n'est pas complète sans des bottes qui protègent les pieds.
+Items/RadicalRabbitEars	Text		Radical Rabbit Ears	Oreilles de lapin radicales
+Items/RadicalRabbitEarsDesc	Text		A cute hood featuring white rabbit ears. You feel quite cheeky and swift wearing it.	Une jolie capuche avec des oreilles de lapin blanches. Vous vous sentez assez effronté et rapide en le portant.
+Items/RadicalRabbitEarsDiadem	Text		Radical Rabbit Headband	Bandeau de lapin radical
+Items/RadicalRabbitEarsDiademDesc	Text		A cute headband featuring white rabbit ears. You feel quite cheeky and swift wearing it.	Un joli bandeau avec des oreilles de lapin blanc. Il vous donne l'impression d'être effronté et rapide.
+Items/Rail	Text		Rail	Rail
+Items/RailDesc	Text		Traverse the underground world much faster.	Traversez le monde souterrain beaucoup plus rapidement.
+Items/RailwayForge	Text		Railway Forge	Forge ferroviaire
 Items/RamboPantsArmor	Text		Mercenary Pants	Pantalon de mercenaire
 Items/RamboPantsArmorDesc	Text		Camouflaged leggings that keep you on your toes around heavily-guarded areas.	Des jambières camouflées qui vous permettent de rester vigilant dans les zones fortement surveillées.
 Items/RangerBreastArmor	Text		Ranger Tunic	Tunique de Ranger
@@ -3234,9 +3234,9 @@ Items/RecallIdolDesc	Text		Teleports you back to the core, consumed in the proce
 Items/RedEnvelope	Text		Red Envelope	Enveloppe rouge
 Items/RedEnvelopeDesc	Text		A gift to symbolize good wishes and luck for the year ahead. Someone left it for you to open.	Un cadeau pour souhaiter les meilleurs vœux pour l'année à venir. Quelqu'un l'a-t-il laissé pour vous?
 Items/RedFireFly	Text		Red Glowbug	Glowbug rouge
-Items/RedFireFlyDesc	Text		This flying bug always appears in swarms which appear as dancing lights. Its red glow is biome-specific.	Cet insecte volant apparaît toujours en essaims qui apparaissent comme des lumières dansantes. Sa lueur rouge est spécifique au biome.
+Items/RedFireFlyDesc	Text		This flying bug always appears in swarms which appear as dancing lights. Its red glow is biome-specific.	Cet insecte volant apparaît toujours en essaim comme des lumières dansantes. Sa lueur rouge est spécifique à son environnement.
 Items/RedKelp	Text		Red Kelp	Algue rouge
-Items/RedKelpDesc	Text		A red lump of marine plants, not that useful.	Un morceau rouge de plantes marines, pas si utile.
+Items/RedKelpDesc	Text		A red lump of marine plants, not that useful.	Un morceau d'algue rouge, pas si utile.
 Items/RedSlimeTrophy	Text		Red Slime Figurine	Figurine de Slime Rouge
 Items/RedSlimeTrophyDesc	Text		A lifelike representation of an aggressive Red Slime.	Une représentation réaliste d'un Red Slime agressif.
 Items/RemedaisyNecklace	Text		Remedaisy Necklace	Collier Remedaisy
@@ -3282,8 +3282,8 @@ Items/RuinsCoreRelief	Text		Core Relief Tile	Tuile de relief de noyau
 Items/RuinsCoreReliefDesc	Text		A giant, gold-rimmed stone tile, depicting a rendition of the core.	Une tuile de pierre géante à bordure dorée, représentant une interprétation du noyau.
 Items/RuinsFireplace	Text		Caveling Fireplace	Cheminée Cavelin
 Items/RuinsFireplaceDesc	Text		A solid fireplace with heavy mantle. It burns with a strange fire that exits from a gemstone in it's bottom.	Une cheminée solide avec manteau lourd. Il brûle avec un feu étrange qui sort d'une pierre précieuse dans son fond.
-Items/RuinsGate	Text		Metropolis Gate	Porte de la Métropole
-Items/RuinsGateDesc	Text		An intact stone gate found at the forlorn metropolis. In stands tall and must have dazzled visitors with the giant ancient gemstone in its center.	Une porte en pierre intacte trouvée dans la métropole désespérée. In se dresse haut et doit avoir ébloui les visiteurs avec la pierre précieuse ancienne géante en son centre.
+Items/RuinsGate	Text		Metropolis Gate	Porte de la cité oubliée
+Items/RuinsGateDesc	Text		An intact stone gate found at the forlorn metropolis. In stands tall and must have dazzled visitors with the giant ancient gemstone in its center.	Une porte en pierre intacte trouvée dans la cité oubliée. Impressionnante, elle devait éblouir les visiteurs avec la gemme ancienne géante en son centre.
 Items/RuinsPedestal	Text		Blue Glass Pedestal	Guéridon en verre bleu
 Items/RuinsPedestalDesc	Text		A stone pedestal with embedded gold and glass, an elegant way to showcase your treasures.	Un socle en pierre incrusté d'or et de verre, une manière élégante de mettre en valeur vos trésors.
 Items/RuinsPiece1	Text		Ruins Arc	Arc en ruine
@@ -3337,7 +3337,7 @@ Items/ScarabMortarDesc	Text		A powerful weapon launching explosive projectiles t
 Items/ScarabPantsArmor	Text		Scarab Legs	Jambières Scarabées
 Items/ScarabPantsArmorDesc	Text		A lower body armor mimicking the properties of desert critters.	Une armure inférieure imitant les propriétés des créatures du désert.
 Items/ScarabWingcover	Text		Scarab Wingcover	Couvre-aile de scarabée
-Items/ScarabWingcoverDesc	Text		The wing carapace of a Bomb Scarab resembling half a skull. 	La carapace d'aile d'un scarabée bombe ressemblant à un demi-crâne.
+Items/ScarabWingcoverDesc	Text		The wing carapace of a Bomb Scarab resembling half a skull. 	La carapace d'aile d'un Scarabombe ressemblant à un demi-crâne.
 Items/ScarletAnvil	Text		Scarlet Anvil	Enclume en Scarlet
 Items/ScarletAnvilDesc	Text		A very advanced anvil for creating supreme equipment.	Une enclume très avancée pour créer un équipement suprême.
 Items/ScarletBar	Text		Scarlet Bar	Lingot de Scarlet
@@ -3392,7 +3392,7 @@ Items/ScholarArmorDesc	Text		A magically-imbued piece of cloth, worn by caveling
 Items/ScholarHelm	Text		Scholar's Hood	Capuche d'érudit
 Items/ScholarHelmDesc	Text		A strange hood made from white linen and gold, in its shade you feel more intelligent than usual.	Une capuche étrange faite de lin blanc et d'or, dans son ombre, vous vous sentez plus intelligent que d'habitude.
 Items/ScholarStaff	Text		Scholar's Staff	Bâton d'érudit
-Items/ScholarStaffDesc	Text		A magical staff wielded by caveling scholars that utilizes an ancient gemstone to produce powerful bolts of energy.	Un bâton magique manié par des érudits cavelin qui utilise une pierre précieuse ancienne pour produire de puissants éclairs d'énergie.
+Items/ScholarStaffDesc	Text		A magical staff wielded by caveling scholars that utilizes an ancient gemstone to produce powerful bolts of energy.	Un bâton magique manié par des érudits cavelin qui utilise une gemme ancienne pour produire de puissants éclairs d'énergie.
 Items/ScholarTrophy	Text		Caveling Scholar Figurine	Figurine d'érudit cavelin
 Items/ScholarTrophyDesc	Text		A lifelike representation of a caveling scholar.	Une représentation réaliste d'un érudit cavelin.
 Items/ScrapPart	Text	Should be in plural as the ingame icon shows several parts	Scrap Parts	Pièces de feraille
@@ -3437,7 +3437,7 @@ Items/SignSkull	Text		Skull Effigy	Totem Crâne
 Items/SignSkullDesc	Text		There is no clearer warning than a skull on a stake. Better keep out.	Il n’y a pas d’avertissement plus clair qu’un crâne sur un pieu. Mieux vaut ne pas s'en approcher.
 Items/SignText	Text		Sign	Panneau
 Items/SignTextDesc	Text		The best way to leave messages for everyone to see.	La meilleure façon de laisser des messages visibles par tout le monde.
-Items/SignTextMetropolis	Text		Metropolis Sign	Panneau métropolitain
+Items/SignTextMetropolis	Text		Metropolis Sign	Panneau de la cité oubliée
 Items/SignTextMetropolisDesc	Text		A modern message sign that can be programmed to display information.	Un panneau moderne qui peut être programmé pour afficher des informations.
 Items/SilverTorrentDart	Text		Silver Dart	Dard d'argent
 Items/SilverTorrentDartDesc	Text		This elusive fish appears in swarms as a spectacle of blinking silver to confuse predators.	Ce poisson insaisissable apparaît en essaims comme un spectacle d'argent clignotant pour confondre les prédateurs.
@@ -4324,7 +4324,7 @@ Skills/Melee	Text		Melee combat	Combat au corps à corps
 Skills/MeleeDesc	Text		Fighting in melee increases your strength.	Combattre au corps à corps augmente votre force.
 Skills/MeleePerk	Text		+{0} Melee skill	+{0} compétence de combat en corps à corps
 Skills/Mining	Text		Mining	Minage
-Skills/MiningDesc	Text		Excavating walls increases your mining damage.	Creuser des murs augmente vos dégâts de minage.
+Skills/MiningDesc	Text		Excavating walls increases your mining damage.	Creuser des murs augmente vos dégâts d'extraction.
 Skills/MiningPerk	Text		+{0} Mining skill	+{0} compétence de minage
 Skills/Range	Text		Range combat	Combat à distance
 Skills/RangeDesc	Text		Shooting with ranged weapons improves your firepower.	Tirer avec des armes à distance améliore votre puissance de feu.
