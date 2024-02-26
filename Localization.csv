@@ -193,7 +193,7 @@ ConditionEffect/MovementSpeed	Text		{0}% movement speed	{0}% de vitesse de dépl
 ConditionEffect/Poisoned	Text		75% reduced healing received	75% de réduction des soins reçus
 ConditionEffect/RangeAttackSpeed	Text		{0}% range speed	{0}% de vitesse d'attaque à distance
 ConditionEffect/RangeDamage	Text		{0}% range damage	{0}% de dégâts à distance
-ConditionEffect/ReducedDamageFromBosses	Text		{0}% boss damage reduction	{0}% de réduction des dégâts subit par les boss
+ConditionEffect/ReducedDamageFromBosses	Text		{0}% boss damage reduction	{0}% de réduction des dégâts infligés par les boss
 ConditionEffect/ThornsDamage	Text		{0} thorns damage	{0} dégâts d'épines
 ConditionEffectDesc/ApplyBurning	Text		Applies burning to enemies you deal damage to. The burning effect damages the enemy every other second for {0} damage.	Applique Brûlure aux ennemis auxquels vous infligez des dégâts. L'effet de brûlure inflige {0} points de dégâts aux ennemis
 ConditionEffectDesc/Armor	Text		Reduces damage taken up to a maximum of {0} damage. Enemies always deal a minimum 25% of their damage.	Réduit les dégâts subis jusqu'à un maximum de {0} dégâts. Les ennemis infligent toujours au moins 25 % de leurs dégâts.
@@ -1900,7 +1900,7 @@ Items/Drill	Text		Drill	Foreuse
 Items/DrillDesc	Text		Can slowly drill through tougher materials such as ore boulders when powered with electricity.	Peut forer lentement à travers des matériaux plus durs tels que des blocs de minerai lorsqu'il est alimenté en électricité.
 Items/DrillTool	Text		Hand Drill	Foreuse manuelle
 Items/DrillToolDesc	Text		A powerfull tool to cut through weaker walls like butter.	Un outil puissant pour couper les murs les plus faibles comme du beurre.
-Items/DrillToolScarlet	Text		Scarlet Hand Drill	Foreuse manuelle en Scarlet 
+Items/DrillToolScarlet	Text		Scarlet Hand Drill	Foreuse manuelle en Cramoisite 
 Items/DrillToolScarletDesc	Text		A powered up hand drill, ready to tear down stronger walls without struggle.	Une perceuse à main alimentée, prête à abattre sans peine des murs plus résistants.
 Items/DryButterfly	Text		Dry Butterfly	Papillon sec
 Items/DryButterflyDesc	Text		A dead insect void of any moisture. It is nice to look at but needs to be handled with care.	Un insecte mort dépourvu de toute humidité. Il est agréable à regarder mais doit être manipulé avec précaution.
@@ -2456,7 +2456,7 @@ Items/IronBreastArmor	Text		Iron Breastplate	Cuirasse en fer
 Items/IronBreastArmorDesc	Text		Charge into battle with this epic chest piece.	Chargez dans la bataille avec cette pièce de poitrine épique.
 Items/IronChest	Text		Iron Chest	Coffre en fer
 Items/IronChestDesc	Text		An old chest made from iron. It is not locked anymore.	Un vieux coffre en fer. Il n'est plus verrouillé.
-Items/IronChunkNecklace	Text		Iron Chunk Necklace	Collier Morceau de Fer
+Items/IronChunkNecklace	Text		Iron Chunk Necklace	Collier en morceaux de Fer
 Items/IronChunkNecklaceDesc	Text		A heavy piece of jewelry that increases defence.	Un bijou lourd qui augmente la défense.
 Items/IronFishingRod	Text		Iron Fishing Rod	Canne à pêche en fer
 Items/IronFishingRodDesc	Text		A strong tool for pulling up rare fish.	Un outil puissant pour remonter les poissons rares.
@@ -2655,8 +2655,8 @@ Items/LockedOctarineChest	Text		Locked Octarine Chest	Coffre en Octarine verroui
 Items/LockedOctarineChestDesc	Text		A clunky chest made from octarine with heavy chains strung around it. It could be opened with the right key.	Un coffre maladroit en octarine avec de lourdes chaînes enfilées autour de lui. Il pourrait être ouvert avec la bonne clé.
 Items/LockedPrinceChest	Text		Locked Desert Prince Chest	Coffre verrouillé du Prince du désert
 Items/LockedQueenChest	Text		Locked Desert Queen Chest	Coffre verrouillé du Reine du désert
-Items/LockedScarletChest	Text		Locked Scarlet Chest	Coffre en Scarlet verrouillé
-Items/LockedScarletChestDesc	Text		A sturdy chest made from scarlet with heavy chains strung around it. It could be opened with the right key.	Un coffre robuste en Scarlet avec de lourdes chaînes enfilées autour. Il pourrait être ouvert avec la bonne clé.
+Items/LockedScarletChest	Text		Locked Scarlet Chest	Coffre en Cramoisite verrouillé
+Items/LockedScarletChestDesc	Text		A sturdy chest made from scarlet with heavy chains strung around it. It could be opened with the right key.	Un coffre robuste en Cramoisite avec de lourdes chaînes enfilées autour. Il pourrait être ouvert avec la bonne clé.
 Items/LockedSolariteChest	Text		Locked Solarite Chest	Coffre en solarite verrouillé
 Items/LockedSolariteChestDesc	Text		A shimmering chest made from solarite with heavy chains strung around it. It could be opened with the right key.	Un coffre scintillant en solarite, entouré de lourdes chaînes. On peut l'ouvrir avec la bonne clé.
 Items/LogicCircuit	Text		Logic Circuit	Circuit logique
@@ -3120,8 +3120,8 @@ Items/PolishedOctarineNecklace	Text		Polished Octarine Necklace	Collier en octar
 Items/PolishedOctarineNecklaceDesc	Text		A necklace made from pure octarine filled with magic energy.	Un collier en octarine pure rempli d'énergie magique.
 Items/PolishedOctarineRing	Text		Polished Octarine Ring	Bague en octarine polie
 Items/PolishedOctarineRingDesc	Text		A ring made from pure octarine enhanced with magic properties.	Une bague en octarine pure rehaussée de propriétés magiques.
-Items/PolishedScarletChunkNecklace	Text		Polished Scarlet Chunk Necklace	Collier en Morceau Scarlet Poli
-Items/PolishedScarletChunkNecklaceDesc	Text		The scarlet variant of an iron chunk necklace. It raises your defense even more and gives additional benefits.	La variante en Scarlet d'un collier en morceaux de fer. Cela augmente encore plus votre défense et vous donne des bienfaits supplémentaires.
+Items/PolishedScarletChunkNecklace	Text		Polished Scarlet Chunk Necklace	Collier en morceaux de Cramoisite polie
+Items/PolishedScarletChunkNecklaceDesc	Text		The scarlet variant of an iron chunk necklace. It raises your defense even more and gives additional benefits.	La variante en Cramoisite d'un collier en morceaux de fer. Cela augmente encore plus votre défense et vous donne des bienfaits supplémentaires.
 Items/PolishedShell	Text		Polished Shell	Coquille polie
 Items/PolishedShellDesc	Text		A mirror-like smooth shell that was ground down by currents and swirling sand from the sea ground.	Une coquille lisse semblable à un miroir qui a été broyée par les courants et le sable tourbillonnant du fond de la mer.
 Items/PolishedSwiftRing	Text		Polished Swift Ring	Anneau de vitesse poli
@@ -3338,54 +3338,54 @@ Items/ScarabPantsArmor	Text		Scarab Legs	Jambières Scarabées
 Items/ScarabPantsArmorDesc	Text		A lower body armor mimicking the properties of desert critters.	Une armure inférieure imitant les propriétés des créatures du désert.
 Items/ScarabWingcover	Text		Scarab Wingcover	Couvre-aile de scarabée
 Items/ScarabWingcoverDesc	Text		The wing carapace of a Bomb Scarab resembling half a skull. 	La carapace d'aile d'un Scarabombe ressemblant à un demi-crâne.
-Items/ScarletAnvil	Text		Scarlet Anvil	Enclume en Scarlet
+Items/ScarletAnvil	Text		Scarlet Anvil	Enclume en Cramoisite
 Items/ScarletAnvilDesc	Text		A very advanced anvil for creating supreme equipment.	Une enclume très avancée pour créer un équipement suprême.
-Items/ScarletBar	Text		Scarlet Bar	Lingot de Scarlet
+Items/ScarletBar	Text		Scarlet Bar	Lingot de Cramoisite
 Items/ScarletBarDesc	Text		A valuable ingot for high-tier blacksmithing.	Un lingot précieux pour la forge de haut niveau.
-Items/ScarletBreastArmor	Text		Scarlet Breastplate	Cuirasse en Scarlet
+Items/ScarletBreastArmor	Text		Scarlet Breastplate	Cuirasse en Cramoisite
 Items/ScarletBreastArmorDesc	Text		Fierce upper body armor for true warriors.	Armure féroce du haut du corps pour les vrais guerriers.
-Items/ScarletBridge	Text		Scarlet Bridge	Pont en Scarlet
+Items/ScarletBridge	Text		Scarlet Bridge	Pont en Cramoisite
 Items/ScarletBridgeDesc	Text		Used to cross chasms and water but also makes for a nice floor.	Utilisé pour traverser les gouffres et l'eau mais fait aussi un beau sol.
-Items/ScarletChest	Text		Scarlet Chest	Coffre en Scarlet
-Items/ScarletChestDesc	Text		A sturdy chest made from scarlet. It is not locked anymore.	Un coffre solide en Scarlet. Il n'est plus verrouillé.
-Items/ScarletChunkNecklace	Text		Scarlet Chunk Necklace	Collier en Morceau de Scarlet
-Items/ScarletChunkNecklaceDesc	Text		The scarlet variant of an iron chunk necklace. It raises your defense even more and gives additional benefits.	La variante Scarlet d'un collier en morceaux de fer. Cela augmente encore plus votre défense et vous donne des avantages supplémentaires.
-Items/ScarletCrossbow	Text		Scarlet Crossbow	Arbalète en Scarlet
+Items/ScarletChest	Text		Scarlet Chest	Coffre en Cramoisite
+Items/ScarletChestDesc	Text		A sturdy chest made from scarlet. It is not locked anymore.	Un coffre solide en Cramoisite. Il n'est plus verrouillé.
+Items/ScarletChunkNecklace	Text		Scarlet Chunk Necklace	Collier en morceaux de Cramoisite
+Items/ScarletChunkNecklaceDesc	Text		The scarlet variant of an iron chunk necklace. It raises your defense even more and gives additional benefits.	La variante Cramoisite d'un collier en morceaux de fer. Cela augmente encore plus votre défense et vous donne des avantages supplémentaires.
+Items/ScarletCrossbow	Text		Scarlet Crossbow	Arbalète en Cramoisite
 Items/ScarletCrossbowDesc	Text		A heavy metallic crossbow that shoots potent bolts.	Une arbalète métallique lourde qui tire des carreaux puissants.
-Items/ScarletDagger	Text		Scarlet Dagger	Dague en Scarlet
+Items/ScarletDagger	Text		Scarlet Dagger	Dague en Cramoisite
 Items/ScarletDaggerDesc	Text		This wavy, crimson dagger pierces through most materials.	Ce poignard ondulé et cramoisi transperce la plupart des matériaux.
-Items/ScarletDoor	Text		Scarlet Door	Porte en Scarlet
+Items/ScarletDoor	Text		Scarlet Door	Porte en Cramoisite
 Items/ScarletDoorDesc	Text		A reinforced door to shut out anyone uninvited.	Une porte blindée pour exclure toute personne non invitée.
-Items/ScarletFence	Text		Scarlet Fence	Clôture en Scarlet
+Items/ScarletFence	Text		Scarlet Fence	Clôture en Cramoisite
 Items/ScarletFenceDesc	Text		A reinforced metal fence to protect what's rightfully yours.	Une clôture métallique renforcée pour protéger ce qui vous revient de droit.
-Items/ScarletFenceGate	Text		Scarlet Fence Gate	Portillon Scarlet
-Items/ScarletFenceGateDesc	Text		A tough metal gate for the scarlet fence.	Une porte en métal solide pour la clôture Scarlet.
-Items/ScarletFishingRod	Text		Scarlet Fishing Rod	Canne à pêche en Scarlet
+Items/ScarletFenceGate	Text		Scarlet Fence Gate	Portillon en Cramoisite
+Items/ScarletFenceGateDesc	Text		A tough metal gate for the scarlet fence.	Une porte en métal solide pour la clôture en Cramoisite.
+Items/ScarletFishingRod	Text		Scarlet Fishing Rod	Canne à pêche en Cramoisite
 Items/ScarletFishingRodDesc	Text		A great tool for pulling up very resistant fish.	Un excellent outil pour remonter les poissons très résistants.
-Items/ScarletFloor	Text		Scarlet Floor	Sol zn Scarlet
+Items/ScarletFloor	Text		Scarlet Floor	Sol en Cramoisite
 Items/ScarletFloorDesc	Text		A reinforced metal floor tile with a nice crimson alloy.	Une dalle de sol en métal renforcé avec un bel alliage pourpre.
-Items/ScarletHelm	Text		Scarlet Helm	Heaume en Scarlet
+Items/ScarletHelm	Text		Scarlet Helm	Heaume en Cramoisite
 Items/ScarletHelmDesc	Text		Menacing-looking horned helm, fits perfectly with the rest of the set.	Heaume à cornes menaçant, s'intègre parfaitement avec le reste de l'ensemble.
-Items/ScarletHoe	Text		Scarlet Hoe	Houe en Scarlet
+Items/ScarletHoe	Text		Scarlet Hoe	Houe en Cramoisite
 Items/ScarletHoeDesc	Text		An excellent tool to prepare ground for farming. Each hit covers an area of 3x3 tiles.	Un excellent outil pour préparer le terrain pour l'agriculture. Chaque coup couvre une zone de 3x3 tuiles.
-Items/ScarletKey	Text		Scarlet Key	Clé en Scarlet
-Items/ScarletKeyDesc	Text		A sturdy key cast in scarlet. There should be a lock somewhere that it fits into.	Une clé solide moulée en Scarlet. Il devrait y avoir un verrou quelque part dans lequel elle s'insère.
-Items/ScarletMiningPick	Text		Scarlet Pickaxe	Pioche en Scarlet
+Items/ScarletKey	Text		Scarlet Key	Clé en Cramoisite
+Items/ScarletKeyDesc	Text		A sturdy key cast in scarlet. There should be a lock somewhere that it fits into.	Une clé solide moulée en Cramoisite. Il devrait y avoir un verrou quelque part dans lequel elle s'insère.
+Items/ScarletMiningPick	Text		Scarlet Pickaxe	Pioche en Cramoisite
 Items/ScarletMiningPickDesc	Text		A great tool for breaking down extremely hard walls.	Un excellent outil pour abattre des murs extrêmement durs.
-Items/ScarletOre	Text		Scarlet Ore	Minerai de Scarlet
-Items/ScarletOreBoulder	Text		Scarlet Ore Boulder	Bloc de Scarlet
-Items/ScarletOreDesc	Text		Scarlet ore commonly found in grass walls.	Minerai de Scarlet couramment trouvé dans les murs d'herbe.
-Items/ScarletPantsArmor	Text		Scarlet Pants	Jambières en Scarlet
+Items/ScarletOre	Text		Scarlet Ore	Minerai de Cramoisite
+Items/ScarletOreBoulder	Text		Scarlet Ore Boulder	Bloc de Cramoisite
+Items/ScarletOreDesc	Text		Scarlet ore commonly found in grass walls.	Minerai de Cramoisite couramment trouvé dans les murs d'herbe.
+Items/ScarletPantsArmor	Text		Scarlet Pants	Jambières en Cramoisite
 Items/ScarletPantsArmorDesc	Text		March through your enemies and don't look back.	Traversez vos ennemis et ne regardez pas en arrière.
-Items/ScarletShellBackpack	Text		Scarlet Shell Backpack	Sac à dos carapace en Scarlet
+Items/ScarletShellBackpack	Text		Scarlet Shell Backpack	Sac à dos carapace en Cramoisite
 Items/ScarletShellBackpackDesc	Text		A hard-case backpack with lots of space and additional protection. 	Un sac à dos rigide avec beaucoup d'espace et une protection supplémentaire.
-Items/ScarletShovel	Text		Scarlet Shovel	Pelle en Scarlet
+Items/ScarletShovel	Text		Scarlet Shovel	Pelle en Cramoisite
 Items/ScarletShovelDesc	Text		A very robust shovel, exceptional at digging up ground.	Une pelle très robuste, exceptionnelle pour creuser le sol.
-Items/ScarletSledge	Text		Scarlet Sledge Hammer	Marteau de forgeron en Scarlet
+Items/ScarletSledge	Text		Scarlet Sledge Hammer	Marteau de forgeron en Cramoisite
 Items/ScarletSledgeDesc	Text		A great weapon for smashing foes and walls.	Une excellente arme pour frapper les ennemis et les murs.
-Items/ScarletSword	Text		Scarlet Sword	Épée en Scarlet
+Items/ScarletSword	Text		Scarlet Sword	Épée en Cramoisite
 Items/ScarletSwordDesc	Text		A great weapon for slaying foes.	Une excellente arme pour tuer les ennemis.
-Items/ScarletWorkBench	Text		Scarlet Workbench	Établi en Scarlet
+Items/ScarletWorkBench	Text		Scarlet Workbench	Établi en Cramoisite
 Items/ScarletWorkBenchDesc	Text		Greater workbench to be prepared for the outer cave systems.	Établi plus grand à préparer pour les systèmes de grottes extérieures.
 Items/ScholarArmor	Text		Scholar's Cloak	Cape d'érudit
 Items/ScholarArmorDesc	Text		A magically-imbued piece of cloth, worn by caveling scholars. Wearing it you feel in tune with the ancients.	Un morceau de tissu imprégné de magie, porté par les érudits cavelin. En le portant, vous vous sentez en phase avec les anciens.
@@ -3844,7 +3844,7 @@ Items/WallPaintableBlock	Text		Paintable Wall	Mur à peindre
 Items/WallPaintableBlockDesc	Text		A bleak stone wall ready to be turned lively with colors.	Un mur de pierre sombre prêt à être animé de couleurs.
 Items/WallSandBlock	Text		Sand Wall	Mur de sable
 Items/WallSandBlockDesc	Text		A yellow fragile wall section.	Une section de mur fragile jaune.
-Items/WallScarletBlock	Text		Scarlet Wall	Mur en Scarlet
+Items/WallScarletBlock	Text		Scarlet Wall	Mur en Cramoisite
 Items/WallScarletBlockDesc	Text		A reinforced metal wall to set up your base for tough encounters.	Une paroi métallique renforcée pour installer votre base pour les rencontres difficiles.
 Items/WallSnowBlock	Text		Snow Wall	Mur de neige
 Items/WallSnowBlockDesc	Text		A white, cold wall section.	Un pan de mur blanc et froid.
