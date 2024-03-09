@@ -1,9 +1,13 @@
 Bonjour,
-ce github est là pour faciliter le travail sur la traduction du jeu CoreKeeper en français par la communauté.
+ce github était là pour faciliter le travail sur la traduction du jeu CoreKeeper en français par la communauté.
 Un travail commencé et proposé par Natsukai/H'hanna <3.
+Le jeu est maintenant officiellement traduit en français depuis le 8 mars 2024 (0.7.4.0).
+Ce Github devient donc caduque et restera ici pour mémoire.
 
-Contributeur actif:
+Contributeurs:
+Natsukai/H
 Arona74
+XiluZeimeyOs
 
 Le discord:
 https://discord.gg/GVDH2cB9
